@@ -1,0 +1,84 @@
+{
+   "Ins_pk5" : {
+      "configData" : {
+         "game_instance" : {
+            "configData" : {
+               "Ins_pk5" : {
+                  "description" : "击败对阵的对手",
+                  "gameInstanceData" : {
+                     "openDetailsData" : "00:00:00|86400",
+                     "structureDetails" : [ "I101" ]
+                  },
+                  "name" : "击败对手",
+                  "property" : {
+                     "isTeam" : 0,
+                     "level" : 1,
+                     "name" : "击败对手",
+                     "questRefId" : "",
+                     "timesADay" : 10,
+                     "timesAWeek" : 0
+                  },
+                  "refId" : "Ins_pk5"
+               }
+            },
+            "name" : "Ins_pk5 任务总表",
+            "refId" : "game_instance"
+         },
+         "game_instance_quest" : {
+            "configData" : {
+               "quest_1" : {
+                  "description" : "击败{monster_1009}。",
+                  "name" : "击败道士",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_1009",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 10000,
+                           "gold" : 10000
+                        }
+                     }
+                  },
+                  "refId" : "quest_1"
+               }
+            },
+            "name" : "副本任务表",
+            "refId" : "game_instance_quest"
+         },
+         "game_instance_scene" : {
+            "configData" : {
+               "I155" : {
+                  "description" : "击败对阵的对手",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_1" ],
+                     "consumptionItems" : null,
+                     "succeedConditionData" : "monster_1009=1"
+                  },
+                  "mapId" : 155,
+                  "property" : {
+                     "sceneRefId" : "S155",
+                     "succeedType" : 1
+                  },
+                  "refId" : "I155"
+               }
+            },
+            "name" : "副本层总表",
+            "refId" : "game_instance_scene"
+         }
+      },
+      "instanceType" : 3,
+      "introduce" : "",
+      "name" : "精英大比",
+      "refId" : "Ins_pk5"
+   }
+}
+

@@ -1,0 +1,2795 @@
+{
+   "CDTime" : {
+      "description" : "CD时间（冷却时间）",
+      "id" : 1012,
+      "key" : "CDTime",
+      "name" : "CD时间",
+      "symbol" : "CDTime",
+      "type" : "int32"
+   },
+   "HP" : {
+      "description" : "生命",
+      "id" : 100,
+      "key" : "HP",
+      "name" : "生命",
+      "symbol" : "HP",
+      "type" : "int32"
+   },
+   "MDodge" : {
+      "description" : "魔法闪避",
+      "id" : 119,
+      "key" : "MDodge",
+      "name" : "魔法闪避",
+      "symbol" : "MDodge",
+      "type" : "int32"
+   },
+   "MDodgePer" : {
+      "description" : "魔法闪避百分比",
+      "id" : 134,
+      "key" : "MDodgePer",
+      "name" : "魔法闪避百分比",
+      "symbol" : "MDodgePer",
+      "type" : "int32"
+   },
+   "MImmunityPer" : {
+      "description" : "为百分比减免，是指在伤害结算前再进行百分比减免（算法见公式设计）",
+      "id" : 121,
+      "key" : "MImmunityPer",
+      "name" : "魔法减免",
+      "symbol" : "MImmunityPer",
+      "type" : "int32"
+   },
+   "MP" : {
+      "description" : "魔法",
+      "id" : 101,
+      "key" : "MP",
+      "name" : "魔法",
+      "symbol" : "MP",
+      "type" : "int32"
+   },
+   "PAtk" : {
+      "description" : "",
+      "id" : 142,
+      "key" : "PAtk",
+      "name" : "物理攻击",
+      "symbol" : "PAtk",
+      "type" : ""
+   },
+   "PDodge" : {
+      "description" : "物理闪避",
+      "id" : 118,
+      "key" : "PDodge",
+      "name" : "物理闪避",
+      "symbol" : "PDodge",
+      "type" : "int32"
+   },
+   "PDodgePer" : {
+      "description" : "物理闪避百分比",
+      "id" : 133,
+      "key" : "PDodgePer",
+      "name" : "物理闪避百分比",
+      "symbol" : "PDodgePer",
+      "type" : "int32"
+   },
+   "PImmunityPer" : {
+      "description" : "为百分比减免，是指在伤害结算前再进行百分比减免（算法见公式设计）",
+      "id" : 120,
+      "key" : "PImmunityPer",
+      "name" : "物理减免",
+      "symbol" : "PImmunityPer",
+      "type" : "int32"
+   },
+   "achieveDescribe" : {
+      "description" : "用于界面显示的文本",
+      "id" : 152,
+      "key" : "achieveDescribe",
+      "name" : "成就描述",
+      "symbol" : "achieveDescribe",
+      "type" : "string"
+   },
+   "achieveId" : {
+      "description" : "成就ID",
+      "id" : 145,
+      "key" : "achieveId",
+      "name" : "成就ID",
+      "symbol" : "achieveId",
+      "type" : "int8"
+   },
+   "achieveReward" : {
+      "description" : "奖励道具，金币,成就点",
+      "id" : 153,
+      "key" : "achieveReward",
+      "name" : "成就奖励",
+      "symbol" : "achieveReward",
+      "type" : "string"
+   },
+   "achieveType" : {
+      "description" : "1，初入江湖。2，降妖除魔。3，击杀BOSS。4，升级坐骑。5，官职提升。6，心法修炼。7，获得勋章。",
+      "id" : 147,
+      "key" : "achieveType",
+      "name" : "成就类型",
+      "symbol" : "achieveType",
+      "type" : "int8"
+   },
+   "achievement" : {
+      "description" : "成就点",
+      "id" : 139,
+      "key" : "achievement",
+      "name" : "成就",
+      "symbol" : "achievement",
+      "type" : "int32"
+   },
+   "activitySortId" : {
+      "description" : "活动排序id",
+      "id" : 10051,
+      "key" : "activitySortId",
+      "name" : "活动排序id",
+      "symbol" : "activitySortId",
+      "type" : "int32"
+   },
+   "age" : {
+      "description" : "年龄",
+      "id" : 1004,
+      "key" : "age",
+      "name" : "年龄",
+      "symbol" : "age",
+      "type" : "int16"
+   },
+   "areaOfBody" : {
+      "description" : "1=武器2=衣服3=头盔4=腰带5=鞋子6=项链7=手镯（*2）8=戒指（*2）9=勋章 10=翅膀 11=魔血石",
+      "id" : 209,
+      "key" : "areaOfBody",
+      "name" : "穿戴部位",
+      "symbol" : "areaOfBody",
+      "type" : "int8"
+   },
+   "ariseType" : {
+      "description" : "",
+      "id" : 1032,
+      "key" : "ariseType",
+      "name" : "出生条件类型",
+      "symbol" : "ariseType",
+      "type" : "int8"
+   },
+   "armorModleId" : {
+      "description" : "铠甲模型ID",
+      "id" : 1502,
+      "key" : "armorModleId",
+      "name" : "铠甲模型ID",
+      "symbol" : "armorModleId",
+      "type" : "int32"
+   },
+   "atkSpeed" : {
+      "description" : "攻击速度",
+      "id" : 123,
+      "key" : "atkSpeed",
+      "name" : "攻击速度",
+      "symbol" : "atkSpeed",
+      "type" : "int32"
+   },
+   "atkSpeedPer" : {
+      "description" : "",
+      "id" : 154,
+      "key" : "atkSpeedPer",
+      "name" : "攻速百分比",
+      "symbol" : "atkSpeedPer",
+      "type" : "int32"
+   },
+   "attachGorupRuleType" : {
+      "description" : "buff组附加规则",
+      "id" : 530,
+      "key" : "attachGorupRuleType",
+      "name" : "buff组附加规则",
+      "symbol" : "attachGorupRuleType",
+      "type" : "int8"
+   },
+   "attachRepeatCount" : {
+      "description" : "buff重复叠加次数",
+      "id" : 541,
+      "key" : "attachRepeatCount",
+      "name" : "buff重复叠加次数",
+      "symbol" : "attachRepeatCount",
+      "type" : "int8"
+   },
+   "attachRepeatRuleType" : {
+      "description" : "buff组重复叠加规则",
+      "id" : 531,
+      "key" : "attachRepeatRuleType",
+      "name" : "buff组重复叠加规则",
+      "symbol" : "attachRepeatRuleType",
+      "type" : "int8"
+   },
+   "attackAddPkValue" : {
+      "description" : "攻击人时增加的pk值",
+      "id" : 10061,
+      "key" : "attackAddPkValue",
+      "name" : "攻击人时增加的pk值",
+      "symbol" : "attackAddPkValue",
+      "type" : "int32"
+   },
+   "attackDistance" : {
+      "description" : "攻击距离(以格子为单位，一个格子48像素)",
+      "id" : 156,
+      "key" : "attackDistance",
+      "name" : "攻击距离",
+      "symbol" : "attackDistance",
+      "type" : "int8"
+   },
+   "attackType" : {
+      "description" : "攻击类型(1: 主动 2:被动)",
+      "id" : 155,
+      "key" : "attackType",
+      "name" : "攻击类型",
+      "symbol" : "attackType",
+      "type" : "int8"
+   },
+   "autoUsePriority" : {
+      "description" : "自动喝药时需要。1为最低，数值越大越高",
+      "id" : 217,
+      "key" : "autoUsePriority",
+      "name" : "自动使用优先级",
+      "symbol" : "autoUsePriority",
+      "type" : "int8"
+   },
+   "beforeSceneRefId" : {
+      "description" : "玩家之前的场景",
+      "id" : 619,
+      "key" : "beforeSceneRefId",
+      "name" : "玩家之前的场景",
+      "symbol" : "beforeSceneRefId",
+      "type" : "string"
+   },
+   "beforeX" : {
+      "description" : "玩家之前x坐标",
+      "id" : 620,
+      "key" : "beforeX",
+      "name" : "玩家之前x坐标",
+      "symbol" : "beforeX",
+      "type" : "int32"
+   },
+   "beforeY" : {
+      "description" : "玩家之前y坐标",
+      "id" : 621,
+      "key" : "beforeY",
+      "name" : "玩家之前y坐标",
+      "symbol" : "beforeY",
+      "type" : "int32"
+   },
+   "bestDigsCount" : {
+      "description" : "极品挖宝次数",
+      "id" : 10049,
+      "key" : "bestDigsCount",
+      "name" : "极品挖宝次数",
+      "symbol" : "bestDigsCount",
+      "type" : "int8"
+   },
+   "bigRNumber" : {
+      "description" : "大R推送顺序号",
+      "id" : 10055,
+      "key" : "bigRNumber",
+      "name" : "大R推送顺序号",
+      "symbol" : "bigRNumber",
+      "type" : "int8"
+   },
+   "bindOriginalPrice" : {
+      "description" : "原价绑定元宝",
+      "id" : 3018,
+      "key" : "bindOriginalPrice",
+      "name" : "原价绑定元宝",
+      "symbol" : "bindOriginalPrice",
+      "type" : "int32"
+   },
+   "bindStatus" : {
+      "description" : "绑定状态",
+      "id" : 222,
+      "key" : "bindStatus",
+      "name" : "绑定状态",
+      "symbol" : "bindStatus",
+      "type" : "int8"
+   },
+   "bindType" : {
+      "description" : "0=不绑定 1=进入背包就绑定 2=使用或装备后绑定",
+      "id" : 202,
+      "key" : "bindType",
+      "name" : "绑定类型",
+      "symbol" : "bindType",
+      "type" : "int8"
+   },
+   "bindedCopper" : {
+      "description" : "绑定铜币",
+      "id" : 1009,
+      "key" : "bindedCopper",
+      "name" : "绑定铜币",
+      "symbol" : "bindedCopper",
+      "type" : "int32"
+   },
+   "bindedGold" : {
+      "description" : "绑定金",
+      "id" : 1006,
+      "key" : "bindedGold",
+      "name" : "绑定金",
+      "symbol" : "bindedGold",
+      "type" : "int32"
+   },
+   "birthRegionType" : {
+      "description" : "出生区类型",
+      "id" : 617,
+      "key" : "birthRegionType",
+      "name" : "出生区类型",
+      "symbol" : "birthRegionType",
+      "type" : "int8"
+   },
+   "birthday" : {
+      "description" : "出生时间",
+      "id" : 160,
+      "key" : "birthday",
+      "name" : "出生时间",
+      "symbol" : "birthday",
+      "type" : "int64"
+   },
+   "bricks" : {
+      "description" : "系统提示信息模板",
+      "id" : 10033,
+      "key" : "bricks",
+      "name" : "系统提示信息模板",
+      "symbol" : "bricks",
+      "type" : "string"
+   },
+   "buffAni" : {
+      "description" : "buff动画Id",
+      "id" : 540,
+      "key" : "buffAni",
+      "name" : "buff动画Id",
+      "symbol" : "buffAni",
+      "type" : "int32"
+   },
+   "buffGroupId" : {
+      "description" : "buff组Id",
+      "id" : 528,
+      "key" : "buffGroupId",
+      "name" : "buff组Id",
+      "symbol" : "buffGroupId",
+      "type" : "int8"
+   },
+   "buffRefId" : {
+      "description" : "buffRefId",
+      "id" : 539,
+      "key" : "buffRefId",
+      "name" : "buffRefId",
+      "symbol" : "buffRefId",
+      "type" : "string"
+   },
+   "buffSourece" : {
+      "description" : "buff来源",
+      "id" : 544,
+      "key" : "buffSourece",
+      "name" : "buff来源",
+      "symbol" : "buffSourece",
+      "type" : "string"
+   },
+   "canBatchUse" : {
+      "description" : "是否可批量使用",
+      "id" : 240,
+      "key" : "canBatchUse",
+      "name" : "批量使用",
+      "symbol" : "canBatchUse",
+      "type" : "int8"
+   },
+   "canShoeNoItem" : {
+      "description" : "使用飞鞋不消耗物品",
+      "id" : 10030,
+      "key" : "canShoeNoItem",
+      "name" : "使用飞鞋不消耗物品",
+      "symbol" : "canShoeNoItem",
+      "type" : "int8"
+   },
+   "canUse" : {
+      "description" : "能否使用",
+      "id" : 200,
+      "key" : "canUse",
+      "name" : "能否使用",
+      "symbol" : "canUse",
+      "type" : "int8"
+   },
+   "canUseIfDate" : {
+      "description" : "1.x小时后才可以使用 2.指定的日期时间点后才可使用",
+      "id" : 206,
+      "key" : "canUseIfDate",
+      "name" : "允许使用时间",
+      "symbol" : "canUseIfDate",
+      "type" : "string"
+   },
+   "canVipBoss" : {
+      "description" : "能否进入vipBoss地图",
+      "id" : 10028,
+      "key" : "canVipBoss",
+      "name" : "能否进入vipBoss地图",
+      "symbol" : "canVipBoss",
+      "type" : "int8"
+   },
+   "canVipStrong" : {
+      "description" : "能否在我要变强界面，传送到boss界面",
+      "id" : 10029,
+      "key" : "canVipStrong",
+      "name" : "能否在我要变强界面，传送到boss界面",
+      "symbol" : "canVipStrong",
+      "type" : "int8"
+   },
+   "cittaNextRefId" : {
+      "description" : "心法下一级编号",
+      "id" : 10080,
+      "key" : "cittaNextRefId",
+      "name" : "心法下一级编号",
+      "symbol" : "cittaNextRefId",
+      "type" : "string"
+   },
+   "cittaPreRefId" : {
+      "description" : "心法上一级编号",
+      "id" : 10079,
+      "key" : "cittaPreRefId",
+      "name" : "心法上一级编号",
+      "symbol" : "cittaPreRefId",
+      "type" : "string"
+   },
+   "collection" : {
+      "description" : "集合",
+      "id" : 2004,
+      "key" : "collection",
+      "name" : "集合",
+      "symbol" : "collection",
+      "type" : "Collection"
+   },
+   "commonNumber" : {
+      "description" : "通用推送顺序号",
+      "id" : 10052,
+      "key" : "commonNumber",
+      "name" : "通用推送顺序号",
+      "symbol" : "commonNumber",
+      "type" : "int8"
+   },
+   "completeCondition" : {
+      "description" : "1，击杀怪物。2，收集道具。3，完成组队。4，获得官职。等",
+      "id" : 149,
+      "key" : "completeCondition",
+      "name" : "完成条件",
+      "symbol" : "completeCondition",
+      "type" : "int8"
+   },
+   "copper" : {
+      "description" : "铜币（包含绑定铜和非绑定铜）",
+      "id" : 1008,
+      "key" : "copper",
+      "name" : "铜币",
+      "symbol" : "copper",
+      "type" : "int32"
+   },
+   "copperMedal" : {
+      "description" : "铜牌",
+      "id" : 1044,
+      "key" : "copperMedal",
+      "name" : "铜牌",
+      "symbol" : "copperMedal",
+      "type" : "int32"
+   },
+   "crit" : {
+      "description" : "暴击",
+      "id" : 126,
+      "key" : "crit",
+      "name" : "暴击",
+      "symbol" : "crit",
+      "type" : "int32"
+   },
+   "critInjure" : {
+      "description" : "暴击伤害",
+      "id" : 127,
+      "key" : "critInjure",
+      "name" : "暴击伤害",
+      "symbol" : "critInjure",
+      "type" : "int32"
+   },
+   "critPer" : {
+      "description" : "暴击百分比",
+      "id" : 132,
+      "key" : "critPer",
+      "name" : "暴击百分比",
+      "symbol" : "critPer",
+      "type" : "int32"
+   },
+   "crtWeekConsume" : {
+      "description" : "本周消费累计",
+      "id" : 10075,
+      "key" : "crtWeekConsume",
+      "name" : "本周消费累计",
+      "symbol" : "crtWeekConsume",
+      "type" : "int32"
+   },
+   "cultivation" : {
+      "description" : "修为",
+      "id" : 144,
+      "key" : "cultivation",
+      "name" : "修为",
+      "symbol" : "cultivation",
+      "type" : "int32"
+   },
+   "dailyProposeRing" : {
+      "description" : "日常任务推荐环数",
+      "id" : 10015,
+      "key" : "dailyProposeRing",
+      "name" : "推荐环数",
+      "symbol" : "dailyProposeRing",
+      "type" : "int32"
+   },
+   "dailyQuestType" : {
+      "description" : "1=有限次数任务，2=无限重复任务",
+      "id" : 10014,
+      "key" : "dailyQuestType",
+      "name" : "日常任务类型",
+      "symbol" : "dailyQuestType",
+      "type" : "int8"
+   },
+   "deadTime" : {
+      "description" : "被击杀时间(时间戳)",
+      "id" : 163,
+      "key" : "deadTime",
+      "name" : "被击杀时间",
+      "symbol" : "deadTime",
+      "type" : "int64"
+   },
+   "description" : {
+      "description" : "描述",
+      "id" : 2001,
+      "key" : "description",
+      "name" : "描述",
+      "symbol" : "description",
+      "type" : "string"
+   },
+   "dialogId" : {
+      "description" : "使用后弹出某个界面",
+      "id" : 232,
+      "key" : "dialogId",
+      "name" : "弹出界面id",
+      "symbol" : "dialogId",
+      "type" : "int8"
+   },
+   "dictionary" : {
+      "description" : "数据字典",
+      "id" : 2005,
+      "key" : "dictionary",
+      "name" : "数据字典",
+      "symbol" : "dictionary",
+      "type" : "dictionary"
+   },
+   "digsType" : {
+      "description" : "挖宝类型",
+      "id" : 10050,
+      "key" : "digsType",
+      "name" : "挖宝类型",
+      "symbol" : "digsType",
+      "type" : "int8"
+   },
+   "dodge" : {
+      "description" : "自然数",
+      "id" : 137,
+      "key" : "dodge",
+      "name" : "闪避",
+      "symbol" : "dodge",
+      "type" : "int32"
+   },
+   "duration" : {
+      "description" : "持续时间",
+      "id" : 1039,
+      "key" : "duration",
+      "name" : "持续时间",
+      "symbol" : "duration",
+      "type" : "int32"
+   },
+   "durationType" : {
+      "description" : "持续类型",
+      "id" : 532,
+      "key" : "durationType",
+      "name" : "持续类型",
+      "symbol" : "durationType",
+      "type" : "int8"
+   },
+   "equipKnight" : {
+      "description" : "穿戴爵位",
+      "id" : 243,
+      "key" : "equipKnight",
+      "name" : "穿戴爵位",
+      "symbol" : "equipKnight",
+      "type" : "int32"
+   },
+   "equipLevel" : {
+      "description" : "穿戴等级",
+      "id" : 210,
+      "key" : "equipLevel",
+      "name" : "穿戴等级",
+      "symbol" : "equipLevel",
+      "type" : "int32"
+   },
+   "evaluateLevel" : {
+      "description" : "有些物品可能装备过于逆天，已经超出了穿戴等级太多，用这个来做内部属性评定",
+      "id" : 226,
+      "key" : "evaluateLevel",
+      "name" : "评价等级",
+      "symbol" : "evaluateLevel",
+      "type" : "int32"
+   },
+   "exMedal" : {
+      "description" : "勋章",
+      "id" : 233,
+      "key" : "exMedal",
+      "name" : "勋章",
+      "symbol" : "exMedal",
+      "type" : "string"
+   },
+   "exp" : {
+      "description" : "经验",
+      "id" : 1001,
+      "key" : "exp",
+      "name" : "经验",
+      "symbol" : "exp",
+      "type" : "int64"
+   },
+   "expMultiple" : {
+      "description" : "杀怪经验倍数",
+      "id" : 1522,
+      "key" : "expMultiple",
+      "name" : "杀怪经验倍数",
+      "symbol" : "expMultiple",
+      "type" : "float32"
+   },
+   "expiredTime" : {
+      "description" : "1.x小时后道具消失 2.指定的日期时间点后道具消失",
+      "id" : 207,
+      "key" : "expiredTime",
+      "name" : "过期时间",
+      "symbol" : "expiredTime",
+      "type" : "string"
+   },
+   "failedDownToLevel" : {
+      "description" : "失败后掉到的级别，0表示无强化，1表示强1，2表示强2……",
+      "id" : 229,
+      "key" : "failedDownToLevel",
+      "name" : "失败级别",
+      "symbol" : "failedDownToLevel",
+      "type" : "int8"
+   },
+   "featherMaxConsume" : {
+      "description" : "翅膀升级当前等级一次性可使用最大羽毛数",
+      "id" : 10078,
+      "key" : "featherMaxConsume",
+      "name" : "翅膀升级当前等级一次性可使用最大羽毛数",
+      "symbol" : "featherMaxConsume",
+      "type" : "int8"
+   },
+   "fightValue" : {
+      "description" : "玩家的战斗力",
+      "id" : 141,
+      "key" : "fightValue",
+      "name" : "战斗力",
+      "symbol" : "fightValue",
+      "type" : "int32"
+   },
+   "firstRechargeTime" : {
+      "description" : "首充时间",
+      "id" : 10072,
+      "key" : "firstRechargeTime",
+      "name" : "首充时间",
+      "symbol" : "firstRechargeTime",
+      "type" : "int64"
+   },
+   "fortune" : {
+      "description" : "该值越高，出现最大攻击的概率越高。",
+      "id" : 128,
+      "key" : "fortune",
+      "name" : "幸运",
+      "symbol" : "fortune",
+      "type" : "int32"
+   },
+   "gameInstanceData" : {
+      "description" : "副本数据",
+      "id" : 1040,
+      "key" : "gameInstanceData",
+      "name" : "副本数据",
+      "symbol" : "gameInstanceData",
+      "type" : "string"
+   },
+   "gender" : {
+      "description" : "0=不限 1=男 2=女",
+      "id" : 1002,
+      "key" : "gender",
+      "name" : "性别",
+      "symbol" : "gender",
+      "type" : "int8"
+   },
+   "generalDigsCount" : {
+      "description" : "普通挖宝次数",
+      "id" : 10048,
+      "key" : "generalDigsCount",
+      "name" : "普通挖宝次数",
+      "symbol" : "generalDigsCount",
+      "type" : "int8"
+   },
+   "giftGold" : {
+      "description" : "礼券金",
+      "id" : 1011,
+      "key" : "giftGold",
+      "name" : "礼券金",
+      "symbol" : "giftGold",
+      "type" : "int32"
+   },
+   "girdWidth" : {
+      "description" : "格子宽",
+      "id" : 602,
+      "key" : "girdWidth",
+      "name" : "格子宽",
+      "symbol" : "girdWidth",
+      "type" : "int32"
+   },
+   "gold" : {
+      "description" : "金币(包含绑定和非绑定)",
+      "id" : 1005,
+      "key" : "gold",
+      "name" : "金币",
+      "symbol" : "gold",
+      "type" : "int32"
+   },
+   "goldMedal" : {
+      "description" : "金牌",
+      "id" : 1042,
+      "key" : "goldMedal",
+      "name" : "金牌",
+      "symbol" : "goldMedal",
+      "type" : "int32"
+   },
+   "gridHeight" : {
+      "description" : "格子高",
+      "id" : 603,
+      "key" : "gridHeight",
+      "name" : "格子高",
+      "symbol" : "gridHeight",
+      "type" : "int32"
+   },
+   "handupPoint" : {
+      "description" : "挂机点",
+      "id" : 618,
+      "key" : "handupPoint",
+      "name" : "挂机点",
+      "symbol" : "handupPoint",
+      "type" : "string"
+   },
+   "healHP" : {
+      "description" : "生命恢复",
+      "id" : 102,
+      "key" : "healHP",
+      "name" : "生命恢复",
+      "symbol" : "healHP",
+      "type" : "int32"
+   },
+   "healMP" : {
+      "description" : "魔法恢复",
+      "id" : 103,
+      "key" : "healMP",
+      "name" : "魔法恢复",
+      "symbol" : "healMP",
+      "type" : "int32"
+   },
+   "height" : {
+      "description" : "高",
+      "id" : 601,
+      "key" : "height",
+      "name" : "高",
+      "symbol" : "height",
+      "type" : "int32"
+   },
+   "hit" : {
+      "description" : "命中",
+      "id" : 125,
+      "key" : "hit",
+      "name" : "命中",
+      "symbol" : "hit",
+      "type" : "int32"
+   },
+   "hitPer" : {
+      "description" : "命中百分比",
+      "id" : 131,
+      "key" : "hitPer",
+      "name" : "命中百分比",
+      "symbol" : "hitPer",
+      "type" : "int32"
+   },
+   "honor" : {
+      "description" : "荣誉",
+      "id" : 143,
+      "key" : "honor",
+      "name" : "荣誉",
+      "symbol" : "honor",
+      "type" : "int32"
+   },
+   "iconId" : {
+      "description" : "图标Id",
+      "id" : 1013,
+      "key" : "iconId",
+      "name" : "图标Id",
+      "symbol" : "iconId",
+      "type" : "string"
+   },
+   "ignoreMDef" : {
+      "description" : "是指每次攻击时，目标的魔法防御取值减少N%",
+      "id" : 130,
+      "key" : "ignoreMDef",
+      "name" : "忽视对方魔法防御",
+      "symbol" : "ignoreMDef",
+      "type" : "int32"
+   },
+   "ignorePDef" : {
+      "description" : "是指每次攻击时，目标的物理防御取值减少N%",
+      "id" : 129,
+      "key" : "ignorePDef",
+      "name" : "忽视对方物理防御",
+      "symbol" : "ignorePDef",
+      "type" : "int32"
+   },
+   "injure" : {
+      "description" : "伤害值",
+      "id" : 135,
+      "key" : "injure",
+      "name" : "伤害值",
+      "symbol" : "injure",
+      "type" : "int32"
+   },
+   "injurePer" : {
+      "description" : "伤害百分比",
+      "id" : 136,
+      "key" : "injurePer",
+      "name" : "伤害百分比",
+      "symbol" : "injurePer",
+      "type" : "int32"
+   },
+   "ironMedal" : {
+      "description" : "铁牌",
+      "id" : 1045,
+      "key" : "ironMedal",
+      "name" : "铁牌",
+      "symbol" : "ironMedal",
+      "type" : "int32"
+   },
+   "isCanSale" : {
+      "description" : "0可出售，1不可以出售",
+      "id" : 213,
+      "key" : "isCanSale",
+      "name" : "是否可卖",
+      "symbol" : "isCanSale",
+      "type" : "int8"
+   },
+   "isChangeFightValueBuff" : {
+      "description" : "是否是改变战斗属性值得buff",
+      "id" : 545,
+      "key" : "isChangeFightValueBuff",
+      "name" : "是否是改变战斗属性值得buff",
+      "symbol" : "isChangeFightValueBuff",
+      "type" : "int8"
+   },
+   "isClearOnDeadBuff" : {
+      "description" : "死亡是否清除",
+      "id" : 536,
+      "key" : "isClearOnDeadBuff",
+      "name" : "死亡是否清除",
+      "symbol" : "isClearOnDeadBuff",
+      "type" : "int8"
+   },
+   "isEnterPKState" : {
+      "description" : "该场景下pk是否进入pk状态",
+      "id" : 10062,
+      "key" : "isEnterPKState",
+      "name" : "该场景下pk是否进入pk状态",
+      "symbol" : "isEnterPKState",
+      "type" : "int8"
+   },
+   "isFirstRecharge" : {
+      "description" : "是否已首冲",
+      "id" : 10074,
+      "key" : "isFirstRecharge",
+      "name" : "是否已首冲",
+      "symbol" : "isFirstRecharge",
+      "type" : "int8"
+   },
+   "isHighestEquipment" : {
+      "description" : "是否是极品装备",
+      "id" : 10085,
+      "key" : "isHighestEquipment",
+      "name" : "是否是极品装备",
+      "symbol" : "isHighestEquipment",
+      "type" : "int8"
+   },
+   "isKingCity" : {
+      "description" : "是否是王城",
+      "id" : 10057,
+      "key" : "isKingCity",
+      "name" : "是否是王城",
+      "symbol" : "isKingCity",
+      "type" : "int8"
+   },
+   "isNeedSaveBuff" : {
+      "description" : "buff是否需要保存",
+      "id" : 535,
+      "key" : "isNeedSaveBuff",
+      "name" : "buff是否需要保存",
+      "symbol" : "isNeedSaveBuff",
+      "type" : "int8"
+   },
+   "isNonPropertyItem" : {
+      "description" : "是否“有生命的物品”，比如装备可洗练、强化，属于生命物品，0否，1是",
+      "id" : 212,
+      "key" : "isNonPropertyItem",
+      "name" : "物品属性是否可变",
+      "symbol" : "isNonPropertyItem",
+      "type" : "int8"
+   },
+   "isNonThrow" : {
+      "description" : "0否，1是",
+      "id" : 216,
+      "key" : "isNonThrow",
+      "name" : "可否丢弃",
+      "symbol" : "isNonThrow",
+      "type" : "int8"
+   },
+   "isPeriodAffectBuff" : {
+      "description" : "是否是周期效果buff",
+      "id" : 533,
+      "key" : "isPeriodAffectBuff",
+      "name" : "是否是周期效果buff",
+      "symbol" : "isPeriodAffectBuff",
+      "type" : "int8"
+   },
+   "isPkModelCheck" : {
+      "description" : "被附加buff的时候是否作pk模式检查",
+      "id" : 10058,
+      "key" : "isPkModelCheck",
+      "name" : "被附加buff的时候是否作pk模式检查",
+      "symbol" : "isPkModelCheck",
+      "type" : "int8"
+   },
+   "isPluckDisappear" : {
+      "description" : "1不移除 2移除",
+      "id" : 3006,
+      "key" : "isPluckDisappear",
+      "name" : "采集是否消失",
+      "symbol" : "isPluckDisappear",
+      "type" : "int8"
+   },
+   "isPluckNpc" : {
+      "description" : "1:采集NPC 0:非采集NPC",
+      "id" : 3001,
+      "key" : "isPluckNpc",
+      "name" : "是否是采集NPC",
+      "symbol" : "isPluckNpc",
+      "type" : "int8"
+   },
+   "isPluckRealItem" : {
+      "description" : "标识采集道具是否放入背包 0 不放入 1 放入",
+      "id" : 3002,
+      "key" : "isPluckRealItem",
+      "name" : "采集物是否入包",
+      "symbol" : "isPluckRealItem",
+      "type" : "int8"
+   },
+   "isPlucking" : {
+      "description" : "是否正在采集",
+      "id" : 3019,
+      "key" : "isPlucking",
+      "name" : "是否正在采集",
+      "symbol" : "isPlucking",
+      "type" : "int8"
+   },
+   "isPositiveBuff" : {
+      "description" : "是否是有益buff",
+      "id" : 538,
+      "key" : "isPositiveBuff",
+      "name" : "是否是有益buff",
+      "symbol" : "isPositiveBuff",
+      "type" : "int8"
+   },
+   "isResolve" : {
+      "description" : "是否可分解",
+      "id" : 231,
+      "key" : "isResolve",
+      "name" : "是否可分解",
+      "symbol" : "isResolve",
+      "type" : "int8"
+   },
+   "isScrollNotice" : {
+      "description" : "是否走马灯通知",
+      "id" : 10077,
+      "key" : "isScrollNotice",
+      "name" : "是否走马灯通知",
+      "symbol" : "isScrollNotice",
+      "type" : "int8"
+   },
+   "isTeam" : {
+      "description" : "",
+      "id" : 1030,
+      "key" : "isTeam",
+      "name" : "是否组队",
+      "symbol" : "isTeam",
+      "type" : "int8"
+   },
+   "isTwinkle" : {
+      "description" : "是否闪烁",
+      "id" : 10076,
+      "key" : "isTwinkle",
+      "name" : "是否闪烁",
+      "symbol" : "isTwinkle",
+      "type" : "int8"
+   },
+   "isUseDefaultDrop" : {
+      "description" : "是否使用默认掉落",
+      "id" : 10063,
+      "key" : "isUseDefaultDrop",
+      "name" : "是否使用默认掉落",
+      "symbol" : "isUseDefaultDrop",
+      "type" : "int8"
+   },
+   "itemBagCapacity" : {
+      "description" : "背包的容量",
+      "id" : 225,
+      "key" : "itemBagCapacity",
+      "name" : "背包的容量",
+      "symbol" : "itemBagCapacity",
+      "type" : "int32"
+   },
+   "itemCDGroup" : {
+      "description" : "药品等，有组编号，使用一个，同组都进入冷却状态",
+      "id" : 218,
+      "key" : "itemCDGroup",
+      "name" : "CD组id",
+      "symbol" : "itemCDGroup",
+      "type" : "int8"
+   },
+   "itemEffect" : {
+      "description" : "物品效果",
+      "id" : 208,
+      "key" : "itemEffect",
+      "name" : "物品效果",
+      "symbol" : "itemEffect",
+      "type" : "int16"
+   },
+   "itemGroup" : {
+      "description" : "道具组",
+      "id" : 241,
+      "key" : "itemGroup",
+      "name" : "道具组",
+      "symbol" : "itemGroup",
+      "type" : "int8"
+   },
+   "itemId" : {
+      "description" : "",
+      "id" : 10023,
+      "key" : "itemId",
+      "name" : "物品唯一Id",
+      "symbol" : "itemId",
+      "type" : "string"
+   },
+   "itemLimitNum" : {
+      "description" : "不填则表示无限制",
+      "id" : 3014,
+      "key" : "itemLimitNum",
+      "name" : "商店道具限购数量",
+      "symbol" : "itemLimitNum",
+      "type" : "int16"
+   },
+   "itemLimitType" : {
+      "description" : "1=单人限购，2=全服限购，不填则表示无限制",
+      "id" : 3013,
+      "key" : "itemLimitType",
+      "name" : "商店道具限购类型",
+      "symbol" : "itemLimitType",
+      "type" : "int8"
+   },
+   "itemRefId" : {
+      "description" : "物品引用Id",
+      "id" : 221,
+      "key" : "itemRefId",
+      "name" : "物品引用Id",
+      "symbol" : "itemRefId",
+      "type" : "string"
+   },
+   "itemSellType" : {
+      "description" : "0=普通、1=热卖、2=新品、3=打折",
+      "id" : 3016,
+      "key" : "itemSellType",
+      "name" : "商品类型",
+      "symbol" : "itemSellType",
+      "type" : "int8"
+   },
+   "itemSlotOpened" : {
+      "description" : "已开启的格子数",
+      "id" : 223,
+      "key" : "itemSlotOpened",
+      "name" : "已开启的格子数",
+      "symbol" : "itemSlotOpened",
+      "type" : "int32"
+   },
+   "itemSortId" : {
+      "description" : "物品排序Id",
+      "id" : 219,
+      "key" : "itemSortId",
+      "name" : "物品排序Id",
+      "symbol" : "itemSortId",
+      "type" : "int32"
+   },
+   "itemType" : {
+      "description" : "1=装备，2=道具",
+      "id" : 211,
+      "key" : "itemType",
+      "name" : "物品种类",
+      "symbol" : "itemType",
+      "type" : "int8"
+   },
+   "keepSpace" : {
+      "description" : "保持距离",
+      "id" : 1015,
+      "key" : "keepSpace",
+      "name" : "保持距离",
+      "symbol" : "keepSpace",
+      "type" : "int32"
+   },
+   "killAddPKValue" : {
+      "description" : "杀人时增加的pk值",
+      "id" : 10059,
+      "key" : "killAddPKValue",
+      "name" : "杀人时增加的pk值",
+      "symbol" : "killAddPKValue",
+      "type" : "int32"
+   },
+   "killerCharId" : {
+      "description" : "击杀者uuid",
+      "id" : 164,
+      "key" : "killerCharId",
+      "name" : "击杀者uuid",
+      "symbol" : "killerCharId",
+      "type" : "string"
+   },
+   "killerFightPower" : {
+      "description" : "击杀者战力",
+      "id" : 167,
+      "key" : "killerFightPower",
+      "name" : "击杀者战力",
+      "symbol" : "killerFightPower",
+      "type" : "int32"
+   },
+   "killerLevel" : {
+      "description" : "击杀者等级",
+      "id" : 165,
+      "key" : "killerLevel",
+      "name" : "击杀者等级",
+      "symbol" : "killerLevel",
+      "type" : "int32"
+   },
+   "killerName" : {
+      "description" : "击杀者名称",
+      "id" : 161,
+      "key" : "killerName",
+      "name" : "击杀者名称",
+      "symbol" : "killerName",
+      "type" : "string"
+   },
+   "killerOccupa" : {
+      "description" : "击杀者职业",
+      "id" : 166,
+      "key" : "killerOccupa",
+      "name" : "击杀者职业",
+      "symbol" : "killerOccupa",
+      "type" : "int8"
+   },
+   "killerType" : {
+      "description" : "击杀者类型",
+      "id" : 162,
+      "key" : "killerType",
+      "name" : "击杀者类型",
+      "symbol" : "killerType",
+      "type" : "int8"
+   },
+   "kind" : {
+      "description" : "种类",
+      "id" : 1003,
+      "key" : "kind",
+      "name" : "种类",
+      "symbol" : "kind",
+      "type" : "int8"
+   },
+   "knight" : {
+      "description" : "爵位",
+      "id" : 1017,
+      "key" : "knight",
+      "name" : "爵位",
+      "symbol" : "knight",
+      "type" : "int8"
+   },
+   "knightName" : {
+      "description" : "爵位名称",
+      "id" : 239,
+      "key" : "knightName",
+      "name" : "爵位名称",
+      "symbol" : "knightName",
+      "type" : "string"
+   },
+   "knightNextRefId" : {
+      "description" : "爵士下一级等级编号",
+      "id" : 1025,
+      "key" : "knightNextRefId",
+      "name" : "下级编号",
+      "symbol" : "knightNextRefId",
+      "type" : "string"
+   },
+   "knightPreRefId" : {
+      "description" : "爵士上一级等级编号",
+      "id" : 1024,
+      "key" : "knightPreRefId",
+      "name" : "上级编号",
+      "symbol" : "knightPreRefId",
+      "type" : "string"
+   },
+   "lastLoginTime" : {
+      "description" : "上次登录时间, 时间戳",
+      "id" : 1520,
+      "key" : "lastLoginTime",
+      "name" : "上次登录时间",
+      "symbol" : "lastLoginTime",
+      "type" : "int64"
+   },
+   "lastLogoutTime" : {
+      "description" : "上次登出时间",
+      "id" : 1523,
+      "key" : "lastLogoutTime",
+      "name" : "上次登出时间",
+      "symbol" : "lastLogoutTime",
+      "type" : "int64"
+   },
+   "lastRechargeTime" : {
+      "description" : "最近充值时间",
+      "id" : 10073,
+      "key" : "lastRechargeTime",
+      "name" : "最近充值时间",
+      "symbol" : "lastRechargeTime",
+      "type" : "int64"
+   },
+   "level" : {
+      "description" : "等级",
+      "id" : 1000,
+      "key" : "level",
+      "name" : "等级",
+      "symbol" : "level",
+      "type" : "int32"
+   },
+   "levelUpRewardNextRefId" : {
+      "description" : "等级奖励后置ID",
+      "id" : 10047,
+      "key" : "levelUpRewardNextRefId",
+      "name" : "等级奖励后置ID",
+      "symbol" : "levelUpRewardNextRefId",
+      "type" : "string"
+   },
+   "levelUpRewardPreRefId" : {
+      "description" : "等级奖励前置ID",
+      "id" : 10046,
+      "key" : "levelUpRewardPreRefId",
+      "name" : "等级奖励前置ID",
+      "symbol" : "levelUpRewardPreRefId",
+      "type" : "string"
+   },
+   "littleRNumber" : {
+      "description" : "小R推送顺序号",
+      "id" : 10053,
+      "key" : "littleRNumber",
+      "name" : "小R推送顺序号",
+      "symbol" : "littleRNumber",
+      "type" : "int8"
+   },
+   "loginCount" : {
+      "description" : "登录次数",
+      "id" : 1524,
+      "key" : "loginCount",
+      "name" : "登录次数",
+      "symbol" : "loginCount",
+      "type" : "int32"
+   },
+   "magicSpeed" : {
+      "description" : "施法速度",
+      "id" : 124,
+      "key" : "magicSpeed",
+      "name" : "施法速度",
+      "symbol" : "magicSpeed",
+      "type" : "int32"
+   },
+   "maxAuctionCount" : {
+      "description" : "最大拍卖数量",
+      "id" : 10083,
+      "key" : "maxAuctionCount",
+      "name" : "最大拍卖数量",
+      "symbol" : "maxAuctionCount",
+      "type" : "int32"
+   },
+   "maxExp" : {
+      "description" : "最大经验",
+      "id" : 1019,
+      "key" : "maxExp",
+      "name" : "最大经验",
+      "symbol" : "maxExp",
+      "type" : "int64"
+   },
+   "maxHP" : {
+      "description" : "生命上限",
+      "id" : 104,
+      "key" : "maxHP",
+      "name" : "生命上限",
+      "symbol" : "maxHP",
+      "type" : "int32"
+   },
+   "maxMAtk" : {
+      "description" : "最大魔攻",
+      "id" : 111,
+      "key" : "maxMAtk",
+      "name" : "最大魔攻",
+      "symbol" : "maxMAtk",
+      "type" : "int32"
+   },
+   "maxMDef" : {
+      "description" : "最大魔防",
+      "id" : 117,
+      "key" : "maxMDef",
+      "name" : "最大魔防",
+      "symbol" : "maxMDef",
+      "type" : "int32"
+   },
+   "maxMP" : {
+      "description" : "魔法上限",
+      "id" : 105,
+      "key" : "maxMP",
+      "name" : "魔法上限",
+      "symbol" : "maxMP",
+      "type" : "int32"
+   },
+   "maxPAtk" : {
+      "description" : "最大物攻",
+      "id" : 109,
+      "key" : "maxPAtk",
+      "name" : "最大物攻",
+      "symbol" : "maxPAtk",
+      "type" : "int32"
+   },
+   "maxPDef" : {
+      "description" : "最大物防",
+      "id" : 115,
+      "key" : "maxPDef",
+      "name" : "最大物防",
+      "symbol" : "maxPDef",
+      "type" : "int32"
+   },
+   "maxStackNumber" : {
+      "description" : "1=不可叠加 n(n>1)=可叠加，且一个格子中的叠加数量≤n",
+      "id" : 201,
+      "key" : "maxStackNumber",
+      "name" : "叠加上限",
+      "symbol" : "maxStackNumber",
+      "type" : "int32"
+   },
+   "maxTao" : {
+      "description" : "最大道功",
+      "id" : 113,
+      "key" : "maxTao",
+      "name" : "最大道功",
+      "symbol" : "maxTao",
+      "type" : "int32"
+   },
+   "mediumRNumber" : {
+      "description" : "中R推送顺序号",
+      "id" : 10054,
+      "key" : "mediumRNumber",
+      "name" : "中R推送顺序号",
+      "symbol" : "mediumRNumber",
+      "type" : "int8"
+   },
+   "merit" : {
+      "description" : "功勋",
+      "id" : 140,
+      "key" : "merit",
+      "name" : "功勋",
+      "symbol" : "merit",
+      "type" : "int32"
+   },
+   "minMAtk" : {
+      "description" : "最小魔攻",
+      "id" : 110,
+      "key" : "minMAtk",
+      "name" : "最小魔攻",
+      "symbol" : "minMAtk",
+      "type" : "int32"
+   },
+   "minMDef" : {
+      "description" : "最小魔防",
+      "id" : 116,
+      "key" : "minMDef",
+      "name" : "最小魔防",
+      "symbol" : "minMDef",
+      "type" : "int32"
+   },
+   "minPAtk" : {
+      "description" : "最小物攻",
+      "id" : 108,
+      "key" : "minPAtk",
+      "name" : "最小物攻",
+      "symbol" : "minPAtk",
+      "type" : "int32"
+   },
+   "minPDef" : {
+      "description" : "最小物防",
+      "id" : 114,
+      "key" : "minPDef",
+      "name" : "最小物防",
+      "symbol" : "minPDef",
+      "type" : "int32"
+   },
+   "minTao" : {
+      "description" : "最小道功",
+      "id" : 112,
+      "key" : "minTao",
+      "name" : "最小道功",
+      "symbol" : "minTao",
+      "type" : "int32"
+   },
+   "modelId" : {
+      "description" : "模型Id",
+      "id" : 1014,
+      "key" : "modelId",
+      "name" : "模型Id",
+      "symbol" : "modelId",
+      "type" : "int32"
+   },
+   "moduleScale" : {
+      "description" : "模型缩放值",
+      "id" : 10027,
+      "key" : "moduleScale",
+      "name" : "模型缩放值",
+      "symbol" : "moduleScale",
+      "type" : "int32"
+   },
+   "monsterGroupRefId" : {
+      "description" : "",
+      "id" : 1031,
+      "key" : "monsterGroupRefId",
+      "name" : "怪物组编号",
+      "symbol" : "monsterGroupRefId",
+      "type" : "string"
+   },
+   "monsterInvasionFont" : {
+      "description" : "怪物入侵活动飘字",
+      "id" : 10064,
+      "key" : "monsterInvasionFont",
+      "name" : "怪物入侵活动飘字",
+      "symbol" : "monsterInvasionFont",
+      "type" : "int8"
+   },
+   "monsterRefId" : {
+      "description" : "怪物refId",
+      "id" : 612,
+      "key" : "monsterRefId",
+      "name" : "怪物refId",
+      "symbol" : "monsterRefId",
+      "type" : "string"
+   },
+   "mountModleId" : {
+      "description" : "坐骑模型ID",
+      "id" : 1504,
+      "key" : "mountModleId",
+      "name" : "坐骑模型ID",
+      "symbol" : "mountModleId",
+      "type" : "int32"
+   },
+   "moveGridBackward" : {
+      "description" : "",
+      "id" : 527,
+      "key" : "moveGridBackward",
+      "name" : "向后移动格子数",
+      "symbol" : "moveGridBackward",
+      "type" : "int32"
+   },
+   "moveGridForward" : {
+      "description" : "",
+      "id" : 526,
+      "key" : "moveGridForward",
+      "name" : "向前移动格子数",
+      "symbol" : "moveGridForward",
+      "type" : "int32"
+   },
+   "moveSpeed" : {
+      "description" : "移动速度",
+      "id" : 122,
+      "key" : "moveSpeed",
+      "name" : "移动速度",
+      "symbol" : "moveSpeed",
+      "type" : "int32"
+   },
+   "moveSpeedPer" : {
+      "description" : "移动速度百分比",
+      "id" : 1500,
+      "key" : "moveSpeedPer",
+      "name" : "移动速度百分比",
+      "symbol" : "moveSpeedPer",
+      "type" : "int32"
+   },
+   "musicId" : {
+      "description" : "音乐Id",
+      "id" : 606,
+      "key" : "musicId",
+      "name" : "音乐Id",
+      "symbol" : "musicId",
+      "type" : "string"
+   },
+   "name" : {
+      "description" : "名称",
+      "id" : 2000,
+      "key" : "name",
+      "name" : "名称",
+      "symbol" : "name",
+      "type" : "string"
+   },
+   "nameColor" : {
+      "description" : "名称颜色",
+      "id" : 159,
+      "key" : "nameColor",
+      "name" : "名称颜色",
+      "symbol" : "nameColor",
+      "type" : "int16"
+   },
+   "needAchieve" : {
+      "description" : "需求成就点",
+      "id" : 234,
+      "key" : "needAchieve",
+      "name" : "需求成就点",
+      "symbol" : "needAchieve",
+      "type" : "int32"
+   },
+   "nextAchieve" : {
+      "description" : "如果配置0,具备获得此成就的条件。否则，则必须完成配置值的成就，才可以获得该成就",
+      "id" : 146,
+      "key" : "nextAchieve",
+      "name" : "后置成就",
+      "symbol" : "nextAchieve",
+      "type" : "string"
+   },
+   "nextMedal" : {
+      "description" : "勋章下一级别refId",
+      "id" : 238,
+      "key" : "nextMedal",
+      "name" : "勋章下一级别refId",
+      "symbol" : "nextMedal",
+      "type" : "string"
+   },
+   "nextQuestId" : {
+      "description" : "下一个任务",
+      "id" : 10012,
+      "key" : "nextQuestId",
+      "name" : "下一个任务",
+      "symbol" : "nextQuestId",
+      "type" : "string"
+   },
+   "number" : {
+      "description" : "数量",
+      "id" : 1021,
+      "key" : "number",
+      "name" : "数量",
+      "symbol" : "number",
+      "type" : "int32"
+   },
+   "offlineBagState" : {
+      "description" : "离线背包状态",
+      "id" : 623,
+      "key" : "offlineBagState",
+      "name" : "离线背包状态",
+      "symbol" : "offlineBagState",
+      "type" : "int8"
+   },
+   "onlineNextRefId" : {
+      "description" : "在线时间后置奖励refId",
+      "id" : 10036,
+      "key" : "onlineNextRefId",
+      "name" : "在线时间后置奖励refId",
+      "symbol" : "onlineNextRefId",
+      "type" : "string"
+   },
+   "onlinePreRefId" : {
+      "description" : "在线时间前置奖励refId",
+      "id" : 10035,
+      "key" : "onlinePreRefId",
+      "name" : "在线时间前置奖励refId",
+      "symbol" : "onlinePreRefId",
+      "type" : "string"
+   },
+   "onlineSecond" : {
+      "description" : "在线累计秒数",
+      "id" : 10037,
+      "key" : "onlineSecond",
+      "name" : "在线累计秒数",
+      "symbol" : "onlineSecond",
+      "type" : "int32"
+   },
+   "onlineTime" : {
+      "description" : "累计在线时间",
+      "id" : 1521,
+      "key" : "onlineTime",
+      "name" : "累计在线时间",
+      "symbol" : "onlineTime",
+      "type" : "int64"
+   },
+   "openActivityNumber" : {
+      "description" : "解锁顺序号",
+      "id" : 10056,
+      "key" : "openActivityNumber",
+      "name" : "解锁顺序号",
+      "symbol" : "openActivityNumber",
+      "type" : "int8"
+   },
+   "openLevel" : {
+      "description" : "开放等级",
+      "id" : 608,
+      "key" : "openLevel",
+      "name" : "开放等级",
+      "symbol" : "openLevel",
+      "type" : "int32"
+   },
+   "openQuest" : {
+      "description" : "开放任务",
+      "id" : 610,
+      "key" : "openQuest",
+      "name" : "开放任务",
+      "symbol" : "openQuest",
+      "type" : "string"
+   },
+   "openTime" : {
+      "description" : "开放时间",
+      "id" : 609,
+      "key" : "openTime",
+      "name" : "开放时间",
+      "symbol" : "openTime",
+      "type" : "string"
+   },
+   "operatActivityId" : {
+      "description" : "首充类活动领奖id|",
+      "id" : 10065,
+      "key" : "operatActivityId",
+      "name" : "首充类活动领奖id|",
+      "symbol" : "operatActivityId",
+      "type" : "int32"
+   },
+   "operatOtherData" : {
+      "description" : "首充类活动额外数据",
+      "id" : 10066,
+      "key" : "operatOtherData",
+      "name" : "首充类活动额外数据",
+      "symbol" : "operatOtherData",
+      "type" : "string"
+   },
+   "opposeState" : {
+      "description" : "场景对立状态",
+      "id" : 607,
+      "key" : "opposeState",
+      "name" : "场景对立状态",
+      "symbol" : "opposeState",
+      "type" : "int8"
+   },
+   "outputType" : {
+      "description" : "采集物产出类型",
+      "id" : 3022,
+      "key" : "outputType",
+      "name" : "采集物产出类型",
+      "symbol" : "outputType",
+      "type" : "int8"
+   },
+   "ownerId" : {
+      "description" : "归属玩家ID",
+      "id" : 622,
+      "key" : "ownerId",
+      "name" : "归属玩家ID",
+      "symbol" : "ownerId",
+      "type" : "string"
+   },
+   "perHP" : {
+      "description" : "1=生命上限增加1%",
+      "id" : 106,
+      "key" : "perHP",
+      "name" : "生命百分比",
+      "symbol" : "perHP",
+      "type" : "int32"
+   },
+   "perMP" : {
+      "description" : "1=魔法上限增加1%",
+      "id" : 107,
+      "key" : "perMP",
+      "name" : "魔法百分比",
+      "symbol" : "perMP",
+      "type" : "int32"
+   },
+   "periodAffectTime" : {
+      "description" : "周期时间",
+      "id" : 534,
+      "key" : "periodAffectTime",
+      "name" : "周期时间",
+      "symbol" : "periodAffectTime",
+      "type" : "int32"
+   },
+   "pkModel" : {
+      "description" : "pk模式",
+      "id" : 10082,
+      "key" : "pkModel",
+      "name" : "pk模式",
+      "symbol" : "pkModel",
+      "type" : "int8"
+   },
+   "pkValue" : {
+      "description" : "PK值",
+      "id" : 138,
+      "key" : "pkValue",
+      "name" : "PK值",
+      "symbol" : "pkValue",
+      "type" : "int32"
+   },
+   "playerLoginTimes" : {
+      "description" : "玩家登陆次数",
+      "id" : 625,
+      "key" : "playerLoginTimes",
+      "name" : "玩家登陆次数",
+      "symbol" : "playerLoginTimes",
+      "type" : "int32"
+   },
+   "playerOnlineDays" : {
+      "description" : "玩家在线天数",
+      "id" : 624,
+      "key" : "playerOnlineDays",
+      "name" : "玩家在线天数",
+      "symbol" : "playerOnlineDays",
+      "type" : "int32"
+   },
+   "pluckBehavior" : {
+      "description" : "1玩家被攻击时中断采集，2玩家被攻击时不中断采集",
+      "id" : 3008,
+      "key" : "pluckBehavior",
+      "name" : "采集表现",
+      "symbol" : "pluckBehavior",
+      "type" : "int8"
+   },
+   "pluckItemAdscription" : {
+      "description" : "1则采集者任务进度+1，2则采集者所在队伍全体成员任务进度+1",
+      "id" : 3007,
+      "key" : "pluckItemAdscription",
+      "name" : "采集数量归属",
+      "symbol" : "pluckItemAdscription",
+      "type" : "int8"
+   },
+   "pluckLevel" : {
+      "description" : "角色采集的等级要求",
+      "id" : 3003,
+      "key" : "pluckLevel",
+      "name" : "采集等级",
+      "symbol" : "pluckLevel",
+      "type" : "int32"
+   },
+   "pluckMode" : {
+      "description" : "1独占性采集 2非独占性采集",
+      "id" : 3005,
+      "key" : "pluckMode",
+      "name" : "采集模式",
+      "symbol" : "pluckMode",
+      "type" : "int8"
+   },
+   "pluckRefreshTime" : {
+      "description" : "isPluckDisappear=2的情况，消失后重新刷出的时间间隔，单位秒",
+      "id" : 3009,
+      "key" : "pluckRefreshTime",
+      "name" : "采集物消失后刷新时间",
+      "symbol" : "pluckRefreshTime",
+      "type" : "int32"
+   },
+   "pluckTime" : {
+      "description" : "标识单次采集所需的时间 单位秒",
+      "id" : 3004,
+      "key" : "pluckTime",
+      "name" : "采集时间",
+      "symbol" : "pluckTime",
+      "type" : "int32"
+   },
+   "pluckType" : {
+      "description" : "采集物类型",
+      "id" : 3020,
+      "key" : "pluckType",
+      "name" : "采集物类型",
+      "symbol" : "pluckType",
+      "type" : "int8"
+   },
+   "positionX" : {
+      "description" : "x坐标位置",
+      "id" : 604,
+      "key" : "positionX",
+      "name" : "x坐标位置",
+      "symbol" : "positionX",
+      "type" : "int32"
+   },
+   "positionY" : {
+      "description" : "y坐标位置",
+      "id" : 605,
+      "key" : "positionY",
+      "name" : "y坐标位置",
+      "symbol" : "positionY",
+      "type" : "int32"
+   },
+   "preQuestId" : {
+      "description" : "前一个任务",
+      "id" : 10013,
+      "key" : "preQuestId",
+      "name" : "前一个任务",
+      "symbol" : "preQuestId",
+      "type" : "string"
+   },
+   "priority" : {
+      "description" : "优先级",
+      "id" : 10026,
+      "key" : "priority",
+      "name" : "优先级",
+      "symbol" : "priority",
+      "type" : "int32"
+   },
+   "probability" : {
+      "description" : "概率，装备的成功率等",
+      "id" : 1020,
+      "key" : "probability",
+      "name" : "概率",
+      "symbol" : "probability",
+      "type" : "int32"
+   },
+   "professionId" : {
+      "description" : "0=不限 1=战士 2=法师 3=道士 ",
+      "id" : 1018,
+      "key" : "professionId",
+      "name" : "职业Id",
+      "symbol" : "professionId",
+      "type" : "int8"
+   },
+   "quality" : {
+      "description" : "1=白色 2=蓝色 3=紫色",
+      "id" : 1016,
+      "key" : "quality",
+      "name" : "品质",
+      "symbol" : "quality",
+      "type" : "int8"
+   },
+   "questRefId" : {
+      "description" : "任务refId",
+      "id" : 1026,
+      "key" : "questRefId",
+      "name" : "任务refId",
+      "symbol" : "questRefId",
+      "type" : "string"
+   },
+   "questType" : {
+      "description" : "1主线任务，2支线",
+      "id" : 10011,
+      "key" : "questType",
+      "name" : "任务类型",
+      "symbol" : "questType",
+      "type" : "int8"
+   },
+   "quickSkill" : {
+      "description" : "",
+      "id" : 520,
+      "key" : "quickSkill",
+      "name" : "快捷技能",
+      "symbol" : "quickSkill",
+      "type" : "int8"
+   },
+   "reappearType" : {
+      "description" : "",
+      "id" : 1033,
+      "key" : "reappearType",
+      "name" : "重生条件类型",
+      "symbol" : "reappearType",
+      "type" : "int8"
+   },
+   "refreshCount" : {
+      "description" : "刷新数量",
+      "id" : 615,
+      "key" : "refreshCount",
+      "name" : "刷新数量",
+      "symbol" : "refreshCount",
+      "type" : "int8"
+   },
+   "refreshDelayTime" : {
+      "description" : "刷新延迟时间",
+      "id" : 616,
+      "key" : "refreshDelayTime",
+      "name" : "刷新延迟时间",
+      "symbol" : "refreshDelayTime",
+      "type" : "int8"
+   },
+   "refreshTime" : {
+      "description" : "刷新间隔时间",
+      "id" : 626,
+      "key" : "refreshTime",
+      "name" : "刷新间隔时间",
+      "symbol" : "refreshTime",
+      "type" : "int32"
+   },
+   "refreshType" : {
+      "description" : "怪物刷新规则类型",
+      "id" : 613,
+      "key" : "refreshType",
+      "name" : "怪物刷新规则类型",
+      "symbol" : "refreshType",
+      "type" : "int8"
+   },
+   "refreshTypeData" : {
+      "description" : "怪物刷新规则类型具体数据",
+      "id" : 614,
+      "key" : "refreshTypeData",
+      "name" : "怪物刷新规则类型具体数据",
+      "symbol" : "refreshTypeData",
+      "type" : "string"
+   },
+   "reviveSceneRefId" : {
+      "description" : "复活场景Id",
+      "id" : 157,
+      "key" : "reviveSceneRefId",
+      "name" : "复活场景Id",
+      "symbol" : "reviveSceneRefId",
+      "type" : "string"
+   },
+   "rewardImmediately" : {
+      "description" : "获取奖励的方式",
+      "id" : 10038,
+      "key" : "rewardImmediately",
+      "name" : "获取奖励的方式",
+      "symbol" : "rewardImmediately",
+      "type" : "int8"
+   },
+   "rideMedicineMaxConsume" : {
+      "description" : "当前等级一次性可使用最大坐骑丹数",
+      "id" : 804,
+      "key" : "rideMedicineMaxConsume",
+      "name" : "坐骑丹最大消耗",
+      "symbol" : "rideMedicineMaxConsume",
+      "type" : "int8"
+   },
+   "rideNextRefId" : {
+      "description" : "下一级等级编号",
+      "id" : 803,
+      "key" : "rideNextRefId",
+      "name" : "下级编号",
+      "symbol" : "rideNextRefId",
+      "type" : "string"
+   },
+   "ridePreRefId" : {
+      "description" : "上一级等级编号",
+      "id" : 802,
+      "key" : "ridePreRefId",
+      "name" : "上级编号",
+      "symbol" : "ridePreRefId",
+      "type" : "string"
+   },
+   "rideRewardNextRefId" : {
+      "description" : "坐骑后置奖励ID",
+      "id" : 10040,
+      "key" : "rideRewardNextRefId",
+      "name" : "坐骑后置奖励ID",
+      "symbol" : "rideRewardNextRefId",
+      "type" : "string"
+   },
+   "rideRewardPreRefId" : {
+      "description" : "坐骑前置奖励ID",
+      "id" : 10039,
+      "key" : "rideRewardPreRefId",
+      "name" : "坐骑前置奖励ID",
+      "symbol" : "rideRewardPreRefId",
+      "type" : "string"
+   },
+   "rideState" : {
+      "description" : "坐骑状态 0 下马 1上马",
+      "id" : 807,
+      "key" : "rideState",
+      "name" : "坐骑状态",
+      "symbol" : "rideState",
+      "type" : "int8"
+   },
+   "rideUpgradeSrcConsume" : {
+      "description" : " {资源代号：资源数量},可写多个用逗号隔开     1=功勋               2=坐骑经验             3=羽毛                 ",
+      "id" : 805,
+      "key" : "rideUpgradeSrcConsume",
+      "name" : "升级资源消耗",
+      "symbol" : "rideUpgradeSrcConsume",
+      "type" : "string"
+   },
+   "roleGrade" : {
+      "description" : "需要角色所达到等级",
+      "id" : 1023,
+      "key" : "roleGrade",
+      "name" : "人物等级",
+      "symbol" : "roleGrade",
+      "type" : "int8"
+   },
+   "roleModelId" : {
+      "description" : "角色面板的模型id",
+      "id" : 242,
+      "key" : "roleModelId",
+      "name" : "角色面板的模型id",
+      "symbol" : "roleModelId",
+      "type" : "string"
+   },
+   "rookieProtectionLevel" : {
+      "description" : "新手保护等级",
+      "id" : 10084,
+      "key" : "rookieProtectionLevel",
+      "name" : "新手保护等级",
+      "symbol" : "rookieProtectionLevel",
+      "type" : "int32"
+   },
+   "saleCurrency" : {
+      "description" : "1金币，2元宝，3绑定元宝",
+      "id" : 215,
+      "key" : "saleCurrency",
+      "name" : "卖价单位",
+      "symbol" : "saleCurrency",
+      "type" : "int8"
+   },
+   "salePrice" : {
+      "description" : "物品的出售价格",
+      "id" : 214,
+      "key" : "salePrice",
+      "name" : "出售价格",
+      "symbol" : "salePrice",
+      "type" : "int32"
+   },
+   "sceneRefId" : {
+      "description" : "场景引用编号",
+      "id" : 611,
+      "key" : "sceneRefId",
+      "name" : "场景引用编号",
+      "symbol" : "sceneRefId",
+      "type" : "string"
+   },
+   "shareType" : {
+      "description" : "采集物共享类型",
+      "id" : 3021,
+      "key" : "shareType",
+      "name" : "采集物共享类型",
+      "symbol" : "shareType",
+      "type" : "int8"
+   },
+   "signCount" : {
+      "description" : "签到次数",
+      "id" : 10034,
+      "key" : "signCount",
+      "name" : "签到次数",
+      "symbol" : "signCount",
+      "type" : "int8"
+   },
+   "silverMedal" : {
+      "description" : "银牌",
+      "id" : 1043,
+      "key" : "silverMedal",
+      "name" : "银牌",
+      "symbol" : "silverMedal",
+      "type" : "int32"
+   },
+   "skillActionAni" : {
+      "description" : "动作1=僵直动作动作 2=击退动作动作 3=击飞动作",
+      "id" : 511,
+      "key" : "skillActionAni",
+      "name" : "技能动作动画",
+      "symbol" : "skillActionAni",
+      "type" : "int32"
+   },
+   "skillAimType" : {
+      "description" : "1=定点技能（选中目标施放）2=朝向技能（朝自己的面向施放）3=格子（点技能再点场景）",
+      "id" : 503,
+      "key" : "skillAimType",
+      "name" : "技能瞄准类型",
+      "symbol" : "skillAimType",
+      "type" : "int8"
+   },
+   "skillAni" : {
+      "description" : "技能动画",
+      "id" : 514,
+      "key" : "skillAni",
+      "name" : "技能动画",
+      "symbol" : "skillAni",
+      "type" : "int32"
+   },
+   "skillAtkType" : {
+      "description" : "1=物理 2=魔法 3=道术",
+      "id" : 501,
+      "key" : "skillAtkType",
+      "name" : "技能攻击类型",
+      "symbol" : "skillAtkType",
+      "type" : "int8"
+   },
+   "skillCDTime" : {
+      "description" : "技能CD时间",
+      "id" : 546,
+      "key" : "skillCDTime",
+      "name" : "技能CD时间",
+      "symbol" : "skillCDTime",
+      "type" : "int32"
+   },
+   "skillCasterAni" : {
+      "description" : "2=默认的攻击动作 6=战士攻击动作 7=法师道士攻击动作1 8=法师道士攻击动作2",
+      "id" : 519,
+      "key" : "skillCasterAni",
+      "name" : "技能施法者动作",
+      "symbol" : "skillCasterAni",
+      "type" : "int8"
+   },
+   "skillCo" : {
+      "description" : "技能系数",
+      "id" : 537,
+      "key" : "skillCo",
+      "name" : "技能系数",
+      "symbol" : "skillCo",
+      "type" : "int32"
+   },
+   "skillCritAni" : {
+      "description" : "技能击中目标暴击时，在对方身上播放的受击效果",
+      "id" : 510,
+      "key" : "skillCritAni",
+      "name" : "技能暴击动画",
+      "symbol" : "skillCritAni",
+      "type" : "int32"
+   },
+   "skillDamage" : {
+      "description" : "",
+      "id" : 521,
+      "key" : "skillDamage",
+      "name" : "技能伤害",
+      "symbol" : "skillDamage",
+      "type" : "int32"
+   },
+   "skillDamageChance" : {
+      "description" : "",
+      "id" : 523,
+      "key" : "skillDamageChance",
+      "name" : "技能伤害几率百分比",
+      "symbol" : "skillDamageChance",
+      "type" : "int32"
+   },
+   "skillDamageRate" : {
+      "description" : "",
+      "id" : 522,
+      "key" : "skillDamageRate",
+      "name" : "技能伤害百分比",
+      "symbol" : "skillDamageRate",
+      "type" : "int32"
+   },
+   "skillDamageRate1" : {
+      "description" : "技能伤害比率1",
+      "id" : 542,
+      "key" : "skillDamageRate1",
+      "name" : "技能伤害比率1",
+      "symbol" : "skillDamageRate1",
+      "type" : "int32"
+   },
+   "skillDamageRate2" : {
+      "description" : "技能伤害比率2",
+      "id" : 543,
+      "key" : "skillDamageRate2",
+      "name" : "技能伤害比率2",
+      "symbol" : "skillDamageRate2",
+      "type" : "int32"
+   },
+   "skillDamageRateMax" : {
+      "description" : "",
+      "id" : 525,
+      "key" : "skillDamageRateMax",
+      "name" : "技能伤害百分比最大值",
+      "symbol" : "skillDamageRateMax",
+      "type" : "int32"
+   },
+   "skillDamageRateMin" : {
+      "description" : "",
+      "id" : 524,
+      "key" : "skillDamageRateMin",
+      "name" : "技能伤害百分比最小值",
+      "symbol" : "skillDamageRateMin",
+      "type" : "int32"
+   },
+   "skillExp" : {
+      "description" : "技能熟练度",
+      "id" : 507,
+      "key" : "skillExp",
+      "name" : "技能熟练度",
+      "symbol" : "skillExp",
+      "type" : "int32"
+   },
+   "skillFunction" : {
+      "description" : "技能函数",
+      "id" : 515,
+      "key" : "skillFunction",
+      "name" : "技能函数",
+      "symbol" : "skillFunction",
+      "type" : "string"
+   },
+   "skillGroupId" : {
+      "description" : "技能组Id",
+      "id" : 500,
+      "key" : "skillGroupId",
+      "name" : "技能组Id",
+      "symbol" : "skillGroupId",
+      "type" : "int32"
+   },
+   "skillHitAni" : {
+      "description" : "技能击中目标时，在对方身上播放的受击效果",
+      "id" : 509,
+      "key" : "skillHitAni",
+      "name" : "技能击中动画",
+      "symbol" : "skillHitAni",
+      "type" : "int32"
+   },
+   "skillLearnLevel" : {
+      "description" : "技能学习等级",
+      "id" : 505,
+      "key" : "skillLearnLevel",
+      "name" : "技能学习等级",
+      "symbol" : "skillLearnLevel",
+      "type" : "int32"
+   },
+   "skillLearnType" : {
+      "description" : "1=自动学习2=非自动学习",
+      "id" : 506,
+      "key" : "skillLearnType",
+      "name" : "技能学习类型",
+      "symbol" : "skillLearnType",
+      "type" : "int32"
+   },
+   "skillLevel" : {
+      "description" : "技能等级",
+      "id" : 512,
+      "key" : "skillLevel",
+      "name" : "技能等级",
+      "symbol" : "skillLevel",
+      "type" : "int32"
+   },
+   "skillMaxExp" : {
+      "description" : "技能最大熟练度",
+      "id" : 508,
+      "key" : "skillMaxExp",
+      "name" : "技能最大熟练度",
+      "symbol" : "skillMaxExp",
+      "type" : "int32"
+   },
+   "skillParameters" : {
+      "description" : "技能参数",
+      "id" : 516,
+      "key" : "skillParameters",
+      "name" : "技能参数",
+      "symbol" : "skillParameters",
+      "type" : "string"
+   },
+   "skillRange" : {
+      "description" : "",
+      "id" : 518,
+      "key" : "skillRange",
+      "name" : "技能释放范围",
+      "symbol" : "skillRange",
+      "type" : "int8"
+   },
+   "skillRefId" : {
+      "description" : "获取技能表述",
+      "id" : 517,
+      "key" : "skillRefId",
+      "name" : "技能的引用编号",
+      "symbol" : "skillRefId",
+      "type" : "string"
+   },
+   "skillTargetType" : {
+      "description" : "1=友方 2=敌方",
+      "id" : 504,
+      "key" : "skillTargetType",
+      "name" : "技能使用目标",
+      "symbol" : "skillTargetType",
+      "type" : "int8"
+   },
+   "skillType" : {
+      "description" : "0=加点技能 1=被动技能 2=主动技能 3=开关技能",
+      "id" : 502,
+      "key" : "skillType",
+      "name" : "技能类型",
+      "symbol" : "skillType",
+      "type" : "int8"
+   },
+   "skillUpperExp" : {
+      "description" : "技能升级所需要的熟练度",
+      "id" : 513,
+      "key" : "skillUpperExp",
+      "name" : "技能升级熟练度",
+      "symbol" : "skillUpperExp",
+      "type" : "int32"
+   },
+   "slotIndex" : {
+      "description" : "物品对应的背包格索引",
+      "id" : 220,
+      "key" : "slotIndex",
+      "name" : "背包格索引",
+      "symbol" : "slotIndex",
+      "type" : "int32"
+   },
+   "smallIconId" : {
+      "description" : "掉落图标Id",
+      "id" : 237,
+      "key" : "smallIconId",
+      "name" : "掉落图标Id",
+      "symbol" : "smallIconId",
+      "type" : "string"
+   },
+   "smallName" : {
+      "description" : "主要用在小地图、任务现实NPC，怪物的简称",
+      "id" : 2003,
+      "key" : "smallName",
+      "name" : "简称",
+      "symbol" : "smallName",
+      "type" : "string"
+   },
+   "stageLevel" : {
+      "description" : "坐骑分10阶，每阶对应一样的图标和模型",
+      "id" : 800,
+      "key" : "stageLevel",
+      "name" : "阶级",
+      "symbol" : "stageLevel",
+      "type" : "int8"
+   },
+   "startLevel" : {
+      "description" : "每阶分四级，0-3，分别对应1-3颗星",
+      "id" : 801,
+      "key" : "startLevel",
+      "name" : "星级",
+      "symbol" : "startLevel",
+      "type" : "int8"
+   },
+   "states" : {
+      "description" : "玩家状态（禁言，封号）",
+      "id" : 158,
+      "key" : "states",
+      "name" : "玩家状态",
+      "symbol" : "states",
+      "type" : "int8"
+   },
+   "storeLimitTime" : {
+      "description" : "填写结束日期，过期后不可购买。",
+      "id" : 3015,
+      "key" : "storeLimitTime",
+      "name" : "商店限购时间",
+      "symbol" : "storeLimitTime",
+      "type" : "string"
+   },
+   "storeName" : {
+      "description" : "商店名称",
+      "id" : 3012,
+      "key" : "storeName",
+      "name" : "商店名称",
+      "symbol" : "storeName",
+      "type" : "string"
+   },
+   "storeTableRefId" : {
+      "description" : "填写商店表格refId",
+      "id" : 3011,
+      "key" : "storeTableRefId",
+      "name" : "商店表格引用编号",
+      "symbol" : "storeTableRefId",
+      "type" : "string"
+   },
+   "storeType" : {
+      "description" : "",
+      "id" : 3010,
+      "key" : "storeType",
+      "name" : "商店类型",
+      "symbol" : "storeType",
+      "type" : "string"
+   },
+   "strengTheningCount" : {
+      "description" : "强化次数",
+      "id" : 236,
+      "key" : "strengTheningCount",
+      "name" : "强化次数",
+      "symbol" : "strengTheningCount",
+      "type" : "int32"
+   },
+   "strengtheningLevel" : {
+      "description" : "强化等级",
+      "id" : 230,
+      "key" : "strengtheningLevel",
+      "name" : "强化等级",
+      "symbol" : "strengtheningLevel",
+      "type" : "int8"
+   },
+   "structureDetails" : {
+      "description" : "",
+      "id" : 1029,
+      "key" : "structureDetails",
+      "name" : "副本组成",
+      "symbol" : "structureDetails",
+      "type" : "string"
+   },
+   "succeedType" : {
+      "description" : "副本成功完成的类型",
+      "id" : 1038,
+      "key" : "succeedType",
+      "name" : "成功完成类型",
+      "symbol" : "succeedType",
+      "type" : "int8"
+   },
+   "succeedUpConsume" : {
+      "description" : "表示提高成功率10%的元宝消耗，比如100表示，花费100元宝能提高成功率10%，那么提高70%成功率消耗元宝700",
+      "id" : 228,
+      "key" : "succeedUpConsume",
+      "name" : "成功率提升消耗",
+      "symbol" : "succeedUpConsume",
+      "type" : "int32"
+   },
+   "tailsmanType" : {
+      "description" : "法宝类型",
+      "id" : 812,
+      "key" : "tailsmanType",
+      "name" : "法宝类型",
+      "symbol" : "tailsmanType",
+      "type" : "int8"
+   },
+   "talisManLevel" : {
+      "description" : "法宝等级",
+      "id" : 810,
+      "key" : "talisManLevel",
+      "name" : "法宝等级",
+      "symbol" : "talisManLevel",
+      "type" : "int8"
+   },
+   "talisManNumber" : {
+      "description" : "法宝数量",
+      "id" : 10045,
+      "key" : "talisManNumber",
+      "name" : "法宝数量",
+      "symbol" : "talisManNumber",
+      "type" : "int8"
+   },
+   "talisRefId" : {
+      "description" : "法宝refId",
+      "id" : 811,
+      "key" : "talisRefId",
+      "name" : "法宝refId",
+      "symbol" : "talisRefId",
+      "type" : "string"
+   },
+   "talismanRewardNextRefId" : {
+      "description" : "法宝后置奖励ID",
+      "id" : 10044,
+      "key" : "talismanRewardNextRefId",
+      "name" : "法宝后置奖励ID",
+      "symbol" : "talismanRewardNextRefId",
+      "type" : "string"
+   },
+   "talismanRewardPreRefId" : {
+      "description" : "法宝前置奖励ID",
+      "id" : 10043,
+      "key" : "talismanRewardPreRefId",
+      "name" : "法宝前置奖励ID",
+      "symbol" : "talismanRewardPreRefId",
+      "type" : "string"
+   },
+   "targetID" : {
+      "description" : "0为类型内任意目标，具体ID为具体功能块内指定目标",
+      "id" : 150,
+      "key" : "targetID",
+      "name" : "目标ID",
+      "symbol" : "targetID",
+      "type" : "string"
+   },
+   "targetNum" : {
+      "description" : "目标数量",
+      "id" : 151,
+      "key" : "targetNum",
+      "name" : "目标数量",
+      "symbol" : "targetNum",
+      "type" : "int32"
+   },
+   "timesADay" : {
+      "description" : "",
+      "id" : 1027,
+      "key" : "timesADay",
+      "name" : "天次数",
+      "symbol" : "timesADay",
+      "type" : "int16"
+   },
+   "timesAWeek" : {
+      "description" : "",
+      "id" : 1028,
+      "key" : "timesAWeek",
+      "name" : "周次数",
+      "symbol" : "timesAWeek",
+      "type" : "int16"
+   },
+   "tips" : {
+      "description" : "提示语",
+      "id" : 2002,
+      "key" : "tips",
+      "name" : "提示语",
+      "symbol" : "tips",
+      "type" : "string"
+   },
+   "totalConsumeBindedGold" : {
+      "description" : "累计消费邦元",
+      "id" : 10071,
+      "key" : "totalConsumeBindedGold",
+      "name" : "累计消费邦元",
+      "symbol" : "totalConsumeBindedGold",
+      "type" : "int32"
+   },
+   "totalConsumeUnBindedGold" : {
+      "description" : "累计消费元宝",
+      "id" : 10070,
+      "key" : "totalConsumeUnBindedGold",
+      "name" : "累计消费元宝",
+      "symbol" : "totalConsumeUnBindedGold",
+      "type" : "int32"
+   },
+   "totalRecharge" : {
+      "description" : "累计充值元宝",
+      "id" : 10068,
+      "key" : "totalRecharge",
+      "name" : "累计充值元宝",
+      "symbol" : "totalRecharge",
+      "type" : "int32"
+   },
+   "totalRechargeCount" : {
+      "description" : "累计充值次数",
+      "id" : 10069,
+      "key" : "totalRechargeCount",
+      "name" : "累计充值次数",
+      "symbol" : "totalRechargeCount",
+      "type" : "int32"
+   },
+   "totalValue" : {
+      "description" : "总值",
+      "id" : 10024,
+      "key" : "totalValue",
+      "name" : "总值",
+      "symbol" : "totalValue",
+      "type" : "int32"
+   },
+   "typeName" : {
+      "description" : "分类名称",
+      "id" : 148,
+      "key" : "typeName",
+      "name" : "分类名称",
+      "symbol" : "typeName",
+      "type" : "string"
+   },
+   "unbindOriginalPrice" : {
+      "description" : "原价元宝",
+      "id" : 3017,
+      "key" : "unbindOriginalPrice",
+      "name" : "原价元宝",
+      "symbol" : "unbindOriginalPrice",
+      "type" : "int32"
+   },
+   "unbindedCopper" : {
+      "description" : "非绑定铜币",
+      "id" : 1010,
+      "key" : "unbindedCopper",
+      "name" : "非绑定铜币",
+      "symbol" : "unbindedCopper",
+      "type" : "int32"
+   },
+   "unbindedGold" : {
+      "description" : "非绑定金",
+      "id" : 1007,
+      "key" : "unbindedGold",
+      "name" : "非绑定金",
+      "symbol" : "unbindedGold",
+      "type" : "int32"
+   },
+   "unionName" : {
+      "description" : "公会名称",
+      "id" : 1022,
+      "key" : "unionName",
+      "name" : "公会名称",
+      "symbol" : "unionName",
+      "type" : "string"
+   },
+   "unionOfficialId" : {
+      "description" : "公会官职Id",
+      "id" : 1041,
+      "key" : "unionOfficialId",
+      "name" : "公会官职Id",
+      "symbol" : "unionOfficialId",
+      "type" : "int8"
+   },
+   "useCountEveryday" : {
+      "description" : "0=不限制 n(n>0)=每天使用次数≤n次",
+      "id" : 205,
+      "key" : "useCountEveryday",
+      "name" : "每天可使用次数",
+      "symbol" : "useCountEveryday",
+      "type" : "int32"
+   },
+   "useKnight" : {
+      "description" : "0=不限制 n(n>0)=等级≥n级才可使用",
+      "id" : 204,
+      "key" : "useKnight",
+      "name" : "使用爵位",
+      "symbol" : "useKnight",
+      "type" : "int8"
+   },
+   "useLevel" : {
+      "description" : "0=不限制 n(n>0)=等级≥n级才可使用",
+      "id" : 203,
+      "key" : "useLevel",
+      "name" : "使用等级",
+      "symbol" : "useLevel",
+      "type" : "int32"
+   },
+   "useMaterialCount" : {
+      "description" : "装备强化洗练等需要的材料数量",
+      "id" : 227,
+      "key" : "useMaterialCount",
+      "name" : "使用材料数量",
+      "symbol" : "useMaterialCount",
+      "type" : "int32"
+   },
+   "usedSlotNumber" : {
+      "description" : "已经使用的格子数",
+      "id" : 224,
+      "key" : "usedSlotNumber",
+      "name" : "已经使用的格子数",
+      "symbol" : "usedSlotNumber",
+      "type" : "int32"
+   },
+   "vipRewardLevel" : {
+      "description" : "vip武器奖励等级",
+      "id" : 10031,
+      "key" : "vipRewardLevel",
+      "name" : "vip武器奖励等级",
+      "symbol" : "vipRewardLevel",
+      "type" : "string"
+   },
+   "vipType" : {
+      "description" : "VIP类型",
+      "id" : 10032,
+      "key" : "vipType",
+      "name" : "vip类型",
+      "symbol" : "vipType",
+      "type" : "int8"
+   },
+   "vipWeaponReward" : {
+      "description" : "VIP等级武器奖励",
+      "id" : 10067,
+      "key" : "vipWeaponReward",
+      "name" : "VIP等级武器奖励",
+      "symbol" : "vipWeaponReward",
+      "type" : "string"
+   },
+   "washCount" : {
+      "description" : "洗练次数",
+      "id" : 235,
+      "key" : "washCount",
+      "name" : "洗练次数",
+      "symbol" : "washCount",
+      "type" : "int32"
+   },
+   "weaponModleId" : {
+      "description" : "武器模型ID",
+      "id" : 1501,
+      "key" : "weaponModleId",
+      "name" : "武器模型ID",
+      "symbol" : "weaponModleId",
+      "type" : "int32"
+   },
+   "weightOfGroup" : {
+      "description" : "buff组权重",
+      "id" : 529,
+      "key" : "weightOfGroup",
+      "name" : "buff组权重",
+      "symbol" : "weightOfGroup",
+      "type" : "int8"
+   },
+   "width" : {
+      "description" : "宽",
+      "id" : 600,
+      "key" : "width",
+      "name" : "宽",
+      "symbol" : "width",
+      "type" : "int32"
+   },
+   "wingLevel" : {
+      "description" : "翅膀的等级1-10",
+      "id" : 806,
+      "key" : "wingLevel",
+      "name" : "翅膀等级",
+      "symbol" : "wingLevel",
+      "type" : "int8"
+   },
+   "wingModleId" : {
+      "description" : "翅膀模型ID",
+      "id" : 1503,
+      "key" : "wingModleId",
+      "name" : "翅膀模型ID",
+      "symbol" : "wingModleId",
+      "type" : "int32"
+   },
+   "wingNextRefId" : {
+      "description" : "翅膀下一级等级编号",
+      "id" : 809,
+      "key" : "wingNextRefId",
+      "name" : "翅膀下级编号",
+      "symbol" : "wingNextRefId",
+      "type" : "string"
+   },
+   "wingPreRefId" : {
+      "description" : "翅膀上一级等级编号",
+      "id" : 808,
+      "key" : "wingPreRefId",
+      "name" : "翅膀上级编号",
+      "symbol" : "wingPreRefId",
+      "type" : "string"
+   },
+   "wingRefId" : {
+      "description" : "翅膀refId",
+      "id" : 10081,
+      "key" : "wingRefId",
+      "name" : "翅膀refId",
+      "symbol" : "wingRefId",
+      "type" : "string"
+   },
+   "wingRewardNextRefId" : {
+      "description" : "翅膀后置奖励ID",
+      "id" : 10042,
+      "key" : "wingRewardNextRefId",
+      "name" : "翅膀后置奖励ID",
+      "symbol" : "wingRewardNextRefId",
+      "type" : "string"
+   },
+   "wingRewardPreRefId" : {
+      "description" : "翅膀前置奖励ID",
+      "id" : 10041,
+      "key" : "wingRewardPreRefId",
+      "name" : "翅膀前置奖励ID",
+      "symbol" : "wingRewardPreRefId",
+      "type" : "string"
+   },
+   "x_left_up" : {
+      "description" : "",
+      "id" : 1034,
+      "key" : "x_left_up",
+      "name" : "刷新区域X坐标(左上角)",
+      "symbol" : "x_left_up",
+      "type" : "int32"
+   },
+   "x_right_down" : {
+      "description" : "",
+      "id" : 1036,
+      "key" : "x_right_down",
+      "name" : "刷新区域X坐标(右下角)",
+      "symbol" : "x_right_down",
+      "type" : "int32"
+   },
+   "y_left_up" : {
+      "description" : "",
+      "id" : 1035,
+      "key" : "y_left_up",
+      "name" : "刷新区域X坐标(左上角)",
+      "symbol" : "y_left_up",
+      "type" : "int32"
+   },
+   "y_right_down" : {
+      "description" : "",
+      "id" : 1037,
+      "key" : "y_right_down",
+      "name" : "刷新区域X坐标(右下角)",
+      "symbol" : "y_right_down",
+      "type" : "int32"
+   }
+}
+

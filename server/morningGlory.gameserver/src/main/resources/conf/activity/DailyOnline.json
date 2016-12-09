@@ -1,0 +1,219 @@
+{
+   "Donline_1" : {
+      "onlineReward" : {
+         "dayOnlineReward" : [
+            {
+               "number" : 10000,
+               "refId" : "gold"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_drug_1"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_drug_4"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "Donline_2",
+         "onlinePreRefId" : "",
+         "onlineSecond" : 1800
+      },
+      "refId" : "Donline_1"
+   },
+   "Donline_2" : {
+      "onlineReward" : {
+         "dayOnlineReward" : [
+            {
+               "number" : 10000,
+               "refId" : "gold"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_drug_1"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_drug_4"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "Donline_3",
+         "onlinePreRefId" : "Donline_1",
+         "onlineSecond" : 3600
+      },
+      "refId" : "Donline_2"
+   },
+   "Donline_3" : {
+      "onlineReward" : {
+         "dayOnlineReward" : [
+            {
+               "number" : 10000,
+               "refId" : "gold"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_drug_1"
+            },
+            {
+               "number" : 5,
+               "refId" : "item_drug_4"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "Donline_4",
+         "onlinePreRefId" : "Donline_2",
+         "onlineSecond" : 7200
+      },
+      "refId" : "Donline_3"
+   },
+   "Donline_4" : {
+      "onlineReward" : {
+         "dayOnlineReward" : [
+            {
+               "number" : 10000,
+               "refId" : "gold"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_drug_1"
+            },
+            {
+               "number" : 6,
+               "refId" : "item_drug_4"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "Donline_5",
+         "onlinePreRefId" : "Donline_3",
+         "onlineSecond" : 14400
+      },
+      "refId" : "Donline_4"
+   },
+   "Donline_5" : {
+      "onlineReward" : {
+         "dayOnlineReward" : [
+            {
+               "number" : 10000,
+               "refId" : "gold"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_drug_1"
+            },
+            {
+               "number" : 7,
+               "refId" : "item_drug_4"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "Donline_6",
+         "onlinePreRefId" : "Donline_4",
+         "onlineSecond" : 21600
+      },
+      "refId" : "Donline_5"
+   },
+   "Donline_6" : {
+      "onlineReward" : {
+         "dayOnlineReward" : [
+            {
+               "number" : 10000,
+               "refId" : "gold"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_drug_1"
+            },
+            {
+               "number" : 8,
+               "refId" : "item_drug_4"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "Donline_7",
+         "onlinePreRefId" : "Donline_5",
+         "onlineSecond" : 28800
+      },
+      "refId" : "Donline_6"
+   },
+   "Donline_7" : {
+      "onlineReward" : {
+         "dayOnlineReward" : [
+            {
+               "number" : 10000,
+               "refId" : "gold"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_drug_1"
+            },
+            {
+               "number" : 9,
+               "refId" : "item_drug_4"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "Donline_8",
+         "onlinePreRefId" : "Donline_6",
+         "onlineSecond" : 36000
+      },
+      "refId" : "Donline_7"
+   },
+   "Donline_8" : {
+      "onlineReward" : {
+         "dayOnlineReward" : [
+            {
+               "number" : 10000,
+               "refId" : "gold"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_drug_1"
+            },
+            {
+               "number" : 10,
+               "refId" : "item_drug_4"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "Donline_9",
+         "onlinePreRefId" : "Donline_7",
+         "onlineSecond" : 43200
+      },
+      "refId" : "Donline_8"
+   },
+   "Donline_9" : {
+      "onlineReward" : {
+         "dayOnlineReward" : [
+            {
+               "number" : 10000,
+               "refId" : "gold"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_drug_1"
+            },
+            {
+               "number" : 11,
+               "refId" : "item_drug_4"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "",
+         "onlinePreRefId" : "Donline_8",
+         "onlineSecond" : 50400
+      },
+      "refId" : "Donline_9"
+   }
+}
+

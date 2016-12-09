@@ -1,0 +1,17 @@
+{
+   "multiExp" : {
+      "activityData" : [
+         {
+            "expMultiple" : 2
+         }
+      ],
+      "refId" : "multiExp",
+      "sceneRefId" : "Sall",
+      "time" : {
+         "duration" : "16:30:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   }
+}
+

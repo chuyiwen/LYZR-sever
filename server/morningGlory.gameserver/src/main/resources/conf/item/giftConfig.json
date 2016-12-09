@@ -1,0 +1,593 @@
+{
+   "gift_open" : {
+      "configData" : {
+         "gift_1" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_10_1",
+            "itemRefId" : "item_drug_3",
+            "key" : "gift_1",
+            "number" : 10,
+            "probability" : 1000000
+         },
+         "gift_10" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_40_1",
+            "itemRefId" : "equip_40_6100",
+            "key" : "gift_10",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_11" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_40_1",
+            "itemRefId" : "item_danyao_5",
+            "key" : "gift_11",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_12" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_40_1",
+            "itemRefId" : "item_gift_50_1",
+            "key" : "gift_12",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_13" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_50_1",
+            "itemRefId" : "item_lingpai_1",
+            "key" : "gift_13",
+            "number" : 5,
+            "probability" : 1000000
+         },
+         "gift_14" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_50_1",
+            "itemRefId" : "equip_50_6100",
+            "key" : "gift_14",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_15" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_50_1",
+            "itemRefId" : "item_gift_60_1",
+            "key" : "gift_15",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_16" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_60_1",
+            "itemRefId" : "item_exp_1",
+            "key" : "gift_16",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_17" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_60_1",
+            "itemRefId" : "item_danyao_1",
+            "key" : "gift_17",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_18" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_60_1",
+            "itemRefId" : "item_suipian",
+            "key" : "gift_18",
+            "number" : 5,
+            "probability" : 1000000
+         },
+         "gift_19" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_10_2",
+            "itemRefId" : "item_drug_3",
+            "key" : "gift_19",
+            "number" : 10,
+            "probability" : 1000000
+         },
+         "gift_2" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_10_1",
+            "itemRefId" : "item_drug_6",
+            "key" : "gift_2",
+            "number" : 10,
+            "probability" : 1000000
+         },
+         "gift_20" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_10_2",
+            "itemRefId" : "item_drug_6",
+            "key" : "gift_20",
+            "number" : 10,
+            "probability" : 1000000
+         },
+         "gift_21" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_10_2",
+            "itemRefId" : "item_gift_20_2",
+            "key" : "gift_21",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_22" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_20_2",
+            "itemRefId" : "item_drug_9",
+            "key" : "gift_22",
+            "number" : 6,
+            "probability" : 1000000
+         },
+         "gift_23" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_20_2",
+            "itemRefId" : "item_jinengExp",
+            "key" : "gift_23",
+            "number" : 3,
+            "probability" : 1000000
+         },
+         "gift_24" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_20_2",
+            "itemRefId" : "item_gift_30_2",
+            "key" : "gift_24",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_25" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_30_2",
+            "itemRefId" : "equip_30_6200",
+            "key" : "gift_25",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_26" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_30_2",
+            "itemRefId" : "item_danyao_4",
+            "key" : "gift_26",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_27" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_30_2",
+            "itemRefId" : "item_gift_40_2",
+            "key" : "gift_27",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_28" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_40_2",
+            "itemRefId" : "equip_40_6200",
+            "key" : "gift_28",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_29" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_40_2",
+            "itemRefId" : "item_danyao_5",
+            "key" : "gift_29",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_3" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_10_1",
+            "itemRefId" : "item_gift_20_1",
+            "key" : "gift_3",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_30" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_40_2",
+            "itemRefId" : "item_gift_50_2",
+            "key" : "gift_30",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_31" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_50_2",
+            "itemRefId" : "item_lingpai_1",
+            "key" : "gift_31",
+            "number" : 5,
+            "probability" : 1000000
+         },
+         "gift_32" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_50_2",
+            "itemRefId" : "equip_50_6200",
+            "key" : "gift_32",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_33" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_50_2",
+            "itemRefId" : "item_gift_60_2",
+            "key" : "gift_33",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_34" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_60_2",
+            "itemRefId" : "item_exp_1",
+            "key" : "gift_34",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_35" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_60_2",
+            "itemRefId" : "item_danyao_2",
+            "key" : "gift_35",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_36" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_60_2",
+            "itemRefId" : "item_suipian",
+            "key" : "gift_36",
+            "number" : 5,
+            "probability" : 1000000
+         },
+         "gift_37" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_10_3",
+            "itemRefId" : "item_drug_3",
+            "key" : "gift_37",
+            "number" : 10,
+            "probability" : 1000000
+         },
+         "gift_38" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_10_3",
+            "itemRefId" : "item_drug_6",
+            "key" : "gift_38",
+            "number" : 10,
+            "probability" : 1000000
+         },
+         "gift_39" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_10_3",
+            "itemRefId" : "item_gift_20_3",
+            "key" : "gift_39",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_4" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_20_1",
+            "itemRefId" : "item_drug_9",
+            "key" : "gift_4",
+            "number" : 6,
+            "probability" : 1000000
+         },
+         "gift_40" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_20_3",
+            "itemRefId" : "item_drug_9",
+            "key" : "gift_40",
+            "number" : 6,
+            "probability" : 1000000
+         },
+         "gift_41" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_20_3",
+            "itemRefId" : "item_jinengExp",
+            "key" : "gift_41",
+            "number" : 3,
+            "probability" : 1000000
+         },
+         "gift_42" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_20_3",
+            "itemRefId" : "item_gift_30_3",
+            "key" : "gift_42",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_43" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_30_3",
+            "itemRefId" : "equip_30_6300",
+            "key" : "gift_43",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_44" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_30_3",
+            "itemRefId" : "item_danyao_4",
+            "key" : "gift_44",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_45" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_30_3",
+            "itemRefId" : "item_gift_40_3",
+            "key" : "gift_45",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_46" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_40_3",
+            "itemRefId" : "equip_40_6300",
+            "key" : "gift_46",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_47" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_40_3",
+            "itemRefId" : "item_danyao_5",
+            "key" : "gift_47",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_48" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_40_3",
+            "itemRefId" : "item_gift_50_3",
+            "key" : "gift_48",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_49" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_50_3",
+            "itemRefId" : "item_lingpai_1",
+            "key" : "gift_49",
+            "number" : 5,
+            "probability" : 1000000
+         },
+         "gift_5" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_20_1",
+            "itemRefId" : "item_jinengExp",
+            "key" : "gift_5",
+            "number" : 3,
+            "probability" : 1000000
+         },
+         "gift_50" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_50_3",
+            "itemRefId" : "equip_50_6300",
+            "key" : "gift_50",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_51" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_50_3",
+            "itemRefId" : "item_gift_60_3",
+            "key" : "gift_51",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_52" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_60_3",
+            "itemRefId" : "item_exp_1",
+            "key" : "gift_52",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_53" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_60_3",
+            "itemRefId" : "item_danyao_3",
+            "key" : "gift_53",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_54" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_60_3",
+            "itemRefId" : "item_suipian",
+            "key" : "gift_54",
+            "number" : 5,
+            "probability" : 1000000
+         },
+         "gift_55" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_4",
+            "itemRefId" : "item_duihuanquan_2",
+            "key" : "gift_55",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_6" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_20_1",
+            "itemRefId" : "item_gift_30_1",
+            "key" : "gift_6",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_61" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_jinbaoxiang",
+            "itemRefId" : "item_goldMedal",
+            "key" : "gift_61",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_62" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_jinbaoxiang",
+            "itemRefId" : "item_silverMedal",
+            "key" : "gift_62",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_63" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_yinbaoxiang",
+            "itemRefId" : "item_silverMedal",
+            "key" : "gift_63",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_64" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_yinbaoxiang",
+            "itemRefId" : "item_copperMedal",
+            "key" : "gift_64",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_65" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_tongbaoxiang",
+            "itemRefId" : "item_copperMedal",
+            "key" : "gift_65",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_66" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_tongbaoxiang",
+            "itemRefId" : "item_ironMedal",
+            "key" : "gift_66",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_67" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_mubaoxiang",
+            "itemRefId" : "item_ironMedal",
+            "key" : "gift_67",
+            "number" : 2,
+            "probability" : 1000000
+         },
+         "gift_68" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_king",
+            "itemRefId" : "item_duihuanquan_1",
+            "key" : "gift_68",
+            "number" : 5,
+            "probability" : 1000000
+         },
+         "gift_69" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_vip_1",
+            "itemRefId" : "item_duihuanquan_2",
+            "key" : "gift_69",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_7" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_30_1",
+            "itemRefId" : "equip_30_6100",
+            "key" : "gift_7",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_70" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_vip_1",
+            "itemRefId" : "item_qianghuashi",
+            "key" : "gift_70",
+            "number" : 10,
+            "probability" : 1000000
+         },
+         "gift_73" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_vip_3",
+            "itemRefId" : "item_duihuanquan_2",
+            "key" : "gift_73",
+            "number" : 2,
+            "probability" : 1000000
+         },
+         "gift_74" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_vip_3",
+            "itemRefId" : "item_qianghuashi",
+            "key" : "gift_74",
+            "number" : 50,
+            "probability" : 1000000
+         },
+         "gift_75" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_fund_1",
+            "itemRefId" : "item_zuoqiExp",
+            "key" : "gift_75",
+            "number" : 15,
+            "probability" : 1000000
+         },
+         "gift_76" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_fund_2",
+            "itemRefId" : "item_qianghuashi",
+            "key" : "gift_76",
+            "number" : 50,
+            "probability" : 1000000
+         },
+         "gift_77" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_fund_2",
+            "itemRefId" : "item_zuoqiExp",
+            "key" : "gift_77",
+            "number" : 50,
+            "probability" : 1000000
+         },
+         "gift_78" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_fund_3",
+            "itemRefId" : "item_zuoqiExp",
+            "key" : "gift_78",
+            "number" : 120,
+            "probability" : 1000000
+         },
+         "gift_79" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_fund_3",
+            "itemRefId" : "item_qianghuashi",
+            "key" : "gift_79",
+            "number" : 160,
+            "probability" : 1000000
+         },
+         "gift_8" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_30_1",
+            "itemRefId" : "item_danyao_4",
+            "key" : "gift_8",
+            "number" : 1,
+            "probability" : 1000000
+         },
+         "gift_80" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_fund_3",
+            "itemRefId" : "item_chibangExp",
+            "key" : "gift_80",
+            "number" : 120,
+            "probability" : 1000000
+         },
+         "gift_9" : {
+            "bindStatus" : 1,
+            "giftRefId" : "item_gift_30_1",
+            "itemRefId" : "item_gift_40_1",
+            "key" : "gift_9",
+            "number" : 1,
+            "probability" : 1000000
+         }
+      },
+      "name" : "礼包数据配置",
+      "refId" : "gift_open"
+   }
+}
+

@@ -1,0 +1,233 @@
+{
+   "activity_manage_1" : {
+      "property" : {
+         "activitySortId" : 8,
+         "description" : "",
+         "iconId" : "main_activityAssign",
+         "kind" : 3,
+         "name" : "签到"
+      },
+      "refId" : "activity_manage_1"
+   },
+   "activity_manage_10" : {
+      "property" : {
+         "activitySortId" : 13,
+         "description" : "",
+         "iconId" : "main_activityPayEveryDay",
+         "kind" : 3,
+         "name" : "每日充值奖励"
+      },
+      "refId" : "activity_manage_10"
+   },
+   "activity_manage_11" : {
+      "property" : {
+         "activitySortId" : 4,
+         "description" : "",
+         "iconId" : "main_activityWeekAward",
+         "kind" : 2,
+         "name" : "每周累计消费奖励"
+      },
+      "refId" : "activity_manage_11"
+   },
+   "activity_manage_12" : {
+      "property" : {
+         "activitySortId" : 15,
+         "description" : "",
+         "iconId" : "main_activityFund",
+         "kind" : 2,
+         "name" : "遮天基金"
+      },
+      "refId" : "activity_manage_12"
+   },
+   "activity_manage_13" : {
+      "property" : {
+         "activitySortId" : 16,
+         "description" : "",
+         "iconId" : "main_activityFirstPay",
+         "kind" : 3,
+         "name" : "首充礼包"
+      },
+      "refId" : "activity_manage_13"
+   },
+   "activity_manage_14" : {
+      "property" : {
+         "activitySortId" : 3,
+         "description" : "",
+         "iconId" : "main_activityTopupGift",
+         "kind" : 2,
+         "name" : "充值礼包"
+      },
+      "refId" : "activity_manage_14"
+   },
+   "activity_manage_15" : {
+      "property" : {
+         "activitySortId" : 6,
+         "description" : "",
+         "iconId" : "main_activityMine",
+         "kind" : 0,
+         "name" : "挖宝"
+      },
+      "refId" : "activity_manage_15"
+   },
+   "activity_manage_16" : {
+      "property" : {
+         "activitySortId" : 2,
+         "description" : "",
+         "iconId" : "main_activityVIPLottery",
+         "kind" : 3,
+         "name" : "VIP抽奖"
+      },
+      "refId" : "activity_manage_16"
+   },
+   "activity_manage_17" : {
+      "property" : {
+         "activitySortId" : 17,
+         "description" : "",
+         "iconId" : "main_activityLevelUpAward",
+         "kind" : 1,
+         "name" : "限时速冲"
+      },
+      "refId" : "activity_manage_17"
+   },
+   "activity_manage_18" : {
+      "property" : {
+         "activitySortId" : 18,
+         "description" : "",
+         "iconId" : "main_activityLimitTimeRank",
+         "kind" : 1,
+         "name" : "限时冲榜"
+      },
+      "refId" : "activity_manage_18"
+   },
+   "activity_manage_19" : {
+      "property" : {
+         "activitySortId" : 19,
+         "description" : "加入公会后的第一福利就是可以跟随会长 每天击败这个被公会囚禁的可怜的怪物，禁地魔王异常强大，需要公会的成员们齐心协力才能战胜。战胜禁地魔王的公会所有成员都可以获得丰厚的副本礼包-哪怕你是打酱油的。挑战失败的公会成员们，他们一无所获-哪怕他们英勇异常",
+         "iconId" : "main_activityUnion",
+         "kind" : 0,
+         "name" : "公会副本"
+      },
+      "refId" : "activity_manage_19"
+   },
+   "activity_manage_2" : {
+      "property" : {
+         "activitySortId" : 7,
+         "description" : "",
+         "iconId" : "sevenLoginIcon",
+         "kind" : 1,
+         "name" : "7日登陆"
+      },
+      "refId" : "activity_manage_2"
+   },
+   "activity_manage_20" : {
+      "property" : {
+         "activitySortId" : 20,
+         "description" : "现在你可以通过组队进入某些地宫的三、四层，挑战更高奖励，更强BOSS",
+         "iconId" : "teamBossRed",
+         "kind" : 0,
+         "name" : "组队BOSS"
+      },
+      "refId" : "activity_manage_20"
+   },
+   "activity_manage_21" : {
+      "property" : {
+         "activitySortId" : 21,
+         "description" : "现在你可以通过组队进入某些地宫的三、四层，挑战更高奖励，更强BOSS",
+         "iconId" : "teamBossBlue",
+         "kind" : 0,
+         "name" : "组队BOSS"
+      },
+      "refId" : "activity_manage_21"
+   },
+   "activity_manage_22" : {
+      "property" : {
+         "activitySortId" : 22,
+         "description" : "现在你可以通过组队进入某些地宫的三、四层，挑战更高奖励，更强BOSS",
+         "iconId" : "teamBossYellow",
+         "kind" : 0,
+         "name" : "组队BOSS"
+      },
+      "refId" : "activity_manage_22"
+   },
+   "activity_manage_23" : {
+      "property" : {
+         "activitySortId" : 23,
+         "description" : "活动时间内全服打怪可获得双倍经验，可与使用多倍宝典效果叠加，打怪经验在原效果基础增加1倍。",
+         "iconId" : "main_multipleExp",
+         "kind" : 0,
+         "name" : "双倍经验"
+      },
+      "refId" : "activity_manage_23"
+   },
+   "activity_manage_3" : {
+      "property" : {
+         "activitySortId" : 1,
+         "description" : "",
+         "iconId" : "main_activityOnlineTimer",
+         "kind" : 0,
+         "name" : "在线时长礼包"
+      },
+      "refId" : "activity_manage_3"
+   },
+   "activity_manage_4" : {
+      "property" : {
+         "activitySortId" : 5,
+         "description" : "",
+         "iconId" : "main_activityUpGradeAward",
+         "kind" : 2,
+         "name" : "坐骑、法宝、翅膀进阶奖励"
+      },
+      "refId" : "activity_manage_4"
+   },
+   "activity_manage_5" : {
+      "property" : {
+         "activitySortId" : 9,
+         "description" : "",
+         "iconId" : "main_activityHonor",
+         "kind" : 1,
+         "name" : "天梯排名"
+      },
+      "refId" : "activity_manage_5"
+   },
+   "activity_manage_6" : {
+      "property" : {
+         "activitySortId" : 12,
+         "description" : "击杀魔宫内的BOSS更可掉落大量的兑换券，拾取兑换券后在场景四角的活动使者换取极品牌子。活动地图内击杀玩家不会增加PK值。",
+         "iconId" : "main_activityMonsterInvasion",
+         "kind" : 0,
+         "name" : "怪物入侵"
+      },
+      "refId" : "activity_manage_6"
+   },
+   "activity_manage_7" : {
+      "property" : {
+         "activitySortId" : 11,
+         "description" : "冰岛采矿可以获得各种稀有材料。岛上的矿分为多种，越是偏远的地方，矿越稀有，相对的产出也奇高。在这里，你可以选择在安全区里收走低级矿，也可以选择和其他玩家争夺高级矿。在冰岛，死亡不会有任何损失。",
+         "iconId" : "main_activityMining",
+         "kind" : 0,
+         "name" : "挖矿"
+      },
+      "refId" : "activity_manage_7"
+   },
+   "activity_manage_8" : {
+      "property" : {
+         "activitySortId" : 10,
+         "description" : "所有公会会长都可以在盟重皇宫内的“王城争霸管理员”处持“祖玛头像”申请攻城。\n攻城活动晚上8点30分开始，3天一战。\n攻城战获胜公会将成为王城公会。\n王城公会成员获得特殊称号。\n王城公会成员每日可领取“王城礼包”。",
+         "iconId" : "main_activityShabake",
+         "kind" : 0,
+         "name" : "沙巴克攻城战"
+      },
+      "refId" : "activity_manage_8"
+   },
+   "activity_manage_9" : {
+      "property" : {
+         "activitySortId" : 14,
+         "description" : "",
+         "iconId" : "main_activityDiscountSell",
+         "kind" : 3,
+         "name" : "天天淘"
+      },
+      "refId" : "activity_manage_9"
+   }
+}
+

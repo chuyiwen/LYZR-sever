@@ -1,0 +1,199 @@
+{
+   "sevenlogin_1" : {
+      "property" : {
+         "iconId" : "ride_9"
+      },
+      "refId" : "sevenlogin_1",
+      "sevenLoginReward" : [
+         {
+            "number" : 100000,
+            "refId" : "gold"
+         },
+         {
+            "number" : 10,
+            "refId" : "item_qianghuashi"
+         },
+         {
+            "number" : 2,
+            "refId" : "item_2exp"
+         },
+         {
+            "number" : 10,
+            "refId" : "item_drug_9"
+         },
+         {
+            "number" : 300,
+            "refId" : "bindedGold"
+         }
+      ]
+   },
+   "sevenlogin_2" : {
+      "property" : {
+         "iconId" : "ride_9"
+      },
+      "refId" : "sevenlogin_2",
+      "sevenLoginReward" : [
+         {
+            "number" : 5,
+            "refId" : "item_lingpai_1"
+         },
+         {
+            "number" : 15,
+            "refId" : "item_qianghuashi"
+         },
+         {
+            "number" : 2,
+            "refId" : "item_2exp"
+         },
+         {
+            "number" : 1,
+            "refId" : "item_moxueshi_2"
+         },
+         {
+            "number" : 800,
+            "refId" : "bindedGold"
+         }
+      ]
+   },
+   "sevenlogin_3" : {
+      "property" : {
+         "iconId" : "ride_9"
+      },
+      "refId" : "sevenlogin_3",
+      "sevenLoginReward" : [
+         {
+            "number" : 20,
+            "refId" : "item_shenqiExp"
+         },
+         {
+            "number" : 20,
+            "refId" : "item_qianghuashi"
+         },
+         {
+            "number" : 2,
+            "refId" : "item_2exp"
+         },
+         {
+            "number" : 5,
+            "refId" : "item_horn"
+         },
+         {
+            "number" : 1000,
+            "refId" : "bindedGold"
+         }
+      ]
+   },
+   "sevenlogin_4" : {
+      "property" : {
+         "iconId" : "ride_9"
+      },
+      "refId" : "sevenlogin_4",
+      "sevenLoginReward" : [
+         {
+            "number" : 1,
+            "refId" : "item_exp_1"
+         },
+         {
+            "number" : 30,
+            "refId" : "item_qianghuashi"
+         },
+         {
+            "number" : 2,
+            "refId" : "item_2exp"
+         },
+         {
+            "number" : 1,
+            "refId" : "item_moxueshi_2"
+         },
+         {
+            "number" : 1200,
+            "refId" : "bindedGold"
+         }
+      ]
+   },
+   "sevenlogin_5" : {
+      "property" : {
+         "iconId" : "ride_9"
+      },
+      "refId" : "sevenlogin_5",
+      "sevenLoginReward" : [
+         {
+            "number" : 500000,
+            "refId" : "gold"
+         },
+         {
+            "number" : 30,
+            "refId" : "item_qianghuashi"
+         },
+         {
+            "number" : 2,
+            "refId" : "item_2exp"
+         },
+         {
+            "number" : 1,
+            "refId" : "item_moxueshi_2"
+         },
+         {
+            "number" : 1500,
+            "refId" : "bindedGold"
+         }
+      ]
+   },
+   "sevenlogin_6" : {
+      "property" : {
+         "iconId" : "ride_9"
+      },
+      "refId" : "sevenlogin_6",
+      "sevenLoginReward" : [
+         {
+            "number" : 1,
+            "refId" : "item_exp_1"
+         },
+         {
+            "number" : 30,
+            "refId" : "item_qianghuashi"
+         },
+         {
+            "number" : 2,
+            "refId" : "item_2exp"
+         },
+         {
+            "number" : 1,
+            "refId" : "item_moxueshi_2"
+         },
+         {
+            "number" : 2000,
+            "refId" : "bindedGold"
+         }
+      ]
+   },
+   "sevenlogin_7" : {
+      "property" : {
+         "iconId" : "ride_9"
+      },
+      "refId" : "sevenlogin_7",
+      "sevenLoginReward" : [
+         {
+            "number" : 1,
+            "refId" : "item_qianghuajuan_9"
+         },
+         {
+            "number" : 50,
+            "refId" : "item_qianghuashi"
+         },
+         {
+            "number" : 2,
+            "refId" : "item_2exp"
+         },
+         {
+            "number" : 1,
+            "refId" : "item_moxueshi_3"
+         },
+         {
+            "number" : 3000,
+            "refId" : "bindedGold"
+         }
+      ]
+   }
+}
+

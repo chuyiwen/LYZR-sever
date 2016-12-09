@@ -1,0 +1,505 @@
+{
+   "equip_resolve_base" : {
+      "configData" : [
+         {
+            "evaluateLevel" : "[0,100]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 10000,
+                  "refId" : "item_qianghuashi"
+               }
+            ],
+            "property" : {
+               "exp" : 1000
+            }
+         },
+         {
+            "evaluateLevel" : "[1001,1100]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 3000000
+            }
+         },
+         {
+            "evaluateLevel" : "[101,200]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 1,
+                  "probability" : 100000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 4000
+            }
+         },
+         {
+            "evaluateLevel" : "[1101,1200]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 5000
+            }
+         },
+         {
+            "evaluateLevel" : "[1201,1300]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 20000
+            }
+         },
+         {
+            "evaluateLevel" : "[1301,1400]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 150000
+            }
+         },
+         {
+            "evaluateLevel" : "[1401,1500]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 400000
+            }
+         },
+         {
+            "evaluateLevel" : "[1501,3000]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 750000
+            }
+         },
+         {
+            "evaluateLevel" : "[201,300]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 1,
+                  "probability" : 100000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 1,
+                  "probability" : 100000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 30000
+            }
+         },
+         {
+            "evaluateLevel" : "[301,400]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 80000
+            }
+         },
+         {
+            "evaluateLevel" : "[401,500]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 2,
+                  "probability" : 500000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 2,
+                  "probability" : 500000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 2,
+                  "probability" : 500000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 150000
+            }
+         },
+         {
+            "evaluateLevel" : "[501,600]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 3,
+                  "probability" : 600000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 3,
+                  "probability" : 600000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 3,
+                  "probability" : 600000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 300000
+            }
+         },
+         {
+            "evaluateLevel" : "[601,700]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 500000
+            }
+         },
+         {
+            "evaluateLevel" : "[701,800]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 800000
+            }
+         },
+         {
+            "evaluateLevel" : "[801,900]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 1200000
+            }
+         },
+         {
+            "evaluateLevel" : "[901,1000]",
+            "itemList" : [
+               {
+                  "number" : 1,
+                  "probability" : 200000,
+                  "refId" : "item_qianghuashi"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_chibangExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_shenqiExp"
+               },
+               {
+                  "number" : 4,
+                  "probability" : 800000,
+                  "refId" : "item_zuoqiExp"
+               }
+            ],
+            "property" : {
+               "exp" : 2000000
+            }
+         }
+      ],
+      "name" : "装备分解基本配置",
+      "refId" : "equip_resolve_base"
+   },
+   "equip_resolve_scroll" : {
+      "configData" : [
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_1",
+               "strengtheningLevel" : 1
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_10",
+               "strengtheningLevel" : 10
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_11",
+               "strengtheningLevel" : 11
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_12",
+               "strengtheningLevel" : 12
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_2",
+               "strengtheningLevel" : 2
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_3",
+               "strengtheningLevel" : 3
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_4",
+               "strengtheningLevel" : 4
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_5",
+               "strengtheningLevel" : 5
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_6",
+               "strengtheningLevel" : 6
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_7",
+               "strengtheningLevel" : 7
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_8",
+               "strengtheningLevel" : 8
+            }
+         },
+         {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_9",
+               "strengtheningLevel" : 9
+            }
+         }
+      ],
+      "name" : "装备分解附加配置",
+      "refId" : "equip_resolve_scroll"
+   }
+}
+

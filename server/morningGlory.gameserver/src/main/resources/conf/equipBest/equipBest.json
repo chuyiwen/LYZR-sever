@@ -1,0 +1,87 @@
+{
+   "level_30_1_0" : {
+      "equitId" : "equip_40_1101",
+      "gender" : 0,
+      "level" : 40,
+      "profession" : 1,
+      "refId" : "level_30_1_0"
+   },
+   "level_30_2_0" : {
+      "equitId" : "equip_40_1202",
+      "gender" : 0,
+      "level" : 40,
+      "profession" : 2,
+      "refId" : "level_30_2_0"
+   },
+   "level_30_3_0" : {
+      "equitId" : "equip_40_1301",
+      "gender" : 0,
+      "level" : 40,
+      "profession" : 3,
+      "refId" : "level_30_3_0"
+   },
+   "level_40_1_0" : {
+      "equitId" : "equip_50_1104",
+      "gender" : 0,
+      "level" : 50,
+      "profession" : 1,
+      "refId" : "level_40_1_0"
+   },
+   "level_40_2_0" : {
+      "equitId" : "equip_50_1201",
+      "gender" : 0,
+      "level" : 50,
+      "profession" : 2,
+      "refId" : "level_40_2_0"
+   },
+   "level_40_3_0" : {
+      "equitId" : "equip_50_1305",
+      "gender" : 0,
+      "level" : 50,
+      "profession" : 3,
+      "refId" : "level_40_3_0"
+   },
+   "level_50_1_0" : {
+      "equitId" : "equip_60_1103",
+      "gender" : 0,
+      "level" : 60,
+      "profession" : 1,
+      "refId" : "level_50_1_0"
+   },
+   "level_50_2_0" : {
+      "equitId" : "equip_60_1204",
+      "gender" : 0,
+      "level" : 60,
+      "profession" : 2,
+      "refId" : "level_50_2_0"
+   },
+   "level_50_3_0" : {
+      "equitId" : "equip_60_1303",
+      "gender" : 0,
+      "level" : 60,
+      "profession" : 3,
+      "refId" : "level_50_3_0"
+   },
+   "level_60_1_0" : {
+      "equitId" : "equip_70_1102",
+      "gender" : 0,
+      "level" : 70,
+      "profession" : 1,
+      "refId" : "level_60_1_0"
+   },
+   "level_60_2_0" : {
+      "equitId" : "equip_70_1203",
+      "gender" : 0,
+      "level" : 70,
+      "profession" : 2,
+      "refId" : "level_60_2_0"
+   },
+   "level_60_3_0" : {
+      "equitId" : "equip_70_1302",
+      "gender" : 0,
+      "level" : 70,
+      "profession" : 3,
+      "refId" : "level_60_3_0"
+   }
+}
+

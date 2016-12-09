@@ -1,0 +1,132 @@
+{
+   "Ins_pk2" : {
+      "configData" : {
+         "game_instance" : {
+            "configData" : {
+               "Ins_pk2" : {
+                  "description" : "击败全部仇人",
+                  "gameInstanceData" : {
+                     "openDetailsData" : "00:00:00|86400",
+                     "structureDetails" : [ "I101" ]
+                  },
+                  "name" : "惩治仇敌",
+                  "property" : {
+                     "isTeam" : 0,
+                     "level" : 1,
+                     "name" : "惩治仇敌",
+                     "questRefId" : "",
+                     "timesADay" : 10,
+                     "timesAWeek" : 0
+                  },
+                  "refId" : "Ins_pk2"
+               }
+            },
+            "name" : "Ins_pk2 任务总表",
+            "refId" : "game_instance"
+         },
+         "game_instance_quest" : {
+            "configData" : {
+               "quest_1" : {
+                  "description" : "击败{monster_1004}。",
+                  "name" : "击败战士",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_1004",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 10000,
+                           "gold" : 10000
+                        }
+                     }
+                  },
+                  "refId" : "quest_1"
+               },
+               "quest_2" : {
+                  "description" : "击败{monster_1005}。",
+                  "name" : "击败法师",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_1005",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 10000,
+                           "gold" : 10000
+                        }
+                     }
+                  },
+                  "refId" : "quest_2"
+               },
+               "quest_3" : {
+                  "description" : "击败{monster_1006}。",
+                  "name" : "击败道士",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_1006",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 10000,
+                           "gold" : 10000
+                        }
+                     }
+                  },
+                  "refId" : "quest_3"
+               }
+            },
+            "name" : "副本任务表",
+            "refId" : "game_instance_quest"
+         },
+         "game_instance_scene" : {
+            "configData" : {
+               "I152" : {
+                  "description" : "击败所有敌人",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_1", "quest_2", "quest_3" ],
+                     "consumptionItems" : null,
+                     "succeedConditionData" : "monster_1004=1&monster_1005=1&monster_1006=1"
+                  },
+                  "mapId" : 152,
+                  "property" : {
+                     "sceneRefId" : "S152",
+                     "succeedType" : 1
+                  },
+                  "refId" : "I152"
+               }
+            },
+            "name" : "副本层总表",
+            "refId" : "game_instance_scene"
+         }
+      },
+      "instanceType" : 3,
+      "introduce" : "",
+      "name" : "重返尸王殿",
+      "refId" : "Ins_pk2"
+   }
+}
+

@@ -1,0 +1,973 @@
+{
+   "lotterycount" : {
+      "configData" : {
+         "lot_1" : {
+            "property" : {
+               "timesADay" : 5
+            },
+            "refId" : "lot_1"
+         },
+         "lot_2" : {
+            "property" : {
+               "timesADay" : 5
+            },
+            "refId" : "lot_2"
+         },
+         "lot_3" : {
+            "property" : {
+               "timesADay" : 4
+            },
+            "refId" : "lot_3"
+         },
+         "lot_4" : {
+            "property" : {
+               "timesADay" : 4
+            },
+            "refId" : "lot_4"
+         },
+         "lot_5" : {
+            "property" : {
+               "timesADay" : 3
+            },
+            "refId" : "lot_5"
+         },
+         "lot_6" : {
+            "property" : {
+               "timesADay" : 3
+            },
+            "refId" : "lot_6"
+         },
+         "lot_7" : {
+            "property" : {
+               "timesADay" : 2
+            },
+            "refId" : "lot_7"
+         }
+      },
+      "name" : "抽奖赠送次数",
+      "refId" : "lotterycount"
+   },
+   "lotteryreward" : {
+      "configData" : {
+         "lotteryGroup_1" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 1,
+               "itemRefId" : "item_drug_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_1"
+         },
+         "lotteryGroup_10" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 2,
+               "itemRefId" : "item_drug_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_10"
+         },
+         "lotteryGroup_11" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 2,
+               "itemRefId" : "item_drug_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_11"
+         },
+         "lotteryGroup_12" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 2,
+               "itemRefId" : "item_danyao_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_12"
+         },
+         "lotteryGroup_13" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 2,
+               "itemRefId" : "item_danyao_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_13"
+         },
+         "lotteryGroup_14" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 2,
+               "itemRefId" : "item_danyao_4",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_14"
+         },
+         "lotteryGroup_15" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 2,
+               "itemRefId" : "item_moxueshi_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_15"
+         },
+         "lotteryGroup_16" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 2,
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_16"
+         },
+         "lotteryGroup_17" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 3,
+               "itemRefId" : "item_drug_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_17"
+         },
+         "lotteryGroup_18" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 3,
+               "itemRefId" : "item_drug_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_18"
+         },
+         "lotteryGroup_19" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 3,
+               "itemRefId" : "item_drug_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_19"
+         },
+         "lotteryGroup_2" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 1,
+               "itemRefId" : "item_drug_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_2"
+         },
+         "lotteryGroup_20" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 3,
+               "itemRefId" : "item_danyao_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_20"
+         },
+         "lotteryGroup_21" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 3,
+               "itemRefId" : "item_danyao_3",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_21"
+         },
+         "lotteryGroup_22" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 3,
+               "itemRefId" : "item_danyao_4",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_22"
+         },
+         "lotteryGroup_23" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 3,
+               "itemRefId" : "item_moxueshi_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_23"
+         },
+         "lotteryGroup_24" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 3,
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_24"
+         },
+         "lotteryGroup_25" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 4,
+               "itemRefId" : "item_drug_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_25"
+         },
+         "lotteryGroup_26" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 4,
+               "itemRefId" : "item_drug_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_26"
+         },
+         "lotteryGroup_27" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 4,
+               "itemRefId" : "item_drug_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_27"
+         },
+         "lotteryGroup_28" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 4,
+               "itemRefId" : "item_danyao_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_28"
+         },
+         "lotteryGroup_29" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 4,
+               "itemRefId" : "item_danyao_3",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_29"
+         },
+         "lotteryGroup_3" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 1,
+               "itemRefId" : "item_drug_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_3"
+         },
+         "lotteryGroup_30" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 4,
+               "itemRefId" : "item_danyao_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_30"
+         },
+         "lotteryGroup_31" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 4,
+               "itemRefId" : "item_moxueshi_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_31"
+         },
+         "lotteryGroup_32" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 4,
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_32"
+         },
+         "lotteryGroup_33" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 5,
+               "itemRefId" : "item_drug_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_33"
+         },
+         "lotteryGroup_34" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 5,
+               "itemRefId" : "item_drug_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_34"
+         },
+         "lotteryGroup_35" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 5,
+               "itemRefId" : "item_drug_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_35"
+         },
+         "lotteryGroup_36" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 5,
+               "itemRefId" : "item_danyao_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_36"
+         },
+         "lotteryGroup_37" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 5,
+               "itemRefId" : "item_danyao_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_37"
+         },
+         "lotteryGroup_38" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 5,
+               "itemRefId" : "item_danyao_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_38"
+         },
+         "lotteryGroup_39" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 5,
+               "itemRefId" : "item_moxueshi_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_39"
+         },
+         "lotteryGroup_4" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 1,
+               "itemRefId" : "item_danyao_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_4"
+         },
+         "lotteryGroup_40" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 5,
+               "itemRefId" : "item_luck",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_40"
+         },
+         "lotteryGroup_41" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 6,
+               "itemRefId" : "item_drug_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_41"
+         },
+         "lotteryGroup_42" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 6,
+               "itemRefId" : "item_drug_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_42"
+         },
+         "lotteryGroup_43" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 6,
+               "itemRefId" : "item_drug_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_43"
+         },
+         "lotteryGroup_44" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 6,
+               "itemRefId" : "item_danyao_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_44"
+         },
+         "lotteryGroup_45" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 6,
+               "itemRefId" : "item_danyao_3",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_45"
+         },
+         "lotteryGroup_46" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 6,
+               "itemRefId" : "item_danyao_4",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_46"
+         },
+         "lotteryGroup_47" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 6,
+               "itemRefId" : "item_luck",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_47"
+         },
+         "lotteryGroup_48" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 6,
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_48"
+         },
+         "lotteryGroup_49" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 7,
+               "itemRefId" : "item_drug_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_49"
+         },
+         "lotteryGroup_5" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 1,
+               "itemRefId" : "item_danyao_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_5"
+         },
+         "lotteryGroup_50" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 7,
+               "itemRefId" : "item_drug_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_50"
+         },
+         "lotteryGroup_51" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 7,
+               "itemRefId" : "item_drug_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_51"
+         },
+         "lotteryGroup_52" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 7,
+               "itemRefId" : "item_danyao_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_52"
+         },
+         "lotteryGroup_53" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 7,
+               "itemRefId" : "item_danyao_4",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_53"
+         },
+         "lotteryGroup_54" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 7,
+               "itemRefId" : "item_danyao_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_54"
+         },
+         "lotteryGroup_55" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 7,
+               "itemRefId" : "item_luck",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_55"
+         },
+         "lotteryGroup_56" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 7,
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_56"
+         },
+         "lotteryGroup_57" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 8,
+               "itemRefId" : "item_drug_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_57"
+         },
+         "lotteryGroup_58" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 8,
+               "itemRefId" : "item_drug_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_58"
+         },
+         "lotteryGroup_59" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 8,
+               "itemRefId" : "item_drug_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_59"
+         },
+         "lotteryGroup_6" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 1,
+               "itemRefId" : "item_danyao_3",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_6"
+         },
+         "lotteryGroup_60" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 8,
+               "itemRefId" : "item_danyao_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_60"
+         },
+         "lotteryGroup_61" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 8,
+               "itemRefId" : "item_danyao_4",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_61"
+         },
+         "lotteryGroup_62" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 8,
+               "itemRefId" : "item_danyao_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_62"
+         },
+         "lotteryGroup_63" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 8,
+               "itemRefId" : "item_luck",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_63"
+         },
+         "lotteryGroup_64" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 8,
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_64"
+         },
+         "lotteryGroup_65" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 9,
+               "itemRefId" : "item_drug_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_65"
+         },
+         "lotteryGroup_66" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 9,
+               "itemRefId" : "item_drug_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_66"
+         },
+         "lotteryGroup_67" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 9,
+               "itemRefId" : "item_drug_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_67"
+         },
+         "lotteryGroup_68" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 9,
+               "itemRefId" : "item_danyao_3",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_68"
+         },
+         "lotteryGroup_69" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 9,
+               "itemRefId" : "item_danyao_4",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_69"
+         },
+         "lotteryGroup_7" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 1,
+               "itemRefId" : "item_moxueshi_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_7"
+         },
+         "lotteryGroup_70" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 9,
+               "itemRefId" : "item_danyao_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_70"
+         },
+         "lotteryGroup_71" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 9,
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_71"
+         },
+         "lotteryGroup_72" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 9,
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_72"
+         },
+         "lotteryGroup_73" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 10,
+               "itemRefId" : "item_drug_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_73"
+         },
+         "lotteryGroup_74" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 10,
+               "itemRefId" : "item_drug_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_74"
+         },
+         "lotteryGroup_75" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 10,
+               "itemRefId" : "item_drug_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_75"
+         },
+         "lotteryGroup_76" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 10,
+               "itemRefId" : "item_danyao_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_76"
+         },
+         "lotteryGroup_77" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 10,
+               "itemRefId" : "item_danyao_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_77"
+         },
+         "lotteryGroup_78" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 10,
+               "itemRefId" : "item_danyao_3",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_78"
+         },
+         "lotteryGroup_79" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 10,
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_79"
+         },
+         "lotteryGroup_8" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 1,
+               "itemRefId" : "item_horn",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_8"
+         },
+         "lotteryGroup_80" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 10,
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_80"
+         },
+         "lotteryGroup_9" : {
+            "property" : {
+               "bindStatus" : 1,
+               "itemGroup" : 2,
+               "itemRefId" : "item_drug_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 125000
+            },
+            "refId" : "lotteryGroup_9"
+         }
+      },
+      "name" : "抽奖奖励",
+      "refId" : "lotteryreward"
+   },
+   "lotteryvip" : {
+      "configData" : {
+         "lotvip_0" : {
+            "property" : {
+               "description" : "玩家出生后前七天可免费获得抽奖机会",
+               "name" : "非VIP",
+               "timesADay" : 0,
+               "tips" : "购买青铜VIP，每天可自动获得3次抽奖机会",
+               "vipType" : 0
+            },
+            "refId" : "lotvip_0"
+         },
+         "lotvip_1" : {
+            "property" : {
+               "description" : "青铜VIP玩家每天增加3次抽奖机会",
+               "name" : "青铜VIP",
+               "timesADay" : 3,
+               "tips" : "升级到黄金VIP，每天可自动获得5次抽奖机会",
+               "vipType" : 1
+            },
+            "refId" : "lotvip_1"
+         },
+         "lotvip_3" : {
+            "property" : {
+               "description" : "黄金VIP玩家每天增加5次抽奖机会",
+               "name" : "黄金VIP",
+               "timesADay" : 5,
+               "tips" : "抽奖次数已用完，请明天再参与",
+               "vipType" : 3
+            },
+            "refId" : "lotvip_3"
+         }
+      },
+      "name" : "VIP玩家抽奖配置",
+      "refId" : "lotteryvip"
+   }
+}
+

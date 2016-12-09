@@ -1,0 +1,3973 @@
+{
+   "digsreward" : {
+      "configData" : {
+         "digs_1" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "item_goldMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 128000
+            },
+            "refId" : "digs_1"
+         },
+         "digs_10" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_10"
+         },
+         "digs_100" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6101",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_100"
+         },
+         "digs_101" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6102",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_101"
+         },
+         "digs_102" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6103",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_102"
+         },
+         "digs_103" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6201",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_103"
+         },
+         "digs_104" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6202",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_104"
+         },
+         "digs_105" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6203",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_105"
+         },
+         "digs_106" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6301",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_106"
+         },
+         "digs_107" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6302",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_107"
+         },
+         "digs_108" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_108"
+         },
+         "digs_109" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_1102",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_109"
+         },
+         "digs_11" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_11"
+         },
+         "digs_110" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_110"
+         },
+         "digs_111" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_111"
+         },
+         "digs_112" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_112"
+         },
+         "digs_113" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_1302",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_113"
+         },
+         "digs_114" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_1303",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_114"
+         },
+         "digs_115" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2111",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_115"
+         },
+         "digs_116" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2121",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_116"
+         },
+         "digs_117" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2211",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_117"
+         },
+         "digs_118" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2221",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_118"
+         },
+         "digs_119" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2311",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_119"
+         },
+         "digs_12" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_12"
+         },
+         "digs_120" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2321",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_120"
+         },
+         "digs_121" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6101",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_121"
+         },
+         "digs_122" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6102",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_122"
+         },
+         "digs_123" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6103",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_123"
+         },
+         "digs_124" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6201",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_124"
+         },
+         "digs_125" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6202",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_125"
+         },
+         "digs_126" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6203",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_126"
+         },
+         "digs_127" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6301",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_127"
+         },
+         "digs_128" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6302",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 50
+            },
+            "refId" : "digs_128"
+         },
+         "digs_129" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_1100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_129"
+         },
+         "digs_13" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_13"
+         },
+         "digs_130" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_1200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_130"
+         },
+         "digs_131" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_1300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_131"
+         },
+         "digs_132" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_1100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_132"
+         },
+         "digs_133" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_1200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_133"
+         },
+         "digs_134" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_1300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_134"
+         },
+         "digs_135" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_1100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_135"
+         },
+         "digs_136" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_1200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_136"
+         },
+         "digs_137" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_1300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_137"
+         },
+         "digs_138" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_1100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_138"
+         },
+         "digs_139" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_1200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_139"
+         },
+         "digs_14" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_2111",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_14"
+         },
+         "digs_140" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_1300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_140"
+         },
+         "digs_141" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_1100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_141"
+         },
+         "digs_142" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_1200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_142"
+         },
+         "digs_143" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_1300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_143"
+         },
+         "digs_144" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2110",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_144"
+         },
+         "digs_145" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2120",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_145"
+         },
+         "digs_146" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2210",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_146"
+         },
+         "digs_147" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2220",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_147"
+         },
+         "digs_148" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2310",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_148"
+         },
+         "digs_149" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2320",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_149"
+         },
+         "digs_15" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_2121",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_15"
+         },
+         "digs_150" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2110",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_150"
+         },
+         "digs_151" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2120",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_151"
+         },
+         "digs_152" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2210",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_152"
+         },
+         "digs_153" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2220",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_153"
+         },
+         "digs_154" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2310",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_154"
+         },
+         "digs_155" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2320",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_155"
+         },
+         "digs_156" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2110",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_156"
+         },
+         "digs_157" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2120",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_157"
+         },
+         "digs_158" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2210",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_158"
+         },
+         "digs_159" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2220",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_159"
+         },
+         "digs_16" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_2212",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_16"
+         },
+         "digs_160" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2310",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_160"
+         },
+         "digs_161" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2320",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_161"
+         },
+         "digs_162" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2110",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_162"
+         },
+         "digs_163" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2120",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_163"
+         },
+         "digs_164" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2210",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_164"
+         },
+         "digs_165" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2220",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_165"
+         },
+         "digs_166" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2310",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_166"
+         },
+         "digs_167" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_2320",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_167"
+         },
+         "digs_168" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_2110",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_168"
+         },
+         "digs_169" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_2120",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_169"
+         },
+         "digs_17" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_2222",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_17"
+         },
+         "digs_170" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_2210",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_170"
+         },
+         "digs_171" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_2220",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_171"
+         },
+         "digs_172" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_2310",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_172"
+         },
+         "digs_173" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_2320",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_173"
+         },
+         "digs_174" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_3100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_174"
+         },
+         "digs_175" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_3200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_175"
+         },
+         "digs_176" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_3300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_176"
+         },
+         "digs_177" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_3100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_177"
+         },
+         "digs_178" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_3200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_178"
+         },
+         "digs_179" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_3300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_179"
+         },
+         "digs_18" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_2312",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_18"
+         },
+         "digs_180" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_3100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_180"
+         },
+         "digs_181" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_3200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_181"
+         },
+         "digs_182" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_3300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_182"
+         },
+         "digs_183" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_3100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_183"
+         },
+         "digs_184" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_3200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_184"
+         },
+         "digs_185" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_3300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_185"
+         },
+         "digs_186" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_3100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_186"
+         },
+         "digs_187" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_3200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_187"
+         },
+         "digs_188" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_3300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_188"
+         },
+         "digs_189" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_4100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_189"
+         },
+         "digs_19" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_2322",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_19"
+         },
+         "digs_190" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_4200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_190"
+         },
+         "digs_191" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_4300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_191"
+         },
+         "digs_192" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_4100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_192"
+         },
+         "digs_193" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_4200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_193"
+         },
+         "digs_194" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_4300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_194"
+         },
+         "digs_195" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_4100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_195"
+         },
+         "digs_196" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_4200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_196"
+         },
+         "digs_197" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_4300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_197"
+         },
+         "digs_198" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_4100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_198"
+         },
+         "digs_199" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_4200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_199"
+         },
+         "digs_2" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "item_silverMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200000
+            },
+            "refId" : "digs_2"
+         },
+         "digs_20" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_6101",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_20"
+         },
+         "digs_200" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_4300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_200"
+         },
+         "digs_201" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_4100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_201"
+         },
+         "digs_202" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_4200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_202"
+         },
+         "digs_203" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_4300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_203"
+         },
+         "digs_204" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_5100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_204"
+         },
+         "digs_205" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_5200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_205"
+         },
+         "digs_206" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_5300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_206"
+         },
+         "digs_207" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_5100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_207"
+         },
+         "digs_208" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_5200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_208"
+         },
+         "digs_209" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_5300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_209"
+         },
+         "digs_21" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_6202",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_21"
+         },
+         "digs_210" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_5100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_210"
+         },
+         "digs_211" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_5200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_211"
+         },
+         "digs_212" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_5300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_212"
+         },
+         "digs_213" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_5100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_213"
+         },
+         "digs_214" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_5200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_214"
+         },
+         "digs_215" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_5300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_215"
+         },
+         "digs_216" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_5100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_216"
+         },
+         "digs_217" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_5200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_217"
+         },
+         "digs_218" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_5300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_218"
+         },
+         "digs_219" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_6100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_219"
+         },
+         "digs_22" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "equip_70_6302",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 500
+            },
+            "refId" : "digs_22"
+         },
+         "digs_220" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_6200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_220"
+         },
+         "digs_221" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_6300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_221"
+         },
+         "digs_222" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_222"
+         },
+         "digs_223" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_223"
+         },
+         "digs_224" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_224"
+         },
+         "digs_225" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_225"
+         },
+         "digs_226" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_226"
+         },
+         "digs_227" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_6300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_227"
+         },
+         "digs_228" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_228"
+         },
+         "digs_229" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_229"
+         },
+         "digs_23" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_exp_3",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 213000
+            },
+            "refId" : "digs_23"
+         },
+         "digs_230" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_6300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_230"
+         },
+         "digs_231" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_6100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_231"
+         },
+         "digs_232" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_6200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_232"
+         },
+         "digs_233" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_6300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_233"
+         },
+         "digs_234" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_7100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_234"
+         },
+         "digs_235" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_7200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_235"
+         },
+         "digs_236" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_7300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_236"
+         },
+         "digs_237" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_7100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_237"
+         },
+         "digs_238" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_7200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_238"
+         },
+         "digs_239" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_7300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_239"
+         },
+         "digs_24" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_exp_4",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 60000
+            },
+            "refId" : "digs_24"
+         },
+         "digs_240" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_7100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_240"
+         },
+         "digs_241" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_7200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_241"
+         },
+         "digs_242" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_7300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_242"
+         },
+         "digs_243" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_7100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_243"
+         },
+         "digs_244" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_7200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_244"
+         },
+         "digs_245" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_7300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_245"
+         },
+         "digs_246" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_7100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_246"
+         },
+         "digs_247" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_7200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_247"
+         },
+         "digs_248" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_7300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_248"
+         },
+         "digs_249" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_8100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_249"
+         },
+         "digs_25" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_exp_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 30000
+            },
+            "refId" : "digs_25"
+         },
+         "digs_250" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_8200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_250"
+         },
+         "digs_251" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_8300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_251"
+         },
+         "digs_252" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_8100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_252"
+         },
+         "digs_253" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_8200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_253"
+         },
+         "digs_254" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_8300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 3000
+            },
+            "refId" : "digs_254"
+         },
+         "digs_255" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_8100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_255"
+         },
+         "digs_256" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_8200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_256"
+         },
+         "digs_257" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_8300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1000
+            },
+            "refId" : "digs_257"
+         },
+         "digs_258" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_8100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_258"
+         },
+         "digs_259" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_8200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_259"
+         },
+         "digs_26" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_exp_6",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 9949
+            },
+            "refId" : "digs_26"
+         },
+         "digs_260" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_70_8300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 700
+            },
+            "refId" : "digs_260"
+         },
+         "digs_261" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_8100",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_261"
+         },
+         "digs_262" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_8200",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_262"
+         },
+         "digs_263" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_80_8300",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 300
+            },
+            "refId" : "digs_263"
+         },
+         "digs_27" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_qianghuashi",
+               "itemType" : 1,
+               "number" : 5,
+               "probability" : 30000
+            },
+            "refId" : "digs_27"
+         },
+         "digs_28" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 5,
+               "probability" : 30000
+            },
+            "refId" : "digs_28"
+         },
+         "digs_29" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 5,
+               "probability" : 30000
+            },
+            "refId" : "digs_29"
+         },
+         "digs_3" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "item_superluck",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 5500
+            },
+            "refId" : "digs_3"
+         },
+         "digs_30" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 5,
+               "probability" : 20000
+            },
+            "refId" : "digs_30"
+         },
+         "digs_31" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_goldMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 800
+            },
+            "refId" : "digs_31"
+         },
+         "digs_32" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_ironMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1500
+            },
+            "refId" : "digs_32"
+         },
+         "digs_33" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_copperMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 20000
+            },
+            "refId" : "digs_33"
+         },
+         "digs_34" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_silverMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 20000
+            },
+            "refId" : "digs_34"
+         },
+         "digs_35" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_2exp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 20000
+            },
+            "refId" : "digs_35"
+         },
+         "digs_36" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_3exp",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_36"
+         },
+         "digs_37" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_danyao_1",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_37"
+         },
+         "digs_38" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_danyao_2",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_38"
+         },
+         "digs_39" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_danyao_3",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_39"
+         },
+         "digs_4" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "item_qianghuajuan_10",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_4"
+         },
+         "digs_40" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_danyao_4",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_40"
+         },
+         "digs_41" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_danyao_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 10000
+            },
+            "refId" : "digs_41"
+         },
+         "digs_42" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_luck",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 20000
+            },
+            "refId" : "digs_42"
+         },
+         "digs_43" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_zhenmoling_1",
+               "itemType" : 1,
+               "number" : 5,
+               "probability" : 20000
+            },
+            "refId" : "digs_43"
+         },
+         "digs_44" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_superluck",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_44"
+         },
+         "digs_45" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_suipian_3",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 0
+            },
+            "refId" : "digs_45"
+         },
+         "digs_46" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_suipian_4",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 0
+            },
+            "refId" : "digs_46"
+         },
+         "digs_47" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_suipian_5",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 0
+            },
+            "refId" : "digs_47"
+         },
+         "digs_48" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_suipian_6",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 0
+            },
+            "refId" : "digs_48"
+         },
+         "digs_49" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_suipian_7",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 0
+            },
+            "refId" : "digs_49"
+         },
+         "digs_5" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "item_suipian",
+               "itemType" : 1,
+               "number" : 10,
+               "probability" : 10000
+            },
+            "refId" : "digs_5"
+         },
+         "digs_50" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_suipian_8",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 0
+            },
+            "refId" : "digs_50"
+         },
+         "digs_51" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_suipian_9",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 0
+            },
+            "refId" : "digs_51"
+         },
+         "digs_52" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_suipian_10",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 0
+            },
+            "refId" : "digs_52"
+         },
+         "digs_53" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_suipian",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 0
+            },
+            "refId" : "digs_53"
+         },
+         "digs_54" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "item_qianghuajuan_10",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 1
+            },
+            "refId" : "digs_54"
+         },
+         "digs_55" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_55"
+         },
+         "digs_56" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_1102",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_56"
+         },
+         "digs_57" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_57"
+         },
+         "digs_58" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_58"
+         },
+         "digs_59" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_59"
+         },
+         "digs_6" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 30,
+               "probability" : 160000
+            },
+            "refId" : "digs_6"
+         },
+         "digs_60" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_1302",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_60"
+         },
+         "digs_61" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2111",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_61"
+         },
+         "digs_62" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2121",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_62"
+         },
+         "digs_63" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2211",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_63"
+         },
+         "digs_64" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2221",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_64"
+         },
+         "digs_65" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2311",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_65"
+         },
+         "digs_66" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_40_2321",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_66"
+         },
+         "digs_67" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_67"
+         },
+         "digs_68" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_1102",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_68"
+         },
+         "digs_69" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_69"
+         },
+         "digs_7" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "item_qianghuashi",
+               "itemType" : 1,
+               "number" : 30,
+               "probability" : 160000
+            },
+            "refId" : "digs_7"
+         },
+         "digs_70" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_70"
+         },
+         "digs_71" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_71"
+         },
+         "digs_72" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_1302",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_72"
+         },
+         "digs_73" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_1303",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_73"
+         },
+         "digs_74" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2111",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_74"
+         },
+         "digs_75" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2121",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_75"
+         },
+         "digs_76" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2211",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_76"
+         },
+         "digs_77" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2221",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_77"
+         },
+         "digs_78" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2311",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_78"
+         },
+         "digs_79" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_2321",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_79"
+         },
+         "digs_8" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 30,
+               "probability" : 160000
+            },
+            "refId" : "digs_8"
+         },
+         "digs_80" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6101",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_80"
+         },
+         "digs_81" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6102",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_81"
+         },
+         "digs_82" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6103",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_82"
+         },
+         "digs_83" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6201",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_83"
+         },
+         "digs_84" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6202",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_84"
+         },
+         "digs_85" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6203",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_85"
+         },
+         "digs_86" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6301",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_86"
+         },
+         "digs_87" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_50_6302",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 200
+            },
+            "refId" : "digs_87"
+         },
+         "digs_88" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_88"
+         },
+         "digs_89" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_1102",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_89"
+         },
+         "digs_9" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 1,
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 15,
+               "probability" : 160000
+            },
+            "refId" : "digs_9"
+         },
+         "digs_90" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_90"
+         },
+         "digs_91" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_91"
+         },
+         "digs_92" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_92"
+         },
+         "digs_93" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_1302",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_93"
+         },
+         "digs_94" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2111",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_94"
+         },
+         "digs_95" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2121",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_95"
+         },
+         "digs_96" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2211",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_96"
+         },
+         "digs_97" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2221",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_97"
+         },
+         "digs_98" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2311",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_98"
+         },
+         "digs_99" : {
+            "property" : {
+               "bindStatus" : 0,
+               "itemGroup" : 2,
+               "itemRefId" : "equip_60_2321",
+               "itemType" : 1,
+               "number" : 1,
+               "probability" : 100
+            },
+            "refId" : "digs_99"
+         }
+      },
+      "name" : "挖宝奖励",
+      "refId" : "digsreward"
+   },
+   "digsshow" : {
+      "configData" : {
+         "digsshow_1" : {
+            "property" : {
+               "itemRefId" : "equip_70_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_1"
+         },
+         "digsshow_10" : {
+            "property" : {
+               "itemRefId" : "item_superluck",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_10"
+         },
+         "digsshow_100" : {
+            "property" : {
+               "itemRefId" : "equip_70_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_100"
+         },
+         "digsshow_101" : {
+            "property" : {
+               "itemRefId" : "item_silverMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_101"
+         },
+         "digsshow_102" : {
+            "property" : {
+               "itemRefId" : "item_qianghuashi",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_102"
+         },
+         "digsshow_103" : {
+            "property" : {
+               "itemRefId" : "equip_70_2121",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_103"
+         },
+         "digsshow_104" : {
+            "property" : {
+               "itemRefId" : "equip_70_2222",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_104"
+         },
+         "digsshow_105" : {
+            "property" : {
+               "itemRefId" : "item_superluck",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_105"
+         },
+         "digsshow_106" : {
+            "property" : {
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_106"
+         },
+         "digsshow_107" : {
+            "property" : {
+               "itemRefId" : "equip_70_6101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_107"
+         },
+         "digsshow_108" : {
+            "property" : {
+               "itemRefId" : "equip_70_6202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_108"
+         },
+         "digsshow_109" : {
+            "property" : {
+               "itemRefId" : "item_suipian",
+               "itemType" : 1,
+               "number" : 10,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_109"
+         },
+         "digsshow_11" : {
+            "property" : {
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_11"
+         },
+         "digsshow_110" : {
+            "property" : {
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_110"
+         },
+         "digsshow_111" : {
+            "property" : {
+               "itemRefId" : "equip_70_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_111"
+         },
+         "digsshow_112" : {
+            "property" : {
+               "itemRefId" : "item_goldMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_112"
+         },
+         "digsshow_113" : {
+            "property" : {
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 15,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_113"
+         },
+         "digsshow_114" : {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_10",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_114"
+         },
+         "digsshow_12" : {
+            "property" : {
+               "itemRefId" : "equip_70_2212",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_12"
+         },
+         "digsshow_13" : {
+            "property" : {
+               "itemRefId" : "equip_70_6302",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_13"
+         },
+         "digsshow_14" : {
+            "property" : {
+               "itemRefId" : "item_suipian",
+               "itemType" : 1,
+               "number" : 10,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_14"
+         },
+         "digsshow_15" : {
+            "property" : {
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_15"
+         },
+         "digsshow_16" : {
+            "property" : {
+               "itemRefId" : "equip_70_6202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_16"
+         },
+         "digsshow_17" : {
+            "property" : {
+               "itemRefId" : "item_goldMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_17"
+         },
+         "digsshow_18" : {
+            "property" : {
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 15,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_18"
+         },
+         "digsshow_19" : {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_10",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_19"
+         },
+         "digsshow_2" : {
+            "property" : {
+               "itemRefId" : "equip_70_2111",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_2"
+         },
+         "digsshow_20" : {
+            "property" : {
+               "itemRefId" : "equip_70_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_20"
+         },
+         "digsshow_21" : {
+            "property" : {
+               "itemRefId" : "equip_70_2121",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_21"
+         },
+         "digsshow_22" : {
+            "property" : {
+               "itemRefId" : "equip_70_6101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_22"
+         },
+         "digsshow_23" : {
+            "property" : {
+               "itemRefId" : "equip_70_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_23"
+         },
+         "digsshow_24" : {
+            "property" : {
+               "itemRefId" : "equip_70_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_24"
+         },
+         "digsshow_25" : {
+            "property" : {
+               "itemRefId" : "item_silverMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_25"
+         },
+         "digsshow_26" : {
+            "property" : {
+               "itemRefId" : "item_qianghuashi",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_26"
+         },
+         "digsshow_27" : {
+            "property" : {
+               "itemRefId" : "equip_70_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_27"
+         },
+         "digsshow_28" : {
+            "property" : {
+               "itemRefId" : "equip_70_2312",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_28"
+         },
+         "digsshow_29" : {
+            "property" : {
+               "itemRefId" : "item_superluck",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_29"
+         },
+         "digsshow_3" : {
+            "property" : {
+               "itemRefId" : "equip_70_6101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_3"
+         },
+         "digsshow_30" : {
+            "property" : {
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_30"
+         },
+         "digsshow_31" : {
+            "property" : {
+               "itemRefId" : "equip_70_2222",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_31"
+         },
+         "digsshow_32" : {
+            "property" : {
+               "itemRefId" : "equip_70_6302",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_32"
+         },
+         "digsshow_33" : {
+            "property" : {
+               "itemRefId" : "item_suipian",
+               "itemType" : 1,
+               "number" : 10,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_33"
+         },
+         "digsshow_34" : {
+            "property" : {
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_34"
+         },
+         "digsshow_35" : {
+            "property" : {
+               "itemRefId" : "equip_70_6202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_35"
+         },
+         "digsshow_36" : {
+            "property" : {
+               "itemRefId" : "item_goldMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_36"
+         },
+         "digsshow_37" : {
+            "property" : {
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 15,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_37"
+         },
+         "digsshow_38" : {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_10",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 2
+            },
+            "refId" : "digsshow_38"
+         },
+         "digsshow_39" : {
+            "property" : {
+               "itemRefId" : "equip_70_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_39"
+         },
+         "digsshow_4" : {
+            "property" : {
+               "itemRefId" : "equip_70_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_4"
+         },
+         "digsshow_40" : {
+            "property" : {
+               "itemRefId" : "equip_70_2212",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_40"
+         },
+         "digsshow_41" : {
+            "property" : {
+               "itemRefId" : "equip_70_6202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_41"
+         },
+         "digsshow_42" : {
+            "property" : {
+               "itemRefId" : "equip_70_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_42"
+         },
+         "digsshow_43" : {
+            "property" : {
+               "itemRefId" : "equip_70_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_43"
+         },
+         "digsshow_44" : {
+            "property" : {
+               "itemRefId" : "item_silverMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_44"
+         },
+         "digsshow_45" : {
+            "property" : {
+               "itemRefId" : "item_qianghuashi",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_45"
+         },
+         "digsshow_46" : {
+            "property" : {
+               "itemRefId" : "equip_70_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_46"
+         },
+         "digsshow_47" : {
+            "property" : {
+               "itemRefId" : "equip_70_2312",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_47"
+         },
+         "digsshow_48" : {
+            "property" : {
+               "itemRefId" : "item_superluck",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_48"
+         },
+         "digsshow_49" : {
+            "property" : {
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_49"
+         },
+         "digsshow_5" : {
+            "property" : {
+               "itemRefId" : "equip_70_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_5"
+         },
+         "digsshow_50" : {
+            "property" : {
+               "itemRefId" : "equip_70_2111",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_50"
+         },
+         "digsshow_51" : {
+            "property" : {
+               "itemRefId" : "equip_70_6302",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_51"
+         },
+         "digsshow_52" : {
+            "property" : {
+               "itemRefId" : "item_suipian",
+               "itemType" : 1,
+               "number" : 10,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_52"
+         },
+         "digsshow_53" : {
+            "property" : {
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_53"
+         },
+         "digsshow_54" : {
+            "property" : {
+               "itemRefId" : "equip_70_6101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_54"
+         },
+         "digsshow_55" : {
+            "property" : {
+               "itemRefId" : "item_goldMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_55"
+         },
+         "digsshow_56" : {
+            "property" : {
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 15,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_56"
+         },
+         "digsshow_57" : {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_10",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 3
+            },
+            "refId" : "digsshow_57"
+         },
+         "digsshow_58" : {
+            "property" : {
+               "itemRefId" : "equip_70_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_58"
+         },
+         "digsshow_59" : {
+            "property" : {
+               "itemRefId" : "equip_70_2222",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_59"
+         },
+         "digsshow_6" : {
+            "property" : {
+               "itemRefId" : "item_silverMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_6"
+         },
+         "digsshow_60" : {
+            "property" : {
+               "itemRefId" : "equip_70_6202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_60"
+         },
+         "digsshow_61" : {
+            "property" : {
+               "itemRefId" : "equip_70_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_61"
+         },
+         "digsshow_62" : {
+            "property" : {
+               "itemRefId" : "equip_70_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_62"
+         },
+         "digsshow_63" : {
+            "property" : {
+               "itemRefId" : "item_silverMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_63"
+         },
+         "digsshow_64" : {
+            "property" : {
+               "itemRefId" : "item_qianghuashi",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_64"
+         },
+         "digsshow_65" : {
+            "property" : {
+               "itemRefId" : "equip_70_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_65"
+         },
+         "digsshow_66" : {
+            "property" : {
+               "itemRefId" : "equip_70_2322",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_66"
+         },
+         "digsshow_67" : {
+            "property" : {
+               "itemRefId" : "item_superluck",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_67"
+         },
+         "digsshow_68" : {
+            "property" : {
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_68"
+         },
+         "digsshow_69" : {
+            "property" : {
+               "itemRefId" : "equip_70_2121",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_69"
+         },
+         "digsshow_7" : {
+            "property" : {
+               "itemRefId" : "item_qianghuashi",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_7"
+         },
+         "digsshow_70" : {
+            "property" : {
+               "itemRefId" : "equip_70_6302",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_70"
+         },
+         "digsshow_71" : {
+            "property" : {
+               "itemRefId" : "item_suipian",
+               "itemType" : 1,
+               "number" : 10,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_71"
+         },
+         "digsshow_72" : {
+            "property" : {
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_72"
+         },
+         "digsshow_73" : {
+            "property" : {
+               "itemRefId" : "equip_70_6101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_73"
+         },
+         "digsshow_74" : {
+            "property" : {
+               "itemRefId" : "item_goldMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_74"
+         },
+         "digsshow_75" : {
+            "property" : {
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 15,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_75"
+         },
+         "digsshow_76" : {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_10",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 4
+            },
+            "refId" : "digsshow_76"
+         },
+         "digsshow_77" : {
+            "property" : {
+               "itemRefId" : "equip_70_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_77"
+         },
+         "digsshow_78" : {
+            "property" : {
+               "itemRefId" : "equip_70_2312",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_78"
+         },
+         "digsshow_79" : {
+            "property" : {
+               "itemRefId" : "equip_70_6302",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_79"
+         },
+         "digsshow_8" : {
+            "property" : {
+               "itemRefId" : "equip_70_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_8"
+         },
+         "digsshow_80" : {
+            "property" : {
+               "itemRefId" : "equip_70_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_80"
+         },
+         "digsshow_81" : {
+            "property" : {
+               "itemRefId" : "equip_70_1202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_81"
+         },
+         "digsshow_82" : {
+            "property" : {
+               "itemRefId" : "item_silverMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_82"
+         },
+         "digsshow_83" : {
+            "property" : {
+               "itemRefId" : "item_qianghuashi",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_83"
+         },
+         "digsshow_84" : {
+            "property" : {
+               "itemRefId" : "equip_70_2111",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_84"
+         },
+         "digsshow_85" : {
+            "property" : {
+               "itemRefId" : "equip_70_2212",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_85"
+         },
+         "digsshow_86" : {
+            "property" : {
+               "itemRefId" : "item_superluck",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_86"
+         },
+         "digsshow_87" : {
+            "property" : {
+               "itemRefId" : "item_zuoqiExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_87"
+         },
+         "digsshow_88" : {
+            "property" : {
+               "itemRefId" : "equip_70_6101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_88"
+         },
+         "digsshow_89" : {
+            "property" : {
+               "itemRefId" : "equip_70_6202",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_89"
+         },
+         "digsshow_9" : {
+            "property" : {
+               "itemRefId" : "equip_70_2312",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 1
+            },
+            "refId" : "digsshow_9"
+         },
+         "digsshow_90" : {
+            "property" : {
+               "itemRefId" : "item_suipian",
+               "itemType" : 1,
+               "number" : 10,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_90"
+         },
+         "digsshow_91" : {
+            "property" : {
+               "itemRefId" : "item_chibangExp",
+               "itemType" : 1,
+               "number" : 30,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_91"
+         },
+         "digsshow_92" : {
+            "property" : {
+               "itemRefId" : "equip_70_1201",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_92"
+         },
+         "digsshow_93" : {
+            "property" : {
+               "itemRefId" : "item_goldMedal",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_93"
+         },
+         "digsshow_94" : {
+            "property" : {
+               "itemRefId" : "item_shenqiExp",
+               "itemType" : 1,
+               "number" : 15,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_94"
+         },
+         "digsshow_95" : {
+            "property" : {
+               "itemRefId" : "item_qianghuajuan_10",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 5
+            },
+            "refId" : "digsshow_95"
+         },
+         "digsshow_96" : {
+            "property" : {
+               "itemRefId" : "equip_70_1301",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_96"
+         },
+         "digsshow_97" : {
+            "property" : {
+               "itemRefId" : "equip_70_2322",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_97"
+         },
+         "digsshow_98" : {
+            "property" : {
+               "itemRefId" : "equip_70_6302",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_98"
+         },
+         "digsshow_99" : {
+            "property" : {
+               "itemRefId" : "equip_70_1101",
+               "itemType" : 1,
+               "number" : 1,
+               "professionId" : 6
+            },
+            "refId" : "digsshow_99"
+         }
+      },
+      "name" : "挖宝展示",
+      "refId" : "digsshow"
+   },
+   "digstype" : {
+      "configData" : {
+         "digstype_1" : {
+            "property" : {
+               "bestDigsCount" : 0,
+               "digsType" : 1,
+               "generalDigsCount" : 1,
+               "itemRefId" : "item_giftcard",
+               "number" : 1,
+               "unbindedGold" : 200
+            },
+            "refId" : "digstype_1"
+         },
+         "digstype_2" : {
+            "property" : {
+               "bestDigsCount" : 1,
+               "digsType" : 2,
+               "generalDigsCount" : 9,
+               "itemRefId" : "item_giftcard",
+               "number" : 1,
+               "unbindedGold" : 200
+            },
+            "refId" : "digstype_2"
+         },
+         "digstype_3" : {
+            "property" : {
+               "bestDigsCount" : 7,
+               "digsType" : 3,
+               "generalDigsCount" : 43,
+               "itemRefId" : "item_giftcard",
+               "number" : 1,
+               "unbindedGold" : 200
+            },
+            "refId" : "digstype_3"
+         }
+      },
+      "name" : "挖宝类型",
+      "refId" : "digstype"
+   }
+}
+

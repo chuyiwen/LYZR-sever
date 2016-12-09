@@ -1,0 +1,1485 @@
+{
+   "shop_item_001" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 60000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_15_1100",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_1"
+      },
+      "refId" : "shop_item_001"
+   },
+   "shop_item_002" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_15_1200",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_1"
+      },
+      "refId" : "shop_item_002"
+   },
+   "shop_item_003" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_15_1300",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_1"
+      },
+      "refId" : "shop_item_003"
+   },
+   "shop_item_004" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 60000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_20_1100",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_1"
+      },
+      "refId" : "shop_item_004"
+   },
+   "shop_item_005" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 30000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_20_1200",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_1"
+      },
+      "refId" : "shop_item_005"
+   },
+   "shop_item_006" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_20_1300",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_1"
+      },
+      "refId" : "shop_item_006"
+   },
+   "shop_item_007" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 360000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_1100",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_1"
+      },
+      "refId" : "shop_item_007"
+   },
+   "shop_item_008" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 30000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_1200",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_1"
+      },
+      "refId" : "shop_item_008"
+   },
+   "shop_item_009" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 30000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_1300",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_1"
+      },
+      "refId" : "shop_item_009"
+   },
+   "shop_item_010" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_20_2010",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_2"
+      },
+      "refId" : "shop_item_010"
+   },
+   "shop_item_011" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_20_2020",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_2"
+      },
+      "refId" : "shop_item_011"
+   },
+   "shop_item_012" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_20_3000",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_2"
+      },
+      "refId" : "shop_item_012"
+   },
+   "shop_item_013" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_6100",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_3"
+      },
+      "refId" : "shop_item_013"
+   },
+   "shop_item_014" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_6200",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_3"
+      },
+      "refId" : "shop_item_014"
+   },
+   "shop_item_015" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_6300",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_3"
+      },
+      "refId" : "shop_item_015"
+   },
+   "shop_item_016" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_7100",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_3"
+      },
+      "refId" : "shop_item_016"
+   },
+   "shop_item_017" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_7200",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_3"
+      },
+      "refId" : "shop_item_017"
+   },
+   "shop_item_018" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_7300",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_3"
+      },
+      "refId" : "shop_item_018"
+   },
+   "shop_item_019" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_8100",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_3"
+      },
+      "refId" : "shop_item_019"
+   },
+   "shop_item_020" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_8200",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_3"
+      },
+      "refId" : "shop_item_020"
+   },
+   "shop_item_021" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 15000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_25_8300",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_3"
+      },
+      "refId" : "shop_item_021"
+   },
+   "shop_item_022" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 20,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_drug_1",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_4"
+      },
+      "refId" : "shop_item_022"
+   },
+   "shop_item_023" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 50,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_drug_2",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_4"
+      },
+      "refId" : "shop_item_023"
+   },
+   "shop_item_024" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 100,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_drug_3",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_4"
+      },
+      "refId" : "shop_item_024"
+   },
+   "shop_item_025" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 20,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_drug_4",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_4"
+      },
+      "refId" : "shop_item_025"
+   },
+   "shop_item_026" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 50,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_drug_5",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_4"
+      },
+      "refId" : "shop_item_026"
+   },
+   "shop_item_027" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 100,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_drug_6",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_4"
+      },
+      "refId" : "shop_item_027"
+   },
+   "shop_item_028" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 1000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_drug_7",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_4"
+      },
+      "refId" : "shop_item_028"
+   },
+   "shop_item_029" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 4000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_drug_8",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_4"
+      },
+      "refId" : "shop_item_029"
+   },
+   "shop_item_030" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 10000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_drug_9",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_4"
+      },
+      "refId" : "shop_item_030"
+   },
+   "shop_item_031" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 4,
+               "refId" : "item_silverMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_goldMedal",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_031"
+   },
+   "shop_item_032" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 3,
+               "refId" : "item_copperMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_silverMedal",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_032"
+   },
+   "shop_item_033" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 3,
+               "refId" : "item_ironMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_copperMedal",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_033"
+   },
+   "shop_item_034" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 1,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_silverMedal",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_034"
+   },
+   "shop_item_035" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 1,
+               "refId" : "item_silverMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_copperMedal",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_035"
+   },
+   "shop_item_036" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 1,
+               "refId" : "item_copperMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_ironMedal",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_036"
+   },
+   "shop_item_037" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 20,
+               "refId" : "item_ironMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_40_1101",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_037"
+   },
+   "shop_item_038" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 20,
+               "refId" : "item_ironMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_40_1202",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_038"
+   },
+   "shop_item_039" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 20,
+               "refId" : "item_ironMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_40_1301",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_039"
+   },
+   "shop_item_040" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 60,
+               "refId" : "item_ironMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_2111",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_040"
+   },
+   "shop_item_041" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 60,
+               "refId" : "item_ironMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_2121",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_041"
+   },
+   "shop_item_042" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 60,
+               "refId" : "item_ironMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_2212",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_042"
+   },
+   "shop_item_043" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 60,
+               "refId" : "item_ironMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_2222",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_043"
+   },
+   "shop_item_044" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 60,
+               "refId" : "item_ironMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_2312",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_044"
+   },
+   "shop_item_045" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 60,
+               "refId" : "item_ironMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_2322",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_045"
+   },
+   "shop_item_046" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 100,
+               "refId" : "item_copperMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_1104",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_046"
+   },
+   "shop_item_047" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 100,
+               "refId" : "item_copperMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_1201",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_047"
+   },
+   "shop_item_048" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 100,
+               "refId" : "item_copperMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_1305",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_048"
+   },
+   "shop_item_049" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 100,
+               "refId" : "item_copperMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_6101",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_049"
+   },
+   "shop_item_050" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 100,
+               "refId" : "item_copperMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_6201",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_050"
+   },
+   "shop_item_051" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 100,
+               "refId" : "item_copperMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_50_6302",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_051"
+   },
+   "shop_item_052" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 300,
+               "refId" : "item_silverMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_60_1103",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_052"
+   },
+   "shop_item_053" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 300,
+               "refId" : "item_silverMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_60_1204",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_053"
+   },
+   "shop_item_054" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 300,
+               "refId" : "item_silverMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_60_1303",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_054"
+   },
+   "shop_item_055" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 400,
+               "refId" : "item_silverMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_60_6103",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_055"
+   },
+   "shop_item_056" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 400,
+               "refId" : "item_silverMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_60_6202",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_056"
+   },
+   "shop_item_057" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 400,
+               "refId" : "item_silverMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_60_6301",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_057"
+   },
+   "shop_item_058" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 300,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_1102",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_058"
+   },
+   "shop_item_059" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 300,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_1203",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_059"
+   },
+   "shop_item_060" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 300,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_1302",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_060"
+   },
+   "shop_item_061" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 300,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_1303",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_061"
+   },
+   "shop_item_062" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 200,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_6102",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_062"
+   },
+   "shop_item_063" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 200,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_6203",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_063"
+   },
+   "shop_item_064" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 500,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_2112",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_064"
+   },
+   "shop_item_065" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 500,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_2122",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_065"
+   },
+   "shop_item_066" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 500,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_2211",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_066"
+   },
+   "shop_item_067" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 500,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_2221",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_067"
+   },
+   "shop_item_068" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 500,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_2311",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_068"
+   },
+   "shop_item_069" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 500,
+               "refId" : "item_goldMedal"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "equip_70_2321",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_equip"
+      },
+      "refId" : "shop_item_069"
+   },
+   "shop_item_070" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 20000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_moveto_1",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_5"
+      },
+      "refId" : "shop_item_070"
+   },
+   "shop_item_071" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 30000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_moveto_2",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_5"
+      },
+      "refId" : "shop_item_071"
+   },
+   "shop_item_072" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 40000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_moveto_3",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_5"
+      },
+      "refId" : "shop_item_072"
+   },
+   "shop_item_073" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 40000,
+               "refId" : "gold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_feixie",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_5"
+      },
+      "refId" : "shop_item_073"
+   },
+   "shop_item_074" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 50,
+               "refId" : "item_coupon_2"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_superluck",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_100"
+      },
+      "refId" : "shop_item_074"
+   },
+   "shop_item_075" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 10,
+               "refId" : "item_coupon_2"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_goldMedal",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_100"
+      },
+      "refId" : "shop_item_075"
+   },
+   "shop_item_076" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 3,
+               "refId" : "item_coupon_2"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_silverMedal",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_100"
+      },
+      "refId" : "shop_item_076"
+   },
+   "shop_item_077" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 20,
+               "refId" : "item_coupon"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_copperMedal",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_100"
+      },
+      "refId" : "shop_item_077"
+   },
+   "shop_item_078" : {
+      "priceData" : {
+         "priceData" : [
+            {
+               "number" : 10,
+               "refId" : "item_coupon"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_ironMedal",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "number" : 0,
+         "storeType" : "shop_100"
+      },
+      "refId" : "shop_item_078"
+   }
+}
+

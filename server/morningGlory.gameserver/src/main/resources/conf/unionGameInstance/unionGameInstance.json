@@ -1,0 +1,15 @@
+{
+   "unionGameInstance" : {
+      "property" : {
+         "bindStatus" : 1,
+         "gold" : 1000000,
+         "itemRefId" : "item_gift_4",
+         "maxStackNumber" : 10,
+         "monsterRefId" : "monster_8002",
+         "openTime" : "15:00:00|16:00:00",
+         "sceneRefId" : "S013"
+      },
+      "refId" : "unionGameInstance"
+   }
+}
+

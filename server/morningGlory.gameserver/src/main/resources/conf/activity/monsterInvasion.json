@@ -1,0 +1,43 @@
+{
+   "monsterInvasion1" : {
+      "activityData" : {
+         "monsterInvasion1" : {
+            "contantItem" : [ "item_coupon_2", "item_coupon" ],
+            "contantScene" : [ "S218", "S219" ],
+            "property" : {
+               "expMultiple" : 0.0,
+               "level" : 40
+            },
+            "refId" : "monsterInvasion1"
+         }
+      },
+      "refId" : "monsterInvasion1",
+      "sceneRefId" : "S218",
+      "time" : {
+         "duration" : "12:00:00|12:30:00&20:00:00|20:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 300
+      }
+   },
+   "monsterInvasion2" : {
+      "activityData" : {
+         "monsterInvasion2" : {
+            "contantItem" : [ "item_coupon_2", "item_coupon" ],
+            "contantScene" : [ "S218", "S219" ],
+            "property" : {
+               "expMultiple" : 0.0,
+               "level" : 40
+            },
+            "refId" : "monsterInvasion2"
+         }
+      },
+      "refId" : "monsterInvasion2",
+      "sceneRefId" : "S219",
+      "time" : {
+         "duration" : "12:00:00|12:30:00&20:00:00|20:30:00",
+         "preEndTime" : 300,
+         "preStartTime" : 300
+      }
+   }
+}
+

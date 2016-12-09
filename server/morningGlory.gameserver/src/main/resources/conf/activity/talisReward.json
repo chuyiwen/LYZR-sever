@@ -1,0 +1,263 @@
+{
+   "talismanReward_1" : {
+      "property" : {
+         "description" : "拥有3个1级法宝",
+         "talisManLevel" : 1,
+         "talisManNumber" : 3,
+         "talismanRewardNextRefId" : "talismanReward_2",
+         "talismanRewardPreRefId" : ""
+      },
+      "refId" : "talismanReward_1",
+      "talismanReward" : {
+         "talismanReward" : [
+            {
+               "number" : 4,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "number" : 1,
+               "refId" : "item_2exp"
+            }
+         ]
+      }
+   },
+   "talismanReward_10" : {
+      "property" : {
+         "description" : "拥有10个15级法宝",
+         "talisManLevel" : 15,
+         "talisManNumber" : 10,
+         "talismanRewardNextRefId" : "",
+         "talismanRewardPreRefId" : "talismanReward_9"
+      },
+      "refId" : "talismanReward_10",
+      "talismanReward" : {
+         "talismanReward" : [
+            {
+               "number" : 4,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "number" : 10,
+               "refId" : "item_2exp"
+            }
+         ]
+      }
+   },
+   "talismanReward_2" : {
+      "property" : {
+         "description" : "拥有1个5级法宝",
+         "talisManLevel" : 5,
+         "talisManNumber" : 1,
+         "talismanRewardNextRefId" : "talismanReward_3",
+         "talismanRewardPreRefId" : "talismanReward_1"
+      },
+      "refId" : "talismanReward_2",
+      "talismanReward" : {
+         "talismanReward" : [
+            {
+               "number" : 4,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "number" : 2,
+               "refId" : "item_2exp"
+            }
+         ]
+      }
+   },
+   "talismanReward_3" : {
+      "property" : {
+         "description" : "拥有5个5级法宝",
+         "talisManLevel" : 5,
+         "talisManNumber" : 5,
+         "talismanRewardNextRefId" : "talismanReward_4",
+         "talismanRewardPreRefId" : "talismanReward_2"
+      },
+      "refId" : "talismanReward_3",
+      "talismanReward" : {
+         "talismanReward" : [
+            {
+               "number" : 4,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "number" : 3,
+               "refId" : "item_2exp"
+            }
+         ]
+      }
+   },
+   "talismanReward_4" : {
+      "property" : {
+         "description" : "拥有10个5级法宝",
+         "talisManLevel" : 5,
+         "talisManNumber" : 10,
+         "talismanRewardNextRefId" : "talismanReward_5",
+         "talismanRewardPreRefId" : "talismanReward_3"
+      },
+      "refId" : "talismanReward_4",
+      "talismanReward" : {
+         "talismanReward" : [
+            {
+               "number" : 4,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_2exp"
+            }
+         ]
+      }
+   },
+   "talismanReward_5" : {
+      "property" : {
+         "description" : "拥有1个10级法宝",
+         "talisManLevel" : 10,
+         "talisManNumber" : 1,
+         "talismanRewardNextRefId" : "talismanReward_6",
+         "talismanRewardPreRefId" : "talismanReward_4"
+      },
+      "refId" : "talismanReward_5",
+      "talismanReward" : {
+         "talismanReward" : [
+            {
+               "number" : 4,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "number" : 5,
+               "refId" : "item_2exp"
+            }
+         ]
+      }
+   },
+   "talismanReward_6" : {
+      "property" : {
+         "description" : "拥有5个10级法宝",
+         "talisManLevel" : 10,
+         "talisManNumber" : 5,
+         "talismanRewardNextRefId" : "talismanReward_7",
+         "talismanRewardPreRefId" : "talismanReward_5"
+      },
+      "refId" : "talismanReward_6",
+      "talismanReward" : {
+         "talismanReward" : [
+            {
+               "number" : 4,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "number" : 6,
+               "refId" : "item_2exp"
+            }
+         ]
+      }
+   },
+   "talismanReward_7" : {
+      "property" : {
+         "description" : "拥有10个10级法宝",
+         "talisManLevel" : 10,
+         "talisManNumber" : 10,
+         "talismanRewardNextRefId" : "talismanReward_8",
+         "talismanRewardPreRefId" : "talismanReward_6"
+      },
+      "refId" : "talismanReward_7",
+      "talismanReward" : {
+         "talismanReward" : [
+            {
+               "number" : 4,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "number" : 7,
+               "refId" : "item_2exp"
+            }
+         ]
+      }
+   },
+   "talismanReward_8" : {
+      "property" : {
+         "description" : "拥有1个15级法宝",
+         "talisManLevel" : 15,
+         "talisManNumber" : 1,
+         "talismanRewardNextRefId" : "talismanReward_9",
+         "talismanRewardPreRefId" : "talismanReward_7"
+      },
+      "refId" : "talismanReward_8",
+      "talismanReward" : {
+         "talismanReward" : [
+            {
+               "number" : 4,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "number" : 8,
+               "refId" : "item_2exp"
+            }
+         ]
+      }
+   },
+   "talismanReward_9" : {
+      "property" : {
+         "description" : "拥有5个15级法宝",
+         "talisManLevel" : 15,
+         "talisManNumber" : 5,
+         "talismanRewardNextRefId" : "talismanReward_10",
+         "talismanRewardPreRefId" : "talismanReward_8"
+      },
+      "refId" : "talismanReward_9",
+      "talismanReward" : {
+         "talismanReward" : [
+            {
+               "number" : 4,
+               "refId" : "item_qianghuashi"
+            },
+            {
+               "number" : 4,
+               "refId" : "item_shenqiExp"
+            },
+            {
+               "number" : 9,
+               "refId" : "item_2exp"
+            }
+         ]
+      }
+   }
+}
+

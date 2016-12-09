@@ -1,0 +1,23 @@
+{
+   "firstPay_1" : {
+      "refId" : "firstPay_1",
+      "signData" : {
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "itemCount" : 1,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 1000,
+               "gold" : 1000
+            }
+         }
+      }
+   }
+}
+

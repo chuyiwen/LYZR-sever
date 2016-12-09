@@ -1,0 +1,45 @@
+{
+   "rankBeginEndTime_1" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "49:00:00",
+      "rankType" : 1,
+      "refId" : "rankBeginEndTime_1"
+   },
+   "rankBeginEndTime_2" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "49:00:00",
+      "rankType" : 2,
+      "refId" : "rankBeginEndTime_2"
+   },
+   "rankBeginEndTime_3" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "49:00:00",
+      "rankType" : 3,
+      "refId" : "rankBeginEndTime_3"
+   },
+   "rankBeginEndTime_4" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "49:00:00",
+      "rankType" : 4,
+      "refId" : "rankBeginEndTime_4"
+   },
+   "rankBeginEndTime_5" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "49:00:00",
+      "rankType" : 5,
+      "refId" : "rankBeginEndTime_5"
+   },
+   "rankBeginEndTime_6" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "49:00:00",
+      "rankType" : 6,
+      "refId" : "rankBeginEndTime_6"
+   },
+   "rankBeginEndTime_7" : {
+      "beginTime" : "00:00:00",
+      "endTime" : "49:00:00",
+      "rankType" : 7,
+      "refId" : "rankBeginEndTime_7"
+   }
+}
+

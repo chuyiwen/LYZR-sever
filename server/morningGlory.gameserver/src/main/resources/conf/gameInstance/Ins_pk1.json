@@ -1,0 +1,156 @@
+{
+   "Ins_pk1" : {
+      "configData" : {
+         "game_instance" : {
+            "configData" : {
+               "Ins_pk1" : {
+                  "description" : "",
+                  "gameInstanceData" : {
+                     "openDetailsData" : "00:00:00|86400",
+                     "structureDetails" : [ "I101" ]
+                  },
+                  "name" : "",
+                  "property" : {
+                     "isTeam" : 0,
+                     "level" : 1,
+                     "name" : "",
+                     "questRefId" : "",
+                     "timesADay" : 10,
+                     "timesAWeek" : 0
+                  },
+                  "refId" : "Ins_pk1"
+               }
+            },
+            "name" : "Ins_pk1 任务总表",
+            "refId" : "game_instance"
+         },
+         "game_instance_quest" : {
+            "configData" : {
+               "quest_1" : {
+                  "description" : "击败{monster_1000}。",
+                  "name" : "击败boos",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_1000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 10000,
+                           "gold" : 10000
+                        }
+                     }
+                  },
+                  "refId" : "quest_1"
+               },
+               "quest_2" : {
+                  "description" : "击败{monster_1001}。",
+                  "name" : "击败战士",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_1001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 10000,
+                           "gold" : 10000
+                        }
+                     }
+                  },
+                  "refId" : "quest_2"
+               },
+               "quest_3" : {
+                  "description" : "击败{monster_1002}。",
+                  "name" : "击败法师",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_1002",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 10000,
+                           "gold" : 10000
+                        }
+                     }
+                  },
+                  "refId" : "quest_3"
+               },
+               "quest_4" : {
+                  "description" : "击败{monster_1003}。",
+                  "name" : "击败道士",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_1003",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 10000,
+                           "gold" : 10000
+                        }
+                     }
+                  },
+                  "refId" : "quest_4"
+               }
+            },
+            "name" : "副本任务表",
+            "refId" : "game_instance_quest"
+         },
+         "game_instance_scene" : {
+            "configData" : {
+               "I151" : {
+                  "description" : "",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_1", "quest_2", "quest_3", "quest_4" ],
+                     "consumptionItems" : null,
+                     "succeedConditionData" : "monster_1000=1&monster_1001=1&monster_1002=1&monster_1003=1"
+                  },
+                  "mapId" : 151,
+                  "property" : {
+                     "sceneRefId" : "S151",
+                     "succeedType" : 1
+                  },
+                  "refId" : "I151"
+               }
+            },
+            "name" : "副本层总表",
+            "refId" : "game_instance_scene"
+         }
+      },
+      "instanceType" : 3,
+      "introduce" : "击败boss得奖励",
+      "name" : "尸王秘境",
+      "refId" : "Ins_pk1"
+   }
+}
+

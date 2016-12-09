@@ -1,0 +1,783 @@
+{
+   "limitTimeRank_1_1" : {
+      "rankInterval" : "1-1",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 150,
+                     "itemRefId" : "item_goldMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 1,
+                     "itemRefId" : "item_superluck"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 50000
+            }
+         }
+      },
+      "rankType" : 1,
+      "refId" : "limitTimeRank_1_1"
+   },
+   "limitTimeRank_1_2" : {
+      "rankInterval" : "2-2",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 200,
+                     "itemRefId" : "item_silverMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 1,
+                     "itemRefId" : "item_superluck"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 30000
+            }
+         }
+      },
+      "rankType" : 1,
+      "refId" : "limitTimeRank_1_2"
+   },
+   "limitTimeRank_1_3" : {
+      "rankInterval" : "3-3",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 90,
+                     "itemRefId" : "item_copperMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 30,
+                     "itemRefId" : "item_luck"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 10000
+            }
+         }
+      },
+      "rankType" : 1,
+      "refId" : "limitTimeRank_1_3"
+   },
+   "limitTimeRank_1_4" : {
+      "rankInterval" : "4-10",
+      "rankReward" : {
+         "rankReward" : {
+            "propertyReward" : {
+               "unbindedGold" : 5000
+            }
+         }
+      },
+      "rankType" : 1,
+      "refId" : "limitTimeRank_1_4"
+   },
+   "limitTimeRank_1_5" : {
+      "rankInterval" : "11-20",
+      "rankReward" : {
+         "rankReward" : {
+            "propertyReward" : {
+               "unbindedGold" : 1000
+            }
+         }
+      },
+      "rankType" : 1,
+      "refId" : "limitTimeRank_1_5"
+   },
+   "limitTimeRank_2_1" : {
+      "rankInterval" : "1-1",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 1000,
+                     "itemRefId" : "item_chibangExp"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 10,
+                     "itemRefId" : "item_duihuanquan_2"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 20000
+            }
+         }
+      },
+      "rankType" : 2,
+      "refId" : "limitTimeRank_2_1"
+   },
+   "limitTimeRank_2_2" : {
+      "rankInterval" : "2-2",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 600,
+                     "itemRefId" : "item_chibangExp"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 8,
+                     "itemRefId" : "item_duihuanquan_2"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 10000
+            }
+         }
+      },
+      "rankType" : 2,
+      "refId" : "limitTimeRank_2_2"
+   },
+   "limitTimeRank_2_3" : {
+      "rankInterval" : "3-3",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 300,
+                     "itemRefId" : "item_chibangExp"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 3,
+                     "itemRefId" : "item_duihuanquan_2"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 5000
+            }
+         }
+      },
+      "rankType" : 2,
+      "refId" : "limitTimeRank_2_3"
+   },
+   "limitTimeRank_2_4" : {
+      "rankInterval" : "4-10",
+      "rankReward" : {
+         "rankReward" : {
+            "propertyReward" : {
+               "unbindedGold" : 3000
+            }
+         }
+      },
+      "rankType" : 2,
+      "refId" : "limitTimeRank_2_4"
+   },
+   "limitTimeRank_2_5" : {
+      "rankInterval" : "11-20",
+      "rankReward" : {
+         "rankReward" : {
+            "propertyReward" : {
+               "unbindedGold" : 300
+            }
+         }
+      },
+      "rankType" : 2,
+      "refId" : "limitTimeRank_2_5"
+   },
+   "limitTimeRank_3_1" : {
+      "rankInterval" : "1-1",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 20,
+                     "itemRefId" : "item_goldMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 200,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 10000
+            }
+         }
+      },
+      "rankType" : 3,
+      "refId" : "limitTimeRank_3_1"
+   },
+   "limitTimeRank_3_2" : {
+      "rankInterval" : "2-2",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 20,
+                     "itemRefId" : "item_silverMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 200,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 5000
+            }
+         }
+      },
+      "rankType" : 3,
+      "refId" : "limitTimeRank_3_2"
+   },
+   "limitTimeRank_3_3" : {
+      "rankInterval" : "3-3",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 10,
+                     "itemRefId" : "item_silverMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 200,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 2000
+            }
+         }
+      },
+      "rankType" : 3,
+      "refId" : "limitTimeRank_3_3"
+   },
+   "limitTimeRank_3_4" : {
+      "rankInterval" : "4-10",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 100,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 1000
+            }
+         }
+      },
+      "rankType" : 3,
+      "refId" : "limitTimeRank_3_4"
+   },
+   "limitTimeRank_3_5" : {
+      "rankInterval" : "11-20",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 100,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 500
+            }
+         }
+      },
+      "rankType" : 3,
+      "refId" : "limitTimeRank_3_5"
+   },
+   "limitTimeRank_4_1" : {
+      "rankInterval" : "1-1",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 20,
+                     "itemRefId" : "item_goldMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 200,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 10000
+            }
+         }
+      },
+      "rankType" : 4,
+      "refId" : "limitTimeRank_4_1"
+   },
+   "limitTimeRank_4_2" : {
+      "rankInterval" : "2-2",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 20,
+                     "itemRefId" : "item_silverMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 200,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 5000
+            }
+         }
+      },
+      "rankType" : 4,
+      "refId" : "limitTimeRank_4_2"
+   },
+   "limitTimeRank_4_3" : {
+      "rankInterval" : "3-3",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 10,
+                     "itemRefId" : "item_silverMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 200,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 2000
+            }
+         }
+      },
+      "rankType" : 4,
+      "refId" : "limitTimeRank_4_3"
+   },
+   "limitTimeRank_4_4" : {
+      "rankInterval" : "4-10",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 100,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 1000
+            }
+         }
+      },
+      "rankType" : 4,
+      "refId" : "limitTimeRank_4_4"
+   },
+   "limitTimeRank_4_5" : {
+      "rankInterval" : "11-20",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 100,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 500
+            }
+         }
+      },
+      "rankType" : 4,
+      "refId" : "limitTimeRank_4_5"
+   },
+   "limitTimeRank_5_1" : {
+      "rankInterval" : "1-1",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 1000,
+                     "itemRefId" : "item_zuoqiExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 30000
+            }
+         }
+      },
+      "rankType" : 5,
+      "refId" : "limitTimeRank_5_1"
+   },
+   "limitTimeRank_5_2" : {
+      "rankInterval" : "2-2",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 800,
+                     "itemRefId" : "item_zuoqiExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 10000
+            }
+         }
+      },
+      "rankType" : 5,
+      "refId" : "limitTimeRank_5_2"
+   },
+   "limitTimeRank_5_3" : {
+      "rankInterval" : "3-3",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 300,
+                     "itemRefId" : "item_zuoqiExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 8000
+            }
+         }
+      },
+      "rankType" : 5,
+      "refId" : "limitTimeRank_5_3"
+   },
+   "limitTimeRank_5_4" : {
+      "rankInterval" : "4-10",
+      "rankReward" : {
+         "rankReward" : {
+            "propertyReward" : {
+               "unbindedGold" : 4000
+            }
+         }
+      },
+      "rankType" : 5,
+      "refId" : "limitTimeRank_5_4"
+   },
+   "limitTimeRank_5_5" : {
+      "rankInterval" : "11-20",
+      "rankReward" : {
+         "rankReward" : {
+            "propertyReward" : {
+               "unbindedGold" : 500
+            }
+         }
+      },
+      "rankType" : 5,
+      "refId" : "limitTimeRank_5_5"
+   },
+   "limitTimeRank_6_1" : {
+      "rankInterval" : "1-1",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 70,
+                     "itemRefId" : "item_suipian_9"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 1000,
+                     "itemRefId" : "item_shenqiExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 30000
+            }
+         }
+      },
+      "rankType" : 6,
+      "refId" : "limitTimeRank_6_1"
+   },
+   "limitTimeRank_6_2" : {
+      "rankInterval" : "2-2",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 50,
+                     "itemRefId" : "item_suipian_8"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 800,
+                     "itemRefId" : "item_shenqiExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 10000
+            }
+         }
+      },
+      "rankType" : 6,
+      "refId" : "limitTimeRank_6_2"
+   },
+   "limitTimeRank_6_3" : {
+      "rankInterval" : "3-3",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 25,
+                     "itemRefId" : "item_suipian_7"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 400,
+                     "itemRefId" : "item_shenqiExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 8000
+            }
+         }
+      },
+      "rankType" : 6,
+      "refId" : "limitTimeRank_6_3"
+   },
+   "limitTimeRank_6_4" : {
+      "rankInterval" : "4-10",
+      "rankReward" : {
+         "rankReward" : {
+            "propertyReward" : {
+               "unbindedGold" : 4000
+            }
+         }
+      },
+      "rankType" : 6,
+      "refId" : "limitTimeRank_6_4"
+   },
+   "limitTimeRank_6_5" : {
+      "rankInterval" : "11-20",
+      "rankReward" : {
+         "rankReward" : {
+            "propertyReward" : {
+               "unbindedGold" : 500
+            }
+         }
+      },
+      "rankType" : 6,
+      "refId" : "limitTimeRank_6_5"
+   },
+   "limitTimeRank_7_1" : {
+      "rankInterval" : "1-1",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 20,
+                     "itemRefId" : "item_goldMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 200,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 10000
+            }
+         }
+      },
+      "rankType" : 7,
+      "refId" : "limitTimeRank_7_1"
+   },
+   "limitTimeRank_7_2" : {
+      "rankInterval" : "2-2",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 20,
+                     "itemRefId" : "item_silverMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 200,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 5000
+            }
+         }
+      },
+      "rankType" : 7,
+      "refId" : "limitTimeRank_7_2"
+   },
+   "limitTimeRank_7_3" : {
+      "rankInterval" : "3-3",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 10,
+                     "itemRefId" : "item_silverMedal"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 200,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 2000
+            }
+         }
+      },
+      "rankType" : 7,
+      "refId" : "limitTimeRank_7_3"
+   },
+   "limitTimeRank_7_4" : {
+      "rankInterval" : "4-10",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 100,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 1000
+            }
+         }
+      },
+      "rankType" : 7,
+      "refId" : "limitTimeRank_7_4"
+   },
+   "limitTimeRank_7_5" : {
+      "rankInterval" : "11-20",
+      "rankReward" : {
+         "rankReward" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 100,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "unbindedGold" : 500
+            }
+         }
+      },
+      "rankType" : 7,
+      "refId" : "limitTimeRank_7_5"
+   }
+}
+

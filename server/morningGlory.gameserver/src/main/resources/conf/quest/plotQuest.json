@@ -1,0 +1,5017 @@
+{
+   "quest_1" : {
+      "property" : {
+         "description" : "跟村长谈谈。",
+         "name" : "南柯梦醒",
+         "nextQuestId" : "quest_2",
+         "preQuestId" : "",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "submitNpc" : {
+               "npcRefId" : "npc_1",
+               "sceneRefId" : "S001",
+               "talkContent" : "年轻人，你终于醒了，你这一觉可睡得有点久啊！如今的天地已经完全变了样了，乱世将至，群魔乱舞，还望你能从现在开始就做好应对的准备。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_1",
+               "orderType" : 3,
+               "sceneRefId" : "S001",
+               "talkContent" : "传奇的诞生总不是偶然！"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "professionList" : [
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "item_gift_10_1"
+                        }
+                     ],
+                     "proffessionRefId" : 1
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "item_gift_10_1"
+                        }
+                     ],
+                     "proffessionRefId" : 2
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "item_gift_10_2"
+                        }
+                     ],
+                     "proffessionRefId" : 3
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "item_gift_10_2"
+                        }
+                     ],
+                     "proffessionRefId" : 4
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "item_gift_10_3"
+                        }
+                     ],
+                     "proffessionRefId" : 5
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "item_gift_10_3"
+                        }
+                     ],
+                     "proffessionRefId" : 6
+                  }
+               ],
+               "relatedType" : 1
+            },
+            "propertyReward" : {
+               "exp" : 5000,
+               "gold" : 500
+            }
+         }
+      },
+      "refId" : "quest_1"
+   },
+   "quest_10" : {
+      "property" : {
+         "description" : "解救被围困的药材商人。",
+         "name" : "受困的药商",
+         "nextQuestId" : "quest_11",
+         "preQuestId" : "quest_9",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_48",
+               "sceneRefId" : "S001",
+               "talkContent" : "小山村资源甚少，村里的药店所需的药材都是由药材商人提供的，不过听说他现在正被一群怪物围困着，我希望你能帮忙前去解救他。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_47",
+               "sceneRefId" : "S001",
+               "talkContent" : "咦，村里什么时候有了你这么一号英雄人物了？不过不管怎样，还是要多谢你的帮忙啊，不然我这几百斤肉就要交待在这里了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 3,
+               "monsterRefId" : "monster_4",
+               "orderType" : 1,
+               "sceneRefId" : "S001"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 80000,
+               "gold" : 8000
+            }
+         }
+      },
+      "refId" : "quest_10"
+   },
+   "quest_11" : {
+      "property" : {
+         "description" : "帮助药材商人采集一些草药。",
+         "name" : "药材采集",
+         "nextQuestId" : "quest_12",
+         "preQuestId" : "quest_10",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_47",
+               "sceneRefId" : "S001",
+               "talkContent" : "我这里的药材都是专门为村里的药店准备的，你也知道药店的小老板是一介女流，亲自去采药也多有不便，所以就请我代劳帮忙收购药材，不过听说她最近急需一批药草，你帮我在附近采集一些吧，我回村的时候正好一并带过去。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_47",
+               "sceneRefId" : "S001",
+               "talkContent" : "少侠果然是少年英雄啊，多才多艺，不仅武艺高强，这采药的眼力和手法也很不错啊，我果然没有托付错人。"
+            }
+         },
+         "orderField" : [
+            {
+               "itemCount" : 2,
+               "itemRefId" : "item_flower",
+               "npcRefId" : "npc_collect_1",
+               "orderType" : 4,
+               "sceneRefId" : "S001"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 90000,
+               "gold" : 9000
+            }
+         }
+      },
+      "refId" : "quest_11"
+   },
+   "quest_12" : {
+      "property" : {
+         "description" : "清除拦盘踞在路上的食人花。",
+         "name" : "凶猛食人花",
+         "nextQuestId" : "quest_13",
+         "preQuestId" : "quest_11",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_47",
+               "sceneRefId" : "S001",
+               "talkContent" : "我记得离这儿不远的地方是有一个岗哨，现在麻烦这么多，也不知道那个岗哨的情况如何，不如你去了解一下？不过你去之前，先帮我把这些挡路的食人花料理了吧，不然我回不了村子啊。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_33",
+               "sceneRefId" : "S001",
+               "talkContent" : "小子，最近村口可是不太平得很，没事的话可不要来村口乱跑，很危险的。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 3,
+               "monsterRefId" : "monster_5",
+               "orderType" : 1,
+               "sceneRefId" : "S001"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 100000,
+               "gold" : 10000
+            }
+         }
+      },
+      "refId" : "quest_12"
+   },
+   "quest_13" : {
+      "property" : {
+         "description" : "惩治拦路攻击新人的恶徒。",
+         "name" : "红名凶徒",
+         "nextQuestId" : "quest_14",
+         "preQuestId" : "quest_12",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_33",
+               "sceneRefId" : "S001",
+               "talkContent" : "连日来，有不少村子的新人在村外遭受恶徒袭击，甚至有几个人已经命丧其手，像这种罔顾人族大义的恶贼必须要严惩不贷。你是我们村新人中最出类拔萃的一个，这个艰巨的任务就交给你了，希望你不要推脱。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_33",
+               "sceneRefId" : "S001",
+               "talkContent" : "你帮我们惩治那个凶徒了吗？真是好样的，我觉得你这样的身手应该可以配得上“新手第一人”的称号了。"
+            }
+         },
+         "orderField" : [
+            {
+               "gameInstanceRefId" : "Ins_pk3",
+               "orderEventId" : 1,
+               "orderType" : 9,
+               "sceneRefId" : "S153",
+               "taskDescription" : "惩治{隐龙村外}的{拦路恶徒}"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 120000,
+               "gold" : 12000
+            }
+         }
+      },
+      "refId" : "quest_13"
+   },
+   "quest_14" : {
+      "property" : {
+         "description" : "击败3个半兽人。",
+         "name" : "半兽人之围",
+         "nextQuestId" : "quest_15",
+         "preQuestId" : "quest_13",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_33",
+               "sceneRefId" : "S001",
+               "talkContent" : "大陆动荡，正值多事之秋，我们这个避世的小村也无法幸免。最近村口来了一支半兽人队伍，已经在不远处安营扎寨了，可能不久就会对我们有所行动，我觉得我们有必要主动出击，去探探半兽人的虚实。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_33",
+               "sceneRefId" : "S001",
+               "talkContent" : "半兽人自恃勇武无双，对自身的武力也极为自信，没想到今天在你手里吃了大亏。能见证这样一场胜利真是太令人高兴了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 3,
+               "monsterRefId" : "monster_6",
+               "orderType" : 1,
+               "sceneRefId" : "S001"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 135000,
+               "gold" : 13500
+            }
+         }
+      },
+      "refId" : "quest_14"
+   },
+   "quest_15" : {
+      "property" : {
+         "description" : "击败半兽人勇士。",
+         "name" : "勇战精英",
+         "nextQuestId" : "quest_16",
+         "preQuestId" : "quest_14",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_33",
+               "sceneRefId" : "S001",
+               "talkContent" : "半兽人部落凭借武力划分等级，等级越高，武力值也就越高，营寨中的这群半兽人中就有一些高等级的半兽人。想要解除半兽人的威胁，这些精英就必须要被解决掉。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_33",
+               "sceneRefId" : "S001",
+               "talkContent" : "经过这一场大战，感觉如何？半兽人好战残暴，而且武力极高，刚开始的时候村民们都有点不知所措了。不过经过这两场胜利，相信能振奋一下村民们的情绪。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_15",
+               "orderType" : 1,
+               "sceneRefId" : "S001"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 150000,
+               "gold" : 15000
+            }
+         }
+      },
+      "refId" : "quest_15"
+   },
+   "quest_16" : {
+      "property" : {
+         "description" : "击败营寨中的半兽人统领。",
+         "name" : "斩将夺旗",
+         "nextQuestId" : "quest_17",
+         "preQuestId" : "quest_15",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_33",
+               "sceneRefId" : "S001",
+               "talkContent" : "半兽人连番遭遇大败，现在正是士气低落的时候，如果我们潜入半兽人营寨，去偷袭他们的统领，成功的几率应该比较大，不知道你敢不敢一试呢？"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_33",
+               "sceneRefId" : "S001",
+               "talkContent" : "好样的，不愧是英雄儿女，有勇有谋啊！这群半兽人这次算是彻底栽了，没有了统领之后，半兽人应该很难在短时间内组织有效进攻了，你为我们赢得了极为宝贵的准备时间。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_69",
+               "orderType" : 1,
+               "sceneRefId" : "S001"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 165000,
+               "gold" : 16500
+            }
+         }
+      },
+      "refId" : "quest_16"
+   },
+   "quest_17" : {
+      "property" : {
+         "description" : "前往天机城。",
+         "name" : "远赴天机城",
+         "nextQuestId" : "quest_18",
+         "preQuestId" : "quest_16",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_33",
+               "sceneRefId" : "S001",
+               "talkContent" : "你要出去历练，见识世面的话，天机城是个很不错的选择，那里汇聚了很多像你一样的青年才俊，相信你能在那儿找到很多志同道合的朋友。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_32",
+               "sceneRefId" : "S002",
+               "talkContent" : "你好，年轻的勇士，欢迎来到天机城。看你风尘仆仆的样子，想必来的路上费了不少劲吧？快进城好好休息休息吧！"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_32",
+               "orderType" : 3,
+               "sceneRefId" : "S002",
+               "talkContent" : "欢迎来到天机城。"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 185000,
+               "gold" : 18500
+            }
+         }
+      },
+      "refId" : "quest_17"
+   },
+   "quest_18" : {
+      "property" : {
+         "description" : "去仓库存放杂物，然后去找首饰店老板聊聊！",
+         "name" : "轻装简行",
+         "nextQuestId" : "quest_19",
+         "preQuestId" : "quest_17",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_32",
+               "sceneRefId" : "S002",
+               "talkContent" : "天机城可是很大的，你如果想要游览天机城，带着一身杂物肯定会很累的，我建议你先去仓库把身上的杂物存放起来再动身不迟。存完杂物后就去首饰店老板聊聊吧，她会告诉你该去哪儿的。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_6",
+               "sceneRefId" : "S002",
+               "talkContent" : "这位小哥看着很面生，刚来天机城的吧？别担心，姐姐我从小就在天机城，对城里的一切都很熟悉的，你想知道什么就尽管问吧。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_8",
+               "orderEventId" : 10,
+               "orderType" : 9,
+               "sceneRefId" : "S002",
+               "taskDescription" : "找{仓库管理员}存放杂物"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "professionList" : [
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_15_6100"
+                        }
+                     ],
+                     "proffessionRefId" : 1
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_15_6100"
+                        }
+                     ],
+                     "proffessionRefId" : 2
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_15_6200"
+                        }
+                     ],
+                     "proffessionRefId" : 3
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_15_6200"
+                        }
+                     ],
+                     "proffessionRefId" : 4
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_15_6300"
+                        }
+                     ],
+                     "proffessionRefId" : 5
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_15_6300"
+                        }
+                     ],
+                     "proffessionRefId" : 6
+                  }
+               ],
+               "relatedType" : 1
+            },
+            "propertyReward" : {
+               "exp" : 100000,
+               "gold" : 10000
+            }
+         }
+      },
+      "refId" : "quest_18"
+   },
+   "quest_19" : {
+      "property" : {
+         "description" : "觐见天机城城主。",
+         "name" : "觐见城主",
+         "nextQuestId" : "quest_20",
+         "preQuestId" : "quest_18",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_6",
+               "sceneRefId" : "S002",
+               "talkContent" : "初到天机城，最好还是先去拜访下城主，如果有城主的认可和推荐，那你以后在城里基本就可以畅行无阻了。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "天机城汇聚了来自各方的人才，这些人才将是我们恢复这座古城的荣光，抗击各种潜在威胁的生力军，我希望你也能成为其中的一员。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_45",
+               "orderType" : 3,
+               "sceneRefId" : "S002",
+               "talkContent" : "为了天机城的荣耀！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 200000,
+               "gold" : 20000
+            }
+         }
+      },
+      "refId" : "quest_19"
+   },
+   "quest_2" : {
+      "property" : {
+         "description" : "找2只鸡试试手。",
+         "name" : "小试身手",
+         "nextQuestId" : "quest_3",
+         "preQuestId" : "quest_1",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_1",
+               "sceneRefId" : "S001",
+               "talkContent" : "你才刚醒，正该好好锻炼一番才是。村里那群鸡不知道怎么了，上蹿下跳地将村里弄得乱七八糟，现在正好可以让你拿来试试手。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_7",
+               "sceneRefId" : "S001",
+               "talkContent" : "看来你果然不是一般人啊，才刚醒过来就能恢复到这个程度。村民们都被这群鸡祸害惨了，有它们在，我都不敢在广场上晒衣服。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 2,
+               "monsterRefId" : "monster_1",
+               "orderType" : 1,
+               "sceneRefId" : "S001"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 10000,
+               "gold" : 1000
+            }
+         }
+      },
+      "refId" : "quest_2"
+   },
+   "quest_20" : {
+      "property" : {
+         "description" : "参加雏龙擂台！",
+         "name" : "雏龙擂台",
+         "nextQuestId" : "quest_21",
+         "preQuestId" : "quest_19",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "天机城每隔一段时间都会举行一次雏龙擂台，供前来天机城的新人相互切磋，展现自己的实力。现在正好就有一次这样的擂台正在进行中，你可以去试试。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "怎么样？对手的实力还是很不错的吧？你在这次擂台战中的表现还是很不错的，希望你能从中有所收获！天机城的将来还是要靠你们这些年轻人啊！"
+            }
+         },
+         "orderField" : [
+            {
+               "gameInstanceRefId" : "Ins_pk4",
+               "orderEventId" : 1,
+               "orderType" : 9,
+               "sceneRefId" : "S154",
+               "taskDescription" : "参加{雏龙擂台}"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "professionList" : [
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_2010"
+                        }
+                     ],
+                     "proffessionRefId" : 1
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_2020"
+                        }
+                     ],
+                     "proffessionRefId" : 2
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_2010"
+                        }
+                     ],
+                     "proffessionRefId" : 3
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_2020"
+                        }
+                     ],
+                     "proffessionRefId" : 4
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_2010"
+                        }
+                     ],
+                     "proffessionRefId" : 5
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_2020"
+                        }
+                     ],
+                     "proffessionRefId" : 6
+                  }
+               ],
+               "relatedType" : 1
+            },
+            "propertyReward" : {
+               "exp" : 250000,
+               "gold" : 25000
+            }
+         }
+      },
+      "refId" : "quest_20"
+   },
+   "quest_21" : {
+      "property" : {
+         "description" : "去药店购买5个疗伤药(中)。",
+         "name" : "战前补给",
+         "nextQuestId" : "quest_22",
+         "preQuestId" : "quest_20",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "日前收到白骨洞中的守卫传回来的求援信件，说是洞中骷髅数量剧增，急需支援。我希望你能参加这次支援行动，你可以先去药店购买一些药品补给，然后去找武器店老板了解下详情。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S002",
+               "talkContent" : "你也是准备去白骨洞支援的吗？补给什么的准备好了吗？白骨洞的防线目前比较紧张，贸然进去会非常危险的，我希望你在去之前能做好准备。"
+            }
+         },
+         "orderField" : [
+            {
+               "buyItem" : "item_drug_2",
+               "buyNum" : 5,
+               "npcRefId" : "npc_2",
+               "orderEventId" : 7,
+               "orderType" : 9,
+               "sceneRefId" : "S002",
+               "taskDescription" : "去{药店}购买5个{疗伤药(中)}"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_21"
+   },
+   "quest_22" : {
+      "property" : {
+         "description" : "击败蝎尾蜘蛛，然后前往白骨洞。",
+         "name" : "前往白骨洞",
+         "nextQuestId" : "quest_23",
+         "preQuestId" : "quest_21",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S002",
+               "talkContent" : "既然你已经准备好了，那就尽快出发吧！不过现在城门口处有一群蝎尾蜘蛛盘踞，你要前往白骨洞的话，可能需要从这群蜘蛛中清理出一条通道。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_25",
+               "sceneRefId" : "S031",
+               "talkContent" : "少侠可是从天机城而来？此地甚是危险，海量的骷髅正在不停冲击我们的防线，如果真让它们得逞了，后果将不堪设想。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_8",
+               "orderType" : 1,
+               "sceneRefId" : "S002"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_22"
+   },
+   "quest_23" : {
+      "property" : {
+         "description" : "击败骷髅士兵。",
+         "name" : "疯狂的骨头",
+         "nextQuestId" : "quest_24",
+         "preQuestId" : "quest_22",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_25",
+               "sceneRefId" : "S031",
+               "talkContent" : "蚁多咬死象，这么多的疯狂的骷髅轮番攻击，迟早能突破我们的防线，所以我们必须要减少骷髅部队的数量，将骷髅大军的规模控制在我们能接受的范围之内。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_34",
+               "sceneRefId" : "S031",
+               "talkContent" : "你是新来支援的吗？从你刚才收拾骷髅士兵的表现来看，你的身手似乎不错啊，有机会我们切磋一下呗？"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_17",
+               "orderType" : 1,
+               "sceneRefId" : "S031"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "professionList" : [
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_1100"
+                        }
+                     ],
+                     "proffessionRefId" : 1
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_1100"
+                        }
+                     ],
+                     "proffessionRefId" : 2
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_1200"
+                        }
+                     ],
+                     "proffessionRefId" : 3
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_1200"
+                        }
+                     ],
+                     "proffessionRefId" : 4
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_1300"
+                        }
+                     ],
+                     "proffessionRefId" : 5
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_20_1300"
+                        }
+                     ],
+                     "proffessionRefId" : 6
+                  }
+               ],
+               "relatedType" : 1
+            },
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_23"
+   },
+   "quest_24" : {
+      "property" : {
+         "description" : "和流浪剑客比试比试。",
+         "name" : "阵前大比拼",
+         "nextQuestId" : "quest_25",
+         "preQuestId" : "quest_23",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_34",
+               "sceneRefId" : "S031",
+               "talkContent" : "换上新武器的感觉怎么样？要不要我们来比试比试？你看这里骷髅士兵这么多，正好可以拿来比试。让我们看看谁能在更短的时间内击败8个骷髅士兵。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_34",
+               "sceneRefId" : "S031",
+               "talkContent" : "工欲善其事必先利其器，看来这句古话说的真是不错。你换上好武器后速度快了不少啊，差一点就把我比下去了，看来和你比试的时候真是不能掉以轻心呢！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_17",
+               "orderType" : 1,
+               "sceneRefId" : "S031"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_24"
+   },
+   "quest_25" : {
+      "property" : {
+         "description" : "击败尸王傀儡。",
+         "name" : "嗜血尸王",
+         "nextQuestId" : "quest_26",
+         "preQuestId" : "quest_24",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_34",
+               "sceneRefId" : "S031",
+               "talkContent" : "上次的比试我稍占上风，那这次的表现机会就让给你好了。你看洞中有不少的尸王傀儡，这些可都是首领级的怪物，前去击败它们的重任就交给你了。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_44",
+               "sceneRefId" : "S031",
+               "talkContent" : "这群骷髅真是耐打，而且源源不断，好多士兵都已经精疲力尽了，可骷髅的数量还是不见减少，真不知道还能撑多久。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_70",
+               "orderType" : 1,
+               "sceneRefId" : "S031"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_25"
+   },
+   "quest_26" : {
+      "property" : {
+         "description" : "击败3个骷髅斧手。",
+         "name" : "进击的斧手",
+         "nextQuestId" : "quest_27",
+         "preQuestId" : "quest_25",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_44",
+               "sceneRefId" : "S031",
+               "talkContent" : "里面的兄弟传来警报，说有群骷髅斧手正在逼近前线，我希望你能去阻止它们一下，给我们留出一些准备的时间。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_35",
+               "sceneRefId" : "S031",
+               "talkContent" : "前面的情况怎么样？我们的人手实在是太少了，再不做些什么，是根本无法阻止源源不断的骷髅部队的。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 3,
+               "monsterRefId" : "monster_18",
+               "orderType" : 1,
+               "sceneRefId" : "S031"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_26"
+   },
+   "quest_27" : {
+      "property" : {
+         "description" : "去白骨洞二层找镇洞将军汇报战况。",
+         "name" : "战况汇报",
+         "nextQuestId" : "quest_28",
+         "preQuestId" : "quest_26",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_35",
+               "sceneRefId" : "S031",
+               "talkContent" : "我们的将军现在正在下层指挥作战，你现在去找他，然后将这边的汇报过去。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_36",
+               "sceneRefId" : "S032",
+               "talkContent" : "我了解诸位将士的不安，毕竟相对于骷髅海来说，我们的人数太少了，但是援军很快就会抵达，胜利必将属于我们。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_36",
+               "orderType" : 3,
+               "sceneRefId" : "S032",
+               "talkContent" : "骷髅海战术真是太可耻了！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_27"
+   },
+   "quest_28" : {
+      "property" : {
+         "description" : "击败5只骷髅卫士。",
+         "name" : "断其臂膀",
+         "nextQuestId" : "quest_29",
+         "preQuestId" : "quest_27",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_36",
+               "sceneRefId" : "S032",
+               "talkContent" : "下层的怪物主要是骷髅王的卫队，数量虽少但是实力强劲，如果能除去它们，应该能大大削弱骷髅部队的实力。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_36",
+               "sceneRefId" : "S032",
+               "talkContent" : "你这次的表现很出色，我已经命令信使将你的情况传回了天机城。你年纪轻轻就能有这样的作为，真不简单。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_19",
+               "orderType" : 1,
+               "sceneRefId" : "S032"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 30,
+                     "itemRefId" : "item_feixie"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_28"
+   },
+   "quest_29" : {
+      "property" : {
+         "description" : "与天机城的武器店老板交谈。",
+         "name" : "回城休整",
+         "nextQuestId" : "quest_30",
+         "preQuestId" : "quest_28",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_36",
+               "sceneRefId" : "S032",
+               "talkContent" : "这段时间多亏了你们这些年轻勇士的帮助，我们的阵线才能稳固如初。而且这段时间天机城已经开始不断往这边增派援军了，到时候防线的压力会小很多，你现在也可以回城休整了！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S002",
+               "talkContent" : "呦，我们的小英雄回来啦，欢迎光临我的小店！白骨洞中的将军在军情报告中对你此前的表现大加赞赏，你现在可是天机城的名人了。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_4",
+               "orderType" : 3,
+               "sceneRefId" : "S002",
+               "talkContent" : "沉醉于锤子碰撞的美妙旋律中吧！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_29"
+   },
+   "quest_3" : {
+      "property" : {
+         "description" : "去找服饰店老板芸娘聊聊。",
+         "name" : "美人如玉",
+         "nextQuestId" : "quest_4",
+         "preQuestId" : "quest_2",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_7",
+               "sceneRefId" : "S001",
+               "talkContent" : "你才刚醒过来没多久，可不宜劳累过多，我这里有个非常轻松的任务可以交给你。服饰店的老板芸娘可是我们村里的一朵花，不过这几天她好像有些闷闷不乐的样子，不如你去找她聊聊天吧，如果能让她开心起来就再好不过了。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_5",
+               "sceneRefId" : "S001",
+               "talkContent" : "呀，没想到我才稍微有点不开心就有人这么担忧了啊，真是过意不去呢！其实说起来也没什么啦，只是一些私人的小事罢了。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_5",
+               "orderType" : 3,
+               "sceneRefId" : "S001",
+               "talkContent" : "再好的衣服也需要合适的人来穿才能显得好看！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 15000,
+               "gold" : 1500
+            }
+         }
+      },
+      "refId" : "quest_3"
+   },
+   "quest_30" : {
+      "property" : {
+         "description" : "参加精英大擂。",
+         "name" : "精英大擂",
+         "nextQuestId" : "quest_31",
+         "preQuestId" : "quest_29",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S002",
+               "talkContent" : "天机城出了周期性的雏龙擂台以外，还有定期举行的殿前精英大擂，其中实力出众的将获得城主的封赏。你经过了白骨洞的历练，实力应该已经增长了很多，正好可以去试一试。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S002",
+               "talkContent" : "怎么样，这样的擂台还不错吧？不瞒你说，这个擂台每年可是能吸引成千上万的少年豪侠前来参加的，像这样可以和各地精英人士切磋的机会可不多。"
+            }
+         },
+         "orderField" : [
+            {
+               "gameInstanceRefId" : "Ins_pk5",
+               "orderEventId" : 1,
+               "orderType" : 9,
+               "sceneRefId" : "S155",
+               "taskDescription" : "参加{精英大擂}"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_30"
+   },
+   "quest_31" : {
+      "property" : {
+         "description" : "解除北面城门的危机。",
+         "name" : "城门危机",
+         "nextQuestId" : "quest_32",
+         "preQuestId" : "quest_30",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S002",
+               "talkContent" : "最近麻烦事实在是不少，现在北面的城门口处布满了毒蛇，已经严重威胁到了行人的安全，而且有些毒蛇已经开始向城门处移动了，真要被它们进来了可就危险了，如果你能去帮忙解除掉这个危机就再好不过了。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "年轻人，我们又见面了！短短几日时间，没想到你已经闯下了如此大的功绩，现在城中的人都对你的表现交口称赞呢！鉴于你的表现，你觉得给你一个爵位称号怎么样？"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_9",
+               "orderType" : 1,
+               "sceneRefId" : "S002"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_31"
+   },
+   "quest_32" : {
+      "property" : {
+         "description" : "解救被毒蛇围困的旅游商人。",
+         "name" : "绝境逢生",
+         "nextQuestId" : "quest_33",
+         "preQuestId" : "quest_31",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "据我所知，现在北城门附近的地方已经毒蛇泛滥了，日前就有哨探汇报说有人被毒蛇围困在了遗弃小镇，情况非常危急，正好现在你回来了，我想请你去解救那个被围困的人。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_26",
+               "sceneRefId" : "S007",
+               "talkContent" : "谢天谢地终于有人来救我了，这群长虫真是恶心，数量庞大不说，还怎么都赶不走，要不是你来，我早晚得交代在这里。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_9",
+               "orderType" : 1,
+               "sceneRefId" : "S007"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_32"
+   },
+   "quest_33" : {
+      "property" : {
+         "description" : "击败5条金鳞翼蛇。",
+         "name" : "清理蛇群",
+         "nextQuestId" : "quest_34",
+         "preQuestId" : "quest_32",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_26",
+               "sceneRefId" : "S007",
+               "talkContent" : "因为周围蛇群的数量激增，导致小镇的居民纷纷搬走避难，原本还比较热闹的小镇如今几无人烟。如果能清理掉这些毒蛇，想必这个局面能好转一些吧？"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_26",
+               "sceneRefId" : "S007",
+               "talkContent" : "作为一个旅游商人，我也跑了不少地方了，像这种毒虫野兽冲击人类村镇的情况已经不是一两次了，看来世道真是要变了啊！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_12",
+               "orderType" : 1,
+               "sceneRefId" : "S007"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 400000,
+               "gold" : 40000
+            }
+         }
+      },
+      "refId" : "quest_33"
+   },
+   "quest_34" : {
+      "property" : {
+         "description" : "帮助矿洞中的老兵对抗僵尸。",
+         "name" : "矿洞支援",
+         "nextQuestId" : "quest_35",
+         "preQuestId" : "quest_33",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_26",
+               "sceneRefId" : "S007",
+               "talkContent" : "这附近有一座废弃的矿洞，里面有大量的僵尸出没，但是防卫力量非常薄弱，只有几个老兵在那里镇守，你身手这么好，能去帮帮他们吗？"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_24",
+               "sceneRefId" : "S033",
+               "talkContent" : "年轻人，没事可不要乱跑，这里可不少什么游山玩水的好地方。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 10,
+               "monsterRefId" : "monster_21",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 400000,
+               "gold" : 40000
+            }
+         }
+      },
+      "refId" : "quest_34"
+   },
+   "quest_35" : {
+      "property" : {
+         "description" : "击败10只巫毒僵尸。",
+         "name" : "恐怖巫毒",
+         "nextQuestId" : "quest_36",
+         "preQuestId" : "quest_34",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_24",
+               "sceneRefId" : "S033",
+               "talkContent" : "你是来帮忙的？那好吧，前段时间有个老道士过来说有办法封印下层的入口，不知道是不是真的，你可以去看看。不过去的路上小心巫毒僵尸的袭扰，这种僵尸的巫毒攻击可是非常恐怖的。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S033",
+               "talkContent" : "临兵斗者皆阵列在前……哎，又被干扰了，被这群僵尸这样围着，根本没法安心布阵啊，要是有个帮手就好了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 10,
+               "monsterRefId" : "monster_22",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 400000,
+               "gold" : 40000
+            }
+         }
+      },
+      "refId" : "quest_35"
+   },
+   "quest_36" : {
+      "property" : {
+         "description" : "清除电眼僵尸。",
+         "name" : "天道封魔",
+         "nextQuestId" : "quest_37",
+         "preQuestId" : "quest_35",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S033",
+               "talkContent" : "年轻人，你来的正好，为了能安心布阵，我需要一个人帮忙驱逐周围的僵尸，你能帮我这个忙吗？"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S033",
+               "talkContent" : "好了，终于完成封印仪式了。多谢你的帮忙，要不然一直被这群僵尸打扰，真不知道什么时候才能完成仪式呢！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_23",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 400000,
+               "gold" : 40000
+            }
+         }
+      },
+      "refId" : "quest_36"
+   },
+   "quest_37" : {
+      "property" : {
+         "description" : "清理矿洞二层的僵尸。",
+         "name" : "下层清理",
+         "nextQuestId" : "quest_38",
+         "preQuestId" : "quest_36",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S033",
+               "talkContent" : "封印隔断了两层之间的联系，我们现在就可以各个击破了，我想让你去清理下层的僵尸，你应该不会拒绝的吧？"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_24",
+               "sceneRefId" : "S033",
+               "talkContent" : "没想到这个老道士还真有两下子，竟然真的解决了僵尸的麻烦，看来我真是看走眼了呀！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_23",
+               "orderType" : 1,
+               "sceneRefId" : "S034"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 400000,
+               "gold" : 40000
+            }
+         }
+      },
+      "refId" : "quest_37"
+   },
+   "quest_38" : {
+      "property" : {
+         "description" : "采集一批矿石交给天机城的武器店。",
+         "name" : "矿石供应",
+         "nextQuestId" : "quest_39",
+         "preQuestId" : "quest_37",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_24",
+               "sceneRefId" : "S033",
+               "talkContent" : "僵尸被清理之后，这个矿洞就可以继续开采了，正好你在这里，就顺便采集一批送过去吧！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S002",
+               "talkContent" : "没想到你们这么点人手就解决了僵尸的麻烦，你这回又为天机城立下了一个大功啊！这下天机城的矿石紧缺问题总算是解决了。"
+            }
+         },
+         "orderField" : [
+            {
+               "itemCount" : 5,
+               "itemRefId" : "item_stone",
+               "npcRefId" : "npc_collect_3",
+               "orderType" : 4,
+               "sceneRefId" : "S033"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 400000,
+               "gold" : 40000
+            }
+         }
+      },
+      "refId" : "quest_38"
+   },
+   "quest_39" : {
+      "property" : {
+         "description" : "参加一次竞技场。",
+         "name" : "武道竞技",
+         "nextQuestId" : "quest_40",
+         "preQuestId" : "quest_38",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S002",
+               "talkContent" : "为了应对周边的威胁，我们城主决定将所有的武者号召起来举行武道竞技大赛，让大家能够在互相的对战中获得提升，你如果感兴趣的话也可以去试试。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "你好，年轻人，我看了你在竞技场中的表现，真的很不错啊！看来这段时间里你真的是全身心都投入在了历练上了，实力增长了很多啊！"
+            }
+         },
+         "orderField" : [
+            {
+               "ladderTime" : 1,
+               "orderEventId" : 9,
+               "orderType" : 9,
+               "taskDescription" : "参加一次{竞技场}"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 500000,
+               "gold" : 50000,
+               "merit" : 100
+            }
+         }
+      },
+      "refId" : "quest_39"
+   },
+   "quest_4" : {
+      "property" : {
+         "description" : "收集一些鹿茸来调理身体。",
+         "name" : "就地取材",
+         "nextQuestId" : "quest_5",
+         "preQuestId" : "quest_3",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_5",
+               "sceneRefId" : "S001",
+               "talkContent" : "你沉睡了这么久，身体亏损太多，应该及早调理一番，不然的话落下什么病根可就麻烦了。村里正好有许多麋鹿，你去猎取一些鹿茸，然后让药店老板帮你配置一些调理身体的药物吧。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S001",
+               "talkContent" : "你来的正好，我听说你醒过来了，正准备让人找你过来呢。你带来的鹿茸我看过了，质量都还不错，不过用来调理身体的话，效果并不太好。我这里有一颗特制的魔血石，是我专门为你炼制的，现在就交给你吧。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 3,
+               "monsterRefId" : "monster_2",
+               "orderType" : 1,
+               "sceneRefId" : "S001"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 1,
+                     "itemRefId" : "item_lixianmoxueshi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 24000,
+               "gold" : 2400
+            }
+         }
+      },
+      "refId" : "quest_4"
+   },
+   "quest_40" : {
+      "property" : {
+         "description" : "将爵位提升到二级。",
+         "name" : "晋升爵位",
+         "nextQuestId" : "quest_41",
+         "preQuestId" : "quest_39",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "算起来，你也算是一个为天机城立下了数个大功的人了，我觉得是时候提升你的爵位了，你配得上这份荣耀。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "新的爵位代表着天机城的百姓对你的认可，但是更尊贵的身份也意味着更多的责任，希望你能牢记在心。"
+            }
+         },
+         "orderField" : [
+            {
+               "orderEventId" : 2,
+               "orderType" : 9,
+               "peerageLevel" : 2,
+               "taskDescription" : "提升{爵位}至2级"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 400000,
+               "gold" : 40000
+            }
+         }
+      },
+      "refId" : "quest_40"
+   },
+   "quest_41" : {
+      "property" : {
+         "description" : "和书店老板聊聊探险的事情。",
+         "name" : "探险守则",
+         "nextQuestId" : "quest_42",
+         "preQuestId" : "quest_40",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "日前有冒险者发现了一座隐秘的地宫，我们需要尽快弄清里面的情况，你先去书店了解探险的要点，然后就出发吧！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S002",
+               "talkContent" : "城主的传令官已经跟我说明情况了，那座地宫很危险，所以去的时候千万小心，希望我教你的知识能派上用场。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_9",
+               "orderType" : 3,
+               "sceneRefId" : "S002",
+               "talkContent" : "知识就是力量！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 100000,
+               "gold" : 10000
+            }
+         }
+      },
+      "refId" : "quest_41"
+   },
+   "quest_42" : {
+      "property" : {
+         "description" : "找到地下冒险者。",
+         "name" : "地下探险",
+         "nextQuestId" : "quest_43",
+         "preQuestId" : "quest_41",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S002",
+               "talkContent" : "在你之前，城主已经派了一批冒险者前往勘察了，所以你可以先从他们那里了解一下里面的情况。不过要找到他们，估计你得费点劲才行。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_27",
+               "sceneRefId" : "S035",
+               "talkContent" : "年轻人，欢迎加入冒险者的行列！不过这项工作可是很危险的，这一点想必你也听说了。我们对这个地宫的了解并不多，但是毫无疑问的是，这里相当危险，所以在行动之前，希望你能做好准备。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_25",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 100000,
+               "gold" : 10000
+            }
+         }
+      },
+      "refId" : "quest_42"
+   },
+   "quest_43" : {
+      "property" : {
+         "description" : "解救被围困的大弟子。",
+         "name" : "失散的弟子",
+         "nextQuestId" : "quest_44",
+         "preQuestId" : "quest_42",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_27",
+               "sceneRefId" : "S035",
+               "talkContent" : "为了仔细打探这里的消息，我带上了我的三个徒弟，不过刚进来的时候就被怪物给冲散了，所以现在我也不知道他们的情况了，如果可以的话，我希望你能去找到他们。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_39",
+               "sceneRefId" : "S035",
+               "talkContent" : "看你出手，干净利落，看来城主真是帮我们请了个厉害的帮手啊！谢谢你前来帮我解围，救命之恩无以为报啊！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_26",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 500000,
+               "gold" : 50000
+            }
+         }
+      },
+      "refId" : "quest_43"
+   },
+   "quest_44" : {
+      "property" : {
+         "description" : "解救被围困的二师弟。",
+         "name" : "不情之请",
+         "nextQuestId" : "quest_45",
+         "preQuestId" : "quest_43",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_39",
+               "sceneRefId" : "S035",
+               "talkContent" : "看你的身手，在这里应该会比较安全，所以我有一个不情之请，希望你能答应。我的两位师弟现在正下落不明，估计是跟我一样陷入险地了，我希望你能帮忙解救他们。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_40",
+               "sceneRefId" : "S035",
+               "talkContent" : "好险好险，还好你来得早，不然这群怪物就该找到我了。我好不容易才避开这群怪物跑到这个罕有怪物活动的地方，这才躲过一劫，不然后果真是不敢想象。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_27",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 500000,
+               "gold" : 50000
+            }
+         }
+      },
+      "refId" : "quest_44"
+   },
+   "quest_45" : {
+      "property" : {
+         "description" : "解救深陷敌群的小师弟。",
+         "name" : "深入敌后",
+         "nextQuestId" : "quest_46",
+         "preQuestId" : "quest_44",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_40",
+               "sceneRefId" : "S035",
+               "talkContent" : "我们现在的位置似乎已经是这座地宫的中部了，既然你过来的时候没有遇到小师弟，那很有可能就是他还在更里面的地方，那里可是怪物们的后方，但愿他前往不要有事啊！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_41",
+               "sceneRefId" : "S035",
+               "talkContent" : "肮脏的怪物，快给我滚开……真是该死，当时跑路的时候怎么就没注意呢，这可倒好，跑到敌人的后方来了，这该怎么办呢？"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 5,
+               "monsterRefId" : "monster_27",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 500000,
+               "gold" : 50000
+            }
+         }
+      },
+      "refId" : "quest_45"
+   },
+   "quest_46" : {
+      "property" : {
+         "description" : "击败虚弱的暗黑教主。",
+         "name" : "乘人之危？",
+         "nextQuestId" : "quest_47",
+         "preQuestId" : "quest_45",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_41",
+               "sceneRefId" : "S035",
+               "talkContent" : "为了感谢你的救命之恩，我就告诉你一个秘密吧。我在这里四处躲藏的时候，发现附近原来还有一些虚弱中的首领级怪物，这附近怪物这么多想必就是为了守护这些虚弱的首领，如果你想去挑战这些首领的话，现在就是最好的时机了！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_27",
+               "sceneRefId" : "S035",
+               "talkContent" : "我的徒弟们对你这次的表现赞不绝口呢！多亏了有你的帮忙，他们才能安然无恙。当初还以为你是一个小菜鸟，没想到反倒是让你帮了这么多忙，真是不好意思！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_71",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 600000,
+               "gold" : 60000
+            }
+         }
+      },
+      "refId" : "quest_46"
+   },
+   "quest_47" : {
+      "property" : {
+         "description" : "前往蜃楼城！",
+         "name" : "海市蜃楼",
+         "nextQuestId" : "quest_48",
+         "preQuestId" : "quest_46",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_27",
+               "sceneRefId" : "S035",
+               "talkContent" : "如果你想要增加自己的阅历，那么我推荐你去蜃楼城看看，那里有很多实力强大的人，相信能对你的历练有很大帮助。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_16",
+               "sceneRefId" : "S008",
+               "talkContent" : "欢迎来到蜃楼城，年轻的冒险者！为了鼓励蜃楼的冒险者积极前往各地历练，我们为每一个冒险者都提供了一匹坐骑，用心培养的话可是能给你提供极大帮助的！"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_16",
+               "orderType" : 3,
+               "sceneRefId" : "S008",
+               "talkContent" : "男儿当持三尺剑，卫国守土立功名。"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 300000,
+               "gold" : 30000
+            }
+         }
+      },
+      "refId" : "quest_47"
+   },
+   "quest_48" : {
+      "property" : {
+         "description" : "完成尸王殿的探索。",
+         "name" : "尸王秘境",
+         "nextQuestId" : "quest_49",
+         "preQuestId" : "quest_47",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 40,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S008",
+               "talkContent" : "蜃楼附近有一处秘境，由一只强横的首领怪物占据，我希望你能去那里探查一番，我们需要对此有个清晰的了解。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S008",
+               "talkContent" : "什么，你遭到了其他冒险者的攻击？看来大陆的动荡不仅仅影响了怪物们，还影响到了我们，估计那些受到影响的人都差不多失去理智了。"
+            }
+         },
+         "orderField" : [
+            {
+               "gameInstanceRefId" : "Ins_pk1",
+               "orderEventId" : 1,
+               "orderType" : 9,
+               "sceneRefId" : "S151",
+               "taskDescription" : "进入{尸王殿}进行探查"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "professionList" : [
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_30_2110"
+                        }
+                     ],
+                     "proffessionRefId" : 1
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_30_2120"
+                        }
+                     ],
+                     "proffessionRefId" : 2
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_30_2210"
+                        }
+                     ],
+                     "proffessionRefId" : 3
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_30_2220"
+                        }
+                     ],
+                     "proffessionRefId" : 4
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_30_2310"
+                        }
+                     ],
+                     "proffessionRefId" : 5
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_30_2320"
+                        }
+                     ],
+                     "proffessionRefId" : 6
+                  }
+               ],
+               "relatedType" : 1
+            },
+            "propertyReward" : {
+               "exp" : 800000,
+               "gold" : 80000
+            }
+         }
+      },
+      "refId" : "quest_48"
+   },
+   "quest_49" : {
+      "property" : {
+         "description" : "返回尸王殿探查情况。",
+         "name" : "重返尸王殿",
+         "nextQuestId" : "quest_50",
+         "preQuestId" : "quest_48",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 40,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S008",
+               "talkContent" : "“卧榻之侧岂容他人鼾睡”。所以我猜测，在你离开之后，那些凶徒必定会和那个首领发生战斗，到时候必然是两败俱伤，你现在可以再去试试，也许你可以报了之前的一箭之仇。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S008",
+               "talkContent" : "看来我的推算没有错，你的平安归来让我安心不少。不过这次的事件也警醒了我们，看来我们内部也不是铁板一块儿的，你以后一定要小心那些不轨之徒的袭击，切不可掉以轻心啊！"
+            }
+         },
+         "orderField" : [
+            {
+               "gameInstanceRefId" : "Ins_pk2",
+               "orderEventId" : 1,
+               "orderType" : 9,
+               "pkGuidence" : 1,
+               "sceneRefId" : "S152",
+               "taskDescription" : "返回{尸王殿}探查情况"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 5,
+                     "itemRefId" : "item_ironMedal"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 800000,
+               "gold" : 80000
+            }
+         }
+      },
+      "refId" : "quest_49"
+   },
+   "quest_5" : {
+      "property" : {
+         "description" : "打开背包并使用特制魔血石。",
+         "name" : "魔血奇石",
+         "nextQuestId" : "quest_6",
+         "preQuestId" : "quest_4",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S001",
+               "talkContent" : "魔血石是一种奇石，里面蕴含的能量能够持续治疗你的伤势直到能量耗尽，不过我这颗特制的魔血石效果更好。如果不是因为制作不易，一定能成为居家旅行的必备良药。现在你就打开背包使用看看吧。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S001",
+               "talkContent" : "怎么样，我没有骗你吧？你刚醒过来，身手还没有完全恢复，这样去历练是很危险的，不过有了我这颗特制魔血石的治疗帮助，相信你会轻松不少。"
+            }
+         },
+         "orderField" : [
+            {
+               "bufferRefId" : "buff_item_9",
+               "orderEventId" : 8,
+               "orderType" : 9,
+               "taskDescription" : "打开背包使用{特制魔血石}"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 30000,
+               "gold" : 3000
+            }
+         }
+      },
+      "refId" : "quest_5"
+   },
+   "quest_50" : {
+      "property" : {
+         "description" : "进入异端裁决副本。",
+         "name" : "敌情探查",
+         "nextQuestId" : "quest_51",
+         "preQuestId" : "quest_49",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 40,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "邪恶的暗黑教主贼心不死，他在异端神庙聚集了一批异端教徒准备给我们制造麻烦，但是我们对敌情了解还很不足，所以需要你前去探查一番。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "真是不能有一刻的放松啊，暗黑教主这次竟然聚集了这么多的人手，要不是我们提前探查到这一消息，等到他突然发难的时候非得吃大亏不可。"
+            }
+         },
+         "orderField" : [
+            {
+               "gameInstanceRefId" : "Ins_1",
+               "orderEventId" : 5,
+               "orderType" : 9,
+               "taskDescription" : "进入{异端裁决}副本探查情况"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 800000,
+               "gold" : 80000
+            }
+         }
+      },
+      "refId" : "quest_50"
+   },
+   "quest_51" : {
+      "property" : {
+         "description" : "向书店老板了解蜃楼城的风土人情。",
+         "name" : "风土人情",
+         "nextQuestId" : "quest_52",
+         "preQuestId" : "quest_50",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 41,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S008",
+               "talkContent" : "你初来乍到，想必对蜃楼附近的风土人情还不了解，如果你想要知道这方面的东西的话，就去找书店老板聊聊吧！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "能用我所知的东西为像你这样勇敢的冒险者服务，是我的荣幸！蜃楼城可是有不少值得向外人称道的东西呢……"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_9",
+               "orderType" : 3,
+               "sceneRefId" : "S008",
+               "talkContent" : "知识就是力量！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 800000,
+               "gold" : 80000
+            }
+         }
+      },
+      "refId" : "quest_51"
+   },
+   "quest_52" : {
+      "property" : {
+         "description" : "清理通往万虫窟的通道，并前往万虫窟。",
+         "name" : "万虫窟之行",
+         "nextQuestId" : "quest_53",
+         "preQuestId" : "quest_51",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 41,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "从你的情况来看，蜃楼附近最适合你的历练地点非万虫窟莫属，不过现在去往万虫窟的通道上布满了沙虫，所以你需要先清理了它们。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_42",
+               "sceneRefId" : "S037",
+               "talkContent" : "呦，是个生面孔啊，以前都没见过你，从别的地方来的吗？万虫窟可是个危险的地方，在这里历练可要小心了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 20,
+               "monsterRefId" : "monster_13",
+               "orderType" : 1,
+               "sceneRefId" : "S008"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 800000,
+               "gold" : 80000
+            }
+         }
+      },
+      "refId" : "quest_52"
+   },
+   "quest_53" : {
+      "property" : {
+         "description" : "获取烈焰火核。",
+         "name" : "避毒宝物",
+         "nextQuestId" : "quest_54",
+         "preQuestId" : "quest_52",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 42,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_42",
+               "sceneRefId" : "S037",
+               "talkContent" : "万虫窟虽然是个不错的历练之地，不过想进入虫窟深处可不容易，因为里面布满了毒瘴之气。如果未作防备而吸入过多毒瘴的话，可是会致命的。我建议你先去暗黑烈焰祭司那里夺取一个烈焰火核，那东西属性至阳，对毒瘴有很好的克制效果，能保你在万虫窟中不受毒瘴困扰。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_42",
+               "sceneRefId" : "S037",
+               "talkContent" : "世间万物相生相克，至阳的烈焰火核对万虫窟深处的毒瘴的克制效果是所有冒险者都公认的，所以现在你可以放心地去闯荡万虫窟了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_2028",
+               "orderType" : 1,
+               "sceneRefId" : "S067"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 800000,
+               "gold" : 80000
+            }
+         }
+      },
+      "refId" : "quest_53"
+   },
+   "quest_54" : {
+      "property" : {
+         "description" : "找到万虫窟中的书生。",
+         "name" : "游学的书生",
+         "nextQuestId" : "quest_55",
+         "preQuestId" : "quest_53",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 42,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_42",
+               "sceneRefId" : "S037",
+               "talkContent" : "前段时间有个书生说要在这里游学考察，真是太想当然了，这么危险的地方，岂是他一个文弱书生能来的？你既然要在此历练，那就顺便去帮帮他吧！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_43",
+               "sceneRefId" : "S037",
+               "talkContent" : "这种万虫集聚的景象在学堂中可是看不到的，这一趟出来游学还真是明智啊！"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_43",
+               "orderType" : 3,
+               "sceneRefId" : "S037",
+               "talkContent" : "知识就是力量！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 800000,
+               "gold" : 80000
+            }
+         }
+      },
+      "refId" : "quest_54"
+   },
+   "quest_55" : {
+      "property" : {
+         "description" : "击败20只千足蜈蚣。",
+         "name" : "格物致知",
+         "nextQuestId" : "quest_56",
+         "preQuestId" : "quest_54",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 42,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_43",
+               "sceneRefId" : "S037",
+               "talkContent" : "你能来帮我真是太好了，我准备将万虫窟的魔虫的特性都记录下来，我们就先从蜈蚣开始吧，谁让它离我们最近呢？"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_43",
+               "sceneRefId" : "S037",
+               "talkContent" : "有你帮忙，我的效率都能快很多啊！只要完成这些记录，以后前来历练的人就能避免很多麻烦了！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 20,
+               "monsterRefId" : "monster_35",
+               "orderType" : 1,
+               "sceneRefId" : "S037"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 400,
+                     "itemRefId" : "item_zhenmoling_1"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 800000,
+               "gold" : 80000
+            }
+         }
+      },
+      "refId" : "quest_55"
+   },
+   "quest_56" : {
+      "property" : {
+         "description" : "进入镇魔塔，并尽量清除里面的怪物。",
+         "name" : "镇魔之塔",
+         "nextQuestId" : "quest_57",
+         "preQuestId" : "quest_55",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 43,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_16",
+               "sceneRefId" : "S008",
+               "talkContent" : "大陆之上有一座镇魔之塔，里面封禁着这么多年来被擒捕的怪物和魔头。不过因为这么多年的累积，现在塔中能容纳的魔物数量已经快达到极限了，所以我们需要一些有实力的高手去里面清理掉一些魔物，不知道你是否有兴趣呢？"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_16",
+               "sceneRefId" : "S008",
+               "talkContent" : "镇魔塔中累积的魔物众多，确实是个不错的历练之地。从你现在的实力来看，你在塔里也没闲着啊，实力增长很迅速啊，不错！"
+            }
+         },
+         "orderField" : [
+            {
+               "gameInstanceRefId" : "Ins_6",
+               "orderEventId" : 5,
+               "orderType" : 9,
+               "taskDescription" : "尽量清除{镇魔塔}里的怪物"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 650000,
+               "gold" : 65000
+            }
+         }
+      },
+      "refId" : "quest_56"
+   },
+   "quest_57" : {
+      "property" : {
+         "description" : "解救被围困的雇佣兵。",
+         "name" : "失职的护卫",
+         "nextQuestId" : "quest_58",
+         "preQuestId" : "quest_56",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 43,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_43",
+               "sceneRefId" : "S037",
+               "talkContent" : "考虑到万虫窟的凶险，我还请了一个雇佣兵作为护卫，不过他去收集信息之后就没消息了，估计是遇到麻烦了吧！如果可以的话，我希望你能去帮帮他。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_30",
+               "sceneRefId" : "S037",
+               "talkContent" : "看来我之前还是小看了这个地方啊，这个地方的虫子可真多，被围住之后想脱身都难，还好有你过来帮忙。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 20,
+               "monsterRefId" : "monster_39",
+               "orderType" : 1,
+               "sceneRefId" : "S037"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 650000,
+               "gold" : 65000
+            }
+         }
+      },
+      "refId" : "quest_57"
+   },
+   "quest_58" : {
+      "property" : {
+         "description" : "突破钢背蠕虫的围堵回城召集队友。",
+         "name" : "回城求援",
+         "nextQuestId" : "quest_59",
+         "preQuestId" : "quest_57",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 43,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_30",
+               "sceneRefId" : "S037",
+               "talkContent" : "现在真是前有堵截，后又追兵啊！看来我一个人是没有办法完成这个任务了，如果你能冲破钢背蠕虫的围堵回到蜃楼城的话，我希望你能帮我召集一些人来帮忙，我这里还能撑一会。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "招人这种事情交给我就行了，这种事情还是有很多冒险者愿意去的，所以我只需要发布一张通告就行了，就不需要你继续操心了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 20,
+               "monsterRefId" : "monster_36",
+               "orderType" : 1,
+               "sceneRefId" : "S037"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 700000,
+               "gold" : 70000
+            }
+         }
+      },
+      "refId" : "quest_58"
+   },
+   "quest_59" : {
+      "property" : {
+         "description" : "收集20只巨型毒蚊的虫翼。",
+         "name" : "毒蚊之翼",
+         "nextQuestId" : "quest_60",
+         "preQuestId" : "quest_58",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 44,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_5",
+               "sceneRefId" : "S008",
+               "talkContent" : "万虫窟中有一种巨型毒蚊，它的虫翼不仅轻盈，还同时具有极好的韧性，我想试试看能否用这些虫翼制作铠甲，你能去帮我收集一些吗？"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_5",
+               "sceneRefId" : "S008",
+               "talkContent" : "这么快就收集完了吗？真是太好了，等我用这些虫翼做成铠甲，一定送你一套！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 20,
+               "monsterRefId" : "monster_37",
+               "orderType" : 1,
+               "sceneRefId" : "S037"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 750000,
+               "gold" : 75000
+            }
+         }
+      },
+      "refId" : "quest_59"
+   },
+   "quest_6" : {
+      "property" : {
+         "description" : "把药材送去给首饰店老板。",
+         "name" : "为美送药",
+         "nextQuestId" : "quest_7",
+         "preQuestId" : "quest_5",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S001",
+               "talkContent" : "村里首饰店的那个小丫头听说最近生病了，我用你带来的那些鹿茸配制了几副药，应该能治好那个丫头的病。待会儿你就帮我把药送过去吧，不过你最好还是立马动身，毕竟让一个病美人等太久可不好。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_6",
+               "sceneRefId" : "S001",
+               "talkContent" : "咳~咳~你给我送药来了吗？谢谢，没想到这次病的这么重，幸亏还有你们关心和照顾我，不然真是不知道怎么办了。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_6",
+               "orderType" : 3,
+               "sceneRefId" : "S001",
+               "talkContent" : "咳~咳~"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 40000,
+               "gold" : 4000
+            }
+         }
+      },
+      "refId" : "quest_6"
+   },
+   "quest_60" : {
+      "property" : {
+         "description" : "击败20只食腐恶蛆。",
+         "name" : "邪恶蛆虫",
+         "nextQuestId" : "quest_61",
+         "preQuestId" : "quest_59",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 44,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "万虫窟之中有种蛆虫以腐肉为食，极为邪恶，为了让那些逝去的英灵得到安息，我们必须清理掉它们。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "万虫窟虽说是冒险者们历练的好地方，但是考虑到里面万千魔虫的威胁，总是让人有种不安的感觉。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 20,
+               "monsterRefId" : "monster_38",
+               "orderType" : 1,
+               "sceneRefId" : "S037"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 800000,
+               "gold" : 80000
+            }
+         }
+      },
+      "refId" : "quest_60"
+   },
+   "quest_61" : {
+      "property" : {
+         "description" : "击败2只成长的巨螯节虫。",
+         "name" : "下层的威胁",
+         "nextQuestId" : "quest_62",
+         "preQuestId" : "quest_60",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 45,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "不知道为什么，对于万虫窟我总有些不好的感觉，似乎有什么未知的东西在威胁着我们，你能帮我前去查探一番吗？如果可以的话，最好能试探一下里面怪物的实力。"
+            },
+            "submitNpc" : {
+               "talkContent" : "“福无双至，祸不单行”，我的预感果然是对的，如果放任这么多幼虫继续生长，那后果肯真是不敢想象啊。下面你需要去深处继续查探一番。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 2,
+               "monsterRefId" : "monster_5039",
+               "orderType" : 1,
+               "sceneRefId" : "S038"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 850000,
+               "gold" : 85000
+            }
+         }
+      },
+      "refId" : "quest_61"
+   },
+   "quest_62" : {
+      "property" : {
+         "description" : "击败2只赏金食腐恶蛆。",
+         "name" : "下层的威胁",
+         "nextQuestId" : "quest_63",
+         "preQuestId" : "quest_61",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 45,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "submitNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "这次多亏了你，才让我们认清了万虫窟二层隐藏的威胁，看来我们之前布置的针对万虫窟的防御还有些不够。计划看来要重新制定了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 2,
+               "monsterRefId" : "monster_4038",
+               "orderType" : 1,
+               "sceneRefId" : "S038"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 80,
+                     "itemRefId" : "item_zuoqiExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 850000,
+               "gold" : 85000
+            }
+         }
+      },
+      "refId" : "quest_62"
+   },
+   "quest_63" : {
+      "property" : {
+         "description" : "将坐骑提升到二阶。",
+         "name" : "最佳搭档",
+         "nextQuestId" : "quest_64",
+         "preQuestId" : "quest_62",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 45,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_16",
+               "sceneRefId" : "S008",
+               "talkContent" : "跟你刚到蜃楼的时候相比，你现在的实力已经增长了很多了，不过看你的坐骑似乎提升的不是很多啊，现在的脚力已经不能满足需要了，还是趁此机会提升一下吧！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_16",
+               "sceneRefId" : "S008",
+               "talkContent" : "怎么样？坐骑提升起来还是很给力的吧？提升坐骑不仅能给你的战斗提供很大的助力，还能拥有极其华丽的外形，可谓是居家旅行的必备之物啊！"
+            }
+         },
+         "orderField" : [
+            {
+               "mountStageOrderLevel" : 2,
+               "mountStartOrderLevel" : 0,
+               "orderEventId" : 3,
+               "orderType" : 9,
+               "taskDescription" : "提升{坐骑}至二阶"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 900000,
+               "gold" : 90000
+            }
+         }
+      },
+      "refId" : "quest_63"
+   },
+   "quest_64" : {
+      "property" : {
+         "description" : "帮助药店老板收集20条千足蜈蚣。",
+         "name" : "毒虫药酒",
+         "nextQuestId" : "quest_65",
+         "preQuestId" : "quest_63",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 46,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S008",
+               "talkContent" : "你来的正好，我正有事想请你帮忙呢！我准备酿制一些毒虫药酒，但是你知道的，万虫窟中的毒虫都异常凶狠，不是我这样一个弱女子能够应付的，所以我想请你帮我这个忙。我需要的数量也不是很多，20条千足蜈蚣就足够了！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S008",
+               "talkContent" : "蜃楼城里能有一个像你这么可靠的人真是我们的幸运呢，多谢你的帮忙，如果药酒酿造出来没有问题，那我一定请你过来品尝。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 20,
+               "monsterRefId" : "monster_35",
+               "orderType" : 1,
+               "sceneRefId" : "S037"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 950000,
+               "gold" : 95000
+            }
+         }
+      },
+      "refId" : "quest_64"
+   },
+   "quest_65" : {
+      "property" : {
+         "description" : "找猪洞守卫了解情况。",
+         "name" : "无脑挑衅",
+         "nextQuestId" : "quest_66",
+         "preQuestId" : "quest_64",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 46,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_4",
+               "sceneRefId" : "S008",
+               "talkContent" : "大陆承平已久，但是周边异族对于我们的窥伺之心一直没有断绝过，这不大陆刚一陷入动乱，猪洞里的那群野猪人就迫不及待地跳出来挑衅我们了，真是没有脑子。我们已经决定要狠狠惩治一下他们，不过在这之前，你需要先去猪洞了解下具体的情况。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_46",
+               "sceneRefId" : "S039",
+               "talkContent" : "野猪洞穴最近很不平静，这群野猪人变得狂躁易怒，极具攻击性，对付他们的时候必须要非常小心才行。不过我看你的实力，想要对付他们应该还是比较吃力的，还是等你实力再强一点再来试试吧。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_46",
+               "orderType" : 3,
+               "sceneRefId" : "S039",
+               "talkContent" : "犯我山河者，虽远必诛！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1000000,
+               "gold" : 100000
+            }
+         }
+      },
+      "refId" : "quest_65"
+   },
+   "quest_66" : {
+      "property" : {
+         "description" : "击败25只火鬃野猪。",
+         "name" : "自食苦果",
+         "nextQuestId" : "quest_67",
+         "preQuestId" : "quest_65",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 47,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_46",
+               "sceneRefId" : "S039",
+               "talkContent" : "很好，以你现在的实力去面对野猪人应该会轻松不少了！那我就让我们开始行动吧，一定要让这群目中无人的野猪人付出代价。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_28",
+               "sceneRefId" : "S039",
+               "talkContent" : "你好，人类！不要误会，我可是跟你们一边的。我的族人现在已经彻底陷入了疯狂之中，他们穷兵黩武，并悍然挑衅了你们。很庆幸我逃过了陷入疯狂的悲剧，但是我族中像我这么幸运的却没有几个，所以我只能投靠你们。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 25,
+               "monsterRefId" : "monster_42",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1050000,
+               "gold" : 105000
+            }
+         }
+      },
+      "refId" : "quest_66"
+   },
+   "quest_67" : {
+      "property" : {
+         "description" : "击败被野猪人驯养的刺蛇。",
+         "name" : "驯养的刺蛇",
+         "nextQuestId" : "quest_68",
+         "preQuestId" : "quest_66",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 48,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_28",
+               "sceneRefId" : "S039",
+               "talkContent" : "相信你这几日在洞中游走的时候也发现了，洞中出了我族人之外，还有很多嗜血的刺蛇。这些刺蛇都是我那些疯狂的族人驯养的，为的就是拿来对付你们，所以你们还是早作准备为好。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_46",
+               "sceneRefId" : "S039",
+               "talkContent" : "混蛋，这群该死的野猪人，居然敢驯养刺蛇来对付我们，这种凶残的野兽也是能随便驯养的吗？看来这群没脑子的野猪人真是连最后一点理智都丧失了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 25,
+               "monsterRefId" : "monster_44",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1100000,
+               "gold" : 110000
+            }
+         }
+      },
+      "refId" : "quest_67"
+   },
+   "quest_68" : {
+      "property" : {
+         "description" : "采集10颗猪笼草。",
+         "name" : "断绝粮草",
+         "nextQuestId" : "quest_69",
+         "preQuestId" : "quest_67",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 49,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_46",
+               "sceneRefId" : "S039",
+               "talkContent" : "我想了很久，既然野猪人胆敢驯养刺蛇这种凶兽来对付我们，那么我们也不需要客气了。洞中的野猪人都以猪笼草为食，你现在就去将这些猪笼草给毁了，我看他们还能拿什么补给。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_46",
+               "sceneRefId" : "S039",
+               "talkContent" : "很好，没了粮草，我倒想看看这群野猪人还怎么嚣张，哼，没脑子的蠢货！"
+            }
+         },
+         "orderField" : [
+            {
+               "itemCount" : 10,
+               "itemRefId" : "item_collect_1",
+               "npcRefId" : "npc_collect_2",
+               "orderType" : 4,
+               "sceneRefId" : "S039"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1150000,
+               "gold" : 115000
+            }
+         }
+      },
+      "refId" : "quest_68"
+   },
+   "quest_69" : {
+      "property" : {
+         "description" : "将野猪洞穴的情况传回蜃楼城。",
+         "name" : "敌情汇报",
+         "nextQuestId" : "quest_70",
+         "preQuestId" : "quest_68",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 49,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_46",
+               "sceneRefId" : "S039",
+               "talkContent" : "野猪洞穴中的情况已经打探得差不多了，该做的我们也都做了，之后的决定就交给蜃楼城的那群人吧，你现在先将这里的情况汇报过去吧。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "你们做得很好，仅凭两个人的力量就能将洞中的情况打探得这么清楚真是不容易，而且你们还帮蜃楼争回了那一口气，蜃楼城的所有人都将感谢你的努力的！"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_9",
+               "orderType" : 3,
+               "sceneRefId" : "S008",
+               "talkContent" : "想要获得更多人的尊重，就需要向更多人付出！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1200000,
+               "gold" : 120000
+            }
+         }
+      },
+      "refId" : "quest_69"
+   },
+   "quest_7" : {
+      "property" : {
+         "description" : "去村口找守卫的士兵了解情况。",
+         "name" : "村口的麻烦",
+         "nextQuestId" : "quest_8",
+         "preQuestId" : "quest_6",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_6",
+               "sceneRefId" : "S001",
+               "talkContent" : "听说近来村口挺不太平的，我想在村口布防的守卫大哥应该压力很大吧，不如你去帮帮忙吧？但愿那些奇怪的东西不会跑到村子里来。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_48",
+               "sceneRefId" : "S001",
+               "talkContent" : "你听说的消息没有错，近来村口确实有点暗潮涌动的意思，也不知道最后会发展成什么样子。也罢，兵来将挡水来土屯，暂且先静观其变吧。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_48",
+               "orderType" : 3,
+               "sceneRefId" : "S001",
+               "talkContent" : "咳~咳~"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 50000,
+               "gold" : 5000
+            }
+         }
+      },
+      "refId" : "quest_7"
+   },
+   "quest_70" : {
+      "property" : {
+         "description" : "清理蜃楼城往北的通道。",
+         "name" : "联络中断",
+         "nextQuestId" : "quest_71",
+         "preQuestId" : "quest_69",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 50,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "蜃楼城现在面对的来自周边的威胁颇多啊，为了应对这些威胁，我们有必要加强与周边城市的联系，这样也好及时获得他们的支援。不过现在往北的通道上布满了巨型甲虫，这对我们的通信是一个巨大的障碍，我们必须要将这一条通道清理出来。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "很好，辛苦你了，我们马上就会派信使前往北方的城市！你先休息一下，稍后可能还会有重要的任务要交给你。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 20,
+               "monsterRefId" : "monster_14",
+               "orderType" : 1,
+               "sceneRefId" : "S008"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1250000,
+               "gold" : 125000
+            }
+         }
+      },
+      "refId" : "quest_70"
+   },
+   "quest_71" : {
+      "property" : {
+         "description" : "将联络书信交给天机城主。",
+         "name" : "客串信使",
+         "nextQuestId" : "quest_72",
+         "preQuestId" : "quest_70",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 50,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "你是从天机城过来的，对那边的具体情况比较熟悉，联络天机城的任务就交给你了。我这里给天机城主写了一封信，详细介绍了我们这边的情况，你一并带过去吧。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "蜃楼城居然来信了？蜃楼城和我们因为相隔颇远，虽然之前一直没有断绝联系，但是却也不频繁，这次他们专程让你送信过来，由此可见那边的情况可能真是有些麻烦了。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_45",
+               "orderType" : 3,
+               "sceneRefId" : "S002",
+               "talkContent" : "知识就是力量！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1300000,
+               "gold" : 130000
+            }
+         }
+      },
+      "refId" : "quest_71"
+   },
+   "quest_72" : {
+      "property" : {
+         "description" : "去桃源古镇找药店老板谈谈。",
+         "name" : "剑走偏锋",
+         "nextQuestId" : "quest_73",
+         "preQuestId" : "quest_71",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 51,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S002",
+               "talkContent" : "我的小师妹酷爱研究毒物，这会儿正在桃源古镇。如今世道不太平，我担心她有什么危险，所以想请你去看看！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S004",
+               "talkContent" : "又是我师姐请来的人吧？跟她说了多少次了，不要总把我当小孩子看。总想找人看着我，哼……"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_2",
+               "orderType" : 3,
+               "sceneRefId" : "S004",
+               "talkContent" : "我相信每一种药草都有治病救人的功效，关键在于怎么使用！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1350000,
+               "gold" : 135000
+            }
+         }
+      },
+      "refId" : "quest_72"
+   },
+   "quest_73" : {
+      "property" : {
+         "description" : "找驻守雾月峡谷的守卫谈谈。",
+         "name" : "毒物巢穴",
+         "nextQuestId" : "quest_74",
+         "preQuestId" : "quest_72",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 51,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S004",
+               "talkContent" : "附近的雾月峡谷多是剧毒之物，我想请你帮点小忙，不过你还是先去找峡谷中的守卫了解一下情况吧！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "雾月峡谷因为其特殊的地势，一直是毒虫汇聚的地方，相当危险，在没做好准备之前还是不要贸然进入的好！"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_29",
+               "orderType" : 3,
+               "sceneRefId" : "S041",
+               "talkContent" : "没有点实力，还是老实呆着吧！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1400000,
+               "gold" : 140000
+            }
+         }
+      },
+      "refId" : "quest_73"
+   },
+   "quest_74" : {
+      "property" : {
+         "description" : "试探大腹魔蛛的危险性。",
+         "name" : "危险性试探",
+         "nextQuestId" : "quest_75",
+         "preQuestId" : "quest_73",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 52,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "与刚来的时候相比，实力增长了不少啊，不过就是不知道真正打起来够不够看，峡谷入口就有一群大腹魔蛛，你去试试看吧，看看你能不能从容应对它们。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "还不错啊，我承认有点小看你了，不过不要掉以轻心，这里的危险程度可不是开玩笑的。我建议你还是一步一个脚印比较好！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_46",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1450000,
+               "gold" : 145000
+            }
+         }
+      },
+      "refId" : "quest_74"
+   },
+   "quest_75" : {
+      "property" : {
+         "description" : "收集大腹魔蛛的毒囊。",
+         "name" : "毒囊收集",
+         "nextQuestId" : "quest_76",
+         "preQuestId" : "quest_74",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 53,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S004",
+               "talkContent" : "雾月峡谷因为地势极低，导致煞气郁结，里面的生物也变得剧毒无比。我想请你帮忙收集一批大腹魔蛛的毒囊，我想研究一下。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S004",
+               "talkContent" : "已经收集够了吗？太好了，我终于可以开始我最钟爱的毒物研究了。我做研究的时候可不要来打扰我哦。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_46",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1500000,
+               "gold" : 150000
+            }
+         }
+      },
+      "refId" : "quest_75"
+   },
+   "quest_76" : {
+      "property" : {
+         "description" : "将解毒药剂交给天机城主。",
+         "name" : "解毒药剂",
+         "nextQuestId" : "quest_77",
+         "preQuestId" : "quest_75",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 54,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S004",
+               "talkContent" : "经过几天的研究，我已经用那些毒囊配置出了一批解毒药剂。前阵子听说有一些从天机城来的冒险者都中了剧毒，目前已经送往天机城救治，你现在就把我的解药送过去吧，应该能派上用场。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "你送来的这些解药能解雾月峡谷中的毒？真是太好了，城里正缺少这些药剂，还好有你帮忙送过来。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_45",
+               "orderType" : 3,
+               "sceneRefId" : "S002",
+               "talkContent" : "没有点实力，还是老实呆着吧！"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 80,
+                     "itemRefId" : "item_chibangExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 1550000,
+               "gold" : 155000
+            }
+         }
+      },
+      "refId" : "quest_76"
+   },
+   "quest_77" : {
+      "property" : {
+         "description" : "将翅膀升到2级。",
+         "name" : "翅膀升级",
+         "nextQuestId" : "quest_78",
+         "preQuestId" : "quest_76",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 54,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "翅膀和坐骑一样，不仅能给你提供华丽的外形，还能提升你的战斗属性，让你在战斗中更加得心应手，当然了，翅膀的等级越高，对你的帮助就越大，你现在就可以将翅膀升级看看。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "怎么样？是不是感觉厉害多了？不过翅膀虽好，但是提升起来颇为不易，日后你还需要多下心思才行。"
+            }
+         },
+         "orderField" : [
+            {
+               "orderEventId" : 6,
+               "orderType" : 9,
+               "taskDescription" : "提升{翅膀}至2级",
+               "wingStageOrderLevel" : 2,
+               "wingStartOrderLevel" : 0
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1600000,
+               "gold" : 160000
+            }
+         }
+      },
+      "refId" : "quest_77"
+   },
+   "quest_78" : {
+      "property" : {
+         "description" : "击败30只利齿蜘蛛。",
+         "name" : "深谷难进",
+         "nextQuestId" : "quest_79",
+         "preQuestId" : "quest_77",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 55,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "峡谷之中到处都是毒虫毒物，而且利齿蜘蛛和巨锷蜘蛛正盘踞在进入峡谷的两条必经之路上。想要深入峡谷，可谓是寸步难行，如果你想深入进去，那必须要做好苦战的准备了。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "很好，你现在算是打开了进入峡谷深处的门户了，之后如果想要再往里深入就轻松很多了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_47",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1650000,
+               "gold" : 165000
+            }
+         }
+      },
+      "refId" : "quest_78"
+   },
+   "quest_79" : {
+      "property" : {
+         "description" : "击败30只巨锷蜘蛛。",
+         "name" : "外围活动",
+         "nextQuestId" : "quest_80",
+         "preQuestId" : "quest_78",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 56,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "凭你现在的实力，在峡谷的外围活动基本上已经没有什么问题了，不过为了安全起见，我觉得你还是将其他的蜘蛛清理掉会更安全一些。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "现在峡谷的外围基本上已经对你没有什么威胁了，你可以放心在这片区域提升实力，等你的实力够了的时候，就可以直接进军峡谷深处了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_48",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1700000,
+               "gold" : 170000
+            }
+         }
+      },
+      "refId" : "quest_79"
+   },
+   "quest_8" : {
+      "property" : {
+         "description" : "清除农田里的魔化草人。",
+         "name" : "草人的威胁",
+         "nextQuestId" : "quest_9",
+         "preQuestId" : "quest_7",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_48",
+               "sceneRefId" : "S001",
+               "talkContent" : "虽说局势发展尚不明确，但是尽量采取些行动来减少一些将来可能遇到的麻烦还是可以的。村口的农田里有一群邪里邪气的魔化草人，我希望你能去帮忙清除了它们。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_48",
+               "sceneRefId" : "S001",
+               "talkContent" : "这群魔化草人在农田里活动，可把村里的那些小女生给吓坏了，现在村里的女孩子都不敢去农田里抓萤火虫了，还好有你在这里帮忙，真是辛苦你了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 3,
+               "monsterRefId" : "monster_3",
+               "orderType" : 1,
+               "sceneRefId" : "S001"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 60000,
+               "gold" : 6000
+            }
+         }
+      },
+      "refId" : "quest_8"
+   },
+   "quest_80" : {
+      "property" : {
+         "description" : "击败被腐蚀的瘤背蜘蛛。",
+         "name" : "邪恶腐蚀",
+         "nextQuestId" : "quest_81",
+         "preQuestId" : "quest_79",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 57,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "峡谷深处是煞气郁结最为严重的地方，那里的怪物因为长期遭受侵蚀，已经变得极为凶恶，如果遇上了，可千万要小心。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "情况如何？看你的样子，似乎没有遇到太大的问题，我真的很好奇你的潜力究竟有多大了，竟然能一直提升下去。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_49",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1750000,
+               "gold" : 175000
+            }
+         }
+      },
+      "refId" : "quest_80"
+   },
+   "quest_81" : {
+      "property" : {
+         "description" : "击败30只恶毒巨人。",
+         "name" : "恶魔踪迹",
+         "nextQuestId" : "quest_82",
+         "preQuestId" : "quest_80",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 58,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "之前有传闻说峡谷深处发现了恶魔的踪迹，但是一直没人证实，如果你有兴趣的话，可以尝试去搜索一下。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_29",
+               "sceneRefId" : "S041",
+               "talkContent" : "真的有恶魔出没？这可真不是个好消息啊，看来我们之前都太小看这个峡谷了，必须要加强峡谷的防卫力量了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_50",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1800000,
+               "gold" : 180000
+            }
+         }
+      },
+      "refId" : "quest_81"
+   },
+   "quest_82" : {
+      "property" : {
+         "description" : "采集恶毒巨人的血液。",
+         "name" : "邪魔血液",
+         "nextQuestId" : "quest_83",
+         "preQuestId" : "quest_81",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 59,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S004",
+               "talkContent" : "听说你在峡谷中发现了恶魔的踪迹？我在想能不能收集一些恶魔之血来做研究，毕竟这种东西可不是常有的。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S004",
+               "talkContent" : "恶魔之血是极为邪恶的，正因为如此，所以对其他毒素都有绝对的克制效果，当然这只是理论上的，具体的还要仔细研究过才行。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_50",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1850000,
+               "gold" : 185000
+            }
+         }
+      },
+      "refId" : "quest_82"
+   },
+   "quest_83" : {
+      "property" : {
+         "description" : "去天机城找药店老板聊聊。",
+         "name" : "医术支持",
+         "nextQuestId" : "quest_84",
+         "preQuestId" : "quest_82",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 59,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S004",
+               "talkContent" : "恶魔之血虽然恶心，但正因为它极为邪恶，所以对大多数毒物都具有压制效果，值得好好研究一下。不过我一个人还不够，得找我师姐来帮忙，你帮我去跟她说说吧。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_2",
+               "sceneRefId" : "S002",
+               "talkContent" : "这死丫头怎么总是搞一些这么恶心的东西啊，一点女孩子的样子都没有，还要我去帮她？天呐，我真是上辈子欠她的。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_2",
+               "orderType" : 3,
+               "sceneRefId" : "S002",
+               "talkContent" : "救死扶伤是医者的基本德行！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1900000,
+               "gold" : 190000
+            }
+         }
+      },
+      "refId" : "quest_83"
+   },
+   "quest_84" : {
+      "property" : {
+         "description" : "前往祖拉寺庙击败飞蛾。",
+         "name" : "祖拉其名",
+         "nextQuestId" : "quest_85",
+         "preQuestId" : "quest_83",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 60,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "祖拉者，恶魔之声也。在龙城附近有一座千年古城的遗址，很久以前有冒险者偶然进入了那座遗址的深处，据传闻遗址深处有一座寺庙，里面频频传出恶魔之声，那座寺庙也因此被称为祖拉寺庙。现在大陆动荡，危机四伏，我认为我们有必要搞清楚这座寺庙中到底隐藏着什么，我希望你能去搞清楚这一切。不过经过古城遗址的时候千万小心，万万不要与其中的怪物纠缠，那些怪物暂时还不是你能应付的。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "这些飞蛾似乎无法发出类似恶魔之声的声音，想来必定是还有什么是我们暂时没有发现的，如果继续搜寻一番的话，应该能有所发现。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 50,
+               "monsterRefId" : "monster_31",
+               "orderType" : 1,
+               "sceneRefId" : "S045"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 1950000,
+               "gold" : 195000
+            }
+         }
+      },
+      "refId" : "quest_84"
+   },
+   "quest_85" : {
+      "property" : {
+         "description" : "搜寻祖拉石像，并尝试击败之。",
+         "name" : "石像恶魔",
+         "nextQuestId" : "quest_86",
+         "preQuestId" : "quest_84",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 61,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "休息了这么一段时间，我想你应该已经做好继续探索祖拉寺庙的准备了吧。如果是的话，那就让我们继续吧，我们务必要把那座寺庙探索清楚。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "从你的发现来看，当枪匹马独闯祖拉寺庙似乎有比较高的危险性，我们稍后会组织一批冒险者组队前往探查，有你带回来的信息做基础，再进去的话应该会轻松一些。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 50,
+               "monsterRefId" : "monster_32",
+               "orderType" : 1,
+               "sceneRefId" : "S045"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2000000,
+               "gold" : 200000
+            }
+         }
+      },
+      "refId" : "quest_85"
+   },
+   "quest_86" : {
+      "property" : {
+         "description" : "清理祖拉寺庙二层中的怪物。",
+         "name" : "趁胜出击(一)",
+         "nextQuestId" : "quest_87",
+         "preQuestId" : "quest_85",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 62,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "经过这段时间的努力，我们派出去的那些冒险者似乎已经控制住了祖拉寺庙的局势，现在是时候趁胜出击，向祖拉寺庙二层进发了。不知道你是否有兴趣参加我们的行动呢？"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "大陆的局势尚不明确，我们也无法预估将来可能爆发什么样的危机，所以只能尽力将已经发现的危险控制在可接受的范围内了。希望你能和我们一起努力。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 50,
+               "monsterRefId" : "monster_4032",
+               "orderType" : 1,
+               "sceneRefId" : "S046"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2050000,
+               "gold" : 205000
+            }
+         }
+      },
+      "refId" : "quest_86"
+   },
+   "quest_87" : {
+      "property" : {
+         "description" : "清理祖拉寺庙二层中的怪物。",
+         "name" : "趁胜出击(二)",
+         "nextQuestId" : "quest_88",
+         "preQuestId" : "quest_86",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 63,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "从我们上次行动的成果来看，我们向二层进发的行动是非常成功的，不过上次只是第一阶段的行动，现在我们准备着手开始第二阶段的清理行动，你也一起来吧！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "这次的清理行动从结果来看，无疑是非常成功的。感谢你在这次行动中所付出的的努力。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 50,
+               "monsterRefId" : "monster_5032",
+               "orderType" : 1,
+               "sceneRefId" : "S046"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2100000,
+               "gold" : 210000
+            }
+         }
+      },
+      "refId" : "quest_87"
+   },
+   "quest_88" : {
+      "property" : {
+         "description" : "向书店老板咨询古城遗址的历史。",
+         "name" : "千年古城",
+         "nextQuestId" : "quest_89",
+         "preQuestId" : "quest_87",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 64,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "之前你前往祖拉寺庙时经过的那座古城遗址，想必你还没有忘吧？这座千年古城可不简单，有很多历史性的东西可以说的。不过这些具体的历史你需要去书店查阅了，相信那边应该会有相关的记载。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "你说的是龙城附近的那座遗址吗？你来的正是时候，我最近刚好整理了一遍店里的书籍，一些重要的历史书籍都被归类整理出来了，这会儿正好拿给你看看。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_9",
+               "orderType" : 3,
+               "sceneRefId" : "S008",
+               "talkContent" : "封印而不是消灭，这也是无奈之举啊！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2150000,
+               "gold" : 215000
+            }
+         }
+      },
+      "refId" : "quest_88"
+   },
+   "quest_89" : {
+      "property" : {
+         "description" : "超度遗址中的英灵。",
+         "name" : "超度英灵(一)",
+         "nextQuestId" : "quest_90",
+         "preQuestId" : "quest_88",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 65,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "据书中记载，那座古城毁于怪物大举入侵的时候。但是战况极为惨烈，守城的英雄们为了掩护城中平民的撤离，与数倍于己的怪物浴血奋战，虽然最终城毁人亡，但是这些英雄的事迹却值得我们称颂。如今，遗迹下埋藏的英雄们的英灵却遭到了亵渎，往生者的遗骨被腐蚀，并成为了邪恶势力的武器。我们必须要做些什么以让这些英灵获得安息。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "千年前，这些英雄为了抵御邪恶而献身；千年后，他们的尸骨却成了邪恶的工具，这是多么讽刺的一件事啊，我们必须要阻止这种悲剧的发生。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 50,
+               "monsterRefId" : "monster_64",
+               "orderType" : 1,
+               "sceneRefId" : "S010"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2200000,
+               "gold" : 220000
+            }
+         }
+      },
+      "refId" : "quest_89"
+   },
+   "quest_9" : {
+      "property" : {
+         "description" : "完成书店老板的悬赏任务。",
+         "name" : "书生的悬赏",
+         "nextQuestId" : "quest_10",
+         "preQuestId" : "quest_8",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 1,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_48",
+               "sceneRefId" : "S001",
+               "talkContent" : "看你身手不错，我这里有个悬赏任务，你要不要看看？村里的书店老板晒在广场上的书被钉耙猫妖毁了个七七八八，所以他现在很生气，希望有人能帮他出这一口恶气，狠狠惩治一番这些钉耙猫妖。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_48",
+               "sceneRefId" : "S001",
+               "talkContent" : "不错嘛，看来果然没有看错你啊。拿去吧，这是书店老板用一本锻造秘册从武器店换的武器，是他悬赏任务的报酬，现在就归你了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 3,
+               "monsterRefId" : "monster_4",
+               "orderType" : 1,
+               "sceneRefId" : "S001"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "professionList" : [
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_10_1000"
+                        }
+                     ],
+                     "proffessionRefId" : 1
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_10_1000"
+                        }
+                     ],
+                     "proffessionRefId" : 2
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_10_1000"
+                        }
+                     ],
+                     "proffessionRefId" : 3
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_10_1000"
+                        }
+                     ],
+                     "proffessionRefId" : 4
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_10_1000"
+                        }
+                     ],
+                     "proffessionRefId" : 5
+                  },
+                  {
+                     "itemList" : [
+                        {
+                           "bindStatus" : 1,
+                           "itemCount" : 1,
+                           "itemRefId" : "equip_10_1000"
+                        }
+                     ],
+                     "proffessionRefId" : 6
+                  }
+               ],
+               "relatedType" : 1
+            },
+            "propertyReward" : {
+               "exp" : 70000,
+               "gold" : 7000
+            }
+         }
+      },
+      "refId" : "quest_9"
+   },
+   "quest_90" : {
+      "property" : {
+         "description" : "超度遗址中的英灵。",
+         "name" : "超度英灵(二)",
+         "nextQuestId" : "quest_91",
+         "preQuestId" : "quest_89",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 67,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "对于那些英灵来说，也许死亡并不可怕，可怕的是死后沦为邪恶的工具，这是对那些逝去的英雄最大的亵渎，我们必须要阻止这种情况继续扩散下去。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "千年前，这些英雄为了抵御邪恶而献身；千年后，他们的尸骨却成了邪恶的工具，这是多么讽刺的一件事啊，我们必须要阻止这种悲剧的发生。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 50,
+               "monsterRefId" : "monster_65",
+               "orderType" : 1,
+               "sceneRefId" : "S010"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2250000,
+               "gold" : 225000
+            }
+         }
+      },
+      "refId" : "quest_90"
+   },
+   "quest_91" : {
+      "property" : {
+         "description" : "超度遗址中的英灵。",
+         "name" : "超度英灵(三)",
+         "nextQuestId" : "quest_92",
+         "preQuestId" : "quest_90",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 70,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "哎，从你看到的情况看，深埋于古城之下的英灵几乎都受到了侵扰，身为这些英灵的后人，真是愧对他们啊！之前我们已经超度了部分英灵，这是一桩大功德。现在就让我们继续下去，把这件事完成了吧！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_9",
+               "sceneRefId" : "S008",
+               "talkContent" : "千年前，这些英雄为了抵御邪恶而献身；千年后，他们的尸骨却成了邪恶的工具，这是多么讽刺的一件事啊。还好有你帮忙，才能让这个悲剧不再继续下去，我想如果那些英灵们泉下有知，都会感激你的所作所为的。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 50,
+               "monsterRefId" : "monster_66",
+               "orderType" : 1,
+               "sceneRefId" : "S010"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2300000,
+               "gold" : 230000
+            }
+         }
+      },
+      "refId" : "quest_91"
+   },
+   "quest_92" : {
+      "property" : {
+         "description" : "前往封魔战场寻找封魔天师。",
+         "name" : "封印的祖殿",
+         "nextQuestId" : "quest_93",
+         "preQuestId" : "quest_91",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 72,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_45",
+               "sceneRefId" : "S002",
+               "talkContent" : "在桃源古镇附近有一个古时遗留下来的封魔战场，里面据传闻封印着野猪人的祖殿。最近大陆动荡，封魔古战场附近似乎又开始风云汇聚了，我担心那座被封印的宫殿里面可能会暗藏着极大的危险，所以想请你去仔细探查一番，你可以去古战场中找到封魔天师，他会给你一些一些必要的指引。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S005",
+               "talkContent" : "你说你是城主派来的？不会吧，城主怎么会把你这么个小年轻派到这么危险的地方来？虽然猪魔祖殿暂时还被封印着，但是凭我们的力量已经无法长期维持封印了，如果你觉得自己在这里没有自保实力的话就赶紧离开吧，不要到时候后悔莫及。"
+            }
+         },
+         "orderField" : [
+            {
+               "npcRefId" : "npc_38",
+               "orderType" : 3,
+               "sceneRefId" : "S005",
+               "talkContent" : "封印而不是消灭，这也是无奈之举啊！"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2350000,
+               "gold" : 235000
+            }
+         }
+      },
+      "refId" : "quest_92"
+   },
+   "quest_93" : {
+      "property" : {
+         "description" : "通过祖殿传送阵前往猪魔祖殿，并尝试击败里面的怪物。",
+         "name" : "凶险的祖殿",
+         "nextQuestId" : "quest_94",
+         "preQuestId" : "quest_92",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 75,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S005",
+               "talkContent" : "既然你坚持要留下来，那想必你对自己的实力真的很有信心了，那么不妨帮我们一个小忙吧！这附近有通往被祖殿的传送阵，你可以通过传送阵前往那里，我们希望你能去里面试探一下那些怪物的实力，这样将来我们应对起来也好有个对策。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S005",
+               "talkContent" : "看你许久不曾出来，还以为你遭遇了不测呢！不过看你的样子，我总算明白为何城主会将这个重任交给你了，城主的眼光果然不是我这个老头子能比的啊！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 50,
+               "monsterRefId" : "monster_54",
+               "orderType" : 1,
+               "sceneRefId" : "S043"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2400000,
+               "gold" : 240000
+            }
+         }
+      },
+      "refId" : "quest_93"
+   },
+   "quest_94" : {
+      "property" : {
+         "description" : "前往祖殿二层清除怪物。",
+         "name" : "隐蔽的二层",
+         "nextQuestId" : "quest_95",
+         "preQuestId" : "quest_93",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 77,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S005",
+               "talkContent" : "我们的人在这片整理这片古战场的时候，发现了一块年代久远的石板，上面记载了一些有关猪魔祖殿的信息，隐约提到了祖殿的二层。如果这份记载属实，那么前往二层详细探查一番就是非常必须的，你觉得呢？"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S005",
+               "talkContent" : "看来古石板上的记载是真的了。祖殿中的怪物虽然被封印了这么多年，但是果然没有放弃积蓄力量，这股力量要是爆发出来，我们这本就动荡的大陆可就别想安宁了。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 50,
+               "monsterRefId" : "monster_4054",
+               "orderType" : 1,
+               "sceneRefId" : "S044"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2450000,
+               "gold" : 245000
+            }
+         }
+      },
+      "refId" : "quest_94"
+   },
+   "quest_95" : {
+      "property" : {
+         "description" : "击败成长的祖殿猪卫。",
+         "name" : "成长的猪魔",
+         "nextQuestId" : "",
+         "preQuestId" : "quest_94",
+         "questType" : 1
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "conditionType" : 0,
+               "visibleLevel" : 1
+            },
+            {
+               "acceptLevel" : 80,
+               "conditionType" : 1
+            }
+         ],
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S005",
+               "talkContent" : "之前听你描述祖殿二层的情况时，好像有些地方说的不甚详尽，所以我想请你再去一趟，如果情况允许的话，我希望你能这次能打探地更详尽些。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_38",
+               "sceneRefId" : "S005",
+               "talkContent" : "多亏了你的帮助，现在我们对里面的了解总算不是空白了，有了你带出来的信息的帮助，以后要应对起来总归会轻松一些。"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 50,
+               "monsterRefId" : "monster_5054",
+               "orderType" : 1,
+               "sceneRefId" : "S044"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 2500000,
+               "gold" : 250000
+            }
+         }
+      },
+      "refId" : "quest_95"
+   }
+}
+

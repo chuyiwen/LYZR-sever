@@ -1,0 +1,589 @@
+{
+   "pkDrop_1" : {
+      "dropConfigData" : {
+         "0|1" : {
+            "key" : "0|1",
+            "property" : {
+               "bindStatus" : 1,
+               "itemRefId" : "item_coupon_2",
+               "number" : 0,
+               "probability" : 0
+            }
+         },
+         "0|3" : {
+            "key" : "0|3",
+            "property" : {
+               "bindStatus" : 1,
+               "itemRefId" : "item_coupon",
+               "number" : 0,
+               "probability" : 0
+            }
+         },
+         "10|14" : [
+            {
+               "key" : "10|14",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 2,
+                  "probability" : 500000
+               }
+            },
+            {
+               "key" : "10|14",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 3,
+                  "probability" : 500000
+               }
+            }
+         ],
+         "11|20" : [
+            {
+               "key" : "11|20",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 6,
+                  "probability" : 250000
+               }
+            },
+            {
+               "key" : "11|20",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 7,
+                  "probability" : 250000
+               }
+            },
+            {
+               "key" : "11|20",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 8,
+                  "probability" : 250000
+               }
+            },
+            {
+               "key" : "11|20",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 9,
+                  "probability" : 250000
+               }
+            }
+         ],
+         "15|19" : [
+            {
+               "key" : "15|19",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 3,
+                  "probability" : 200000
+               }
+            },
+            {
+               "key" : "15|19",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 4,
+                  "probability" : 400000
+               }
+            },
+            {
+               "key" : "15|19",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 5,
+                  "probability" : 400000
+               }
+            }
+         ],
+         "20|24" : [
+            {
+               "key" : "20|24",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 4,
+                  "probability" : 200000
+               }
+            },
+            {
+               "key" : "20|24",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 5,
+                  "probability" : 400000
+               }
+            },
+            {
+               "key" : "20|24",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 6,
+                  "probability" : 400000
+               }
+            }
+         ],
+         "21|40" : [
+            {
+               "key" : "21|40",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 7,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "21|40",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 8,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "21|40",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 9,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "21|40",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 10,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "21|40",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 11,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "21|40",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 12,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "21|40",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 13,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "21|40",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 14,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "21|40",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 15,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "21|40",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 16,
+                  "probability" : 100000
+               }
+            }
+         ],
+         "25|29" : [
+            {
+               "key" : "25|29",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 5,
+                  "probability" : 200000
+               }
+            },
+            {
+               "key" : "25|29",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 6,
+                  "probability" : 400000
+               }
+            },
+            {
+               "key" : "25|29",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 7,
+                  "probability" : 400000
+               }
+            }
+         ],
+         "2|3" : [
+            {
+               "key" : "2|3",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 0,
+                  "probability" : 500000
+               }
+            },
+            {
+               "key" : "2|3",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 1,
+                  "probability" : 500000
+               }
+            }
+         ],
+         "30|10000" : [
+            {
+               "key" : "30|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 6,
+                  "probability" : 200000
+               }
+            },
+            {
+               "key" : "30|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 7,
+                  "probability" : 400000
+               }
+            },
+            {
+               "key" : "30|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 8,
+                  "probability" : 400000
+               }
+            }
+         ],
+         "41|60" : [
+            {
+               "key" : "41|60",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 12,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "41|60",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 13,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "41|60",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 14,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "41|60",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 15,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "41|60",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 16,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "41|60",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 17,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "41|60",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 18,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "41|60",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 19,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "41|60",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 20,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "41|60",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 21,
+                  "probability" : 100000
+               }
+            }
+         ],
+         "4|10" : [
+            {
+               "key" : "4|10",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 3,
+                  "probability" : 250000
+               }
+            },
+            {
+               "key" : "4|10",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 4,
+                  "probability" : 250000
+               }
+            },
+            {
+               "key" : "4|10",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 5,
+                  "probability" : 250000
+               }
+            },
+            {
+               "key" : "4|10",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 6,
+                  "probability" : 250000
+               }
+            }
+         ],
+         "4|9" : [
+            {
+               "key" : "4|9",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 1,
+                  "probability" : 500000
+               }
+            },
+            {
+               "key" : "4|9",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon_2",
+                  "number" : 2,
+                  "probability" : 500000
+               }
+            }
+         ],
+         "61|10000" : [
+            {
+               "key" : "61|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 15,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "61|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 16,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "61|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 17,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "61|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 18,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "61|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 19,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "61|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 20,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "61|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 21,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "61|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 22,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "61|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 23,
+                  "probability" : 100000
+               }
+            },
+            {
+               "key" : "61|10000",
+               "property" : {
+                  "bindStatus" : 1,
+                  "itemRefId" : "item_coupon",
+                  "number" : 24,
+                  "probability" : 100000
+               }
+            }
+         ]
+      },
+      "dropMethod" : "monsterInvasionDrop",
+      "name" : "怪物入侵场景掉落",
+      "property" : {
+         "attackAddPkValue" : 0,
+         "isEnterPKState" : 0,
+         "isUseDefaultDrop" : 0,
+         "killAddPKValue" : 0,
+         "sceneRefId" : "S218,S219"
+      },
+      "refId" : "pkDrop_1"
+   },
+   "pkDrop_2" : {
+      "dropConfigData" : null,
+      "dropMethod" : "",
+      "name" : "沙巴克攻城",
+      "property" : {
+         "attackAddPkValue" : 0,
+         "isEnterPKState" : 1,
+         "isUseDefaultDrop" : 0,
+         "killAddPKValue" : 0,
+         "sceneRefId" : "S012"
+      },
+      "refId" : "pkDrop_2"
+   },
+   "pkDrop_3" : {
+      "dropConfigData" : null,
+      "dropMethod" : "",
+      "name" : "挖矿",
+      "property" : {
+         "attackAddPkValue" : 0,
+         "isEnterPKState" : 0,
+         "isUseDefaultDrop" : 0,
+         "killAddPKValue" : 0,
+         "sceneRefId" : "S217"
+      },
+      "refId" : "pkDrop_3"
+   }
+}
+

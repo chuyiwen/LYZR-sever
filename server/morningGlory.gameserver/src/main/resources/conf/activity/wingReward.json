@@ -1,0 +1,57 @@
+{
+   "wingReward_1" : {
+      "property" : {
+         "description" : "翅膀升到4级",
+         "wingLevel" : 4,
+         "wingRewardNextRefId" : "wingReward_2",
+         "wingRewardPreRefId" : ""
+      },
+      "refId" : "wingReward_1",
+      "wingReward" : {
+         "wingReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 50,
+               "refId" : "item_chibangExp"
+            }
+         ]
+      }
+   },
+   "wingReward_2" : {
+      "property" : {
+         "description" : "翅膀升到6级",
+         "wingLevel" : 6,
+         "wingRewardNextRefId" : "wingReward_3",
+         "wingRewardPreRefId" : "wingReward_1"
+      },
+      "refId" : "wingReward_2",
+      "wingReward" : {
+         "wingReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 200,
+               "refId" : "item_chibangExp"
+            }
+         ]
+      }
+   },
+   "wingReward_3" : {
+      "property" : {
+         "description" : "翅膀升到8级",
+         "wingLevel" : 8,
+         "wingRewardNextRefId" : "",
+         "wingRewardPreRefId" : "wingReward_2"
+      },
+      "refId" : "wingReward_3",
+      "wingReward" : {
+         "wingReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 500,
+               "refId" : "item_chibangExp"
+            }
+         ]
+      }
+   }
+}
+

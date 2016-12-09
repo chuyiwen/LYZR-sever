@@ -1,0 +1,266 @@
+{
+   "vip_1" : {
+      "description" : {
+         "description" : {
+            "benefit1" : {
+               "description" : "每天可以在天机城||福利礼官||处领取VIP2倍经验,领取后,持续1个小时获得2倍击败怪物经验"
+            },
+            "benefit2" : {
+               "description" : "每天可以在天机城||福利礼官||处领取青铜VIP每日礼包"
+            },
+            "benefit3" : {
+               "description" : "在等级达到40,50时,可以在天机城||福利礼官||处领取40,50级武器奖励"
+            },
+            "benefit4" : {
+               "description" : "无限使用飞鞋"
+            },
+            "benefit5" : {
+               "description" : "给予玩家50物攻,50魔攻,50道攻"
+            },
+            "benefit6" : {
+               "description" : "可以在VIP抽奖功能中获得额外抽奖次数"
+            },
+            "benefit7" : {
+               "description" : "成为青铜VIP立即获得翅膀天使之翼"
+            },
+            "benefit8" : {
+               "description" : "可以在拍卖行同时出售15件道具"
+            }
+         }
+      },
+      "property" : {
+         "HP" : 0,
+         "MDodgePer" : 0,
+         "MImmunityPer" : 0,
+         "MP" : 0,
+         "PDodgePer" : 0,
+         "PImmunityPer" : 0,
+         "atkSpeedPer" : 0,
+         "bindStatus" : 1,
+         "buffRefId" : "buff_vip_1",
+         "canShoeNoItem" : 1,
+         "canVipBoss" : 1,
+         "canVipStrong" : 1,
+         "crit" : 0,
+         "critInjure" : 0,
+         "dailyProposeRing" : 0,
+         "dodge" : 0,
+         "duration" : 30,
+         "fortune" : 0,
+         "hit" : 0,
+         "iconId" : "vip_1",
+         "ignoreMDef" : 0,
+         "ignorePDef" : 0,
+         "itemRefId" : "item_gift_vip_1",
+         "maxAuctionCount" : 5,
+         "maxMAtk" : 50,
+         "maxMDef" : 0,
+         "maxPAtk" : 50,
+         "maxPDef" : 0,
+         "maxTao" : 50,
+         "minMAtk" : 0,
+         "minMDef" : 0,
+         "minPAtk" : 0,
+         "minPDef" : 0,
+         "minTao" : 0,
+         "moveSpeedPer" : 0,
+         "name" : "青铜",
+         "perHP" : 0,
+         "perMP" : 0,
+         "timesADay" : 0,
+         "vipRewardLevel" : "40,50",
+         "wingRefId" : "wing_2_0"
+      },
+      "refId" : "vip_1",
+      "weaponData" : [
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_40_1100",
+            "level" : 40,
+            "number" : "1",
+            "profession" : "1"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1100",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "1"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_40_1200",
+            "level" : 40,
+            "number" : "1",
+            "profession" : "2"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1200",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "2"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_40_1300",
+            "level" : 40,
+            "number" : "1",
+            "profession" : "3"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1300",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "3"
+         }
+      ]
+   },
+   "vip_3" : {
+      "description" : {
+         "description" : {
+            "benefit1" : {
+               "description" : "每天可以在天机城||福利礼官||处领取VIP4倍经验,领取后,持续1个小时获得4倍击败怪物经验"
+            },
+            "benefit10" : {
+               "description" : "可以在拍卖行同时出售20件道具"
+            },
+            "benefit2" : {
+               "description" : "每天可以在天机城||福利礼官||处领取黄金VIP每日礼包"
+            },
+            "benefit3" : {
+               "description" : "在等级达到40,50,60时,可以在天机城||福利礼官||处领取对应等级武器奖励"
+            },
+            "benefit4" : {
+               "description" : "可以每天额外进入1次所有副本"
+            },
+            "benefit5" : {
+               "description" : "可以每天额外进入1次镇魔塔"
+            },
+            "benefit6" : {
+               "description" : "无限使用飞鞋"
+            },
+            "benefit7" : {
+               "description" : "给予玩家100物攻,100魔攻,100道攻"
+            },
+            "benefit8" : {
+               "description" : "可以在VIP抽奖功能中获得额外抽奖次数"
+            },
+            "benefit9" : {
+               "description" : "成为黄金VIP立即获得翅膀天使之翼"
+            }
+         }
+      },
+      "property" : {
+         "HP" : 0,
+         "MDodgePer" : 0,
+         "MImmunityPer" : 0,
+         "MP" : 0,
+         "PDodgePer" : 0,
+         "PImmunityPer" : 0,
+         "atkSpeedPer" : 0,
+         "bindStatus" : 1,
+         "buffRefId" : "buff_vip_3",
+         "canShoeNoItem" : 1,
+         "canVipBoss" : 1,
+         "canVipStrong" : 1,
+         "crit" : 0,
+         "critInjure" : 0,
+         "dailyProposeRing" : 0,
+         "dodge" : 0,
+         "duration" : 90,
+         "fortune" : 0,
+         "hit" : 0,
+         "iconId" : "vip_3",
+         "ignoreMDef" : 0,
+         "ignorePDef" : 0,
+         "itemRefId" : "item_gift_vip_3",
+         "maxAuctionCount" : 10,
+         "maxMAtk" : 100,
+         "maxMDef" : 0,
+         "maxPAtk" : 100,
+         "maxPDef" : 0,
+         "maxTao" : 100,
+         "minMAtk" : 0,
+         "minMDef" : 0,
+         "minPAtk" : 0,
+         "minPDef" : 0,
+         "minTao" : 0,
+         "moveSpeedPer" : 0,
+         "name" : "黄金",
+         "perHP" : 0,
+         "perMP" : 0,
+         "timesADay" : 1,
+         "vipRewardLevel" : "40,50,60",
+         "wingRefId" : "wing_2_0"
+      },
+      "refId" : "vip_3",
+      "weaponData" : [
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_40_1100",
+            "level" : 40,
+            "number" : "1",
+            "profession" : "1"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1100",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "1"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_60_1100",
+            "level" : 60,
+            "number" : "1",
+            "profession" : "1"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_40_1200",
+            "level" : 40,
+            "number" : "1",
+            "profession" : "2"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1200",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "2"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_60_1200",
+            "level" : 60,
+            "number" : "1",
+            "profession" : "2"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_40_1300",
+            "level" : 40,
+            "number" : "1",
+            "profession" : "3"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_50_1300",
+            "level" : 50,
+            "number" : "1",
+            "profession" : "3"
+         },
+         {
+            "bindStatus" : "true",
+            "itemRefId" : "equip_60_1300",
+            "level" : 60,
+            "number" : "1",
+            "profession" : "3"
+         }
+      ]
+   }
+}
+

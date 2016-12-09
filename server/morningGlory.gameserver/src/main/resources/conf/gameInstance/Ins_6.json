@@ -1,0 +1,1216 @@
+{
+   "Ins_6" : {
+      "configData" : {
+         "game_instance" : {
+            "configData" : {
+               "Ins_6" : {
+                  "description" : "前往镇魔塔，获取海量经验值，击败boss还可拿装备！",
+                  "gameInstanceData" : {
+                     "openDetailsData" : "00:00:00|86400",
+                     "structureDetails" : [
+                        "S201",
+                        "S202",
+                        "S203",
+                        "S204",
+                        "S205",
+                        "S206",
+                        "S207",
+                        "S208",
+                        "S209",
+                        "S210",
+                        "S211",
+                        "S212",
+                        "S213",
+                        "S214",
+                        "S215"
+                     ]
+                  },
+                  "name" : "勇闯镇魔塔",
+                  "property" : {
+                     "isTeam" : 0,
+                     "level" : 43,
+                     "name" : "勇闯镇魔塔",
+                     "questRefId" : "",
+                     "timesADay" : 1,
+                     "timesAWeek" : 0
+                  },
+                  "refId" : "Ins_6"
+               }
+            },
+            "name" : "Ins_6 任务总表",
+            "refId" : "game_instance"
+         },
+         "game_instance_quest" : {
+            "configData" : {
+               "quest_1" : {
+                  "description" : "击败2个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 2,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 50000
+                        }
+                     }
+                  },
+                  "refId" : "quest_1"
+               },
+               "quest_10" : {
+                  "description" : "击败2个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 2,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 80000
+                        }
+                     }
+                  },
+                  "refId" : "quest_10"
+               },
+               "quest_11" : {
+                  "description" : "击败6个{monster_2002}。",
+                  "name" : "驱逐镇魔骷髅战将",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 6,
+                           "monsterRefId" : "monster_2002",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 330000
+                        }
+                     }
+                  },
+                  "refId" : "quest_11"
+               },
+               "quest_12" : {
+                  "description" : "击败9个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 9,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 250000
+                        }
+                     }
+                  },
+                  "refId" : "quest_12"
+               },
+               "quest_13" : {
+                  "description" : "击败{monster_2004}。",
+                  "name" : "教主冰替身之死",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_2004",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 290000
+                        }
+                     }
+                  },
+                  "refId" : "quest_13"
+               },
+               "quest_14" : {
+                  "description" : "击败8个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 8,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 250000
+                        }
+                     }
+                  },
+                  "refId" : "quest_14"
+               },
+               "quest_15" : {
+                  "description" : "击败7个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 7,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 310000
+                        }
+                     }
+                  },
+                  "refId" : "quest_15"
+               },
+               "quest_16" : {
+                  "description" : "击败12个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 12,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 420000
+                        }
+                     }
+                  },
+                  "refId" : "quest_16"
+               },
+               "quest_17" : {
+                  "description" : "击败3个{monster_2002}。",
+                  "name" : "驱逐镇魔骷髅战将",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 3,
+                           "monsterRefId" : "monster_2002",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 210000
+                        }
+                     }
+                  },
+                  "refId" : "quest_17"
+               },
+               "quest_18" : {
+                  "description" : "击败8个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 8,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 210000
+                        }
+                     }
+                  },
+                  "refId" : "quest_18"
+               },
+               "quest_19" : {
+                  "description" : "击败6个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 6,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 230000
+                        }
+                     }
+                  },
+                  "refId" : "quest_19"
+               },
+               "quest_2" : {
+                  "description" : "击败{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 40000
+                        }
+                     }
+                  },
+                  "refId" : "quest_2"
+               },
+               "quest_20" : {
+                  "description" : "击败{monster_2005}。",
+                  "name" : "教主火替身之死",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_2005",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 310000
+                        }
+                     }
+                  },
+                  "refId" : "quest_20"
+               },
+               "quest_21" : {
+                  "description" : "击败10个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 10,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 330000
+                        }
+                     }
+                  },
+                  "refId" : "quest_21"
+               },
+               "quest_22" : {
+                  "description" : "击败5个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 5,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 210000
+                        }
+                     }
+                  },
+                  "refId" : "quest_22"
+               },
+               "quest_23" : {
+                  "description" : "击败5个{monster_2002}。",
+                  "name" : "驱逐镇魔骷髅战将",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 5,
+                           "monsterRefId" : "monster_2002",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 250000
+                        }
+                     }
+                  },
+                  "refId" : "quest_23"
+               },
+               "quest_24" : {
+                  "description" : "击败5个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 5,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 170000
+                        }
+                     }
+                  },
+                  "refId" : "quest_24"
+               },
+               "quest_25" : {
+                  "description" : "击败10个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 10,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 420000
+                        }
+                     }
+                  },
+                  "refId" : "quest_25"
+               },
+               "quest_26" : {
+                  "description" : "击败5个{monster_2002}。",
+                  "name" : "驱逐镇魔骷髅战将",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 5,
+                           "monsterRefId" : "monster_2002",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 250000
+                        }
+                     }
+                  },
+                  "refId" : "quest_26"
+               },
+               "quest_27" : {
+                  "description" : "击败15个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 15,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 420000
+                        }
+                     }
+                  },
+                  "refId" : "quest_27"
+               },
+               "quest_28" : {
+                  "description" : "击败4个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 4,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 170000
+                        }
+                     }
+                  },
+                  "refId" : "quest_28"
+               },
+               "quest_29" : {
+                  "description" : "击败{monster_2006}。",
+                  "name" : "教主毒替身之死",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_2006",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 380000
+                        }
+                     }
+                  },
+                  "refId" : "quest_29"
+               },
+               "quest_3" : {
+                  "description" : "击败8个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 8,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 270000
+                        }
+                     }
+                  },
+                  "refId" : "quest_3"
+               },
+               "quest_30" : {
+                  "description" : "击败10个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 10,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 310000
+                        }
+                     }
+                  },
+                  "refId" : "quest_30"
+               },
+               "quest_31" : {
+                  "description" : "击败10个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 10,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 420000
+                        }
+                     }
+                  },
+                  "refId" : "quest_31"
+               },
+               "quest_32" : {
+                  "description" : "击败5个{monster_2002}。",
+                  "name" : "驱逐镇魔骷髅战将",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 5,
+                           "monsterRefId" : "monster_2002",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 250000
+                        }
+                     }
+                  },
+                  "refId" : "quest_32"
+               },
+               "quest_33" : {
+                  "description" : "击败10个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 10,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 310000
+                        }
+                     }
+                  },
+                  "refId" : "quest_33"
+               },
+               "quest_34" : {
+                  "description" : "击败5个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 5,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 210000
+                        }
+                     }
+                  },
+                  "refId" : "quest_34"
+               },
+               "quest_35" : {
+                  "description" : "击败10个{monster_2002}。",
+                  "name" : "驱逐镇魔骷髅战将",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 10,
+                           "monsterRefId" : "monster_2002",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 500000
+                        }
+                     }
+                  },
+                  "refId" : "quest_35"
+               },
+               "quest_36" : {
+                  "description" : "击败15个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 15,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 460000
+                        }
+                     }
+                  },
+                  "refId" : "quest_36"
+               },
+               "quest_37" : {
+                  "description" : "击败8个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 8,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 330000
+                        }
+                     }
+                  },
+                  "refId" : "quest_37"
+               },
+               "quest_38" : {
+                  "description" : "击败{monster_2007}。",
+                  "name" : "击败祖玛教主真身",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_2007",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 420000
+                        }
+                     }
+                  },
+                  "refId" : "quest_38"
+               },
+               "quest_4" : {
+                  "description" : "击败{monster_2002}。",
+                  "name" : "驱逐镇魔骷髅战将",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_2002",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 50000
+                        }
+                     }
+                  },
+                  "refId" : "quest_4"
+               },
+               "quest_5" : {
+                  "description" : "击败5个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 5,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 150000
+                        }
+                     }
+                  },
+                  "refId" : "quest_5"
+               },
+               "quest_6" : {
+                  "description" : "击败{monster_2003}。",
+                  "name" : "教主雷替身之死",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_2003",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 230000
+                        }
+                     }
+                  },
+                  "refId" : "quest_6"
+               },
+               "quest_7" : {
+                  "description" : "击败8个{monster_2001}。",
+                  "name" : "驱逐镇魔掷斧骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 8,
+                           "monsterRefId" : "monster_2001",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 350000
+                        }
+                     }
+                  },
+                  "refId" : "quest_7"
+               },
+               "quest_8" : {
+                  "description" : "击败2个{monster_2002}。",
+                  "name" : "驱逐镇魔骷髅战将",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 2,
+                           "monsterRefId" : "monster_2002",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 100000
+                        }
+                     }
+                  },
+                  "refId" : "quest_8"
+               },
+               "quest_9" : {
+                  "description" : "击败2个{monster_2000}。",
+                  "name" : "驱逐镇魔骷髅",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 1
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 2,
+                           "monsterRefId" : "monster_2000",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 60000
+                        }
+                     }
+                  },
+                  "refId" : "quest_9"
+               }
+            },
+            "name" : "副本任务表",
+            "refId" : "game_instance_quest"
+         },
+         "game_instance_scene" : {
+            "configData" : {
+               "S201" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_1", "quest_2" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 6,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=2&monster_2001=1"
+                  },
+                  "mapId" : 201,
+                  "property" : {
+                     "sceneRefId" : "S201",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S201"
+               },
+               "S202" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_3", "quest_4" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 7,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=8&monster_2002=1"
+                  },
+                  "mapId" : 202,
+                  "property" : {
+                     "sceneRefId" : "S202",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S202"
+               },
+               "S203" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_5", "quest_6" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 9,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=5&monster_2003=1"
+                  },
+                  "mapId" : 203,
+                  "property" : {
+                     "sceneRefId" : "S203",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S203"
+               },
+               "S204" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_7", "quest_8" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 10,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2001=8&monster_2002=2"
+                  },
+                  "mapId" : 204,
+                  "property" : {
+                     "sceneRefId" : "S204",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S204"
+               },
+               "S205" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_9", "quest_10", "quest_11" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 15,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=2&monster_2001=2&monster_2002=6"
+                  },
+                  "mapId" : 205,
+                  "property" : {
+                     "sceneRefId" : "S205",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S205"
+               },
+               "S206" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_12", "quest_13" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 17,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=9&monster_2004=1"
+                  },
+                  "mapId" : 206,
+                  "property" : {
+                     "sceneRefId" : "S206",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S206"
+               },
+               "S207" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_14", "quest_15" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 20,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=8&monster_2001=7"
+                  },
+                  "mapId" : 207,
+                  "property" : {
+                     "sceneRefId" : "S207",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S207"
+               },
+               "S208" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_16", "quest_17" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 25,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2001=12&monster_2002=3"
+                  },
+                  "mapId" : 208,
+                  "property" : {
+                     "sceneRefId" : "S208",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S208"
+               },
+               "S209" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_18", "quest_19", "quest_20" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 27,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=8&monster_2001=6&monster_2005=1"
+                  },
+                  "mapId" : 209,
+                  "property" : {
+                     "sceneRefId" : "S209",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S209"
+               },
+               "S210" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_21", "quest_22", "quest_23" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 30,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=10&monster_2001=5&monster_2002=5"
+                  },
+                  "mapId" : 210,
+                  "property" : {
+                     "sceneRefId" : "S210",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S210"
+               },
+               "S211" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_24", "quest_25", "quest_26" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 35,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=5&monster_2001=10&monster_2002=5"
+                  },
+                  "mapId" : 211,
+                  "property" : {
+                     "sceneRefId" : "S211",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S211"
+               },
+               "S212" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_27", "quest_28", "quest_29" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 37,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=15&monster_2001=4&monster_2006=1"
+                  },
+                  "mapId" : 212,
+                  "property" : {
+                     "sceneRefId" : "S212",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S212"
+               },
+               "S213" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_30", "quest_31", "quest_32" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 40,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=10&monster_2001=10&monster_2002=5"
+                  },
+                  "mapId" : 213,
+                  "property" : {
+                     "sceneRefId" : "S213",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S213"
+               },
+               "S214" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_33", "quest_34", "quest_35" ],
+                     "consumptionItems" : {
+                        "item" : {
+                           "itemCount" : 50,
+                           "itemRefId" : "item_zhenmoling_1"
+                        }
+                     },
+                     "succeedConditionData" : "monster_2000=10&monster_2001=5&monster_2002=10"
+                  },
+                  "mapId" : 214,
+                  "property" : {
+                     "sceneRefId" : "S214",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S214"
+               },
+               "S215" : {
+                  "description" : "击败本层全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_36", "quest_37", "quest_38" ],
+                     "consumptionItems" : null,
+                     "succeedConditionData" : "monster_2000=15&monster_2001=8&monster_2007=1"
+                  },
+                  "mapId" : 215,
+                  "property" : {
+                     "sceneRefId" : "S215",
+                     "succeedType" : 1
+                  },
+                  "refId" : "S215"
+               }
+            },
+            "name" : "副本层总表",
+            "refId" : "game_instance_scene"
+         }
+      },
+      "instanceType" : 2,
+      "introduce" : "勇闯魔塔,千万经验,还有装备拿！",
+      "name" : "勇闯镇魔塔",
+      "refId" : "Ins_6"
+   }
+}
+

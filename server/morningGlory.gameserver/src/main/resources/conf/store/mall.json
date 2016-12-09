@@ -1,0 +1,1164 @@
+{
+   "mall_item_001" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 4000,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 2000,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_vip_1",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_001"
+   },
+   "mall_item_002" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 16000,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 8000,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_vip_3",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_002"
+   },
+   "mall_item_003" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 10,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 5,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_drug_9",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_003"
+   },
+   "mall_item_004" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 600,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 300,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_lingpai_1",
+         "itemLimitNum" : 10,
+         "itemLimitType" : 1,
+         "itemSellType" : 3,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_004"
+   },
+   "mall_item_005" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 600,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 300,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_lingpai_3",
+         "itemLimitNum" : 10,
+         "itemLimitType" : 1,
+         "itemSellType" : 3,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_005"
+   },
+   "mall_item_006" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 40,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 10,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_zhenmoling_1",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_006"
+   },
+   "mall_item_007" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 17776,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 8888,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_superluck",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_007"
+   },
+   "mall_item_008" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 40,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 20,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_zuoqiExp",
+         "itemLimitNum" : 2000,
+         "itemLimitType" : 1,
+         "itemSellType" : 3,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_008"
+   },
+   "mall_item_009" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 100,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_duihuanquan_2",
+         "itemLimitNum" : 10,
+         "itemLimitType" : 1,
+         "itemSellType" : 3,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_009"
+   },
+   "mall_item_010" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 100,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 50,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_duihuanquan_1",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_010"
+   },
+   "mall_item_011" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 40,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 20,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_chibangExp",
+         "itemLimitNum" : 2000,
+         "itemLimitType" : 1,
+         "itemSellType" : 3,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_011"
+   },
+   "mall_item_012" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 80,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 40,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_shenqiExp",
+         "itemLimitNum" : 2000,
+         "itemLimitType" : 1,
+         "itemSellType" : 3,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_012"
+   },
+   "mall_item_013" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 800,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_pk0",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_013"
+   },
+   "mall_item_014" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 376,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 188,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_3exp",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_014"
+   },
+   "mall_item_015" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 100,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_2exp",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_015"
+   },
+   "mall_item_016" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 100,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_jinengExp",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_016"
+   },
+   "mall_item_017" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_danyao_1",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_017"
+   },
+   "mall_item_018" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_danyao_2",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_018"
+   },
+   "mall_item_019" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_danyao_3",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_019"
+   },
+   "mall_item_020" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_danyao_4",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_020"
+   },
+   "mall_item_021" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_danyao_5",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_021"
+   },
+   "mall_item_022" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 10,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 5,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_moveto_3",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_022"
+   },
+   "mall_item_023" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 2000,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 1000,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_horn",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_023"
+   },
+   "mall_item_024" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 2000,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 1000,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_gonghuiling",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_024"
+   },
+   "mall_item_025" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 2000,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 1000,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_gongcheng",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_025"
+   },
+   "mall_item_026" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 100,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_moxueshi_1",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_026"
+   },
+   "mall_item_027" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_moxueshi_2",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_027"
+   },
+   "mall_item_028" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 800,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_moxueshi_3",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_028"
+   },
+   "mall_item_029" : {
+      "priceData" : {
+         "formerPriceData" : [
+            {
+               "number" : 1000,
+               "refId" : "unbindedGold"
+            }
+         ],
+         "nowPriceData" : [
+            {
+               "number" : 500,
+               "refId" : "unbindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 0,
+         "itemId" : "item_templetickets",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 3,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_1"
+      },
+      "refId" : "mall_item_029"
+   },
+   "mall_item_030" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 600,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_lingpai_3",
+         "itemLimitNum" : 5,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_030"
+   },
+   "mall_item_031" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 40,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_zhenmoling_1",
+         "itemLimitNum" : 200,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_031"
+   },
+   "mall_item_032" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 40,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_zuoqiExp",
+         "itemLimitNum" : 100,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_032"
+   },
+   "mall_item_033" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_duihuanquan_2",
+         "itemLimitNum" : 5,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_033"
+   },
+   "mall_item_034" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 40,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_chibangExp",
+         "itemLimitNum" : 100,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_034"
+   },
+   "mall_item_035" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 80,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_shenqiExp",
+         "itemLimitNum" : 100,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_035"
+   },
+   "mall_item_036" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 60,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_luck",
+         "itemLimitNum" : 50,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_036"
+   },
+   "mall_item_037" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_2exp",
+         "itemLimitNum" : 5,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_037"
+   },
+   "mall_item_038" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_jinengExp",
+         "itemLimitNum" : 5,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_038"
+   },
+   "mall_item_039" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_danyao_1",
+         "itemLimitNum" : 5,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_039"
+   },
+   "mall_item_040" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_danyao_2",
+         "itemLimitNum" : 5,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_040"
+   },
+   "mall_item_041" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_danyao_3",
+         "itemLimitNum" : 5,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_041"
+   },
+   "mall_item_042" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_danyao_4",
+         "itemLimitNum" : 5,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_042"
+   },
+   "mall_item_043" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_danyao_5",
+         "itemLimitNum" : 5,
+         "itemLimitType" : 1,
+         "itemSellType" : 0,
+         "number" : 1,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_043"
+   },
+   "mall_item_044" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 10,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_feixie",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 0,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_044"
+   },
+   "mall_item_045" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 200,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_moxueshi_1",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 0,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_045"
+   },
+   "mall_item_046" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 400,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_moxueshi_2",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 0,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_046"
+   },
+   "mall_item_047" : {
+      "priceData" : {
+         "nowPriceData" : [
+            {
+               "number" : 800,
+               "refId" : "bindedGold"
+            }
+         ]
+      },
+      "property" : {
+         "bindStatus" : 1,
+         "itemId" : "item_moxueshi_3",
+         "itemLimitNum" : 0,
+         "itemLimitType" : 0,
+         "itemSellType" : 0,
+         "number" : 0,
+         "storeLimitTime" : "",
+         "storeType" : "mall_2"
+      },
+      "refId" : "mall_item_047"
+   }
+}
+

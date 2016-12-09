@@ -1,0 +1,75 @@
+{
+   "LYZT_YB_19800" : {
+      "firstReward" : 0,
+      "firstRewardBound" : 19800,
+      "goodName" : "19800元宝",
+      "iconId" : "yuanbao_3",
+      "level" : 3,
+      "money" : 198,
+      "refId" : "LYZT_YB_19800",
+      "reward" : 0,
+      "rewardBound" : 3000,
+      "yuanBao" : 19800
+   },
+   "LYZT_YB_3000" : {
+      "firstReward" : 0,
+      "firstRewardBound" : 3000,
+      "goodName" : "3000元宝",
+      "iconId" : "yuanbao_5",
+      "level" : 5,
+      "money" : 30,
+      "refId" : "LYZT_YB_3000",
+      "reward" : 0,
+      "rewardBound" : 300,
+      "yuanBao" : 3000
+   },
+   "LYZT_YB_32800" : {
+      "firstReward" : 0,
+      "firstRewardBound" : 0,
+      "goodName" : "32800元宝",
+      "iconId" : "yuanbao_2",
+      "level" : 2,
+      "money" : 328,
+      "refId" : "LYZT_YB_32800",
+      "reward" : 0,
+      "rewardBound" : 6400,
+      "yuanBao" : 32800
+   },
+   "LYZT_YB_600" : {
+      "firstReward" : 0,
+      "firstRewardBound" : 0,
+      "goodName" : "600元宝",
+      "iconId" : "yuanbao_6",
+      "level" : 6,
+      "money" : 6,
+      "refId" : "LYZT_YB_600",
+      "reward" : 0,
+      "rewardBound" : 0,
+      "yuanBao" : 600
+   },
+   "LYZT_YB_64800" : {
+      "firstReward" : 0,
+      "firstRewardBound" : 64800,
+      "goodName" : "64800元宝",
+      "iconId" : "yuanbao_1",
+      "level" : 1,
+      "money" : 648,
+      "refId" : "LYZT_YB_64800",
+      "reward" : 0,
+      "rewardBound" : 16000,
+      "yuanBao" : 64800
+   },
+   "LYZT_YB_9800" : {
+      "firstReward" : 0,
+      "firstRewardBound" : 0,
+      "goodName" : "9800元宝",
+      "iconId" : "yuanbao_4",
+      "level" : 4,
+      "money" : 98,
+      "refId" : "LYZT_YB_9800",
+      "reward" : 0,
+      "rewardBound" : 1200,
+      "yuanBao" : 9800
+   }
+}
+

@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS game_resdownload(
+  `identityId` VARCHAR(60) NOT NULL COMMENT '玩家identityId',
+  `resDownload` MEDIUMBLOB COMMENT '分包下载',
+  PRIMARY KEY (`identityId`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=COMPRESSED KEY_BLOCK_SIZE=16;

@@ -1,0 +1,395 @@
+{
+   "monster_skill_ds_11_1" : {
+      "monsterData" : {
+         "level" : 1,
+         "monsterExp" : 90,
+         "nestMonsterRefId" : "monster_skill_ds_11_2"
+      },
+      "refId" : "monster_skill_ds_11_1"
+   },
+   "monster_skill_ds_11_10" : {
+      "monsterData" : {
+         "level" : 3,
+         "monsterExp" : 240,
+         "nestMonsterRefId" : "monster_skill_ds_11_11"
+      },
+      "refId" : "monster_skill_ds_11_10"
+   },
+   "monster_skill_ds_11_11" : {
+      "monsterData" : {
+         "level" : 4,
+         "monsterExp" : 360,
+         "nestMonsterRefId" : "monster_skill_ds_11_12"
+      },
+      "refId" : "monster_skill_ds_11_11"
+   },
+   "monster_skill_ds_11_12" : {
+      "monsterData" : {
+         "level" : 5,
+         "monsterExp" : 510,
+         "nestMonsterRefId" : "monster_skill_ds_11_13"
+      },
+      "refId" : "monster_skill_ds_11_12"
+   },
+   "monster_skill_ds_11_13" : {
+      "monsterData" : {
+         "level" : 6,
+         "monsterExp" : 750,
+         "nestMonsterRefId" : "monster_skill_ds_11_14"
+      },
+      "refId" : "monster_skill_ds_11_13"
+   },
+   "monster_skill_ds_11_14" : {
+      "monsterData" : {
+         "level" : 7,
+         "monsterExp" : 0,
+         "nestMonsterRefId" : ""
+      },
+      "refId" : "monster_skill_ds_11_14"
+   },
+   "monster_skill_ds_11_15" : {
+      "monsterData" : {
+         "level" : 1,
+         "monsterExp" : 90,
+         "nestMonsterRefId" : "monster_skill_ds_11_16"
+      },
+      "refId" : "monster_skill_ds_11_15"
+   },
+   "monster_skill_ds_11_16" : {
+      "monsterData" : {
+         "level" : 2,
+         "monsterExp" : 150,
+         "nestMonsterRefId" : "monster_skill_ds_11_17"
+      },
+      "refId" : "monster_skill_ds_11_16"
+   },
+   "monster_skill_ds_11_17" : {
+      "monsterData" : {
+         "level" : 3,
+         "monsterExp" : 240,
+         "nestMonsterRefId" : "monster_skill_ds_11_18"
+      },
+      "refId" : "monster_skill_ds_11_17"
+   },
+   "monster_skill_ds_11_18" : {
+      "monsterData" : {
+         "level" : 4,
+         "monsterExp" : 360,
+         "nestMonsterRefId" : "monster_skill_ds_11_19"
+      },
+      "refId" : "monster_skill_ds_11_18"
+   },
+   "monster_skill_ds_11_19" : {
+      "monsterData" : {
+         "level" : 5,
+         "monsterExp" : 510,
+         "nestMonsterRefId" : "monster_skill_ds_11_20"
+      },
+      "refId" : "monster_skill_ds_11_19"
+   },
+   "monster_skill_ds_11_2" : {
+      "monsterData" : {
+         "level" : 2,
+         "monsterExp" : 150,
+         "nestMonsterRefId" : "monster_skill_ds_11_3"
+      },
+      "refId" : "monster_skill_ds_11_2"
+   },
+   "monster_skill_ds_11_20" : {
+      "monsterData" : {
+         "level" : 6,
+         "monsterExp" : 750,
+         "nestMonsterRefId" : "monster_skill_ds_11_21"
+      },
+      "refId" : "monster_skill_ds_11_20"
+   },
+   "monster_skill_ds_11_21" : {
+      "monsterData" : {
+         "level" : 7,
+         "monsterExp" : 0,
+         "nestMonsterRefId" : ""
+      },
+      "refId" : "monster_skill_ds_11_21"
+   },
+   "monster_skill_ds_11_22" : {
+      "monsterData" : {
+         "level" : 1,
+         "monsterExp" : 90,
+         "nestMonsterRefId" : "monster_skill_ds_11_23"
+      },
+      "refId" : "monster_skill_ds_11_22"
+   },
+   "monster_skill_ds_11_23" : {
+      "monsterData" : {
+         "level" : 2,
+         "monsterExp" : 150,
+         "nestMonsterRefId" : "monster_skill_ds_11_24"
+      },
+      "refId" : "monster_skill_ds_11_23"
+   },
+   "monster_skill_ds_11_24" : {
+      "monsterData" : {
+         "level" : 3,
+         "monsterExp" : 240,
+         "nestMonsterRefId" : "monster_skill_ds_11_25"
+      },
+      "refId" : "monster_skill_ds_11_24"
+   },
+   "monster_skill_ds_11_25" : {
+      "monsterData" : {
+         "level" : 4,
+         "monsterExp" : 360,
+         "nestMonsterRefId" : "monster_skill_ds_11_26"
+      },
+      "refId" : "monster_skill_ds_11_25"
+   },
+   "monster_skill_ds_11_26" : {
+      "monsterData" : {
+         "level" : 5,
+         "monsterExp" : 510,
+         "nestMonsterRefId" : "monster_skill_ds_11_27"
+      },
+      "refId" : "monster_skill_ds_11_26"
+   },
+   "monster_skill_ds_11_27" : {
+      "monsterData" : {
+         "level" : 6,
+         "monsterExp" : 750,
+         "nestMonsterRefId" : "monster_skill_ds_11_28"
+      },
+      "refId" : "monster_skill_ds_11_27"
+   },
+   "monster_skill_ds_11_28" : {
+      "monsterData" : {
+         "level" : 7,
+         "monsterExp" : 0,
+         "nestMonsterRefId" : ""
+      },
+      "refId" : "monster_skill_ds_11_28"
+   },
+   "monster_skill_ds_11_3" : {
+      "monsterData" : {
+         "level" : 3,
+         "monsterExp" : 240,
+         "nestMonsterRefId" : "monster_skill_ds_11_4"
+      },
+      "refId" : "monster_skill_ds_11_3"
+   },
+   "monster_skill_ds_11_4" : {
+      "monsterData" : {
+         "level" : 4,
+         "monsterExp" : 360,
+         "nestMonsterRefId" : "monster_skill_ds_11_5"
+      },
+      "refId" : "monster_skill_ds_11_4"
+   },
+   "monster_skill_ds_11_5" : {
+      "monsterData" : {
+         "level" : 5,
+         "monsterExp" : 510,
+         "nestMonsterRefId" : "monster_skill_ds_11_6"
+      },
+      "refId" : "monster_skill_ds_11_5"
+   },
+   "monster_skill_ds_11_6" : {
+      "monsterData" : {
+         "level" : 6,
+         "monsterExp" : 750,
+         "nestMonsterRefId" : "monster_skill_ds_11_7"
+      },
+      "refId" : "monster_skill_ds_11_6"
+   },
+   "monster_skill_ds_11_7" : {
+      "monsterData" : {
+         "level" : 7,
+         "monsterExp" : 0,
+         "nestMonsterRefId" : ""
+      },
+      "refId" : "monster_skill_ds_11_7"
+   },
+   "monster_skill_ds_11_8" : {
+      "monsterData" : {
+         "level" : 1,
+         "monsterExp" : 90,
+         "nestMonsterRefId" : "monster_skill_ds_11_9"
+      },
+      "refId" : "monster_skill_ds_11_8"
+   },
+   "monster_skill_ds_11_9" : {
+      "monsterData" : {
+         "level" : 2,
+         "monsterExp" : 150,
+         "nestMonsterRefId" : "monster_skill_ds_11_10"
+      },
+      "refId" : "monster_skill_ds_11_9"
+   },
+   "monster_skill_ds_5_1" : {
+      "monsterData" : {
+         "level" : 1,
+         "monsterExp" : 90,
+         "nestMonsterRefId" : "monster_skill_ds_5_2"
+      },
+      "refId" : "monster_skill_ds_5_1"
+   },
+   "monster_skill_ds_5_10" : {
+      "monsterData" : {
+         "level" : 3,
+         "monsterExp" : 240,
+         "nestMonsterRefId" : "monster_skill_ds_5_11"
+      },
+      "refId" : "monster_skill_ds_5_10"
+   },
+   "monster_skill_ds_5_11" : {
+      "monsterData" : {
+         "level" : 4,
+         "monsterExp" : 360,
+         "nestMonsterRefId" : "monster_skill_ds_5_12"
+      },
+      "refId" : "monster_skill_ds_5_11"
+   },
+   "monster_skill_ds_5_12" : {
+      "monsterData" : {
+         "level" : 5,
+         "monsterExp" : 510,
+         "nestMonsterRefId" : "monster_skill_ds_5_13"
+      },
+      "refId" : "monster_skill_ds_5_12"
+   },
+   "monster_skill_ds_5_13" : {
+      "monsterData" : {
+         "level" : 6,
+         "monsterExp" : 750,
+         "nestMonsterRefId" : "monster_skill_ds_5_14"
+      },
+      "refId" : "monster_skill_ds_5_13"
+   },
+   "monster_skill_ds_5_14" : {
+      "monsterData" : {
+         "level" : 7,
+         "monsterExp" : 0,
+         "nestMonsterRefId" : ""
+      },
+      "refId" : "monster_skill_ds_5_14"
+   },
+   "monster_skill_ds_5_15" : {
+      "monsterData" : {
+         "level" : 1,
+         "monsterExp" : 90,
+         "nestMonsterRefId" : "monster_skill_ds_5_16"
+      },
+      "refId" : "monster_skill_ds_5_15"
+   },
+   "monster_skill_ds_5_16" : {
+      "monsterData" : {
+         "level" : 2,
+         "monsterExp" : 150,
+         "nestMonsterRefId" : "monster_skill_ds_5_17"
+      },
+      "refId" : "monster_skill_ds_5_16"
+   },
+   "monster_skill_ds_5_17" : {
+      "monsterData" : {
+         "level" : 3,
+         "monsterExp" : 240,
+         "nestMonsterRefId" : "monster_skill_ds_5_18"
+      },
+      "refId" : "monster_skill_ds_5_17"
+   },
+   "monster_skill_ds_5_18" : {
+      "monsterData" : {
+         "level" : 4,
+         "monsterExp" : 360,
+         "nestMonsterRefId" : "monster_skill_ds_5_19"
+      },
+      "refId" : "monster_skill_ds_5_18"
+   },
+   "monster_skill_ds_5_19" : {
+      "monsterData" : {
+         "level" : 5,
+         "monsterExp" : 510,
+         "nestMonsterRefId" : "monster_skill_ds_5_20"
+      },
+      "refId" : "monster_skill_ds_5_19"
+   },
+   "monster_skill_ds_5_2" : {
+      "monsterData" : {
+         "level" : 2,
+         "monsterExp" : 150,
+         "nestMonsterRefId" : "monster_skill_ds_5_3"
+      },
+      "refId" : "monster_skill_ds_5_2"
+   },
+   "monster_skill_ds_5_20" : {
+      "monsterData" : {
+         "level" : 6,
+         "monsterExp" : 750,
+         "nestMonsterRefId" : "monster_skill_ds_5_21"
+      },
+      "refId" : "monster_skill_ds_5_20"
+   },
+   "monster_skill_ds_5_21" : {
+      "monsterData" : {
+         "level" : 7,
+         "monsterExp" : 0,
+         "nestMonsterRefId" : ""
+      },
+      "refId" : "monster_skill_ds_5_21"
+   },
+   "monster_skill_ds_5_3" : {
+      "monsterData" : {
+         "level" : 3,
+         "monsterExp" : 240,
+         "nestMonsterRefId" : "monster_skill_ds_5_4"
+      },
+      "refId" : "monster_skill_ds_5_3"
+   },
+   "monster_skill_ds_5_4" : {
+      "monsterData" : {
+         "level" : 4,
+         "monsterExp" : 360,
+         "nestMonsterRefId" : "monster_skill_ds_5_5"
+      },
+      "refId" : "monster_skill_ds_5_4"
+   },
+   "monster_skill_ds_5_5" : {
+      "monsterData" : {
+         "level" : 5,
+         "monsterExp" : 510,
+         "nestMonsterRefId" : "monster_skill_ds_5_6"
+      },
+      "refId" : "monster_skill_ds_5_5"
+   },
+   "monster_skill_ds_5_6" : {
+      "monsterData" : {
+         "level" : 6,
+         "monsterExp" : 750,
+         "nestMonsterRefId" : "monster_skill_ds_5_7"
+      },
+      "refId" : "monster_skill_ds_5_6"
+   },
+   "monster_skill_ds_5_7" : {
+      "monsterData" : {
+         "level" : 7,
+         "monsterExp" : 0,
+         "nestMonsterRefId" : ""
+      },
+      "refId" : "monster_skill_ds_5_7"
+   },
+   "monster_skill_ds_5_8" : {
+      "monsterData" : {
+         "level" : 1,
+         "monsterExp" : 90,
+         "nestMonsterRefId" : "monster_skill_ds_5_9"
+      },
+      "refId" : "monster_skill_ds_5_8"
+   },
+   "monster_skill_ds_5_9" : {
+      "monsterData" : {
+         "level" : 2,
+         "monsterExp" : 150,
+         "nestMonsterRefId" : "monster_skill_ds_5_10"
+      },
+      "refId" : "monster_skill_ds_5_9"
+   }
+}
+

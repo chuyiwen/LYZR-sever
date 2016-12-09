@@ -1,0 +1,84 @@
+{
+   "Ins_8" : {
+      "configData" : {
+         "game_instance" : {
+            "configData" : {
+               "Ins_8" : {
+                  "description" : "击败全部怪物可完成副本，点击挂机按钮事半功倍，点击出口按钮即可离开副本。",
+                  "gameInstanceData" : {
+                     "openDetailsData" : "15:00:00|3600",
+                     "structureDetails" : [ "I013" ]
+                  },
+                  "name" : "公会副本",
+                  "property" : {
+                     "isTeam" : 1,
+                     "level" : 1,
+                     "name" : "公会副本",
+                     "questRefId" : "",
+                     "timesADay" : 0,
+                     "timesAWeek" : 0
+                  },
+                  "refId" : "Ins_8"
+               }
+            },
+            "name" : "Ins_1 任务总表",
+            "refId" : "game_instance"
+         },
+         "game_instance_quest" : {
+            "configData" : {
+               "quest_1" : {
+                  "description" : "击败{mouster_8002}。",
+                  "name" : "暴怒麒麟",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_8002",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 200000
+                        }
+                     }
+                  },
+                  "refId" : "quest_1"
+               }
+            },
+            "name" : "副本任务表",
+            "refId" : "game_instance_quest"
+         },
+         "game_instance_scene" : {
+            "configData" : {
+               "I013" : {
+                  "description" : "击败全部怪物",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_1" ],
+                     "consumptionItems" : null,
+                     "succeedConditionData" : "monster_8002=1"
+                  },
+                  "mapId" : 13,
+                  "property" : {
+                     "sceneRefId" : "S013",
+                     "succeedType" : 1
+                  },
+                  "refId" : "I013"
+               }
+            },
+            "name" : "副本层总表",
+            "refId" : "game_instance_scene"
+         }
+      },
+      "instanceType" : 4,
+      "introduce" : "公会副本，捕获教主，奖励丰厚更有点金手碎片",
+      "name" : "公会副本",
+      "refId" : "Ins_8",
+      "suggestlevel" : 45
+   }
+}
+

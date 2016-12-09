@@ -1,0 +1,4111 @@
+{
+   "equip_100_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 165,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_1100"
+   },
+   "equip_100_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 90,
+         "maxPAtk" : 51,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_1200"
+   },
+   "equip_100_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 144,
+         "maxTao" : 75,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_1300"
+   },
+   "equip_100_2110" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 39,
+         "maxPAtk" : 30,
+         "maxPDef" : 105,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_2110"
+   },
+   "equip_100_2120" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 39,
+         "maxPAtk" : 30,
+         "maxPDef" : 105,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_2120"
+   },
+   "equip_100_2210" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 39,
+         "maxMDef" : 72,
+         "maxPDef" : 75,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_2210"
+   },
+   "equip_100_2220" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 39,
+         "maxMDef" : 72,
+         "maxPDef" : 75,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_2220"
+   },
+   "equip_100_2310" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 75,
+         "maxPDef" : 84,
+         "maxTao" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_2310"
+   },
+   "equip_100_2320" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 75,
+         "maxPDef" : 84,
+         "maxTao" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_2320"
+   },
+   "equip_100_3100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 30,
+         "maxPAtk" : 30,
+         "maxPDef" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_3100"
+   },
+   "equip_100_3200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 30,
+         "maxMDef" : 27,
+         "maxPDef" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_3200"
+   },
+   "equip_100_3300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 27,
+         "maxPDef" : 30,
+         "maxTao" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_3300"
+   },
+   "equip_100_4100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 24,
+         "maxPAtk" : 24,
+         "maxPDef" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_4100"
+   },
+   "equip_100_4200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 24,
+         "maxMDef" : 30,
+         "maxPDef" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_4200"
+   },
+   "equip_100_4300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 30,
+         "maxPDef" : 24,
+         "maxTao" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_4300"
+   },
+   "equip_100_5100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 24,
+         "maxPAtk" : 24,
+         "maxPDef" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_5100"
+   },
+   "equip_100_5200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 24,
+         "maxMDef" : 30,
+         "maxPDef" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_5200"
+   },
+   "equip_100_5300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 30,
+         "maxPDef" : 24,
+         "maxTao" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_5300"
+   },
+   "equip_100_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_6100"
+   },
+   "equip_100_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_6200"
+   },
+   "equip_100_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_6300"
+   },
+   "equip_100_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 30,
+         "maxPDef" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_7100"
+   },
+   "equip_100_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 30,
+         "maxMDef" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_7200"
+   },
+   "equip_100_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 12,
+         "maxTao" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_7300"
+   },
+   "equip_100_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 45,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_8100"
+   },
+   "equip_100_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 45,
+         "maxMDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_8200"
+   },
+   "equip_100_8300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 45,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_8300"
+   },
+   "equip_100_9000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxHP" : 1650,
+         "maxMDef" : 60,
+         "maxPDef" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_100_9000"
+   },
+   "equip_10_1000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_10_1000"
+   },
+   "equip_10_2010" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 6,
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_10_2010"
+   },
+   "equip_10_2020" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 6,
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_10_2020"
+   },
+   "equip_10_3000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 6,
+         "maxPDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_10_3000"
+   },
+   "equip_10_7000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_10_7000"
+   },
+   "equip_10_8000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 3,
+         "maxMDef" : 3,
+         "maxPAtk" : 6,
+         "maxTao" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_10_8000"
+   },
+   "equip_10_9000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxHP" : 300,
+         "maxMDef" : 6,
+         "maxPDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_10_9000"
+   },
+   "equip_15_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_1100"
+   },
+   "equip_15_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 6,
+         "maxPAtk" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_1200"
+   },
+   "equip_15_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 30,
+         "maxTao" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_1300"
+   },
+   "equip_15_3000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_3000"
+   },
+   "equip_15_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_6100"
+   },
+   "equip_15_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_6200"
+   },
+   "equip_15_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_6300"
+   },
+   "equip_15_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_7100"
+   },
+   "equip_15_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_7200"
+   },
+   "equip_15_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_7300"
+   },
+   "equip_15_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_8100"
+   },
+   "equip_15_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_8200"
+   },
+   "equip_15_8300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_15_8300"
+   },
+   "equip_1_1000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_1_1000"
+   },
+   "equip_1_2010" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 3,
+         "maxPDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_1_2010"
+   },
+   "equip_1_2020" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 3,
+         "maxPDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_1_2020"
+   },
+   "equip_1_6000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_1_6000"
+   },
+   "equip_1_7000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_1_7000"
+   },
+   "equip_1_8000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_1_8000"
+   },
+   "equip_1_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_1_8200"
+   },
+   "equip_20_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_1100"
+   },
+   "equip_20_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 12,
+         "maxPAtk" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_1200"
+   },
+   "equip_20_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 33,
+         "maxTao" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_1300"
+   },
+   "equip_20_2010" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPDef" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_2010"
+   },
+   "equip_20_2020" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPDef" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_2020"
+   },
+   "equip_20_3000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_3000"
+   },
+   "equip_20_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_6100"
+   },
+   "equip_20_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_6200"
+   },
+   "equip_20_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_6300"
+   },
+   "equip_20_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_7100"
+   },
+   "equip_20_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_7200"
+   },
+   "equip_20_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_7300"
+   },
+   "equip_20_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_8100"
+   },
+   "equip_20_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 9,
+         "maxMDef" : 12,
+         "maxPAtk" : 9,
+         "maxTao" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_8200"
+   },
+   "equip_20_9000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxHP" : 450,
+         "maxMDef" : 12,
+         "maxPDef" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_20_9000"
+   },
+   "equip_25_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 75,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_1100"
+   },
+   "equip_25_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxPAtk" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_1200"
+   },
+   "equip_25_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 39,
+         "maxTao" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_1300"
+   },
+   "equip_25_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_6100"
+   },
+   "equip_25_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_6200"
+   },
+   "equip_25_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_6300"
+   },
+   "equip_25_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_7100"
+   },
+   "equip_25_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_7200"
+   },
+   "equip_25_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_7300"
+   },
+   "equip_25_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_8100"
+   },
+   "equip_25_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_8200"
+   },
+   "equip_25_8300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_25_8300"
+   },
+   "equip_30_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_1100"
+   },
+   "equip_30_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxPAtk" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_1200"
+   },
+   "equip_30_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 48,
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_1300"
+   },
+   "equip_30_2110" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 15,
+         "maxPDef" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_2110"
+   },
+   "equip_30_2120" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 15,
+         "maxPDef" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_2120"
+   },
+   "equip_30_2210" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 12,
+         "maxMDef" : 18,
+         "maxPDef" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_2210"
+   },
+   "equip_30_2220" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 12,
+         "maxMDef" : 18,
+         "maxPDef" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_2220"
+   },
+   "equip_30_2310" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 12,
+         "maxPDef" : 21,
+         "maxTao" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_2310"
+   },
+   "equip_30_2320" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 12,
+         "maxPDef" : 21,
+         "maxTao" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_2320"
+   },
+   "equip_30_3100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPDef" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_3100"
+   },
+   "equip_30_3200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 3,
+         "maxMDef" : 6,
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_3200"
+   },
+   "equip_30_3300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_3300"
+   },
+   "equip_30_4100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 3,
+         "maxPAtk" : 3,
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_4100"
+   },
+   "equip_30_4200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 3,
+         "maxMDef" : 9,
+         "maxPDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_4200"
+   },
+   "equip_30_4300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPDef" : 3,
+         "maxTao" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_4300"
+   },
+   "equip_30_5100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 3,
+         "maxPAtk" : 3,
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_5100"
+   },
+   "equip_30_5200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 3,
+         "maxMDef" : 9,
+         "maxPDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_5200"
+   },
+   "equip_30_5300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPDef" : 3,
+         "maxTao" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_5300"
+   },
+   "equip_30_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_6100"
+   },
+   "equip_30_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_6200"
+   },
+   "equip_30_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_6300"
+   },
+   "equip_30_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPDef" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_7100"
+   },
+   "equip_30_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_7200"
+   },
+   "equip_30_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPDef" : 3,
+         "maxTao" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_7300"
+   },
+   "equip_30_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_8100"
+   },
+   "equip_30_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_8200"
+   },
+   "equip_30_8300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_8300"
+   },
+   "equip_30_9000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxHP" : 600,
+         "maxMDef" : 18,
+         "maxPDef" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_30_9000"
+   },
+   "equip_40_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 90,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1100"
+   },
+   "equip_40_1101" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 120,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1101"
+   },
+   "equip_40_1102" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 120,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1102"
+   },
+   "equip_40_1103" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 120,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1103"
+   },
+   "equip_40_1104" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 120,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1104"
+   },
+   "equip_40_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 21,
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1200"
+   },
+   "equip_40_1201" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 51,
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1201"
+   },
+   "equip_40_1202" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 51,
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1202"
+   },
+   "equip_40_1203" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 51,
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1203"
+   },
+   "equip_40_1204" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 51,
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1204"
+   },
+   "equip_40_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 60,
+         "maxTao" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1300"
+   },
+   "equip_40_1301" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 60,
+         "maxTao" : 51,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1301"
+   },
+   "equip_40_1302" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 60,
+         "maxTao" : 51,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1302"
+   },
+   "equip_40_1303" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 60,
+         "maxTao" : 51,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1303"
+   },
+   "equip_40_1304" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 60,
+         "maxTao" : 51,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1304"
+   },
+   "equip_40_1305" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 60,
+         "maxTao" : 51,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_1305"
+   },
+   "equip_40_2110" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 21,
+         "maxPAtk" : 6,
+         "maxPDef" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2110"
+   },
+   "equip_40_2111" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 51,
+         "maxPAtk" : 6,
+         "maxPDef" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2111"
+   },
+   "equip_40_2112" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 51,
+         "maxPAtk" : 6,
+         "maxPDef" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2112"
+   },
+   "equip_40_2120" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 21,
+         "maxPAtk" : 6,
+         "maxPDef" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2120"
+   },
+   "equip_40_2121" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 51,
+         "maxPAtk" : 6,
+         "maxPDef" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2121"
+   },
+   "equip_40_2122" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 51,
+         "maxPAtk" : 6,
+         "maxPDef" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2122"
+   },
+   "equip_40_2210" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxMDef" : 24,
+         "maxPDef" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2210"
+   },
+   "equip_40_2211" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxMDef" : 54,
+         "maxPDef" : 57,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2211"
+   },
+   "equip_40_2212" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxMDef" : 54,
+         "maxPDef" : 57,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2212"
+   },
+   "equip_40_2220" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxMDef" : 24,
+         "maxPDef" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2220"
+   },
+   "equip_40_2221" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxMDef" : 54,
+         "maxPDef" : 57,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2221"
+   },
+   "equip_40_2222" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxMDef" : 54,
+         "maxPDef" : 57,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2222"
+   },
+   "equip_40_2310" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 18,
+         "maxPDef" : 27,
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2310"
+   },
+   "equip_40_2311" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 48,
+         "maxPDef" : 57,
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2311"
+   },
+   "equip_40_2312" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 48,
+         "maxPDef" : 57,
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2312"
+   },
+   "equip_40_2320" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 18,
+         "maxPDef" : 27,
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2320"
+   },
+   "equip_40_2321" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 48,
+         "maxPDef" : 57,
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2321"
+   },
+   "equip_40_2322" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 48,
+         "maxPDef" : 57,
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_2322"
+   },
+   "equip_40_3100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPAtk" : 6,
+         "maxPDef" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_3100"
+   },
+   "equip_40_3200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 6,
+         "maxMDef" : 9,
+         "maxPDef" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_3200"
+   },
+   "equip_40_3300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPDef" : 12,
+         "maxTao" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_3300"
+   },
+   "equip_40_4100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 6,
+         "maxPAtk" : 6,
+         "maxPDef" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_4100"
+   },
+   "equip_40_4200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 6,
+         "maxMDef" : 12,
+         "maxPDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_4200"
+   },
+   "equip_40_4300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 12,
+         "maxPDef" : 6,
+         "maxTao" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_4300"
+   },
+   "equip_40_5100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 6,
+         "maxPAtk" : 6,
+         "maxPDef" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_5100"
+   },
+   "equip_40_5200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 6,
+         "maxMDef" : 12,
+         "maxPDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_5200"
+   },
+   "equip_40_5300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 12,
+         "maxPDef" : 6,
+         "maxTao" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_5300"
+   },
+   "equip_40_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_6100"
+   },
+   "equip_40_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_6200"
+   },
+   "equip_40_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_6300"
+   },
+   "equip_40_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 9,
+         "maxPDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_7100"
+   },
+   "equip_40_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 12,
+         "maxPDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_7200"
+   },
+   "equip_40_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPDef" : 6,
+         "maxTao" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_7300"
+   },
+   "equip_40_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_8100"
+   },
+   "equip_40_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_8200"
+   },
+   "equip_40_8300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_8300"
+   },
+   "equip_40_9000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxHP" : 750,
+         "maxMDef" : 24,
+         "maxPDef" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_40_9000"
+   },
+   "equip_50_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 78,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1100"
+   },
+   "equip_50_1101" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 108,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1101"
+   },
+   "equip_50_1102" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 108,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1102"
+   },
+   "equip_50_1103" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 108,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1103"
+   },
+   "equip_50_1104" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 108,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1104"
+   },
+   "equip_50_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 27,
+         "maxPAtk" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1200"
+   },
+   "equip_50_1201" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 57,
+         "maxPAtk" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1201"
+   },
+   "equip_50_1202" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 57,
+         "maxPAtk" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1202"
+   },
+   "equip_50_1203" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 57,
+         "maxPAtk" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1203"
+   },
+   "equip_50_1204" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 57,
+         "maxPAtk" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1204"
+   },
+   "equip_50_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 39,
+         "maxTao" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1300"
+   },
+   "equip_50_1301" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 39,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1301"
+   },
+   "equip_50_1302" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 39,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1302"
+   },
+   "equip_50_1303" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 39,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1303"
+   },
+   "equip_50_1304" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 39,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1304"
+   },
+   "equip_50_1305" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 39,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_1305"
+   },
+   "equip_50_2110" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 24,
+         "maxPAtk" : 9,
+         "maxPDef" : 45,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2110"
+   },
+   "equip_50_2111" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 54,
+         "maxPAtk" : 9,
+         "maxPDef" : 75,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2111"
+   },
+   "equip_50_2112" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 54,
+         "maxPAtk" : 9,
+         "maxPDef" : 75,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2112"
+   },
+   "equip_50_2120" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 24,
+         "maxPAtk" : 9,
+         "maxPDef" : 45,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2120"
+   },
+   "equip_50_2121" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 54,
+         "maxPAtk" : 9,
+         "maxPDef" : 75,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2121"
+   },
+   "equip_50_2122" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 54,
+         "maxPAtk" : 9,
+         "maxPDef" : 75,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2122"
+   },
+   "equip_50_2210" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 36,
+         "maxPDef" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2210"
+   },
+   "equip_50_2211" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 66,
+         "maxPDef" : 69,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2211"
+   },
+   "equip_50_2212" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 66,
+         "maxPDef" : 69,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2212"
+   },
+   "equip_50_2220" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 36,
+         "maxPDef" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2220"
+   },
+   "equip_50_2221" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 66,
+         "maxPDef" : 69,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2221"
+   },
+   "equip_50_2222" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 66,
+         "maxPDef" : 69,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2222"
+   },
+   "equip_50_2310" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 39,
+         "maxPDef" : 45,
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2310"
+   },
+   "equip_50_2311" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 69,
+         "maxPDef" : 75,
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2311"
+   },
+   "equip_50_2312" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 69,
+         "maxPDef" : 75,
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2312"
+   },
+   "equip_50_2320" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 39,
+         "maxPDef" : 45,
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2320"
+   },
+   "equip_50_2321" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 69,
+         "maxPDef" : 75,
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2321"
+   },
+   "equip_50_2322" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 69,
+         "maxPDef" : 75,
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_2322"
+   },
+   "equip_50_3100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 12,
+         "maxPAtk" : 9,
+         "maxPDef" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_3100"
+   },
+   "equip_50_3200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 9,
+         "maxMDef" : 12,
+         "maxPDef" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_3200"
+   },
+   "equip_50_3300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 12,
+         "maxPDef" : 15,
+         "maxTao" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_3300"
+   },
+   "equip_50_4100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPAtk" : 9,
+         "maxPDef" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_4100"
+   },
+   "equip_50_4200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 9,
+         "maxMDef" : 15,
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_4200"
+   },
+   "equip_50_4300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 15,
+         "maxPDef" : 9,
+         "maxTao" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_4300"
+   },
+   "equip_50_5100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxPAtk" : 9,
+         "maxPDef" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_5100"
+   },
+   "equip_50_5200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 9,
+         "maxMDef" : 15,
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_5200"
+   },
+   "equip_50_5300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 15,
+         "maxPDef" : 9,
+         "maxTao" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_5300"
+   },
+   "equip_50_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6100"
+   },
+   "equip_50_6101" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6101"
+   },
+   "equip_50_6102" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6102"
+   },
+   "equip_50_6103" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6103"
+   },
+   "equip_50_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6200"
+   },
+   "equip_50_6201" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 57,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6201"
+   },
+   "equip_50_6202" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 57,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6202"
+   },
+   "equip_50_6203" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 57,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6203"
+   },
+   "equip_50_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6300"
+   },
+   "equip_50_6301" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6301"
+   },
+   "equip_50_6302" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_6302"
+   },
+   "equip_50_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 15,
+         "maxPDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_7100"
+   },
+   "equip_50_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxMDef" : 6,
+         "maxPDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_7200"
+   },
+   "equip_50_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_7300"
+   },
+   "equip_50_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_8100"
+   },
+   "equip_50_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 24,
+         "maxMDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_8200"
+   },
+   "equip_50_8300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 3,
+         "maxTao" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_8300"
+   },
+   "equip_50_9000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxHP" : 900,
+         "maxMDef" : 30,
+         "maxPDef" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_50_9000"
+   },
+   "equip_5_6000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_5_6000"
+   },
+   "equip_5_7000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_5_7000"
+   },
+   "equip_5_8000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_5_8000"
+   },
+   "equip_5_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_5_8200"
+   },
+   "equip_60_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 105,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1100"
+   },
+   "equip_60_1101" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 135,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1101"
+   },
+   "equip_60_1102" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 135,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1102"
+   },
+   "equip_60_1103" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 135,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1103"
+   },
+   "equip_60_1104" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 135,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1104"
+   },
+   "equip_60_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 36,
+         "maxPAtk" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1200"
+   },
+   "equip_60_1201" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 66,
+         "maxPAtk" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1201"
+   },
+   "equip_60_1202" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 66,
+         "maxPAtk" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1202"
+   },
+   "equip_60_1203" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 66,
+         "maxPAtk" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1203"
+   },
+   "equip_60_1204" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 66,
+         "maxPAtk" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1204"
+   },
+   "equip_60_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 93,
+         "maxTao" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1300"
+   },
+   "equip_60_1301" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 93,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1301"
+   },
+   "equip_60_1302" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 93,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1302"
+   },
+   "equip_60_1303" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 93,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1303"
+   },
+   "equip_60_1304" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 93,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1304"
+   },
+   "equip_60_1305" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 93,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_1305"
+   },
+   "equip_60_2110" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 27,
+         "maxPAtk" : 12,
+         "maxPDef" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2110"
+   },
+   "equip_60_2111" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 114,
+         "maxPAtk" : 24,
+         "maxPDef" : 138,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2111"
+   },
+   "equip_60_2112" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 114,
+         "maxPAtk" : 24,
+         "maxPDef" : 138,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2112"
+   },
+   "equip_60_2120" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 27,
+         "maxPAtk" : 12,
+         "maxPDef" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2120"
+   },
+   "equip_60_2121" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 114,
+         "maxPAtk" : 24,
+         "maxPDef" : 138,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2121"
+   },
+   "equip_60_2122" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 114,
+         "maxPAtk" : 24,
+         "maxPDef" : 138,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2122"
+   },
+   "equip_60_2210" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 21,
+         "maxMDef" : 42,
+         "maxPDef" : 45,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2210"
+   },
+   "equip_60_2211" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 42,
+         "maxMDef" : 144,
+         "maxPDef" : 120,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2211"
+   },
+   "equip_60_2212" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 42,
+         "maxMDef" : 144,
+         "maxPDef" : 120,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2212"
+   },
+   "equip_60_2220" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 21,
+         "maxMDef" : 42,
+         "maxPDef" : 45,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2220"
+   },
+   "equip_60_2221" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 42,
+         "maxMDef" : 144,
+         "maxPDef" : 120,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2221"
+   },
+   "equip_60_2222" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 42,
+         "maxMDef" : 144,
+         "maxPDef" : 120,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2222"
+   },
+   "equip_60_2310" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 45,
+         "maxPDef" : 51,
+         "maxTao" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2310"
+   },
+   "equip_60_2311" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 150,
+         "maxPDef" : 132,
+         "maxTao" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2311"
+   },
+   "equip_60_2312" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 150,
+         "maxPDef" : 132,
+         "maxTao" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2312"
+   },
+   "equip_60_2320" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 45,
+         "maxPDef" : 51,
+         "maxTao" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2320"
+   },
+   "equip_60_2321" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 150,
+         "maxPDef" : 132,
+         "maxTao" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2321"
+   },
+   "equip_60_2322" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 150,
+         "maxPDef" : 132,
+         "maxTao" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_2322"
+   },
+   "equip_60_3100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 18,
+         "maxPAtk" : 12,
+         "maxPDef" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_3100"
+   },
+   "equip_60_3200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 12,
+         "maxMDef" : 15,
+         "maxPDef" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_3200"
+   },
+   "equip_60_3300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 15,
+         "maxPDef" : 18,
+         "maxTao" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_3300"
+   },
+   "equip_60_4100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 12,
+         "maxPAtk" : 12,
+         "maxPDef" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_4100"
+   },
+   "equip_60_4200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 12,
+         "maxMDef" : 18,
+         "maxPDef" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_4200"
+   },
+   "equip_60_4300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 18,
+         "maxPDef" : 12,
+         "maxTao" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_4300"
+   },
+   "equip_60_5100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 12,
+         "maxPAtk" : 12,
+         "maxPDef" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_5100"
+   },
+   "equip_60_5200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 12,
+         "maxMDef" : 18,
+         "maxPDef" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_5200"
+   },
+   "equip_60_5300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 18,
+         "maxPDef" : 12,
+         "maxTao" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_5300"
+   },
+   "equip_60_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6100"
+   },
+   "equip_60_6101" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6101"
+   },
+   "equip_60_6102" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6102"
+   },
+   "equip_60_6103" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6103"
+   },
+   "equip_60_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6200"
+   },
+   "equip_60_6201" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6201"
+   },
+   "equip_60_6202" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6202"
+   },
+   "equip_60_6203" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6203"
+   },
+   "equip_60_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6300"
+   },
+   "equip_60_6301" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6301"
+   },
+   "equip_60_6302" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_6302"
+   },
+   "equip_60_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 18,
+         "maxPDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_7100"
+   },
+   "equip_60_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 6,
+         "maxPDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_7200"
+   },
+   "equip_60_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 6,
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_7300"
+   },
+   "equip_60_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_8100"
+   },
+   "equip_60_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 30,
+         "maxMDef" : 3,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_8200"
+   },
+   "equip_60_8300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_8300"
+   },
+   "equip_60_9000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxHP" : 1050,
+         "maxMDef" : 36,
+         "maxPDef" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_60_9000"
+   },
+   "equip_70_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 120,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1100"
+   },
+   "equip_70_1101" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 150,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1101"
+   },
+   "equip_70_1102" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 150,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1102"
+   },
+   "equip_70_1103" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 150,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1103"
+   },
+   "equip_70_1104" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 150,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1104"
+   },
+   "equip_70_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 45,
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1200"
+   },
+   "equip_70_1201" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 75,
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1201"
+   },
+   "equip_70_1202" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 75,
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1202"
+   },
+   "equip_70_1203" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 75,
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1203"
+   },
+   "equip_70_1204" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 75,
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1204"
+   },
+   "equip_70_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 54,
+         "maxTao" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1300"
+   },
+   "equip_70_1301" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 54,
+         "maxTao" : 78,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1301"
+   },
+   "equip_70_1302" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 54,
+         "maxTao" : 78,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1302"
+   },
+   "equip_70_1303" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 54,
+         "maxTao" : 78,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1303"
+   },
+   "equip_70_1304" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 54,
+         "maxTao" : 78,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1304"
+   },
+   "equip_70_1305" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 54,
+         "maxTao" : 78,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_1305"
+   },
+   "equip_70_2110" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 30,
+         "maxPAtk" : 15,
+         "maxPDef" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2110"
+   },
+   "equip_70_2111" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 120,
+         "maxPAtk" : 30,
+         "maxPDef" : 162,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2111"
+   },
+   "equip_70_2112" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 120,
+         "maxPAtk" : 30,
+         "maxPDef" : 162,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2112"
+   },
+   "equip_70_2120" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 30,
+         "maxPAtk" : 15,
+         "maxPDef" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2120"
+   },
+   "equip_70_2121" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 120,
+         "maxPAtk" : 30,
+         "maxPDef" : 162,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2121"
+   },
+   "equip_70_2122" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 120,
+         "maxPAtk" : 30,
+         "maxPDef" : 162,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2122"
+   },
+   "equip_70_2210" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 24,
+         "maxMDef" : 48,
+         "maxPDef" : 51,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2210"
+   },
+   "equip_70_2211" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 48,
+         "maxMDef" : 156,
+         "maxPDef" : 132,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2211"
+   },
+   "equip_70_2212" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 48,
+         "maxMDef" : 156,
+         "maxPDef" : 132,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2212"
+   },
+   "equip_70_2220" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 24,
+         "maxMDef" : 48,
+         "maxPDef" : 51,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2220"
+   },
+   "equip_70_2221" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 48,
+         "maxMDef" : 156,
+         "maxPDef" : 132,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2221"
+   },
+   "equip_70_2222" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 48,
+         "maxMDef" : 156,
+         "maxPDef" : 132,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2222"
+   },
+   "equip_70_2310" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 51,
+         "maxPDef" : 57,
+         "maxTao" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2310"
+   },
+   "equip_70_2311" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 162,
+         "maxPDef" : 144,
+         "maxTao" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2311"
+   },
+   "equip_70_2312" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 162,
+         "maxPDef" : 144,
+         "maxTao" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2312"
+   },
+   "equip_70_2320" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 51,
+         "maxPDef" : 57,
+         "maxTao" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2320"
+   },
+   "equip_70_2321" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 162,
+         "maxPDef" : 144,
+         "maxTao" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2321"
+   },
+   "equip_70_2322" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 162,
+         "maxPDef" : 144,
+         "maxTao" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_2322"
+   },
+   "equip_70_3100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 21,
+         "maxPAtk" : 15,
+         "maxPDef" : 30,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_3100"
+   },
+   "equip_70_3200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxMDef" : 18,
+         "maxPDef" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_3200"
+   },
+   "equip_70_3300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 18,
+         "maxPDef" : 21,
+         "maxTao" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_3300"
+   },
+   "equip_70_4100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 15,
+         "maxPAtk" : 15,
+         "maxPDef" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_4100"
+   },
+   "equip_70_4200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxMDef" : 21,
+         "maxPDef" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_4200"
+   },
+   "equip_70_4300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 21,
+         "maxPDef" : 15,
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_4300"
+   },
+   "equip_70_5100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 15,
+         "maxPAtk" : 15,
+         "maxPDef" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_5100"
+   },
+   "equip_70_5200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 15,
+         "maxMDef" : 21,
+         "maxPDef" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_5200"
+   },
+   "equip_70_5300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 21,
+         "maxPDef" : 15,
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_5300"
+   },
+   "equip_70_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6100"
+   },
+   "equip_70_6101" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6101"
+   },
+   "equip_70_6102" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6102"
+   },
+   "equip_70_6103" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6103"
+   },
+   "equip_70_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6200"
+   },
+   "equip_70_6201" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6201"
+   },
+   "equip_70_6202" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6202"
+   },
+   "equip_70_6203" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6203"
+   },
+   "equip_70_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6300"
+   },
+   "equip_70_6301" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6301"
+   },
+   "equip_70_6302" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_6302"
+   },
+   "equip_70_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 21,
+         "maxPDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_7100"
+   },
+   "equip_70_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 21,
+         "maxMDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_7200"
+   },
+   "equip_70_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 6,
+         "maxTao" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_7300"
+   },
+   "equip_70_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 33,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_8100"
+   },
+   "equip_70_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 33,
+         "maxMDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_8200"
+   },
+   "equip_70_8300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 33,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_8300"
+   },
+   "equip_70_9000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxHP" : 1200,
+         "maxMDef" : 42,
+         "maxPDef" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_70_9000"
+   },
+   "equip_80_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 135,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_1100"
+   },
+   "equip_80_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 54,
+         "maxPAtk" : 45,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_1200"
+   },
+   "equip_80_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 120,
+         "maxTao" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_1300"
+   },
+   "equip_80_2110" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 33,
+         "maxPAtk" : 18,
+         "maxPDef" : 78,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_2110"
+   },
+   "equip_80_2120" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 33,
+         "maxPAtk" : 18,
+         "maxPDef" : 78,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_2120"
+   },
+   "equip_80_2210" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 27,
+         "maxMDef" : 54,
+         "maxPDef" : 57,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_2210"
+   },
+   "equip_80_2220" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 27,
+         "maxMDef" : 54,
+         "maxPDef" : 57,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_2220"
+   },
+   "equip_80_2310" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 57,
+         "maxPDef" : 63,
+         "maxTao" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_2310"
+   },
+   "equip_80_2320" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 57,
+         "maxPDef" : 63,
+         "maxTao" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_2320"
+   },
+   "equip_80_3100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 24,
+         "maxPAtk" : 18,
+         "maxPDef" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_3100"
+   },
+   "equip_80_3200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 21,
+         "maxPDef" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_3200"
+   },
+   "equip_80_3300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 21,
+         "maxPDef" : 24,
+         "maxTao" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_3300"
+   },
+   "equip_80_4100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 18,
+         "maxPAtk" : 18,
+         "maxPDef" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_4100"
+   },
+   "equip_80_4200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 24,
+         "maxPDef" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_4200"
+   },
+   "equip_80_4300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 24,
+         "maxPDef" : 18,
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_4300"
+   },
+   "equip_80_5100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 18,
+         "maxPAtk" : 18,
+         "maxPDef" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_5100"
+   },
+   "equip_80_5200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 18,
+         "maxMDef" : 24,
+         "maxPDef" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_5200"
+   },
+   "equip_80_5300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 24,
+         "maxPDef" : 18,
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_5300"
+   },
+   "equip_80_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_6100"
+   },
+   "equip_80_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_6200"
+   },
+   "equip_80_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_6300"
+   },
+   "equip_80_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 24,
+         "maxPDef" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_7100"
+   },
+   "equip_80_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 24,
+         "maxMDef" : 12,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_7200"
+   },
+   "equip_80_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxTao" : 24,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_7300"
+   },
+   "equip_80_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_8100"
+   },
+   "equip_80_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 36,
+         "maxMDef" : 6,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_8200"
+   },
+   "equip_80_8300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 36,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_8300"
+   },
+   "equip_80_9000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxHP" : 1350,
+         "maxMDef" : 48,
+         "maxPDef" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_80_9000"
+   },
+   "equip_90_1100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 150,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_1100"
+   },
+   "equip_90_1200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 63,
+         "maxPAtk" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_1200"
+   },
+   "equip_90_1300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 129,
+         "maxTao" : 60,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_1300"
+   },
+   "equip_90_2110" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 36,
+         "maxPAtk" : 24,
+         "maxPDef" : 90,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_2110"
+   },
+   "equip_90_2120" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 36,
+         "maxPAtk" : 24,
+         "maxPDef" : 90,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_2120"
+   },
+   "equip_90_2210" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 33,
+         "maxMDef" : 63,
+         "maxPDef" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_2210"
+   },
+   "equip_90_2220" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 33,
+         "maxMDef" : 63,
+         "maxPDef" : 66,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_2220"
+   },
+   "equip_90_2310" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 66,
+         "maxPDef" : 75,
+         "maxTao" : 33,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_2310"
+   },
+   "equip_90_2320" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 66,
+         "maxPDef" : 75,
+         "maxTao" : 33,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_2320"
+   },
+   "equip_90_3100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 27,
+         "maxPAtk" : 24,
+         "maxPDef" : 42,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_3100"
+   },
+   "equip_90_3200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 24,
+         "maxMDef" : 24,
+         "maxPDef" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_3200"
+   },
+   "equip_90_3300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 24,
+         "maxPDef" : 27,
+         "maxTao" : 18,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_3300"
+   },
+   "equip_90_4100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 21,
+         "maxPAtk" : 21,
+         "maxPDef" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_4100"
+   },
+   "equip_90_4200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 21,
+         "maxMDef" : 27,
+         "maxPDef" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_4200"
+   },
+   "equip_90_4300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 27,
+         "maxPDef" : 21,
+         "maxTao" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_4300"
+   },
+   "equip_90_5100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 21,
+         "maxPAtk" : 21,
+         "maxPDef" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_5100"
+   },
+   "equip_90_5200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 21,
+         "maxMDef" : 27,
+         "maxPDef" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_5200"
+   },
+   "equip_90_5300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 27,
+         "maxPDef" : 21,
+         "maxTao" : 21,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_5300"
+   },
+   "equip_90_6100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_6100"
+   },
+   "equip_90_6200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_6200"
+   },
+   "equip_90_6300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 48,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_6300"
+   },
+   "equip_90_7100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 27,
+         "maxPDef" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_7100"
+   },
+   "equip_90_7200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 27,
+         "maxMDef" : 15,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_7200"
+   },
+   "equip_90_7300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMDef" : 9,
+         "maxTao" : 27,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_7300"
+   },
+   "equip_90_8100" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxPAtk" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_8100"
+   },
+   "equip_90_8200" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxMAtk" : 39,
+         "maxMDef" : 9,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_8200"
+   },
+   "equip_90_8300" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxTao" : 39,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_8300"
+   },
+   "equip_90_9000" : {
+      "property" : {
+         "gold" : 3000,
+         "itemRefId" : "item_qianghuashi",
+         "maxHP" : 1500,
+         "maxMDef" : 54,
+         "maxPDef" : 54,
+         "useMaterialCount" : 3
+      },
+      "refId" : "equip_90_9000"
+   }
+}
+

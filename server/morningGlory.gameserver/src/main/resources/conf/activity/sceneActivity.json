@@ -1,0 +1,26 @@
+{
+   "sa_2" : {
+      "activityData" : {
+         "monsterIntrusion_1" : {
+            "activePrompt" : {
+               "endTip" : "怪物入侵活动即将结束!",
+               "startTip" : "怪物入侵活动已开始，在活动面板可进入参加!"
+            },
+            "property" : {
+               "expMultiple" : 5.0,
+               "itemRefId" : "item_coupon",
+               "level" : 50
+            },
+            "refId" : "monsterIntrusion_1"
+         }
+      },
+      "refId" : "sa_2",
+      "sceneRefId" : "S218",
+      "time" : {
+         "duration" : "12:00:00|13:00:00&19:00:00|20:00:00",
+         "preEndTime" : 300,
+         "preStartTime" : 300
+      }
+   }
+}
+

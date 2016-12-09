@@ -1,0 +1,100 @@
+{
+   "rideReward_1" : {
+      "property" : {
+         "description" : "坐骑升到四阶",
+         "rideRewardNextRefId" : "rideReward_2",
+         "rideRewardPreRefId" : "",
+         "stageLevel" : 4,
+         "startLevel" : 0
+      },
+      "refId" : "rideReward_1",
+      "rideReward" : {
+         "rideReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 40,
+               "refId" : "item_zuoqiExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 30,
+               "refId" : "item_drug_9"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 4,
+               "refId" : "item_duihuanquan_2"
+            }
+         ]
+      }
+   },
+   "rideReward_2" : {
+      "property" : {
+         "description" : "坐骑升到六阶",
+         "rideRewardNextRefId" : "rideReward_3",
+         "rideRewardPreRefId" : "rideReward_1",
+         "stageLevel" : 6,
+         "startLevel" : 0
+      },
+      "refId" : "rideReward_2",
+      "rideReward" : {
+         "rideReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 100,
+               "refId" : "item_zuoqiExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 60,
+               "refId" : "item_drug_9"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 6,
+               "refId" : "item_duihuanquan_2"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 1,
+               "refId" : "item_moxueshi_1"
+            }
+         ]
+      }
+   },
+   "rideReward_3" : {
+      "property" : {
+         "description" : "坐骑升到八阶",
+         "rideRewardNextRefId" : "",
+         "rideRewardPreRefId" : "rideReward_2",
+         "stageLevel" : 8,
+         "startLevel" : 0
+      },
+      "refId" : "rideReward_3",
+      "rideReward" : {
+         "rideReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 200,
+               "refId" : "item_zuoqiExp"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 90,
+               "refId" : "item_drug_9"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 8,
+               "refId" : "item_duihuanquan_2"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 1,
+               "refId" : "item_moxueshi_2"
+            }
+         ]
+      }
+   }
+}
+

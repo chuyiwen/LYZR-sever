@@ -1,0 +1,99 @@
+{
+   "offlineAIMap_1" : {
+      "mapId" : "S034",
+      "maxLevelId" : 23,
+      "minLevelId" : 20,
+      "refId" : "offlineAIMap_1"
+   },
+   "offlineAIMap_10" : {
+      "mapId" : "S040",
+      "maxLevelId" : 50,
+      "minLevelId" : 47,
+      "refId" : "offlineAIMap_10"
+   },
+   "offlineAIMap_11" : {
+      "mapId" : "S041",
+      "maxLevelId" : 55,
+      "minLevelId" : 51,
+      "refId" : "offlineAIMap_11"
+   },
+   "offlineAIMap_12" : {
+      "mapId" : "S042",
+      "maxLevelId" : 60,
+      "minLevelId" : 56,
+      "refId" : "offlineAIMap_12"
+   },
+   "offlineAIMap_13" : {
+      "mapId" : "S047",
+      "maxLevelId" : 65,
+      "minLevelId" : 61,
+      "refId" : "offlineAIMap_13"
+   },
+   "offlineAIMap_14" : {
+      "mapId" : "S048",
+      "maxLevelId" : 70,
+      "minLevelId" : 66,
+      "refId" : "offlineAIMap_14"
+   },
+   "offlineAIMap_15" : {
+      "mapId" : "S045",
+      "maxLevelId" : 75,
+      "minLevelId" : 71,
+      "refId" : "offlineAIMap_15"
+   },
+   "offlineAIMap_16" : {
+      "mapId" : "S046",
+      "maxLevelId" : 100,
+      "minLevelId" : 76,
+      "refId" : "offlineAIMap_16"
+   },
+   "offlineAIMap_2" : {
+      "mapId" : "S033",
+      "maxLevelId" : 25,
+      "minLevelId" : 24,
+      "refId" : "offlineAIMap_2"
+   },
+   "offlineAIMap_3" : {
+      "mapId" : "S031",
+      "maxLevelId" : 28,
+      "minLevelId" : 26,
+      "refId" : "offlineAIMap_3"
+   },
+   "offlineAIMap_4" : {
+      "mapId" : "S032",
+      "maxLevelId" : 30,
+      "minLevelId" : 29,
+      "refId" : "offlineAIMap_4"
+   },
+   "offlineAIMap_5" : {
+      "mapId" : "S035",
+      "maxLevelId" : 33,
+      "minLevelId" : 31,
+      "refId" : "offlineAIMap_5"
+   },
+   "offlineAIMap_6" : {
+      "mapId" : "S036",
+      "maxLevelId" : 35,
+      "minLevelId" : 34,
+      "refId" : "offlineAIMap_6"
+   },
+   "offlineAIMap_7" : {
+      "mapId" : "S037",
+      "maxLevelId" : 40,
+      "minLevelId" : 36,
+      "refId" : "offlineAIMap_7"
+   },
+   "offlineAIMap_8" : {
+      "mapId" : "S038",
+      "maxLevelId" : 42,
+      "minLevelId" : 41,
+      "refId" : "offlineAIMap_8"
+   },
+   "offlineAIMap_9" : {
+      "mapId" : "S039",
+      "maxLevelId" : 46,
+      "minLevelId" : 43,
+      "refId" : "offlineAIMap_9"
+   }
+}
+

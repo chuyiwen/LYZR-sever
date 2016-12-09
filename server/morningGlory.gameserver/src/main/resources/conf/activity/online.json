@@ -1,0 +1,106 @@
+{
+   "online_1" : {
+      "onlineReward" : {
+         "AccumulateonlineReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 10,
+               "refId" : "item_drug_1"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 10,
+               "refId" : "item_drug_4"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 10,
+               "refId" : "item_zhenmoling_1"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "online_2",
+         "onlinePreRefId" : "",
+         "onlineSecond" : 120
+      },
+      "refId" : "online_1"
+   },
+   "online_2" : {
+      "onlineReward" : {
+         "AccumulateonlineReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 20,
+               "refId" : "item_drug_1"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 20,
+               "refId" : "item_drug_4"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 20,
+               "refId" : "item_zhenmoling_1"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "online_3",
+         "onlinePreRefId" : "online_1",
+         "onlineSecond" : 600
+      },
+      "refId" : "online_2"
+   },
+   "online_3" : {
+      "onlineReward" : {
+         "AccumulateonlineReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 12,
+               "refId" : "item_drug_7"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 40,
+               "refId" : "item_zhenmoling_1"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "online_4",
+         "onlinePreRefId" : "online_2",
+         "onlineSecond" : 1800
+      },
+      "refId" : "online_3"
+   },
+   "online_4" : {
+      "onlineReward" : {
+         "AccumulateonlineReward" : [
+            {
+               "bindStatus" : 1,
+               "number" : 1,
+               "refId" : "item_duihuanquan_1"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 6,
+               "refId" : "item_drug_8"
+            },
+            {
+               "bindStatus" : 1,
+               "number" : 80,
+               "refId" : "item_zhenmoling_1"
+            }
+         ]
+      },
+      "property" : {
+         "onlineNextRefId" : "",
+         "onlinePreRefId" : "online_3",
+         "onlineSecond" : 3600
+      },
+      "refId" : "online_4"
+   }
+}
+

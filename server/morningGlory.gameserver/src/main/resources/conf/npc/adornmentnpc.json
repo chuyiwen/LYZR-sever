@@ -1,0 +1,66 @@
+{
+   "adornmentnpc_1" : {
+      "property" : {
+         "modelId" : 8002,
+         "name" : "四处飞舞蝴蝶"
+      },
+      "refId" : "adornmentnpc_1"
+   },
+   "adornmentnpc_2" : {
+      "property" : {
+         "modelId" : 8003,
+         "name" : "原地飞舞蝴蝶"
+      },
+      "refId" : "adornmentnpc_2"
+   },
+   "adornmentnpc_3" : {
+      "property" : {
+         "modelId" : 8004,
+         "name" : "原地不动蝴蝶"
+      },
+      "refId" : "adornmentnpc_3"
+   },
+   "adornmentnpc_4" : {
+      "property" : {
+         "modelId" : 8005,
+         "name" : "窄水波"
+      },
+      "refId" : "adornmentnpc_4"
+   },
+   "adornmentnpc_5" : {
+      "property" : {
+         "modelId" : 8006,
+         "name" : "宽水波"
+      },
+      "refId" : "adornmentnpc_5"
+   },
+   "adornmentnpc_6" : {
+      "property" : {
+         "modelId" : 8007,
+         "name" : "大量落叶"
+      },
+      "refId" : "adornmentnpc_6"
+   },
+   "adornmentnpc_7" : {
+      "property" : {
+         "modelId" : 8008,
+         "name" : "单片落叶"
+      },
+      "refId" : "adornmentnpc_7"
+   },
+   "adornmentnpc_8" : {
+      "property" : {
+         "modelId" : 8009,
+         "name" : "光束"
+      },
+      "refId" : "adornmentnpc_8"
+   },
+   "adornmentnpc_9" : {
+      "property" : {
+         "modelId" : 8010,
+         "name" : "火焰"
+      },
+      "refId" : "adornmentnpc_9"
+   }
+}
+

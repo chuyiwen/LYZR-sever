@@ -1,0 +1,289 @@
+{
+   "npc_collect_1" : {
+      "pluck" : {
+         "reward" : {
+            "itemReward" : [
+               {
+                  "bindStatus" : 1,
+                  "itemCount" : 1,
+                  "itemRefId" : "item_flower"
+               }
+            ]
+         }
+      },
+      "property" : {
+         "modelId" : 2026,
+         "name" : "药草",
+         "outputType" : 1,
+         "pluckBehavior" : 2,
+         "pluckItemAdscription" : 1,
+         "pluckLevel" : 1,
+         "pluckRefreshTime" : 0,
+         "pluckTime" : 2,
+         "pluckType" : 1,
+         "shareType" : 2
+      },
+      "refId" : "npc_collect_1"
+   },
+   "npc_collect_2" : {
+      "pluck" : {
+         "reward" : {
+            "itemReward" : [
+               {
+                  "bindStatus" : 1,
+                  "itemCount" : 1,
+                  "itemRefId" : "item_collect_1"
+               }
+            ]
+         }
+      },
+      "property" : {
+         "modelId" : 2027,
+         "name" : "猪笼草",
+         "outputType" : 1,
+         "pluckBehavior" : 2,
+         "pluckItemAdscription" : 1,
+         "pluckLevel" : 1,
+         "pluckRefreshTime" : 0,
+         "pluckTime" : 2,
+         "pluckType" : 1,
+         "shareType" : 2
+      },
+      "refId" : "npc_collect_2"
+   },
+   "npc_collect_3" : {
+      "pluck" : {
+         "reward" : {
+            "itemReward" : [
+               {
+                  "bindStatus" : 1,
+                  "itemCount" : 1,
+                  "itemRefId" : "item_stone"
+               }
+            ]
+         }
+      },
+      "property" : {
+         "modelId" : 2028,
+         "name" : "矿石",
+         "outputType" : 1,
+         "pluckBehavior" : 2,
+         "pluckItemAdscription" : 1,
+         "pluckLevel" : 25,
+         "pluckRefreshTime" : 0,
+         "pluckTime" : 5,
+         "pluckType" : 1,
+         "shareType" : 2
+      },
+      "refId" : "npc_collect_3"
+   },
+   "npc_collect_4" : {
+      "pluck" : {
+         "reward" : {
+            "itemReward" : [
+               {
+                  "bindStatus" : 1,
+                  "itemCount" : [
+                     {
+                        "count" : 2,
+                        "probability" : 0.30
+                     },
+                     {
+                        "count" : 3,
+                        "probability" : 0.40
+                     },
+                     {
+                        "count" : 4,
+                        "probability" : 0.30
+                     }
+                  ],
+                  "itemRefId" : "item_qianghuashi"
+               }
+            ],
+            "propertyReward" : {
+               "exp" : 100000,
+               "gold" : 12000
+            }
+         }
+      },
+      "property" : {
+         "modelId" : 2029,
+         "name" : "冰晶矿",
+         "outputType" : 2,
+         "pluckBehavior" : 2,
+         "pluckItemAdscription" : 1,
+         "pluckLevel" : 1,
+         "pluckRefreshTime" : 5,
+         "pluckTime" : 5,
+         "pluckType" : 1,
+         "shareType" : 1
+      },
+      "refId" : "npc_collect_4"
+   },
+   "npc_collect_5" : {
+      "pluck" : {
+         "reward" : {
+            "itemReward" : [
+               {
+                  "bindStatus" : 1,
+                  "itemCount" : [
+                     {
+                        "count" : 4,
+                        "probability" : 0.60
+                     },
+                     {
+                        "count" : 6,
+                        "probability" : 0.30
+                     },
+                     {
+                        "count" : 8,
+                        "probability" : 0.10
+                     }
+                  ],
+                  "itemRefId" : "item_qianghuashi"
+               }
+            ],
+            "propertyReward" : {
+               "exp" : 100000,
+               "gold" : 13000
+            }
+         }
+      },
+      "property" : {
+         "modelId" : 2030,
+         "name" : "青铜矿",
+         "outputType" : 2,
+         "pluckBehavior" : 2,
+         "pluckItemAdscription" : 1,
+         "pluckLevel" : 1,
+         "pluckRefreshTime" : 10,
+         "pluckTime" : 8,
+         "pluckType" : 2,
+         "shareType" : 1
+      },
+      "refId" : "npc_collect_5"
+   },
+   "npc_collect_6" : {
+      "pluck" : {
+         "reward" : {
+            "itemReward" : [
+               {
+                  "bindStatus" : 1,
+                  "itemCount" : [
+                     {
+                        "count" : 4,
+                        "probability" : 0.60
+                     },
+                     {
+                        "count" : 6,
+                        "probability" : 0.30
+                     },
+                     {
+                        "count" : 8,
+                        "probability" : 0.10
+                     }
+                  ],
+                  "itemRefId" : "item_qianghuashi"
+               },
+               {
+                  "bindStatus" : 1,
+                  "itemCount" : [
+                     {
+                        "count" : 2,
+                        "probability" : 0.70
+                     },
+                     {
+                        "count" : 3,
+                        "probability" : 0.20
+                     },
+                     {
+                        "count" : 4,
+                        "probability" : 0.10
+                     }
+                  ],
+                  "itemRefId" : "item_shenqiExp"
+               }
+            ],
+            "propertyReward" : {
+               "exp" : 100000,
+               "gold" : 15000
+            }
+         }
+      },
+      "property" : {
+         "modelId" : 2032,
+         "name" : "璀璨晶矿",
+         "outputType" : 2,
+         "pluckBehavior" : 2,
+         "pluckItemAdscription" : 1,
+         "pluckLevel" : 1,
+         "pluckRefreshTime" : 30,
+         "pluckTime" : 15,
+         "pluckType" : 3,
+         "shareType" : 1
+      },
+      "refId" : "npc_collect_6"
+   },
+   "npc_collect_7" : {
+      "pluck" : {
+         "reward" : {
+            "itemReward" : [
+               {
+                  "bindStatus" : 1,
+                  "itemCount" : [
+                     {
+                        "count" : 6,
+                        "probability" : 0.60
+                     },
+                     {
+                        "count" : 8,
+                        "probability" : 0.30
+                     },
+                     {
+                        "count" : 10,
+                        "probability" : 0.10
+                     }
+                  ],
+                  "itemRefId" : "item_qianghuashi"
+               },
+               {
+                  "bindStatus" : 1,
+                  "itemCount" : [
+                     {
+                        "count" : 2,
+                        "probability" : 0.30
+                     },
+                     {
+                        "count" : 3,
+                        "probability" : 0.40
+                     },
+                     {
+                        "count" : 4,
+                        "probability" : 0.30
+                     }
+                  ],
+                  "itemRefId" : "item_shenqiExp"
+               }
+            ],
+            "propertyReward" : {
+               "exp" : 100000,
+               "gold" : 15000
+            }
+         }
+      },
+      "property" : {
+         "modelId" : 2032,
+         "name" : "璀璨晶矿",
+         "outputType" : 2,
+         "pluckBehavior" : 2,
+         "pluckItemAdscription" : 1,
+         "pluckLevel" : 1,
+         "pluckRefreshTime" : 30,
+         "pluckTime" : 15,
+         "pluckType" : 3,
+         "shareType" : 1
+      },
+      "refId" : "npc_collect_7"
+   }
+}
+

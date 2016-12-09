@@ -1,0 +1,81 @@
+{
+   "rank1" : {
+      "arenaRank" : "1",
+      "goldReward" : "2000000",
+      "meritReward" : "5000",
+      "refId" : "rank1"
+   },
+   "rank10" : {
+      "arenaRank" : "[501,600]",
+      "goldReward" : "130500-rank*100",
+      "meritReward" : "400",
+      "refId" : "rank10"
+   },
+   "rank11" : {
+      "arenaRank" : "[601,800]",
+      "goldReward" : "130500-rank*100",
+      "meritReward" : "300",
+      "refId" : "rank11"
+   },
+   "rank12" : {
+      "arenaRank" : "[801,1000]",
+      "goldReward" : "130500-rank*100",
+      "meritReward" : "200",
+      "refId" : "rank12"
+   },
+   "rank13" : {
+      "arenaRank" : "[1001,+∞)",
+      "goldReward" : "30000",
+      "meritReward" : "0",
+      "refId" : "rank13"
+   },
+   "rank2" : {
+      "arenaRank" : "2",
+      "goldReward" : "1000000",
+      "meritReward" : "3000",
+      "refId" : "rank2"
+   },
+   "rank3" : {
+      "arenaRank" : "3",
+      "goldReward" : "800000",
+      "meritReward" : "2500",
+      "refId" : "rank3"
+   },
+   "rank4" : {
+      "arenaRank" : "[4,50]",
+      "goldReward" : "520000-rank*5000",
+      "meritReward" : "2080-rank*20",
+      "refId" : "rank4"
+   },
+   "rank5" : {
+      "arenaRank" : "[51,100]",
+      "goldReward" : "301000-rank*1000",
+      "meritReward" : "1000",
+      "refId" : "rank5"
+   },
+   "rank6" : {
+      "arenaRank" : "[101,200]",
+      "goldReward" : "250500-rank*500",
+      "meritReward" : "800",
+      "refId" : "rank6"
+   },
+   "rank7" : {
+      "arenaRank" : "[201,300]",
+      "goldReward" : "250500-rank*500",
+      "meritReward" : "700",
+      "refId" : "rank7"
+   },
+   "rank8" : {
+      "arenaRank" : "[301,400]",
+      "goldReward" : "130500-rank*100",
+      "meritReward" : "600",
+      "refId" : "rank8"
+   },
+   "rank9" : {
+      "arenaRank" : "[401,500]",
+      "goldReward" : "130500-rank*100",
+      "meritReward" : "500",
+      "refId" : "rank9"
+   }
+}
+

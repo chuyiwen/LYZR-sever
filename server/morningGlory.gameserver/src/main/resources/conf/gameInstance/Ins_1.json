@@ -1,0 +1,107 @@
+{
+   "Ins_1" : {
+      "configData" : {
+         "game_instance" : {
+            "configData" : {
+               "Ins_1" : {
+                  "description" : "击败全部怪物可完成副本，点击挂机按钮事半功倍，点击出口按钮即可离开副本。",
+                  "gameInstanceData" : {
+                     "openDetailsData" : "00:00:00|86400",
+                     "structureDetails" : [ "I101" ]
+                  },
+                  "name" : "异教徒神庙",
+                  "property" : {
+                     "isTeam" : 0,
+                     "level" : 40,
+                     "name" : "异教徒神庙",
+                     "questRefId" : "",
+                     "timesADay" : 2,
+                     "timesAWeek" : 0
+                  },
+                  "refId" : "Ins_1"
+               }
+            },
+            "name" : "Ins_1 任务总表",
+            "refId" : "game_instance"
+         },
+         "game_instance_quest" : {
+            "configData" : {
+               "quest_1" : {
+                  "description" : "击败14个{monster_8027}。",
+                  "name" : "驱逐教徒",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 14,
+                           "monsterRefId" : "monster_8027",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 50000
+                        }
+                     }
+                  },
+                  "refId" : "quest_1"
+               },
+               "quest_2" : {
+                  "description" : "击败{monster_8030}。",
+                  "name" : "教主之死",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_8030",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 250000
+                        }
+                     }
+                  },
+                  "refId" : "quest_2"
+               }
+            },
+            "name" : "副本任务表",
+            "refId" : "game_instance_quest"
+         },
+         "game_instance_scene" : {
+            "configData" : {
+               "I101" : {
+                  "description" : "驱逐全部异教徒",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_1", "quest_2" ],
+                     "consumptionItems" : null,
+                     "succeedConditionData" : "monster_8027=14&monster_8030=1"
+                  },
+                  "mapId" : 101,
+                  "property" : {
+                     "sceneRefId" : "S101",
+                     "succeedType" : 1
+                  },
+                  "refId" : "I101"
+               }
+            },
+            "name" : "副本层总表",
+            "refId" : "game_instance_scene"
+         }
+      },
+      "instanceType" : 1,
+      "introduce" : "45级副本，捕获教主，奖励丰厚更有点金手碎片",
+      "name" : "异端裁决",
+      "refId" : "Ins_1",
+      "suggestlevel" : 45
+   }
+}
+

@@ -1,0 +1,45 @@
+{
+   "payonPalace_1" : {
+      "activityData" : [
+         {
+            "consumeitems" : [
+               {
+                  "itemRefId" : "item_templetickets",
+                  "number" : "1"
+               }
+            ],
+            "planshow" : [
+               {
+                  "itemRefId" : "item_qianghuashi",
+                  "number" : "1"
+               },
+               {
+                  "itemRefId" : "item_zuoqiExp",
+                  "number" : "1"
+               },
+               {
+                  "itemRefId" : "item_suipian_1",
+                  "number" : "1"
+               },
+               {
+                  "itemRefId" : "item_ironMedal",
+                  "number" : "1"
+               }
+            ],
+            "property" : {
+               "iconId" : "payonPalace_1",
+               "name" : "BOSS神殿"
+            },
+            "transfer" : 407
+         }
+      ],
+      "refId" : "payonPalace_1",
+      "sceneRefId" : "S070|S071",
+      "time" : {
+         "duration" : "14:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 0
+      }
+   }
+}
+

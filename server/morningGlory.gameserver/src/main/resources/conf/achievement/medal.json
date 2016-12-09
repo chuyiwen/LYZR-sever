@@ -1,0 +1,89 @@
+{
+   "medal" : {
+      "configData" : {
+         "equip_100_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 龙吟",
+               "needAchieve" : 10000,
+               "nextMedal" : ""
+            },
+            "refId" : "equip_100_9000"
+         },
+         "equip_10_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 朱雀",
+               "needAchieve" : 1000,
+               "nextMedal" : "equip_20_9000"
+            },
+            "refId" : "equip_10_9000"
+         },
+         "equip_20_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 玄奇",
+               "needAchieve" : 2000,
+               "nextMedal" : "equip_30_9000"
+            },
+            "refId" : "equip_20_9000"
+         },
+         "equip_30_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 倚天",
+               "needAchieve" : 3000,
+               "nextMedal" : "equip_40_9000"
+            },
+            "refId" : "equip_30_9000"
+         },
+         "equip_40_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 赤霄",
+               "needAchieve" : 4000,
+               "nextMedal" : "equip_50_9000"
+            },
+            "refId" : "equip_40_9000"
+         },
+         "equip_50_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 天罡",
+               "needAchieve" : 5000,
+               "nextMedal" : "equip_60_9000"
+            },
+            "refId" : "equip_50_9000"
+         },
+         "equip_60_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 乾坤",
+               "needAchieve" : 6000,
+               "nextMedal" : "equip_70_9000"
+            },
+            "refId" : "equip_60_9000"
+         },
+         "equip_70_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 腾龙",
+               "needAchieve" : 7000,
+               "nextMedal" : "equip_80_9000"
+            },
+            "refId" : "equip_70_9000"
+         },
+         "equip_80_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 太虚",
+               "needAchieve" : 8000,
+               "nextMedal" : "equip_90_9000"
+            },
+            "refId" : "equip_80_9000"
+         },
+         "equip_90_9000" : {
+            "property" : {
+               "name" : "荣誉勋章 魔神",
+               "needAchieve" : 9000,
+               "nextMedal" : "equip_100_9000"
+            },
+            "refId" : "equip_90_9000"
+         }
+      },
+      "name" : "勋章",
+      "refId" : "medal"
+   }
+}
+

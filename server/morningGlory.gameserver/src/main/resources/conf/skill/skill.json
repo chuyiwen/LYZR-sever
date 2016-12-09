@@ -1,0 +1,4680 @@
+{
+   "skill_0" : {
+      "property" : {
+         "description" : "造成100%的物理伤害",
+         "iconId" : "skill_0",
+         "name" : "普通攻击",
+         "professionId" : 0,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_0_0_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_0",
+      "skillLevel" : null
+   },
+   "skill_1" : {
+      "property" : {
+         "description" : "远程物攻,对目标造成skillDamageRate%+skillDamage的物理伤害（e.g.掷斧骷髅 掷斧头） 7700",
+         "iconId" : "",
+         "name" : "掷斧头",
+         "professionId" : 4,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_1_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 0,
+         "skillLearnType" : 0,
+         "skillMaxExp" : 0,
+         "skillRange" : 3,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_1"
+         }
+      }
+   },
+   "skill_10" : {
+      "property" : {
+         "description" : "近战魔攻,skillDamageRate%+skillDamage魔法伤害,skillDamageChance%概率使目标进入麻痹状态，使目标操作不能，身体程序染色，持续时间=2+本次道术取值/skillCo秒，最长20秒                  多个麻痹术作用于一个目标身上时，后者会替换前者的效果 （近战魔攻，给麻痹对象附加麻痹效果）",
+         "iconId" : "",
+         "name" : "麻痹术",
+         "professionId" : 4,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_10_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 0,
+         "skillLearnType" : 0,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_10",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 1000,
+               "skillDamage" : 5,
+               "skillDamageChance" : 1,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_10"
+         }
+      }
+   },
+   "skill_11" : {
+      "property" : {
+         "description" : "近战魔攻，最终喷出毒液,造成skillDamageRate%+skillDamage魔法伤害,skillDamageChance%概率使目标进入中毒状态,使目标每2秒减少本次道术取值*skillDamageRate1%点生命，持续时间=10+本次道术取值/skillCo秒，最长20秒\n多个中毒作用于一个目标身上时，后者会替换前者的效果,7290",
+         "iconId" : "",
+         "name" : "沙虫·中毒buff·喷射",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_11_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_11",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 1000,
+               "skillDamage" : 5,
+               "skillDamageChance" : 10,
+               "skillDamageRate" : 60,
+               "skillDamageRate1" : 5
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_11"
+         }
+      }
+   },
+   "skill_12" : {
+      "property" : {
+         "description" : "造成skillDamageRate%+skillDamage的魔法伤害,7703",
+         "iconId" : "",
+         "name" : "神兽宝宝·喷火",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_12_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_12",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_12"
+         }
+      }
+   },
+   "skill_13" : {
+      "property" : {
+         "description" : "近战魔攻,喷东西，造成skillDamageRate%+skillDamage魔法伤害,skillDamageChance%概率使目标进入麻痹状态，使目标操作不能，身体程序染色，持续时间=2+本次道术取值/skillCo秒，最长20秒                  多个麻痹作用于一个目标身上时，后者会替换前者的效果7340",
+         "iconId" : "",
+         "name" : "飞蛾·麻痹buff·喷射",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_13_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_13",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 1000,
+               "skillDamage" : 5,
+               "skillDamageChance" : 1,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_13"
+         }
+      }
+   },
+   "skill_14" : {
+      "property" : {
+         "description" : "造成skillDamageRate%+skillDamage的魔法伤害,7350 7351",
+         "iconId" : "",
+         "name" : "祖玛教主·普通魔攻",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_14_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_14",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_14"
+         }
+      }
+   },
+   "skill_15" : {
+      "property" : {
+         "description" : "范围魔法攻击，攻击自己正面左上7*7范围敌人，造成skillDamageRate%+skillDamage魔法伤害，伤害范围如下图中蓝色部分，红色为怪物所在格.并有skillDamageChance%概率使目标进入中毒状态,使目标每2秒减少本次道术取值*skillDamageRate1%点生命，持续时间=10+本次道术取值/skillCo秒，最长20秒\n多个中毒作用于一个目标身上时，后者会替换前者的效果, 7360",
+         "iconId" : "",
+         "name" : "触龙神·中毒buff· 辐射",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_15_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_15",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 1000,
+               "skillDamage" : 5,
+               "skillDamageChance" : 20,
+               "skillDamageRate" : 60,
+               "skillDamageRate1" : 5
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_15"
+         }
+      }
+   },
+   "skill_16" : {
+      "property" : {
+         "description" : "近战魔攻,喷东西，造成skillDamageRate%+skillDamage魔法伤害,skillDamageChance%概率使目标进入麻痹状态，使目标操作不能，身体程序染色，持续时间=2+本次道术取值/skillCo秒，最长20秒                  多个麻痹作用于一个目标身上时，后者会替换前者的效果7370",
+         "iconId" : "",
+         "name" : "月魔蜘蛛·麻痹buff·喷射",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_16_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_16",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 1000,
+               "skillDamage" : 5,
+               "skillDamageChance" : 1,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_16"
+         }
+      }
+   },
+   "skill_17" : {
+      "property" : {
+         "description" : "以自身为中心施放，作用范围为15*15\n对敌方目标造成skillDamageRate%+skillDamage魔法伤害7380",
+         "iconId" : "",
+         "name" : "赤月恶魔·地狱雷光",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_17_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_17",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_17"
+         }
+      }
+   },
+   "skill_18" : {
+      "property" : {
+         "description" : "造成skillDamageRate%+skillDamage的魔法伤害,7410 7411",
+         "iconId" : "",
+         "name" : "黄泉教主·普通魔攻",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_18_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_18",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_18"
+         }
+      }
+   },
+   "skill_19" : {
+      "property" : {
+         "description" : "远程物攻,射箭,对目标造成skillDamageRate%+skillDamage的物理伤害 7702",
+         "iconId" : "",
+         "name" : "骷髅箭手宝宝·投射",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_19_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_19",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_19"
+         }
+      }
+   },
+   "skill_2" : {
+      "property" : {
+         "description" : "近战物攻,对目标造成skillDamageRate%+skillDamage的物理伤害 （暗黑战士 从背部吐出东西，物理）7701",
+         "iconId" : "",
+         "name" : "吐刺",
+         "professionId" : 4,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_2_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 0,
+         "skillLearnType" : 0,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 70
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_2"
+         }
+      }
+   },
+   "skill_20" : {
+      "property" : {
+         "description" : "远程物攻,对目标造成skillDamageRate%+skillDamage的物理伤害,神兽吐息能降低目标移速30%,持续2秒",
+         "iconId" : "",
+         "name" : "寒冰神兽宝宝·喷冰",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_20_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_20",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_20"
+         }
+      }
+   },
+   "skill_21" : {
+      "property" : {
+         "description" : "远程魔攻，对目标造成skillDamageRate%+skillDamage魔法伤害 施法特效 飞行特效 受击特效 7060 7111 7062",
+         "iconId" : "",
+         "name" : "火球神兽宝宝·喷火球",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_21_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_21",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 50
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_21"
+         }
+      }
+   },
+   "skill_22" : {
+      "property" : {
+         "description" : "造成skillDamageRate%+skillDamage的魔法伤害,7330",
+         "iconId" : "",
+         "name" : "普通魔攻",
+         "professionId" : 4,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_12_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 1,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_22",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_22"
+         }
+      }
+   },
+   "skill_3" : {
+      "property" : {
+         "description" : "近战魔攻，对目标造成skillDamageRate%+skillDamage魔法伤害（从嘴里吐出东西，魔法 e.g.火焰沃玛 喷火）7310",
+         "iconId" : "",
+         "name" : "喷火",
+         "professionId" : 4,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_3_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 0,
+         "skillLearnType" : 0,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_3",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_3"
+         }
+      }
+   },
+   "skill_4" : {
+      "property" : {
+         "description" : "对目标造成skillDamageRate%+skillDamage魔法伤害",
+         "iconId" : "",
+         "name" : "雷电术",
+         "professionId" : 4,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_4_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 0,
+         "skillLearnType" : 0,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_4",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_4"
+         }
+      }
+   },
+   "skill_5" : {
+      "property" : {
+         "description" : "对目标以及以目标为中心的3*3范围内的所有目标造成skillDamageRate%+skillDamage魔法伤害",
+         "iconId" : "",
+         "name" : "爆裂火焰",
+         "professionId" : 4,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_5_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 0,
+         "skillLearnType" : 0,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_5",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_5"
+         }
+      }
+   },
+   "skill_6" : {
+      "property" : {
+         "description" : "以自身朝向为方向，向前方6格范围施放一个雷电柱\n对目标造成skillDamageRate%+skillDamage魔法伤害",
+         "iconId" : "",
+         "name" : "疾光电影",
+         "professionId" : 4,
+         "skillActionAni" : 2,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_6_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 0,
+         "skillLearnType" : 0,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_6",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_6"
+         }
+      }
+   },
+   "skill_7" : {
+      "property" : {
+         "description" : "以自身为中心施放，作用范围为5*5\n对敌方目标造成skillDamageRate%+skillDamage魔法伤害",
+         "iconId" : "",
+         "name" : "地狱雷光",
+         "professionId" : 4,
+         "skillActionAni" : 1,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_7_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 0,
+         "skillLearnType" : 0,
+         "skillMaxExp" : 0,
+         "skillRange" : 2,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_7",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_7"
+         }
+      }
+   },
+   "skill_8" : {
+      "property" : {
+         "description" : "对目标以及以目标为中心的3*3范围内的所有目标造成skillDamageRate%+skillDamage魔法伤害",
+         "iconId" : "",
+         "name" : "冰咆哮",
+         "professionId" : 4,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_8_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 0,
+         "skillLearnType" : 0,
+         "skillMaxExp" : 0,
+         "skillRange" : 2,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_8",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 5,
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_8"
+         }
+      }
+   },
+   "skill_9" : {
+      "property" : {
+         "description" : "近战魔攻,skillDamageRate%+skillDamage魔法伤害,skillDamageChance%概率使目标进入中毒状态,使目标每2秒减少本次道术取值*skillDamageRate1%点生命，持续时间=10+本次道术取值/skillCo秒，最长20秒\n多个毒蛊术作用于一个目标身上时，后者会替换前者的效果 （近战魔攻，给中毒对象附加中毒效果）",
+         "iconId" : "",
+         "name" : "毒蛊术",
+         "professionId" : 4,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "monster_9_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 0,
+         "skillLearnType" : 0,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_9",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 1000,
+               "skillDamage" : 5,
+               "skillDamageChance" : 10,
+               "skillDamageRate" : 60,
+               "skillDamageRate1" : 5
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 1500,
+               "skillLearnLevel" : 0,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_9"
+         }
+      }
+   },
+   "skill_ds_1" : {
+      "property" : {
+         "description" : "使友方单体目标每秒回复skillDamage+道攻/skillCo点生命,持续8秒",
+         "iconId" : "skill_ds_1",
+         "name" : "回春术",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_1_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 7,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 40,
+               "skillDamage" : 150
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 7,
+               "skillUpperExp" : 300
+            },
+            "refId" : "skill_ds_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillCo" : 30,
+               "skillDamage" : 180
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 11,
+               "skillUpperExp" : 600
+            },
+            "refId" : "skill_ds_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillCo" : 20,
+               "skillDamage" : 200
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 16,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_1"
+         }
+      }
+   },
+   "skill_ds_10" : {
+      "property" : {
+         "description" : "使目标周围3*3范围内的非敌对目标每秒回复skillDamage+道攻/skillCo点生命,持续5秒",
+         "iconId" : "skill_ds_10",
+         "name" : "群体回春术",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 3,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_10_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 33,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_10",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 40,
+               "skillDamage" : 100
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 33,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_ds_10"
+         },
+         "2" : {
+            "effectData" : {
+               "skillCo" : 30,
+               "skillDamage" : 120
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 35,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_ds_10"
+         },
+         "3" : {
+            "effectData" : {
+               "skillCo" : 20,
+               "skillDamage" : 150
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 38,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_10"
+         }
+      }
+   },
+   "skill_ds_11" : {
+      "property" : {
+         "description" : "召唤一只神兽帮助战斗,继承自身skillDamageRate%的攻击力",
+         "iconId" : "skill_ds_11",
+         "name" : "召唤神兽",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_11_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 35,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 12,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_11",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 800,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 35,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_ds_11"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 90
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 900,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 37,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_ds_11"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 1000,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 40,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_11"
+         }
+      }
+   },
+   "skill_ds_11_1" : {
+      "property" : {
+         "description" : "召唤一只寒冰神兽帮助战斗,继承自身skillDamageRate%的攻击力,神兽吐息将降低目标30%移速,持续2秒",
+         "iconId" : "skill_ds_11",
+         "name" : "召唤冰神兽",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_11_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 35,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 12,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_11_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 800,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 35,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_ds_11_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 90
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 900,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 37,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_ds_11_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 1000,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 40,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_11_1"
+         }
+      }
+   },
+   "skill_ds_11_2" : {
+      "property" : {
+         "description" : "召唤一只火焰神兽帮助战斗,继承自身skillDamageRate%的攻击力,神兽可远距离使用火焰吐息攻击敌人",
+         "iconId" : "skill_ds_11",
+         "name" : "召唤火神兽",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_11_2_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 35,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 12,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_11_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 80,
+               "skillDamageRate1" : 70
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 800,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 35,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_ds_11_2"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 90,
+               "skillDamageRate1" : 80
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 900,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 37,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_ds_11_2"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100,
+               "skillDamageRate1" : 90
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 1000,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 40,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_11_2"
+         }
+      }
+   },
+   "skill_ds_11_3" : {
+      "property" : {
+         "description" : "召唤沃玛教主帮助战斗,继承自身skillDamageRate%攻击力,擅长近身闪电攻击和群体攻击",
+         "iconId" : "skill_ds_11",
+         "name" : "召唤教主",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_11_3_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 35,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 12,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_11_3",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 800,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 35,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_ds_11_3"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 90
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 900,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 37,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_ds_11_3"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 1000,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 40,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_11_3"
+         }
+      }
+   },
+   "skill_ds_1_1" : {
+      "property" : {
+         "description" : "使友方单体目标每秒回复skillDamage+道攻/skillCo点生命,持续8秒，并附加瞬间回血，使目标回复相当于施法者自身道攻的生命值",
+         "iconId" : "skill_ds_1",
+         "name" : "高级回春术",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_1_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 7,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_1_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 40,
+               "skillDamage" : 150
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 7,
+               "skillUpperExp" : 300
+            },
+            "refId" : "skill_ds_1_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillCo" : 30,
+               "skillDamage" : 180
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 11,
+               "skillUpperExp" : 600
+            },
+            "refId" : "skill_ds_1_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillCo" : 20,
+               "skillDamage" : 200
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 16,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_1_1"
+         }
+      }
+   },
+   "skill_ds_2" : {
+      "property" : {
+         "description" : "永久提高道士hit点准确",
+         "iconId" : "skill_ds_2",
+         "name" : "专注",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_2_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 9,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 1,
+         "skillType" : 0
+      },
+      "refId" : "skill_ds_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "hit" : 3
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 0,
+               "skillLearnLevel" : 9,
+               "skillUpperExp" : 30
+            },
+            "refId" : "skill_ds_2"
+         },
+         "2" : {
+            "effectData" : {
+               "hit" : 5
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 0,
+               "skillLearnLevel" : 13,
+               "skillUpperExp" : 100
+            },
+            "refId" : "skill_ds_2"
+         },
+         "3" : {
+            "effectData" : {
+               "hit" : 7
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 0,
+               "skillLearnLevel" : 19,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_2"
+         }
+      }
+   },
+   "skill_ds_3" : {
+      "property" : {
+         "description" : "使目标每2秒减少道攻*10%+skillDamage点生命,并减少skillDamageRate%的防御,持续30+道攻/50秒",
+         "iconId" : "skill_ds_3",
+         "name" : "腐蚀术",
+         "professionId" : 3,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_3_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 18,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_3",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 10,
+               "skillDamageRate" : 10
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 40,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 18,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_ds_3"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 20,
+               "skillDamageRate" : 15
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 45,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 21,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_ds_3"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 20
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 45,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 24,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_3"
+         }
+      }
+   },
+   "skill_ds_3_1" : {
+      "property" : {
+         "description" : "使目标周围5*5范围内的所有敌方目标每2秒减少道攻*10%+skillDamage点生命,并降低skillDamageRate%的防御",
+         "iconId" : "skill_ds_3",
+         "name" : "群体腐蚀术",
+         "professionId" : 3,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_3_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 18,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_3_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 10,
+               "skillDamageRate" : 10
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 40,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 18,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_ds_3_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 20,
+               "skillDamageRate" : 15
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 45,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 21,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_ds_3_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 20
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 45,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 24,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_3_1"
+         }
+      }
+   },
+   "skill_ds_4" : {
+      "property" : {
+         "description" : "对目标造成skillDamageRate%+skillDamage的道术伤害",
+         "iconId" : "skill_ds_4",
+         "name" : "真灵符法",
+         "professionId" : 3,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_4_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 14,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_4",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 100
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 14,
+               "skillUpperExp" : 400
+            },
+            "refId" : "skill_ds_4"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 120,
+               "skillDamageRate" : 108
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 17,
+               "skillUpperExp" : 3000
+            },
+            "refId" : "skill_ds_4"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 150,
+               "skillDamageRate" : 115
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 20,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_4"
+         }
+      }
+   },
+   "skill_ds_4_1" : {
+      "property" : {
+         "description" : "对目标造成skillDamageRate%+skillDamage的道术伤害,并对周围敌人造成skillDamageRate1%的道术伤害",
+         "iconId" : "skill_ds_4",
+         "name" : "爆炸灵符",
+         "professionId" : 3,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_4_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 14,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_4_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 100,
+               "skillDamageRate1" : 70
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 14,
+               "skillUpperExp" : 400
+            },
+            "refId" : "skill_ds_4_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 120,
+               "skillDamageRate" : 108,
+               "skillDamageRate1" : 80
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 17,
+               "skillUpperExp" : 3000
+            },
+            "refId" : "skill_ds_4_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 150,
+               "skillDamageRate" : 115,
+               "skillDamageRate1" : 90
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 20,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_4_1"
+         }
+      }
+   },
+   "skill_ds_4_2" : {
+      "property" : {
+         "description" : "对目标造成skillDamageRate%+skillDamage的道术伤害,并对目标造成每2秒20%的道术伤害，持续6秒",
+         "iconId" : "skill_ds_4",
+         "name" : "蛊毒灵符",
+         "professionId" : 3,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_4_2_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 14,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_4_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 100
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 14,
+               "skillUpperExp" : 400
+            },
+            "refId" : "skill_ds_4_2"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 120,
+               "skillDamageRate" : 108
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 17,
+               "skillUpperExp" : 3000
+            },
+            "refId" : "skill_ds_4_2"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 150,
+               "skillDamageRate" : 115
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 20,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_4_2"
+         }
+      }
+   },
+   "skill_ds_5" : {
+      "property" : {
+         "description" : "召唤一只骷髅卫士帮助战斗,继承自身skillDamageRate%的攻击力",
+         "iconId" : "skill_ds_5",
+         "name" : "召唤骷髅",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_5_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 19,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 12,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_5",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 70
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 700,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 19,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_ds_5"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 80
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 800,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 22,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_ds_5"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 90
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 900,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 26,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_5"
+         }
+      }
+   },
+   "skill_ds_5_1" : {
+      "property" : {
+         "description" : "召唤一只骷髅王帮助战斗,继承自身skillDamageRate%的攻击力，高暴击",
+         "iconId" : "skill_ds_5",
+         "name" : "召唤骷髅王",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_5_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 19,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 12,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_5_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 70
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 700,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 19,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_ds_5_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 80
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 800,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 22,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_ds_5_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 90
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 900,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 26,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_5_1"
+         }
+      }
+   },
+   "skill_ds_5_2" : {
+      "property" : {
+         "description" : "召唤一只骷髅箭手帮助战斗,继承自身skillDamageRate%的攻击力,擅长射箭",
+         "iconId" : "skill_ds_5",
+         "name" : "召唤骨弓",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_5_2_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 19,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 12,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_5_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 70
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 700,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 19,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_ds_5_2"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 80
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 800,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 22,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_ds_5_2"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 90
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 900,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 26,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_5_2"
+         }
+      }
+   },
+   "skill_ds_6" : {
+      "property" : {
+         "description" : "使自己隐身,持续skillCo+道攻/50秒,最长持续300秒,移动将解除隐身状态",
+         "iconId" : "skill_ds_6",
+         "name" : "隐遁术",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_6_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 20,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 0,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_6",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 5
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 20,
+               "skillUpperExp" : 2400
+            },
+            "refId" : "skill_ds_6"
+         },
+         "2" : {
+            "effectData" : {
+               "skillCo" : 15
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 23,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_ds_6"
+         },
+         "3" : {
+            "effectData" : {
+               "skillCo" : 30
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 35,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 26,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_6"
+         }
+      }
+   },
+   "skill_ds_7" : {
+      "property" : {
+         "description" : "使目标周围5*5范围的非敌对目标魔法防御提高skillDamageRate%,持续30+道攻/10秒,最长持续600秒",
+         "iconId" : "skill_ds_7",
+         "name" : "魔甲术",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 3,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_7_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 22,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_7",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 20
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 22,
+               "skillUpperExp" : 2400
+            },
+            "refId" : "skill_ds_7"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 30
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 40,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 24,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_ds_7"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 40
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 50,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 26,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_7"
+         }
+      }
+   },
+   "skill_ds_8" : {
+      "property" : {
+         "description" : "使目标周围5*5范围的非敌对目标物理防御提高skillDamageRate%,持续30+道攻/10秒,最长持续600秒",
+         "iconId" : "skill_ds_8",
+         "name" : "刚甲术",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 3,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_8_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 26,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_8",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 20
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 26,
+               "skillUpperExp" : 2400
+            },
+            "refId" : "skill_ds_8"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 30
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 40,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 27,
+               "skillUpperExp" : 4200
+            },
+            "refId" : "skill_ds_8"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 40
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 50,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 29,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_8"
+         }
+      }
+   },
+   "skill_ds_9" : {
+      "property" : {
+         "description" : "使目标周围3*3范围内的所有友方目标隐身,持续skillCo+道攻/50秒,最长持续300秒,移动将解除隐身状态",
+         "iconId" : "skill_ds_9",
+         "name" : "群体隐遁术",
+         "professionId" : 3,
+         "skillActionAni" : 0,
+         "skillAimType" : 3,
+         "skillAni" : 0,
+         "skillAtkType" : 3,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_3_9_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 21,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 5,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_ds_9",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillCo" : 5
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 75,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 21,
+               "skillUpperExp" : 2400
+            },
+            "refId" : "skill_ds_9"
+         },
+         "2" : {
+            "effectData" : {
+               "skillCo" : 15
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 90,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 25,
+               "skillUpperExp" : 4200
+            },
+            "refId" : "skill_ds_9"
+         },
+         "3" : {
+            "effectData" : {
+               "skillCo" : 30
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 105,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 29,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_ds_9"
+         }
+      }
+   },
+   "skill_fs_1" : {
+      "property" : {
+         "description" : "对目标造成100%+skillDamage的魔法伤害",
+         "iconId" : "skill_fs_1",
+         "name" : "小火球",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_1_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 7,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 7,
+               "skillUpperExp" : 300
+            },
+            "refId" : "skill_fs_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 100
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 11,
+               "skillUpperExp" : 600
+            },
+            "refId" : "skill_fs_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 120
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 16,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_1"
+         }
+      }
+   },
+   "skill_fs_10" : {
+      "property" : {
+         "description" : "在自身周围释放5*5范围的雷电风暴，对范围内的敌方目标造成skillDamageRate%+skillDamage的魔法伤害",
+         "iconId" : "skill_fs_10",
+         "name" : "雷电风暴",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_10_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 30,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_10",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 65,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 30,
+               "skillUpperExp" : 2800
+            },
+            "refId" : "skill_fs_10"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 90
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 75,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 32,
+               "skillUpperExp" : 4800
+            },
+            "refId" : "skill_fs_10"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 90,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 34,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_10"
+         }
+      }
+   },
+   "skill_fs_10_1" : {
+      "property" : {
+         "description" : "在自身周围释放5*5范围的雷电风暴，对范围内的敌方目标造成skillDamageRate%+skillDamage的魔法伤害,有30%的概率额外施放1次",
+         "iconId" : "skill_fs_10",
+         "name" : "高级雷爆术",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_10_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 30,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_10_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 65,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 30,
+               "skillUpperExp" : 2800
+            },
+            "refId" : "skill_fs_10_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 90
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 75,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 32,
+               "skillUpperExp" : 4800
+            },
+            "refId" : "skill_fs_10_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 90,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 34,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_10_1"
+         }
+      }
+   },
+   "skill_fs_11" : {
+      "property" : {
+         "description" : "给自身施加持续时间不超过5分钟的护盾,抵挡skillDamageRate%的伤害,受到伤害时护盾将加速消失",
+         "iconId" : "skill_fs_11",
+         "name" : "烈焰护盾",
+         "professionId" : 2,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_11_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 31,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 0,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_11",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 40
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 31,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_fs_11"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 50
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 34,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_fs_11"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 60
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 38,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_11"
+         }
+      }
+   },
+   "skill_fs_11_1" : {
+      "property" : {
+         "description" : "给自身施加持续时间不超过5分钟的护盾,抵挡skillDamageRate%的伤害,并提高25%闪避,受到伤害时护盾将加速消失",
+         "iconId" : "skill_fs_11",
+         "name" : "闪避护盾",
+         "professionId" : 2,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_11_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 31,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 0,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_11_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 40
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 31,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_fs_11_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 50
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 34,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_fs_11_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 60
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 38,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_11_1"
+         }
+      }
+   },
+   "skill_fs_12" : {
+      "property" : {
+         "description" : "对目标周围3*3范围内的敌方目标造成skillDamageRate%+skillDamage的魔法伤害",
+         "iconId" : "skill_fs_12",
+         "name" : "千里冰封",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_12_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 35,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_12",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 120,
+               "skillDamageRate" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 40,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 35,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_fs_12"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 120,
+               "skillDamageRate" : 90
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 45,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 37,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_fs_12"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 120,
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 45,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 40,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_12"
+         }
+      }
+   },
+   "skill_fs_12_1" : {
+      "property" : {
+         "description" : "对目标周围3*3范围内的敌方目标造成skillDamageRate%+skillDamage的魔法伤害，并使其移动速度降低30%,持续2秒",
+         "iconId" : "skill_fs_12",
+         "name" : "减速冰封",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_12_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 35,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_12_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 120,
+               "skillDamageRate" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 40,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 35,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_fs_12_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 120,
+               "skillDamageRate" : 90
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 45,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 37,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_fs_12_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 120,
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 45,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 40,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_12_1"
+         }
+      }
+   },
+   "skill_fs_2" : {
+      "property" : {
+         "description" : "将自身周围3*3范围内的目标推开moveGridBackward格,成功率skillDamageChance%,仅对低于自身等级的目标有效",
+         "iconId" : "skill_fs_2",
+         "name" : "火神领域",
+         "professionId" : 2,
+         "skillActionAni" : 2,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_2_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 12,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "moveGridBackward" : 2,
+               "skillDamageChance" : 50
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 12,
+               "skillUpperExp" : 400
+            },
+            "refId" : "skill_fs_2"
+         },
+         "2" : {
+            "effectData" : {
+               "moveGridBackward" : 3,
+               "skillDamageChance" : 75
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 15,
+               "skillUpperExp" : 750
+            },
+            "refId" : "skill_fs_2"
+         },
+         "3" : {
+            "effectData" : {
+               "moveGridBackward" : 4,
+               "skillDamageChance" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 19,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_2"
+         }
+      }
+   },
+   "skill_fs_3" : {
+      "property" : {
+         "description" : "向前方6格施放火焰路径,对范围内目标造成skillDamageRate%+skillDamage魔法伤害",
+         "iconId" : "skill_fs_3",
+         "name" : "炎魔之路",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_3_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 16,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_3",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 16,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_fs_3"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 90
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 21,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_fs_3"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 26,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_3"
+         }
+      }
+   },
+   "skill_fs_3_1" : {
+      "property" : {
+         "description" : "向前方6格施放火焰路径,对范围内目标造成skillDamageRate%+skillDamage魔法伤害,并对相邻目标造成skillDamageRate1%的魔法伤害",
+         "iconId" : "skill_fs_3",
+         "name" : "火神引",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_3_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 16,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_3_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 80,
+               "skillDamageRate1" : 30
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 16,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_fs_3_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 90,
+               "skillDamageRate1" : 35
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 21,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_fs_3_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 100,
+               "skillDamageRate1" : 40
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 26,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_3_1"
+         }
+      }
+   },
+   "skill_fs_4" : {
+      "property" : {
+         "description" : "召唤天雷轰击目标，造成skillDamageRate%+skillDamage的魔法伤害",
+         "iconId" : "skill_fs_4",
+         "name" : "落雷术",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_4_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 17,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_4",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 110
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 17,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_fs_4"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 90,
+               "skillDamageRate" : 120
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 20,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_fs_4"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 100,
+               "skillDamageRate" : 130
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 23,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_4"
+         }
+      }
+   },
+   "skill_fs_4_1" : {
+      "property" : {
+         "description" : "召唤天雷轰击目标，造成skillDamageRate%+skillDamage的魔法伤害,并有15%的概率使目标麻痹2秒",
+         "iconId" : "skill_fs_4",
+         "name" : "麻痹落雷术",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_4_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 17,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_4_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 110
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 17,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_fs_4_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 90,
+               "skillDamageRate" : 120
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 20,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_fs_4_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 100,
+               "skillDamageRate" : 130
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 23,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_4_1"
+         }
+      }
+   },
+   "skill_fs_5" : {
+      "property" : {
+         "description" : "在当前地图随机传送,CDTime秒冷却",
+         "iconId" : "skill_fs_5",
+         "name" : "空间传送",
+         "professionId" : 2,
+         "skillActionAni" : 0,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 8,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_5_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 19,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 1,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_5",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "CDTime" : 30
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 30000,
+               "skillLearnLevel" : 19,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_fs_5"
+         },
+         "2" : {
+            "effectData" : {
+               "CDTime" : 10
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 10000,
+               "skillLearnLevel" : 22,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_fs_5"
+         },
+         "3" : {
+            "effectData" : {
+               "CDTime" : 3
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 3000,
+               "skillLearnLevel" : 25,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_5"
+         }
+      }
+   },
+   "skill_fs_6" : {
+      "property" : {
+         "description" : "召唤火球攻击目标，造成skillDamageRate%+skillDamage的魔法伤害,下次攻击的攻速变为atkSpeedPer%",
+         "iconId" : "skill_fs_6",
+         "name" : "大火球",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_6_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 18,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_6",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "atkSpeedPer" : 110,
+               "skillDamage" : 100,
+               "skillDamageRate" : 105
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 18,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_fs_6"
+         },
+         "2" : {
+            "effectData" : {
+               "atkSpeedPer" : 110,
+               "skillDamage" : 120,
+               "skillDamageRate" : 110
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 21,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_fs_6"
+         },
+         "3" : {
+            "effectData" : {
+               "atkSpeedPer" : 110,
+               "skillDamage" : 150,
+               "skillDamageRate" : 115
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 24,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_6"
+         }
+      }
+   },
+   "skill_fs_6_1" : {
+      "property" : {
+         "description" : "召唤火球攻击目标，造成skillDamageRate%+skillDamage的魔法伤害,下次攻击的攻速变为atkSpeedPer%,并对目标造成每秒30%的魔法伤害，持续5秒",
+         "iconId" : "skill_fs_6",
+         "name" : "灼热火球",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_6_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 18,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_6_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "atkSpeedPer" : 110,
+               "skillDamage" : 100,
+               "skillDamageRate" : 105
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 18,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_fs_6_1"
+         },
+         "2" : {
+            "effectData" : {
+               "atkSpeedPer" : 110,
+               "skillDamage" : 120,
+               "skillDamageRate" : 110
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 21,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_fs_6_1"
+         },
+         "3" : {
+            "effectData" : {
+               "atkSpeedPer" : 110,
+               "skillDamage" : 150,
+               "skillDamageRate" : 115
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 24,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_6_1"
+         }
+      }
+   },
+   "skill_fs_7" : {
+      "property" : {
+         "description" : "对目标周围3*3范围内的所有敌方目标造成skillDamageRate%+skillDamage的魔法伤害",
+         "iconId" : "skill_fs_7",
+         "name" : "炎爆术",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_7_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 22,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_7",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 22,
+               "skillUpperExp" : 2400
+            },
+            "refId" : "skill_fs_7"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 90
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 35,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 27,
+               "skillUpperExp" : 4200
+            },
+            "refId" : "skill_fs_7"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 80,
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 40,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 31,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_7"
+         }
+      }
+   },
+   "skill_fs_7_1" : {
+      "property" : {
+         "description" : "对目标周围5*5范围内的所有敌方目标造成skillDamageRate%+skillDamage的魔法伤害",
+         "iconId" : "skill_fs_7",
+         "name" : "高级炎爆术",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_7_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 22,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_7_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 60,
+               "skillDamageRate" : 80
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 22,
+               "skillUpperExp" : 2400
+            },
+            "refId" : "skill_fs_7_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 60,
+               "skillDamageRate" : 90
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 35,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 27,
+               "skillUpperExp" : 4200
+            },
+            "refId" : "skill_fs_7_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 60,
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 40,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 31,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_7_1"
+         }
+      }
+   },
+   "skill_fs_8" : {
+      "property" : {
+         "description" : "以目标为中心，施放3*3范围的十字形火墙，对范围内的敌方目标造成每秒skillDamageRate%+skillDamage的魔法伤害。火墙最多持续25秒",
+         "iconId" : "skill_fs_8",
+         "name" : "灼热火墙",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 3,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_8_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 24,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_8",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 10,
+               "skillDamageRate" : 30
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 170,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 24,
+               "skillUpperExp" : 2800
+            },
+            "refId" : "skill_fs_8"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 20,
+               "skillDamageRate" : 35
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 200,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 29,
+               "skillUpperExp" : 4800
+            },
+            "refId" : "skill_fs_8"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 40
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 225,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 33,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_8"
+         }
+      }
+   },
+   "skill_fs_8_1" : {
+      "property" : {
+         "description" : "以目标为中心，施放5*5范围的十字形火墙，对范围内的敌方目标造成每秒skillDamageRate%+skillDamage的魔法伤害。火墙最多持续25秒",
+         "iconId" : "skill_fs_8",
+         "name" : "怒焰火墙",
+         "professionId" : 2,
+         "skillActionAni" : 1,
+         "skillAimType" : 3,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_8_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 24,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_8_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 10,
+               "skillDamageRate" : 40
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 170,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 24,
+               "skillUpperExp" : 2800
+            },
+            "refId" : "skill_fs_8_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 20,
+               "skillDamageRate" : 45
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 200,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 29,
+               "skillUpperExp" : 4800
+            },
+            "refId" : "skill_fs_8_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 50
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 225,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 33,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_8_1"
+         }
+      }
+   },
+   "skill_fs_9" : {
+      "property" : {
+         "description" : "向前方6格施放一个雷电光束,对范围内所有目标造成skillDamageRate%+skillDamage的魔法伤害",
+         "iconId" : "skill_fs_9",
+         "name" : "疾光冲击",
+         "professionId" : 2,
+         "skillActionAni" : 2,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_9_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 26,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_9",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 10,
+               "skillDamageRate" : 100
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 26,
+               "skillUpperExp" : 2800
+            },
+            "refId" : "skill_fs_9"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 20,
+               "skillDamageRate" : 110
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 35,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 29,
+               "skillUpperExp" : 4200
+            },
+            "refId" : "skill_fs_9"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 120
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 40,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 32,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_9"
+         }
+      }
+   },
+   "skill_fs_9_1" : {
+      "property" : {
+         "description" : "召唤连锁疾光,攻击多个目标，对每个目标造成skillDamageRate%+skillDamage的魔法伤害，最多可攻击5个目标",
+         "iconId" : "skill_fs_9",
+         "name" : "连锁疾光",
+         "professionId" : 2,
+         "skillActionAni" : 2,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 2,
+         "skillCasterAni" : 7,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_2_9_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 26,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_fs_9_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 10,
+               "skillDamageRate" : 70
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 30,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 26,
+               "skillUpperExp" : 2800
+            },
+            "refId" : "skill_fs_9_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 20,
+               "skillDamageRate" : 80
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 35,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 29,
+               "skillUpperExp" : 4200
+            },
+            "refId" : "skill_fs_9_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRate" : 90
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 40,
+               "skillCDTime" : 1200,
+               "skillLearnLevel" : 32,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_fs_9_1"
+         }
+      }
+   },
+   "skill_zs_1" : {
+      "property" : {
+         "description" : "永久提高战士hit点准确",
+         "iconId" : "skill_zs_1",
+         "name" : "基础剑术",
+         "professionId" : 1,
+         "skillActionAni" : 0,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_1_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 7,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 1,
+         "skillType" : 0
+      },
+      "refId" : "skill_zs_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "hit" : 3
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 0,
+               "skillLearnLevel" : 7,
+               "skillUpperExp" : 100
+            },
+            "refId" : "skill_zs_1"
+         },
+         "2" : {
+            "effectData" : {
+               "hit" : 6
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 0,
+               "skillLearnLevel" : 11,
+               "skillUpperExp" : 600
+            },
+            "refId" : "skill_zs_1"
+         },
+         "3" : {
+            "effectData" : {
+               "hit" : 9
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 0,
+               "skillCDTime" : 0,
+               "skillLearnLevel" : 16,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_1"
+         }
+      }
+   },
+   "skill_zs_2" : {
+      "property" : {
+         "description" : "攻击时,有skillDamageChance%概率造成skillDamageRate%+skillDamage的物理伤害",
+         "iconId" : "skill_zs_2",
+         "name" : "致命一击",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_2_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 19,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 1
+      },
+      "refId" : "skill_zs_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageChance" : 20,
+               "skillDamageRate" : 120
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 19,
+               "skillUpperExp" : 2000
+            },
+            "refId" : "skill_zs_2"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 40,
+               "skillDamageChance" : 25,
+               "skillDamageRate" : 125
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 22,
+               "skillUpperExp" : 3600
+            },
+            "refId" : "skill_zs_2"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 50,
+               "skillDamageChance" : 30,
+               "skillDamageRate" : 130
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 24,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_2"
+         }
+      }
+   },
+   "skill_zs_3" : {
+      "property" : {
+         "description" : "对身前1格造成100%的物理伤害,第2格造成skillDamageRate%的物理伤害，无视防御",
+         "iconId" : "skill_zs_3",
+         "name" : "穿刺剑法",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_3_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 25,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 2,
+         "skillTargetType" : 2,
+         "skillType" : 3
+      },
+      "refId" : "skill_zs_3",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 25,
+               "skillUpperExp" : 2400
+            },
+            "refId" : "skill_zs_3"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 80
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 27,
+               "skillUpperExp" : 4200
+            },
+            "refId" : "skill_zs_3"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 29,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_3"
+         }
+      }
+   },
+   "skill_zs_3_1" : {
+      "property" : {
+         "description" : "对身前1格造成100%的物理伤害,第2格造成skillDamageRate%的物理伤害,并使目标每秒受到30%的物理伤害，持续5秒，",
+         "iconId" : "skill_zs_3",
+         "name" : "流血刺杀",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_3_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 25,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 2,
+         "skillTargetType" : 2,
+         "skillType" : 3
+      },
+      "refId" : "skill_zs_3_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 25,
+               "skillUpperExp" : 2400
+            },
+            "refId" : "skill_zs_3_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 80
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 27,
+               "skillUpperExp" : 4200
+            },
+            "refId" : "skill_zs_3_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 29,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_3_1"
+         }
+      }
+   },
+   "skill_zs_3_2" : {
+      "property" : {
+         "description" : "对身前1格造成100%的物理伤害，第2格造成skillDamageRate%的物理伤害，并使目标移速降低30%，持续2秒",
+         "iconId" : "skill_zs_3",
+         "name" : "减速刺杀",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_3_2_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 25,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 2,
+         "skillTargetType" : 2,
+         "skillType" : 3
+      },
+      "refId" : "skill_zs_3_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 25,
+               "skillUpperExp" : 2400
+            },
+            "refId" : "skill_zs_3_2"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 80
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 27,
+               "skillUpperExp" : 4200
+            },
+            "refId" : "skill_zs_3_2"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 29,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_3_2"
+         }
+      }
+   },
+   "skill_zs_3_3" : {
+      "property" : {
+         "description" : "对身前1格造成100%的物理伤害,第2格造成skillDamageRate%的物理伤害,并使自身暴击几率提高15%",
+         "iconId" : "skill_zs_3",
+         "name" : "暴击刺杀",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_3_3_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 25,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 2,
+         "skillTargetType" : 2,
+         "skillType" : 3
+      },
+      "refId" : "skill_zs_3_3",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 60
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 25,
+               "skillUpperExp" : 2400
+            },
+            "refId" : "skill_zs_3_3"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 80
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 27,
+               "skillUpperExp" : 4200
+            },
+            "refId" : "skill_zs_3_3"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 29,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_3_3"
+         }
+      }
+   },
+   "skill_zs_4" : {
+      "property" : {
+         "description" : "对身前一格造成100%的物理伤害,并对周围4格造成skillDamageRate%的物理伤害",
+         "iconId" : "skill_zs_4",
+         "name" : "半月斩",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 6,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_4_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 28,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 3
+      },
+      "refId" : "skill_zs_4",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 50
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 28,
+               "skillUpperExp" : 2800
+            },
+            "refId" : "skill_zs_4"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 75
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 31,
+               "skillUpperExp" : 4800
+            },
+            "refId" : "skill_zs_4"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 34,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_4"
+         }
+      }
+   },
+   "skill_zs_4_1" : {
+      "property" : {
+         "description" : "对身前一格造成100%的物理伤害,并对周围目标造成skillDamageRate%的物理伤害",
+         "iconId" : "skill_zs_4",
+         "name" : "圆月斩",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 6,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_4_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 28,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 3
+      },
+      "refId" : "skill_zs_4_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 50
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 28,
+               "skillUpperExp" : 2800
+            },
+            "refId" : "skill_zs_4_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 75
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 31,
+               "skillUpperExp" : 4800
+            },
+            "refId" : "skill_zs_4_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 34,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_4_1"
+         }
+      }
+   },
+   "skill_zs_4_2" : {
+      "property" : {
+         "description" : "对身前一格造成100%的物理伤害,周围4格造成skillDamageRate%的物理伤害,并有30%的概率触发二次打击",
+         "iconId" : "skill_zs_4",
+         "name" : "火焰半月斩",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 6,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_4_2_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 28,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 3
+      },
+      "refId" : "skill_zs_4_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamageRate" : 50
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 28,
+               "skillUpperExp" : 2800
+            },
+            "refId" : "skill_zs_4_2"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamageRate" : 75
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 31,
+               "skillUpperExp" : 4800
+            },
+            "refId" : "skill_zs_4_2"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamageRate" : 100
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 34,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_4_2"
+         }
+      }
+   },
+   "skill_zs_5" : {
+      "property" : {
+         "description" : "向前突进moveGridForward格，推动路径上的目标，仅对低于自身等级的目标有效",
+         "iconId" : "skill_zs_5",
+         "name" : "幻影突袭",
+         "professionId" : 1,
+         "skillActionAni" : 3,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 6,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_5_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 30,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_zs_5",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "moveGridForward" : 4
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 30,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_zs_5"
+         },
+         "2" : {
+            "effectData" : {
+               "moveGridForward" : 6
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 34,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_zs_5"
+         },
+         "3" : {
+            "effectData" : {
+               "moveGridForward" : 8
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 39,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_5"
+         }
+      }
+   },
+   "skill_zs_5_1" : {
+      "property" : {
+         "description" : "向前突进moveGridForward格,使路径上的目标晕眩1秒,仅对低于自身等级的目标有效",
+         "iconId" : "skill_zs_5",
+         "name" : "眩晕冲撞",
+         "professionId" : 1,
+         "skillActionAni" : 3,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 6,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_5_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 30,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 6,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_zs_5_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "moveGridForward" : 4
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 30,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_zs_5_1"
+         },
+         "2" : {
+            "effectData" : {
+               "moveGridForward" : 6
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 34,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_zs_5_1"
+         },
+         "3" : {
+            "effectData" : {
+               "moveGridForward" : 8
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 39,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_5_1"
+         }
+      }
+   },
+   "skill_zs_5_2" : {
+      "property" : {
+         "description" : "向前突进moveGridForward格,推动路径上的目标并造成150%的物理伤害,仅对低于自身等级的目标有效",
+         "iconId" : "skill_zs_5",
+         "name" : "刺杀冲撞",
+         "professionId" : 1,
+         "skillActionAni" : 3,
+         "skillAimType" : 2,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 6,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_5_2_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 30,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : -1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_zs_5_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "moveGridForward" : 4,
+               "skillDamageRate" : 150
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 10,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 30,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_zs_5_2"
+         },
+         "2" : {
+            "effectData" : {
+               "moveGridForward" : 6,
+               "skillDamageRate" : 150
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 34,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_zs_5_2"
+         },
+         "3" : {
+            "effectData" : {
+               "moveGridForward" : 8,
+               "skillDamageRate" : 150
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 700,
+               "skillLearnLevel" : 39,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_5_2"
+         }
+      }
+   },
+   "skill_zs_6" : {
+      "property" : {
+         "description" : "下次攻击造成skillDamageRateMin%-skillDamageRateMax%+skillDamage的物理伤害,冷却10秒",
+         "iconId" : "skill_zs_6",
+         "name" : "龙炎剑法",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_6_closure",
+         "skillGroupId" : 0,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 35,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_zs_6",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRateMax" : 180,
+               "skillDamageRateMin" : 150
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 10000,
+               "skillLearnLevel" : 35,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_zs_6"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRateMax" : 200,
+               "skillDamageRateMin" : 160
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 10000,
+               "skillLearnLevel" : 37,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_zs_6"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRateMax" : 250,
+               "skillDamageRateMin" : 180
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 10000,
+               "skillLearnLevel" : 40,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_6"
+         }
+      }
+   },
+   "skill_zs_6_1" : {
+      "property" : {
+         "description" : "下次攻击造成skillDamageRateMin%-skillDamageRateMax%+skillDamage的物理伤害,冷却6秒",
+         "iconId" : "skill_zs_6",
+         "name" : "火龙剑舞",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_6_1_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 35,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_zs_6_1",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRateMax" : 180,
+               "skillDamageRateMin" : 150
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 6000,
+               "skillLearnLevel" : 35,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_zs_6_1"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRateMax" : 200,
+               "skillDamageRateMin" : 160
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 6000,
+               "skillLearnLevel" : 37,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_zs_6_1"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRateMax" : 250,
+               "skillDamageRateMin" : 180
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 6000,
+               "skillLearnLevel" : 40,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_6_1"
+         }
+      }
+   },
+   "skill_zs_6_2" : {
+      "property" : {
+         "description" : "下次攻击造成skillDamageRateMin%-skillDamageRateMax%+skillDamage的物理伤害,并有20%的概率使目标麻痹2秒，冷却10秒",
+         "iconId" : "skill_zs_6",
+         "name" : "惊雷剑法",
+         "professionId" : 1,
+         "skillActionAni" : 1,
+         "skillAimType" : 1,
+         "skillAni" : 0,
+         "skillAtkType" : 1,
+         "skillCasterAni" : 2,
+         "skillCritAni" : 0,
+         "skillFunction" : "player_1_6_2_closure",
+         "skillGroupId" : 1,
+         "skillHitAni" : 0,
+         "skillLearnLevel" : 35,
+         "skillLearnType" : 1,
+         "skillMaxExp" : 0,
+         "skillRange" : 1,
+         "skillTargetType" : 2,
+         "skillType" : 2
+      },
+      "refId" : "skill_zs_6_2",
+      "skillLevel" : {
+         "1" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRateMax" : 180,
+               "skillDamageRateMin" : 150
+            },
+            "level" : 1,
+            "property" : {
+               "MP" : 15,
+               "skillCDTime" : 10000,
+               "skillLearnLevel" : 35,
+               "skillUpperExp" : 3200
+            },
+            "refId" : "skill_zs_6_2"
+         },
+         "2" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRateMax" : 200,
+               "skillDamageRateMin" : 160
+            },
+            "level" : 2,
+            "property" : {
+               "MP" : 20,
+               "skillCDTime" : 10000,
+               "skillLearnLevel" : 37,
+               "skillUpperExp" : 5400
+            },
+            "refId" : "skill_zs_6_2"
+         },
+         "3" : {
+            "effectData" : {
+               "skillDamage" : 30,
+               "skillDamageRateMax" : 250,
+               "skillDamageRateMin" : 180
+            },
+            "level" : 3,
+            "property" : {
+               "MP" : 25,
+               "skillCDTime" : 10000,
+               "skillLearnLevel" : 40,
+               "skillUpperExp" : 0
+            },
+            "refId" : "skill_zs_6_2"
+         }
+      }
+   }
+}
+

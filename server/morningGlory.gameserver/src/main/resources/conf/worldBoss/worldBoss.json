@@ -1,0 +1,1195 @@
+{
+   "boss_1" : {
+      "property" : {
+         "description" : "有几率掉落40级装备与以下展示物品：",
+         "iconId" : "Ins_4",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 1,
+         "kind" : 0,
+         "monsterRefId" : "monster_20",
+         "refreshTime" : 30,
+         "sceneRefId" : "S032"
+      },
+      "refId" : "boss_1",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_1",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_10" : {
+      "property" : {
+         "description" : "有几率掉落60级龙纹套装与以下展示物品：",
+         "iconId" : "Ins_2",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 10,
+         "kind" : 0,
+         "monsterRefId" : "monster_45",
+         "refreshTime" : 60,
+         "sceneRefId" : "S068"
+      },
+      "refId" : "boss_10",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_5",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_11" : {
+      "property" : {
+         "description" : "有几率掉落70级乾坤套装与以下展示物品：",
+         "iconId" : "Ins_5",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 11,
+         "kind" : 0,
+         "monsterRefId" : "monster_53",
+         "refreshTime" : 60,
+         "sceneRefId" : "S042"
+      },
+      "refId" : "boss_11",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_6",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_12" : {
+      "property" : {
+         "description" : "有几率掉落70级乾坤套装与以下展示物品：",
+         "iconId" : "Ins_5",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 12,
+         "kind" : 0,
+         "monsterRefId" : "monster_53",
+         "refreshTime" : 60,
+         "sceneRefId" : "S068"
+      },
+      "refId" : "boss_12",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_6",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_13" : {
+      "property" : {
+         "description" : "有几率掉落70级乾坤套装与以下展示物品：",
+         "iconId" : "Ins_9",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 13,
+         "kind" : 0,
+         "monsterRefId" : "monster_34",
+         "refreshTime" : 120,
+         "sceneRefId" : "S046"
+      },
+      "refId" : "boss_13",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_gongcheng",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_silverMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_14" : {
+      "property" : {
+         "description" : "有几率掉落70级乾坤套装与以下展示物品：",
+         "iconId" : "Ins_9",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 14,
+         "kind" : 0,
+         "monsterRefId" : "monster_34",
+         "refreshTime" : 120,
+         "sceneRefId" : "S069"
+      },
+      "refId" : "boss_14",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_gongcheng",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_silverMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_15" : {
+      "property" : {
+         "description" : "有几率掉落80级九凤套装与以下展示物品：",
+         "iconId" : "Ins_7",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 15,
+         "kind" : 0,
+         "monsterRefId" : "monster_56",
+         "refreshTime" : 120,
+         "sceneRefId" : "S044"
+      },
+      "refId" : "boss_15",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_7",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_goldMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_16" : {
+      "property" : {
+         "description" : "有几率掉落80级九凤套装与以下展示物品：",
+         "iconId" : "Ins_7",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 16,
+         "kind" : 0,
+         "monsterRefId" : "monster_56",
+         "refreshTime" : 120,
+         "sceneRefId" : "S069"
+      },
+      "refId" : "boss_16",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_7",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_goldMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_17" : {
+      "property" : {
+         "description" : "有几率掉落40级装备与以下展示物品：",
+         "iconId" : "Ins_4",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 17,
+         "kind" : 0,
+         "monsterRefId" : "monster_6020",
+         "refreshTime" : 120,
+         "sceneRefId" : "S049"
+      },
+      "refId" : "boss_17",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_1",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_18" : {
+      "property" : {
+         "description" : "有几率掉落40级装备与以下展示物品：",
+         "iconId" : "Ins_4",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 18,
+         "kind" : 0,
+         "monsterRefId" : "monster_7020",
+         "refreshTime" : 120,
+         "sceneRefId" : "S050"
+      },
+      "refId" : "boss_18",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_1",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_19" : {
+      "property" : {
+         "description" : "有几率掉落50级惊世套装与以下展示物品：",
+         "iconId" : "Ins_8",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 19,
+         "kind" : 0,
+         "monsterRefId" : "monster_6024",
+         "refreshTime" : 120,
+         "sceneRefId" : "S051"
+      },
+      "refId" : "boss_19",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_3",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_2" : {
+      "property" : {
+         "description" : "有几率掉落40级装备与以下展示物品：",
+         "iconId" : "Ins_4",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 2,
+         "kind" : 0,
+         "monsterRefId" : "monster_20",
+         "refreshTime" : 30,
+         "sceneRefId" : "S067"
+      },
+      "refId" : "boss_2",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_1",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_20" : {
+      "property" : {
+         "description" : "有几率掉落50级惊世套装与以下展示物品：",
+         "iconId" : "Ins_8",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 20,
+         "kind" : 0,
+         "monsterRefId" : "monster_7024",
+         "refreshTime" : 120,
+         "sceneRefId" : "S052"
+      },
+      "refId" : "boss_20",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_3",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_21" : {
+      "property" : {
+         "description" : "有几率掉落50级惊世套装与以下展示物品：",
+         "iconId" : "Ins_1",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 21,
+         "kind" : 0,
+         "monsterRefId" : "monster_6030",
+         "refreshTime" : 120,
+         "sceneRefId" : "S053"
+      },
+      "refId" : "boss_21",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_gonghuiling",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_22" : {
+      "property" : {
+         "description" : "有几率掉落50级惊世套装与以下展示物品：",
+         "iconId" : "Ins_1",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 22,
+         "kind" : 0,
+         "monsterRefId" : "monster_7030",
+         "refreshTime" : 120,
+         "sceneRefId" : "S054"
+      },
+      "refId" : "boss_22",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_gonghuiling",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_23" : {
+      "property" : {
+         "description" : "有几率掉落60级龙纹套装与以下展示物品：",
+         "iconId" : "Ins_3",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 23,
+         "kind" : 0,
+         "monsterRefId" : "monster_6041",
+         "refreshTime" : 120,
+         "sceneRefId" : "S055"
+      },
+      "refId" : "boss_23",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_4",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_24" : {
+      "property" : {
+         "description" : "有几率掉落60级龙纹套装与以下展示物品：",
+         "iconId" : "Ins_3",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 24,
+         "kind" : 0,
+         "monsterRefId" : "monster_7041",
+         "refreshTime" : 120,
+         "sceneRefId" : "S056"
+      },
+      "refId" : "boss_24",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_4",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_25" : {
+      "property" : {
+         "description" : "有几率掉落60级龙纹套装与以下展示物品：",
+         "iconId" : "Ins_2",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 25,
+         "kind" : 0,
+         "monsterRefId" : "monster_6045",
+         "refreshTime" : 120,
+         "sceneRefId" : "S057"
+      },
+      "refId" : "boss_25",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_5",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_26" : {
+      "property" : {
+         "description" : "有几率掉落60级龙纹套装与以下展示物品：",
+         "iconId" : "Ins_2",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 26,
+         "kind" : 0,
+         "monsterRefId" : "monster_7045",
+         "refreshTime" : 120,
+         "sceneRefId" : "S058"
+      },
+      "refId" : "boss_26",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_5",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_27" : {
+      "property" : {
+         "description" : "有几率掉落70级乾坤套装与以下展示物品：",
+         "iconId" : "Ins_5",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 27,
+         "kind" : 0,
+         "monsterRefId" : "monster_6053",
+         "refreshTime" : 120,
+         "sceneRefId" : "S059"
+      },
+      "refId" : "boss_27",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_6",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_28" : {
+      "property" : {
+         "description" : "有几率掉落70级乾坤套装与以下展示物品：",
+         "iconId" : "Ins_5",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 28,
+         "kind" : 0,
+         "monsterRefId" : "monster_7053",
+         "refreshTime" : 120,
+         "sceneRefId" : "S060"
+      },
+      "refId" : "boss_28",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_6",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_29" : {
+      "property" : {
+         "description" : "有几率掉落70级乾坤套装与以下展示物品：",
+         "iconId" : "Ins_9",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 29,
+         "kind" : 0,
+         "monsterRefId" : "monster_6034",
+         "refreshTime" : 120,
+         "sceneRefId" : "S063"
+      },
+      "refId" : "boss_29",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_gongcheng",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_silverMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_3" : {
+      "property" : {
+         "description" : "有几率掉落50级惊世套装与以下展示物品：",
+         "iconId" : "Ins_8",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 3,
+         "kind" : 0,
+         "monsterRefId" : "monster_24",
+         "refreshTime" : 30,
+         "sceneRefId" : "S034"
+      },
+      "refId" : "boss_3",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_3",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_30" : {
+      "property" : {
+         "description" : "有几率掉落70级乾坤套装与以下展示物品：",
+         "iconId" : "Ins_9",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 30,
+         "kind" : 0,
+         "monsterRefId" : "monster_7034",
+         "refreshTime" : 120,
+         "sceneRefId" : "S064"
+      },
+      "refId" : "boss_30",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_gongcheng",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_silverMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_31" : {
+      "property" : {
+         "description" : "有几率掉落80级九凤套装与以下展示物品：",
+         "iconId" : "Ins_7",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 31,
+         "kind" : 0,
+         "monsterRefId" : "monster_6056",
+         "refreshTime" : 120,
+         "sceneRefId" : "S061"
+      },
+      "refId" : "boss_31",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_7",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_goldMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_32" : {
+      "property" : {
+         "description" : "有几率掉落80级九凤套装与以下展示物品：",
+         "iconId" : "Ins_7",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 32,
+         "kind" : 0,
+         "monsterRefId" : "monster_7056",
+         "refreshTime" : 120,
+         "sceneRefId" : "S062"
+      },
+      "refId" : "boss_32",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_shenqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_7",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_goldMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_33" : {
+      "property" : {
+         "description" : "必掉大量的高级兑换券：",
+         "iconId" : "Ins_4",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 33,
+         "kind" : 1,
+         "monsterRefId" : "monster_9020",
+         "refreshTime" : 0,
+         "sceneRefId" : "S219"
+      },
+      "refId" : "boss_33",
+      "showItems" : [
+         {
+            "itemRefId" : "item_coupon_2",
+            "number" : "10"
+         }
+      ]
+   },
+   "boss_34" : {
+      "property" : {
+         "description" : "必掉大量的高级兑换券：",
+         "iconId" : "Ins_2",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 34,
+         "kind" : 1,
+         "monsterRefId" : "monster_9061",
+         "refreshTime" : 0,
+         "sceneRefId" : "S219"
+      },
+      "refId" : "boss_34",
+      "showItems" : [
+         {
+            "itemRefId" : "item_coupon_2",
+            "number" : "20"
+         }
+      ]
+   },
+   "boss_4" : {
+      "property" : {
+         "description" : "有几率掉落50级惊世套装与以下展示物品：",
+         "iconId" : "Ins_8",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 4,
+         "kind" : 0,
+         "monsterRefId" : "monster_24",
+         "refreshTime" : 30,
+         "sceneRefId" : "S067"
+      },
+      "refId" : "boss_4",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_3",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_5" : {
+      "property" : {
+         "description" : "有几率掉落50级惊世套装与以下展示物品：",
+         "iconId" : "Ins_1",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 5,
+         "kind" : 0,
+         "monsterRefId" : "monster_30",
+         "refreshTime" : 30,
+         "sceneRefId" : "S036"
+      },
+      "refId" : "boss_5",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_gonghuiling",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_6" : {
+      "property" : {
+         "description" : "有几率掉落50级惊世套装与以下展示物品：",
+         "iconId" : "Ins_1",
+         "isScrollNotice" : 0,
+         "isTwinkle" : 1,
+         "itemSortId" : 6,
+         "kind" : 0,
+         "monsterRefId" : "monster_30",
+         "refreshTime" : 30,
+         "sceneRefId" : "S067"
+      },
+      "refId" : "boss_6",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_gonghuiling",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_ironMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_7" : {
+      "property" : {
+         "description" : "有几率掉落60级龙纹套装与以下展示物品：",
+         "iconId" : "Ins_3",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 7,
+         "kind" : 0,
+         "monsterRefId" : "monster_41",
+         "refreshTime" : 60,
+         "sceneRefId" : "S038"
+      },
+      "refId" : "boss_7",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_4",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_8" : {
+      "property" : {
+         "description" : "有几率掉落60级龙纹套装与以下展示物品：",
+         "iconId" : "Ins_3",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 8,
+         "kind" : 0,
+         "monsterRefId" : "monster_41",
+         "refreshTime" : 60,
+         "sceneRefId" : "S067"
+      },
+      "refId" : "boss_8",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_4",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   },
+   "boss_9" : {
+      "property" : {
+         "description" : "有几率掉落60级龙纹套装与以下展示物品：",
+         "iconId" : "Ins_2",
+         "isScrollNotice" : 1,
+         "isTwinkle" : 1,
+         "itemSortId" : 9,
+         "kind" : 0,
+         "monsterRefId" : "monster_45",
+         "refreshTime" : 60,
+         "sceneRefId" : "S040"
+      },
+      "refId" : "boss_9",
+      "showItems" : [
+         {
+            "itemRefId" : "item_qianghuashi",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_zuoqiExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_chibangExp",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_suipian_5",
+            "number" : "1"
+         },
+         {
+            "itemRefId" : "item_copperMedal",
+            "number" : "1"
+         }
+      ]
+   }
+}
+

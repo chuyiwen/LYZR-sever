@@ -1,0 +1,10 @@
+{
+   "highestEquipment" : {
+      "maxRate" : 10,
+      "minRate" : 0,
+      "probability" : "20,70,10",
+      "randomCount" : "0,1,2",
+      "refId" : "highestEquipment"
+   }
+}
+

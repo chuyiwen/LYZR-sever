@@ -1,0 +1,130 @@
+{
+   "Ins_3" : {
+      "configData" : {
+         "game_instance" : {
+            "configData" : {
+               "Ins_3" : {
+                  "description" : "击败全部怪物可完成副本，点击挂机按钮事半功倍，点击出口按钮即可离开副本。",
+                  "gameInstanceData" : {
+                     "openDetailsData" : "00:00:00|86400",
+                     "structureDetails" : [ "I103" ]
+                  },
+                  "name" : "地底虫巢",
+                  "property" : {
+                     "isTeam" : 0,
+                     "level" : 40,
+                     "name" : "地底虫巢",
+                     "questRefId" : "",
+                     "timesADay" : 2,
+                     "timesAWeek" : 0
+                  },
+                  "refId" : "Ins_3"
+               }
+            },
+            "name" : "Ins_3 任务总表",
+            "refId" : "game_instance"
+         },
+         "game_instance_quest" : {
+            "configData" : {
+               "quest_1" : {
+                  "description" : "击败10个{mouster_8035}。",
+                  "name" : "消除虫祸",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 10,
+                           "monsterRefId" : "monster_8035",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 75000
+                        }
+                     }
+                  },
+                  "refId" : "quest_1"
+               },
+               "quest_2" : {
+                  "description" : "击败{monster_8039}。",
+                  "name" : "深入清洁",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 11,
+                           "monsterRefId" : "monster_8039",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 75000
+                        }
+                     }
+                  },
+                  "refId" : "quest_2"
+               },
+               "quest_3" : {
+                  "description" : "击败{monster_8041}。",
+                  "name" : "虫王之死",
+                  "property" : {
+                     "questType" : 1,
+                     "rewardImmediately" : 0
+                  },
+                  "questData" : {
+                     "orderField" : [
+                        {
+                           "killCount" : 1,
+                           "monsterRefId" : "monster_8041",
+                           "orderType" : 1
+                        }
+                     ],
+                     "rewardField" : {
+                        "propertyReward" : {
+                           "exp" : 450000
+                        }
+                     }
+                  },
+                  "refId" : "quest_3"
+               }
+            },
+            "name" : "副本任务表",
+            "refId" : "game_instance_quest"
+         },
+         "game_instance_scene" : {
+            "configData" : {
+               "I103" : {
+                  "description" : "本层无通关条件，随便打，打得越多，经验越多",
+                  "gameInstanceSceneData" : {
+                     "conditionField" : [ "quest_1", "quest_2", "quest_3" ],
+                     "consumptionItems" : null,
+                     "succeedConditionData" : "monster_8041=1&monster_8035=10&monster_8039=11"
+                  },
+                  "mapId" : 103,
+                  "property" : {
+                     "sceneRefId" : "S103",
+                     "succeedType" : 1
+                  },
+                  "refId" : "I103"
+               }
+            },
+            "name" : "副本层总表",
+            "refId" : "game_instance_scene"
+         }
+      },
+      "instanceType" : 1,
+      "introduce" : "55级副本，摧毁虫穴，奖励丰厚更有聚宝盆碎片",
+      "name" : "净化虫巢",
+      "refId" : "Ins_3",
+      "suggestlevel" : 55
+   }
+}
+

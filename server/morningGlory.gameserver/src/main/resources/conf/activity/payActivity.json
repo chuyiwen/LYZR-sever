@@ -1,0 +1,92 @@
+{
+   "payActivity_1" : {
+      "property" : {
+         "signCount" : 1000
+      },
+      "refId" : "payActivity_1",
+      "signData" : {
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "itemCount" : 1,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 1000,
+               "gold" : 1000
+            }
+         }
+      }
+   },
+   "payActivity_2" : {
+      "property" : {
+         "signCount" : 2000
+      },
+      "refId" : "payActivity_2",
+      "signData" : {
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "itemCount" : 3,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "gold" : 10000
+            }
+         }
+      }
+   },
+   "payActivity_3" : {
+      "property" : {
+         "signCount" : 3000
+      },
+      "refId" : "payActivity_3",
+      "signData" : {
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "itemCount" : 6,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "gold" : 20000
+            }
+         }
+      }
+   },
+   "payActivity_4" : {
+      "property" : {
+         "signCount" : 4000
+      },
+      "refId" : "payActivity_4",
+      "signData" : {
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "itemCount" : 9,
+                     "itemRefId" : "item_qianghuashi"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "gold" : 30000
+            }
+         }
+      }
+   }
+}
+

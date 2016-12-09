@@ -1,0 +1,107 @@
+{
+   "talisman_quest_1" : {
+      "property" : {
+         "description" : "将翅膀提升到3级，可获得法宝疾风护符碎片*10，开启法宝系统。",
+         "name" : "疾风护符任务",
+         "questType" : 4
+      },
+      "questData" : {
+         "conditionField" : {
+            "wing" : {
+               "wingLevel" : 1
+            }
+         },
+         "npcField" : {
+            "acceptNpc" : {
+               "talkContent" : "法宝是这个世界上最为神秘的东西，如果你能将翅膀提升到3级，我就传授你法宝秘术。"
+            },
+            "submitNpc" : {
+               "talkContent" : "恭喜您获得疾风护符碎片*10，可获取法宝疾风护符，法宝系统开启！"
+            },
+            "target" : {
+               "talkContent" : "提升翅膀到3级"
+            }
+         },
+         "orderField" : {
+            "wing" : {
+               "wingLevel" : 3
+            }
+         },
+         "rewardField" : {
+            "itemCount" : 10,
+            "itemRefId" : "item_suipian_2"
+         }
+      },
+      "refId" : "talisman_quest_1"
+   },
+   "talisman_quest_2" : {
+      "property" : {
+         "description" : "将坐骑提升到6阶，可获得狂风护符碎片*5。",
+         "name" : "狂风护符任务",
+         "questType" : 4
+      },
+      "questData" : {
+         "conditionField" : {
+            "mount" : {
+               "stageLevel" : 4,
+               "startLevel" : 0
+            }
+         },
+         "npcField" : {
+            "acceptNpc" : {
+               "talkContent" : "坐骑升到6阶可获得狂风护符碎片*5！"
+            },
+            "submitNpc" : {
+               "talkContent" : "恭喜您成功将坐骑升到6阶，获得狂风护符碎片*5，快去看看吧！"
+            },
+            "target" : {
+               "talkContent" : "提升坐骑到6阶"
+            }
+         },
+         "orderField" : {
+            "mount" : {
+               "stageLevel" : 6,
+               "startLevel" : 0
+            }
+         },
+         "rewardField" : {
+            "itemCount" : 5,
+            "itemRefId" : "item_suipian_1"
+         }
+      },
+      "refId" : "talisman_quest_2"
+   },
+   "wing_quest_1" : {
+      "property" : {
+         "description" : "将爵位提升到3级，可开启翅膀系统。",
+         "name" : "翅膀任务",
+         "questType" : 4
+      },
+      "questData" : {
+         "conditionField" : {
+            "peerage" : {
+               "knight" : 1
+            }
+         },
+         "npcField" : {
+            "acceptNpc" : {
+               "talkContent" : "恭喜您获得爵位，提升爵位至3级可激活翅膀！"
+            },
+            "submitNpc" : {
+               "talkContent" : "恭喜你成功将爵位升到3级，翅膀系统开启，快去看看吧！"
+            },
+            "target" : {
+               "talkContent" : "提升爵位到3级"
+            }
+         },
+         "orderField" : {
+            "peerage" : {
+               "knight" : 3
+            }
+         },
+         "rewardField" : null
+      },
+      "refId" : "wing_quest_1"
+   }
+}
+

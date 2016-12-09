@@ -1,0 +1,1947 @@
+{
+   "achieve_1" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败1只怪物",
+         "achieveType" : 1,
+         "completeCondition" : 1,
+         "name" : "击败一只怪物",
+         "nextAchieve" : "achieve_70",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_1"
+   },
+   "achieve_100" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得10阶坐骑",
+         "achieveType" : 4,
+         "completeCondition" : 7,
+         "name" : "获得10阶坐骑",
+         "nextAchieve" : "",
+         "targetID" : "ride_37",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_100"
+   },
+   "achieve_101" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "升级2级翅膀",
+         "achieveType" : 4,
+         "completeCondition" : 9,
+         "name" : "升级2级翅膀",
+         "nextAchieve" : "achieve_102",
+         "targetID" : "wing_2_0",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_101"
+   },
+   "achieve_102" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "升级3级翅膀",
+         "achieveType" : 4,
+         "completeCondition" : 9,
+         "name" : "升级3级翅膀",
+         "nextAchieve" : "achieve_103",
+         "targetID" : "wing_3_0",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_102"
+   },
+   "achieve_103" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "升级4级翅膀",
+         "achieveType" : 4,
+         "completeCondition" : 9,
+         "name" : "升级4级翅膀",
+         "nextAchieve" : "achieve_104",
+         "targetID" : "wing_4_0",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_103"
+   },
+   "achieve_104" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "升级5级翅膀",
+         "achieveType" : 4,
+         "completeCondition" : 9,
+         "name" : "升级5级翅膀",
+         "nextAchieve" : "achieve_105",
+         "targetID" : "wing_5_0",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_104"
+   },
+   "achieve_105" : {
+      "achieveReward" : {
+         "achievement" : 600,
+         "bindedGold" : 40,
+         "gold" : 20000
+      },
+      "property" : {
+         "achieveDescribe" : "升级6级翅膀",
+         "achieveType" : 4,
+         "completeCondition" : 9,
+         "name" : "升级6级翅膀",
+         "nextAchieve" : "achieve_106",
+         "targetID" : "wing_6_0",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_105"
+   },
+   "achieve_106" : {
+      "achieveReward" : {
+         "achievement" : 800,
+         "bindedGold" : 50,
+         "gold" : 25000
+      },
+      "property" : {
+         "achieveDescribe" : "升级7级翅膀",
+         "achieveType" : 4,
+         "completeCondition" : 9,
+         "name" : "升级7级翅膀",
+         "nextAchieve" : "achieve_107",
+         "targetID" : "wing_7_0",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_106"
+   },
+   "achieve_107" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "升级8级翅膀",
+         "achieveType" : 4,
+         "completeCondition" : 9,
+         "name" : "升级8级翅膀",
+         "nextAchieve" : "achieve_108",
+         "targetID" : "wing_8_0",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_107"
+   },
+   "achieve_108" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "升级9级翅膀",
+         "achieveType" : 4,
+         "completeCondition" : 9,
+         "name" : "升级9级翅膀",
+         "nextAchieve" : "achieve_109",
+         "targetID" : "wing_9_0",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_108"
+   },
+   "achieve_109" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "升级10级翅膀",
+         "achieveType" : 4,
+         "completeCondition" : 9,
+         "name" : "升级10级翅膀",
+         "nextAchieve" : "",
+         "targetID" : "wing_10_0",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_109"
+   },
+   "achieve_11" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "第一次获得勋章",
+         "achieveType" : 1,
+         "completeCondition" : 11,
+         "name" : "获得勋章",
+         "nextAchieve" : "achieve_129",
+         "targetID" : "equip_10_9000",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_11"
+   },
+   "achieve_110" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "获得爵位2阶",
+         "achieveType" : 5,
+         "completeCondition" : 4,
+         "name" : "获得爵位2阶",
+         "nextAchieve" : "achieve_111",
+         "targetID" : "knight_2",
+         "targetNum" : 1,
+         "typeName" : "爵位提升"
+      },
+      "refId" : "achieve_110"
+   },
+   "achieve_111" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "获得爵位3阶",
+         "achieveType" : 5,
+         "completeCondition" : 4,
+         "name" : "获得爵位3阶",
+         "nextAchieve" : "achieve_112",
+         "targetID" : "knight_3",
+         "targetNum" : 1,
+         "typeName" : "爵位提升"
+      },
+      "refId" : "achieve_111"
+   },
+   "achieve_112" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "获得爵位4阶",
+         "achieveType" : 5,
+         "completeCondition" : 4,
+         "name" : "获得爵位4阶",
+         "nextAchieve" : "achieve_113",
+         "targetID" : "knight_4",
+         "targetNum" : 1,
+         "typeName" : "爵位提升"
+      },
+      "refId" : "achieve_112"
+   },
+   "achieve_113" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "获得爵位5阶",
+         "achieveType" : 5,
+         "completeCondition" : 4,
+         "name" : "获得爵位5阶",
+         "nextAchieve" : "achieve_114",
+         "targetID" : "knight_5",
+         "targetNum" : 1,
+         "typeName" : "爵位提升"
+      },
+      "refId" : "achieve_113"
+   },
+   "achieve_114" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "获得爵位6阶",
+         "achieveType" : 5,
+         "completeCondition" : 4,
+         "name" : "获得爵位6阶",
+         "nextAchieve" : "achieve_115",
+         "targetID" : "knight_6",
+         "targetNum" : 1,
+         "typeName" : "爵位提升"
+      },
+      "refId" : "achieve_114"
+   },
+   "achieve_115" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "获得爵位7阶",
+         "achieveType" : 5,
+         "completeCondition" : 4,
+         "name" : "获得爵位7阶",
+         "nextAchieve" : "achieve_116",
+         "targetID" : "knight_7",
+         "targetNum" : 1,
+         "typeName" : "爵位提升"
+      },
+      "refId" : "achieve_115"
+   },
+   "achieve_116" : {
+      "achieveReward" : {
+         "achievement" : 600,
+         "bindedGold" : 40,
+         "gold" : 20000
+      },
+      "property" : {
+         "achieveDescribe" : "获得爵位8阶",
+         "achieveType" : 5,
+         "completeCondition" : 4,
+         "name" : "获得爵位8阶",
+         "nextAchieve" : "achieve_117",
+         "targetID" : "knight_8",
+         "targetNum" : 1,
+         "typeName" : "爵位提升"
+      },
+      "refId" : "achieve_116"
+   },
+   "achieve_117" : {
+      "achieveReward" : {
+         "achievement" : 800,
+         "bindedGold" : 50,
+         "gold" : 25000
+      },
+      "property" : {
+         "achieveDescribe" : "获得爵位9阶",
+         "achieveType" : 5,
+         "completeCondition" : 4,
+         "name" : "获得爵位9阶",
+         "nextAchieve" : "achieve_118",
+         "targetID" : "knight_9",
+         "targetNum" : 1,
+         "typeName" : "爵位提升"
+      },
+      "refId" : "achieve_117"
+   },
+   "achieve_118" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得爵位10阶",
+         "achieveType" : 5,
+         "completeCondition" : 4,
+         "name" : "获得爵位10阶",
+         "nextAchieve" : "",
+         "targetID" : "knight_10",
+         "targetNum" : 1,
+         "typeName" : "爵位提升"
+      },
+      "refId" : "achieve_118"
+   },
+   "achieve_129" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "获得2级勋章",
+         "achieveType" : 6,
+         "completeCondition" : 11,
+         "name" : "获得2级勋章",
+         "nextAchieve" : "achieve_130",
+         "targetID" : "equip_20_9000",
+         "targetNum" : 0,
+         "typeName" : "获得勋章"
+      },
+      "refId" : "achieve_129"
+   },
+   "achieve_130" : {
+      "achieveReward" : {
+         "achievement" : 600,
+         "bindedGold" : 40,
+         "gold" : 20000
+      },
+      "property" : {
+         "achieveDescribe" : "获得3级勋章",
+         "achieveType" : 6,
+         "completeCondition" : 11,
+         "name" : "获得3级勋章",
+         "nextAchieve" : "achieve_131",
+         "targetID" : "equip_30_9000",
+         "targetNum" : 0,
+         "typeName" : "获得勋章"
+      },
+      "refId" : "achieve_130"
+   },
+   "achieve_131" : {
+      "achieveReward" : {
+         "achievement" : 800,
+         "bindedGold" : 50,
+         "gold" : 25000
+      },
+      "property" : {
+         "achieveDescribe" : "获得4级勋章",
+         "achieveType" : 6,
+         "completeCondition" : 11,
+         "name" : "获得4级勋章",
+         "nextAchieve" : "achieve_132",
+         "targetID" : "equip_40_9000",
+         "targetNum" : 0,
+         "typeName" : "获得勋章"
+      },
+      "refId" : "achieve_131"
+   },
+   "achieve_132" : {
+      "achieveReward" : {
+         "achievement" : 800,
+         "bindedGold" : 50,
+         "gold" : 25000
+      },
+      "property" : {
+         "achieveDescribe" : "获得5级勋章",
+         "achieveType" : 6,
+         "completeCondition" : 11,
+         "name" : "获得5级勋章",
+         "nextAchieve" : "achieve_133",
+         "targetID" : "equip_50_9000",
+         "targetNum" : 0,
+         "typeName" : "获得勋章"
+      },
+      "refId" : "achieve_132"
+   },
+   "achieve_133" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得6级勋章",
+         "achieveType" : 6,
+         "completeCondition" : 11,
+         "name" : "获得6级勋章",
+         "nextAchieve" : "achieve_134",
+         "targetID" : "equip_60_9000",
+         "targetNum" : 0,
+         "typeName" : "获得勋章"
+      },
+      "refId" : "achieve_133"
+   },
+   "achieve_134" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得7级勋章",
+         "achieveType" : 6,
+         "completeCondition" : 11,
+         "name" : "获得7级勋章",
+         "nextAchieve" : "achieve_135",
+         "targetID" : "equip_70_9000",
+         "targetNum" : 0,
+         "typeName" : "获得勋章"
+      },
+      "refId" : "achieve_134"
+   },
+   "achieve_135" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得8级勋章",
+         "achieveType" : 6,
+         "completeCondition" : 11,
+         "name" : "获得8级勋章",
+         "nextAchieve" : "achieve_136",
+         "targetID" : "equip_80_9000",
+         "targetNum" : 0,
+         "typeName" : "获得勋章"
+      },
+      "refId" : "achieve_135"
+   },
+   "achieve_136" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得9级勋章",
+         "achieveType" : 6,
+         "completeCondition" : 11,
+         "name" : "获得9级勋章",
+         "nextAchieve" : "achieve_137",
+         "targetID" : "equip_90_9000",
+         "targetNum" : 0,
+         "typeName" : "获得勋章"
+      },
+      "refId" : "achieve_136"
+   },
+   "achieve_137" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得10级勋章",
+         "achieveType" : 6,
+         "completeCondition" : 11,
+         "name" : "获得10级勋章",
+         "nextAchieve" : "",
+         "targetID" : "equip_100_9000",
+         "targetNum" : 0,
+         "typeName" : "获得勋章"
+      },
+      "refId" : "achieve_137"
+   },
+   "achieve_138" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "参加1次王城争霸战",
+         "achieveType" : 1,
+         "completeCondition" : 13,
+         "name" : "参加王城争霸战",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_138"
+   },
+   "achieve_139" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "赢得1次王城争霸战",
+         "achieveType" : 1,
+         "completeCondition" : 14,
+         "name" : "赢得王城争霸战",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_139"
+   },
+   "achieve_140" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "连续2次赢得王城争霸战",
+         "achieveType" : 1,
+         "completeCondition" : 15,
+         "name" : "连续2次赢得王城争霸战",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 2,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_140"
+   },
+   "achieve_141" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "在王城争霸战中击败1个敌对玩家",
+         "achieveType" : 1,
+         "completeCondition" : 16,
+         "name" : "王城争霸战中击败对手",
+         "nextAchieve" : "achieve_142",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_141"
+   },
+   "achieve_142" : {
+      "achieveReward" : {
+         "achievement" : 600,
+         "bindedGold" : 40,
+         "gold" : 20000
+      },
+      "property" : {
+         "achieveDescribe" : "在王城争霸战中击败10个敌对玩家",
+         "achieveType" : 1,
+         "completeCondition" : 16,
+         "name" : "王城争霸战中击败10个对手",
+         "nextAchieve" : "achieve_143",
+         "targetID" : "0",
+         "targetNum" : 10,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_142"
+   },
+   "achieve_143" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "在王城争霸战中击败100个敌对玩家",
+         "achieveType" : 1,
+         "completeCondition" : 16,
+         "name" : "王城争霸战中击败100个对手",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 100,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_143"
+   },
+   "achieve_144" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "在王城争霸战中击败祥瑞麒麟",
+         "achieveType" : 3,
+         "completeCondition" : 17,
+         "name" : "击杀祥瑞麒麟",
+         "nextAchieve" : "",
+         "targetID" : "monster_8001",
+         "targetNum" : 1,
+         "typeName" : "击杀BOSS"
+      },
+      "refId" : "achieve_144"
+   },
+   "achieve_145" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "创建1个公会",
+         "achieveType" : 1,
+         "completeCondition" : 18,
+         "name" : "创建公会",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_145"
+   },
+   "achieve_146" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "加入1个公会",
+         "achieveType" : 1,
+         "completeCondition" : 19,
+         "name" : "加入公会",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_146"
+   },
+   "achieve_147" : {
+      "achieveReward" : {
+         "achievement" : 600,
+         "bindedGold" : 40,
+         "gold" : 20000
+      },
+      "property" : {
+         "achieveDescribe" : "所在公会成为满员公会",
+         "achieveType" : 1,
+         "completeCondition" : 20,
+         "name" : "群英汇聚",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_147"
+   },
+   "achieve_148" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "总战力提升至10000",
+         "achieveType" : 1,
+         "completeCondition" : 23,
+         "name" : "战力提升至10000",
+         "nextAchieve" : "achieve_149",
+         "targetID" : "0",
+         "targetNum" : 10000,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_148"
+   },
+   "achieve_149" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "总战力提升至20000",
+         "achieveType" : 1,
+         "completeCondition" : 23,
+         "name" : "战力提升至20000",
+         "nextAchieve" : "achieve_150",
+         "targetID" : "0",
+         "targetNum" : 20000,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_149"
+   },
+   "achieve_15" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "强化装备10次",
+         "achieveType" : 1,
+         "completeCondition" : 5,
+         "name" : "强化装备10次",
+         "nextAchieve" : "achieve_20",
+         "targetID" : "0",
+         "targetNum" : 10,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_15"
+   },
+   "achieve_150" : {
+      "achieveReward" : {
+         "achievement" : 600,
+         "bindedGold" : 40,
+         "gold" : 20000
+      },
+      "property" : {
+         "achieveDescribe" : "总战力提升至30000",
+         "achieveType" : 1,
+         "completeCondition" : 23,
+         "name" : "战力提升至30000",
+         "nextAchieve" : "achieve_151",
+         "targetID" : "0",
+         "targetNum" : 30000,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_150"
+   },
+   "achieve_151" : {
+      "achieveReward" : {
+         "achievement" : 800,
+         "bindedGold" : 50,
+         "gold" : 25000
+      },
+      "property" : {
+         "achieveDescribe" : "总战力提升至40000",
+         "achieveType" : 1,
+         "completeCondition" : 23,
+         "name" : "战力提升至40000",
+         "nextAchieve" : "achieve_152",
+         "targetID" : "0",
+         "targetNum" : 40000,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_151"
+   },
+   "achieve_152" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "总战力提升至50000",
+         "achieveType" : 1,
+         "completeCondition" : 23,
+         "name" : "战力提升至50000",
+         "nextAchieve" : "achieve_153",
+         "targetID" : "0",
+         "targetNum" : 50000,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_152"
+   },
+   "achieve_153" : {
+      "achieveReward" : {
+         "achievement" : 1200,
+         "bindedGold" : 70,
+         "gold" : 35000
+      },
+      "property" : {
+         "achieveDescribe" : "总战力提升至60000",
+         "achieveType" : 1,
+         "completeCondition" : 23,
+         "name" : "战力提升至60000",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 60000,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_153"
+   },
+   "achieve_154" : {
+      "achieveReward" : {
+         "achievement" : 600,
+         "bindedGold" : 40,
+         "gold" : 20000
+      },
+      "property" : {
+         "achieveDescribe" : "全身装备强化至+6以上",
+         "achieveType" : 1,
+         "completeCondition" : 25,
+         "name" : "全身装备强化+6",
+         "nextAchieve" : "achieve_155",
+         "targetID" : "0",
+         "targetNum" : 6,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_154"
+   },
+   "achieve_155" : {
+      "achieveReward" : {
+         "achievement" : 800,
+         "bindedGold" : 50,
+         "gold" : 25000
+      },
+      "property" : {
+         "achieveDescribe" : "全身装备强化至+8以上",
+         "achieveType" : 1,
+         "completeCondition" : 25,
+         "name" : "全身装备强化+8",
+         "nextAchieve" : "achieve_156",
+         "targetID" : "0",
+         "targetNum" : 8,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_155"
+   },
+   "achieve_156" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "全身装备强化至+10以上",
+         "achieveType" : 1,
+         "completeCondition" : 25,
+         "name" : "全身装备强化+10",
+         "nextAchieve" : "achieve_157",
+         "targetID" : "0",
+         "targetNum" : 10,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_156"
+   },
+   "achieve_157" : {
+      "achieveReward" : {
+         "achievement" : 3000,
+         "bindedGold" : 500,
+         "gold" : 100000
+      },
+      "property" : {
+         "achieveDescribe" : "全身装备强化至+12",
+         "achieveType" : 1,
+         "completeCondition" : 25,
+         "name" : "全身装备强化+12",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 12,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_157"
+   },
+   "achieve_158" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "心法等级提升至10级",
+         "achieveType" : 1,
+         "completeCondition" : 26,
+         "name" : "心法等级达到10级",
+         "nextAchieve" : "achieve_159",
+         "targetID" : "0",
+         "targetNum" : 10,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_158"
+   },
+   "achieve_159" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "心法等级提升至20级",
+         "achieveType" : 1,
+         "completeCondition" : 26,
+         "name" : "心法等级达到20级",
+         "nextAchieve" : "achieve_160",
+         "targetID" : "0",
+         "targetNum" : 20,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_159"
+   },
+   "achieve_160" : {
+      "achieveReward" : {
+         "achievement" : 600,
+         "bindedGold" : 40,
+         "gold" : 20000
+      },
+      "property" : {
+         "achieveDescribe" : "心法等级提升至30级",
+         "achieveType" : 1,
+         "completeCondition" : 26,
+         "name" : "心法等级达到30级",
+         "nextAchieve" : "achieve_161",
+         "targetID" : "0",
+         "targetNum" : 30,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_160"
+   },
+   "achieve_161" : {
+      "achieveReward" : {
+         "achievement" : 800,
+         "bindedGold" : 50,
+         "gold" : 25000
+      },
+      "property" : {
+         "achieveDescribe" : "心法等级提升至40级",
+         "achieveType" : 1,
+         "completeCondition" : 26,
+         "name" : "心法等级达到40级",
+         "nextAchieve" : "achieve_162",
+         "targetID" : "0",
+         "targetNum" : 40,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_161"
+   },
+   "achieve_162" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "心法等级提升至50级",
+         "achieveType" : 1,
+         "completeCondition" : 26,
+         "name" : "心法等级达到50级",
+         "nextAchieve" : "achieve_163",
+         "targetID" : "0",
+         "targetNum" : 50,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_162"
+   },
+   "achieve_163" : {
+      "achieveReward" : {
+         "achievement" : 1200,
+         "bindedGold" : 70,
+         "gold" : 35000
+      },
+      "property" : {
+         "achieveDescribe" : "心法等级提升至60级",
+         "achieveType" : 1,
+         "completeCondition" : 26,
+         "name" : "心法等级达到60级",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 60,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_163"
+   },
+   "achieve_164" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "获得1个法宝",
+         "achieveType" : 1,
+         "completeCondition" : 27,
+         "name" : "获得1个法宝",
+         "nextAchieve" : "achieve_165",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_164"
+   },
+   "achieve_165" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "获得3个法宝",
+         "achieveType" : 1,
+         "completeCondition" : 27,
+         "name" : "获得3个法宝",
+         "nextAchieve" : "achieve_166",
+         "targetID" : "0",
+         "targetNum" : 3,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_165"
+   },
+   "achieve_166" : {
+      "achieveReward" : {
+         "achievement" : 800,
+         "bindedGold" : 50,
+         "gold" : 25000
+      },
+      "property" : {
+         "achieveDescribe" : "获得5个法宝",
+         "achieveType" : 1,
+         "completeCondition" : 27,
+         "name" : "获得5个法宝",
+         "nextAchieve" : "achieve_167",
+         "targetID" : "0",
+         "targetNum" : 5,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_166"
+   },
+   "achieve_167" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得10个法宝",
+         "achieveType" : 1,
+         "completeCondition" : 27,
+         "name" : "获得10个法宝",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 10,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_167"
+   },
+   "achieve_2" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "收集一个道具",
+         "achieveType" : 1,
+         "completeCondition" : 2,
+         "name" : "收集道具",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_2"
+   },
+   "achieve_20" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "强化装备50次",
+         "achieveType" : 1,
+         "completeCondition" : 5,
+         "name" : "强化装备50次",
+         "nextAchieve" : "achieve_25",
+         "targetID" : "0",
+         "targetNum" : 50,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_20"
+   },
+   "achieve_25" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "强化装备100次",
+         "achieveType" : 1,
+         "completeCondition" : 5,
+         "name" : "强化装备100次",
+         "nextAchieve" : "achieve_30",
+         "targetID" : "0",
+         "targetNum" : 100,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_25"
+   },
+   "achieve_3" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "第一次完成组队",
+         "achieveType" : 1,
+         "completeCondition" : 3,
+         "name" : "完成组队",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_3"
+   },
+   "achieve_30" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "强化装备200次",
+         "achieveType" : 1,
+         "completeCondition" : 5,
+         "name" : "强化装备200次",
+         "nextAchieve" : "achieve_35",
+         "targetID" : "0",
+         "targetNum" : 200,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_30"
+   },
+   "achieve_35" : {
+      "achieveReward" : {
+         "achievement" : 800,
+         "bindedGold" : 50,
+         "gold" : 25000
+      },
+      "property" : {
+         "achieveDescribe" : "强化装备500次",
+         "achieveType" : 1,
+         "completeCondition" : 5,
+         "name" : "强化装备500次",
+         "nextAchieve" : "achieve_40",
+         "targetID" : "0",
+         "targetNum" : 500,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_35"
+   },
+   "achieve_4" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "第一次获得爵位",
+         "achieveType" : 1,
+         "completeCondition" : 4,
+         "name" : "获得爵位",
+         "nextAchieve" : "achieve_110",
+         "targetID" : "knight_1",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_4"
+   },
+   "achieve_40" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "强化装备1500次",
+         "achieveType" : 1,
+         "completeCondition" : 5,
+         "name" : "强化装备1500次",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 1500,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_40"
+   },
+   "achieve_44" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "洗练装备10次",
+         "achieveType" : 1,
+         "completeCondition" : 6,
+         "name" : "洗练装备10次",
+         "nextAchieve" : "achieve_49",
+         "targetID" : "0",
+         "targetNum" : 10,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_44"
+   },
+   "achieve_49" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "洗练装备50次",
+         "achieveType" : 1,
+         "completeCondition" : 6,
+         "name" : "洗练装备50次",
+         "nextAchieve" : "achieve_54",
+         "targetID" : "0",
+         "targetNum" : 50,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_49"
+   },
+   "achieve_5" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "第一次强化装备",
+         "achieveType" : 1,
+         "completeCondition" : 5,
+         "name" : "强化装备",
+         "nextAchieve" : "achieve_15",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_5"
+   },
+   "achieve_54" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "洗练装备100次",
+         "achieveType" : 1,
+         "completeCondition" : 6,
+         "name" : "洗练装备100次",
+         "nextAchieve" : "achieve_59",
+         "targetID" : "0",
+         "targetNum" : 100,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_54"
+   },
+   "achieve_59" : {
+      "achieveReward" : {
+         "achievement" : 600,
+         "bindedGold" : 40,
+         "gold" : 20000
+      },
+      "property" : {
+         "achieveDescribe" : "洗练装备200次",
+         "achieveType" : 1,
+         "completeCondition" : 6,
+         "name" : "洗练装备200次",
+         "nextAchieve" : "achieve_64",
+         "targetID" : "0",
+         "targetNum" : 200,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_59"
+   },
+   "achieve_6" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "第一次洗练装备",
+         "achieveType" : 1,
+         "completeCondition" : 6,
+         "name" : "洗练装备",
+         "nextAchieve" : "achieve_44",
+         "targetID" : "0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_6"
+   },
+   "achieve_64" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "洗练装备500次",
+         "achieveType" : 1,
+         "completeCondition" : 6,
+         "name" : "洗练装备500次",
+         "nextAchieve" : "achieve_69",
+         "targetID" : "0",
+         "targetNum" : 500,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_64"
+   },
+   "achieve_69" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "洗练装备1000次",
+         "achieveType" : 1,
+         "completeCondition" : 6,
+         "name" : "洗练装备1000次",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 1000,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_69"
+   },
+   "achieve_7" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "获得1阶坐骑",
+         "achieveType" : 1,
+         "completeCondition" : 7,
+         "name" : "获得1阶坐骑",
+         "nextAchieve" : "achieve_92",
+         "targetID" : "ride_1",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_7"
+   },
+   "achieve_70" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败100只怪物",
+         "achieveType" : 2,
+         "completeCondition" : 1,
+         "name" : "击败100只怪物",
+         "nextAchieve" : "achieve_71",
+         "targetID" : "0",
+         "targetNum" : 100,
+         "typeName" : "降妖除魔"
+      },
+      "refId" : "achieve_70"
+   },
+   "achieve_71" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败500只怪物",
+         "achieveType" : 2,
+         "completeCondition" : 1,
+         "name" : "击败500只怪物",
+         "nextAchieve" : "achieve_72",
+         "targetID" : "0",
+         "targetNum" : 500,
+         "typeName" : "降妖除魔"
+      },
+      "refId" : "achieve_71"
+   },
+   "achieve_72" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败2000只怪物",
+         "achieveType" : 2,
+         "completeCondition" : 1,
+         "name" : "击败2000只怪物",
+         "nextAchieve" : "achieve_73",
+         "targetID" : "0",
+         "targetNum" : 2000,
+         "typeName" : "降妖除魔"
+      },
+      "refId" : "achieve_72"
+   },
+   "achieve_73" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败5000只怪物",
+         "achieveType" : 2,
+         "completeCondition" : 1,
+         "name" : "击败5000只怪物",
+         "nextAchieve" : "achieve_74",
+         "targetID" : "0",
+         "targetNum" : 5000,
+         "typeName" : "降妖除魔"
+      },
+      "refId" : "achieve_73"
+   },
+   "achieve_74" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "击败10000只怪物",
+         "achieveType" : 2,
+         "completeCondition" : 1,
+         "name" : "击败10000只怪物",
+         "nextAchieve" : "achieve_75",
+         "targetID" : "0",
+         "targetNum" : 10000,
+         "typeName" : "降妖除魔"
+      },
+      "refId" : "achieve_74"
+   },
+   "achieve_75" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "击败50000只怪物",
+         "achieveType" : 2,
+         "completeCondition" : 1,
+         "name" : "击败50000只怪物",
+         "nextAchieve" : "achieve_76",
+         "targetID" : "0",
+         "targetNum" : 50000,
+         "typeName" : "降妖除魔"
+      },
+      "refId" : "achieve_75"
+   },
+   "achieve_76" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "击败100000只怪物",
+         "achieveType" : 2,
+         "completeCondition" : 1,
+         "name" : "击败100000只怪物",
+         "nextAchieve" : "",
+         "targetID" : "0",
+         "targetNum" : 100000,
+         "typeName" : "降妖除魔"
+      },
+      "refId" : "achieve_76"
+   },
+   "achieve_79" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败半兽人统领",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败半兽人统领",
+         "nextAchieve" : "",
+         "targetID" : "monster_69",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_79"
+   },
+   "achieve_8" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败变异巨蝎守卫",
+         "achieveType" : 1,
+         "completeCondition" : 8,
+         "name" : "击败变异巨蝎守卫",
+         "nextAchieve" : "",
+         "targetID" : "monster_55",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_8"
+   },
+   "achieve_80" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败骷髅王",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败骷髅王",
+         "nextAchieve" : "",
+         "targetID" : "monster_20",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_80"
+   },
+   "achieve_81" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败腐朽尸王",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败腐朽尸王",
+         "nextAchieve" : "",
+         "targetID" : "monster_24",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_81"
+   },
+   "achieve_82" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败暗黑教主",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败暗黑教主",
+         "nextAchieve" : "",
+         "targetID" : "monster_30",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_82"
+   },
+   "achieve_83" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败祖拉领主",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败祖拉领主",
+         "nextAchieve" : "",
+         "targetID" : "monster_34",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_83"
+   },
+   "achieve_84" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败八臂地龙",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败八臂地龙",
+         "nextAchieve" : "",
+         "targetID" : "monster_41",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_84"
+   },
+   "achieve_85" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败灰鬃猪王",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败灰鬃猪王",
+         "nextAchieve" : "",
+         "targetID" : "monster_45",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_85"
+   },
+   "achieve_86" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败恶魔之心",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败恶魔之心",
+         "nextAchieve" : "",
+         "targetID" : "monster_53",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_86"
+   },
+   "achieve_87" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败镇殿战神",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败镇殿战神",
+         "nextAchieve" : "",
+         "targetID" : "monster_56",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_87"
+   },
+   "achieve_88" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败牛魔王",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败牛魔王",
+         "nextAchieve" : "",
+         "targetID" : "monster_61",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_88"
+   },
+   "achieve_89" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败骷髅战神",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败骷髅战神",
+         "nextAchieve" : "",
+         "targetID" : "monster_68",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_89"
+   },
+   "achieve_9" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "第一次获得翅膀",
+         "achieveType" : 1,
+         "completeCondition" : 9,
+         "name" : "获得翅膀",
+         "nextAchieve" : "achieve_101",
+         "targetID" : "wing_1_0",
+         "targetNum" : 1,
+         "typeName" : "初入江湖"
+      },
+      "refId" : "achieve_9"
+   },
+   "achieve_90" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败尸王傀儡",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败尸王傀儡",
+         "nextAchieve" : "",
+         "targetID" : "monster_70",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_90"
+   },
+   "achieve_91" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "击败虚弱的暗黑教主",
+         "achieveType" : 3,
+         "completeCondition" : 8,
+         "name" : "击败虚弱的暗黑教主",
+         "nextAchieve" : "",
+         "targetID" : "monster_71",
+         "targetNum" : 1,
+         "typeName" : "击败boss"
+      },
+      "refId" : "achieve_91"
+   },
+   "achieve_92" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "获得2阶坐骑",
+         "achieveType" : 4,
+         "completeCondition" : 7,
+         "name" : "获得2阶坐骑",
+         "nextAchieve" : "achieve_93",
+         "targetID" : "ride_5",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_92"
+   },
+   "achieve_93" : {
+      "achieveReward" : {
+         "achievement" : 200,
+         "bindedGold" : 20,
+         "gold" : 10000
+      },
+      "property" : {
+         "achieveDescribe" : "获得3阶坐骑",
+         "achieveType" : 4,
+         "completeCondition" : 7,
+         "name" : "获得3阶坐骑",
+         "nextAchieve" : "achieve_94",
+         "targetID" : "ride_9",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_93"
+   },
+   "achieve_94" : {
+      "achieveReward" : {
+         "achievement" : 400,
+         "bindedGold" : 30,
+         "gold" : 15000
+      },
+      "property" : {
+         "achieveDescribe" : "获得4阶坐骑",
+         "achieveType" : 4,
+         "completeCondition" : 7,
+         "name" : "获得4阶坐骑",
+         "nextAchieve" : "achieve_95",
+         "targetID" : "ride_13",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_94"
+   },
+   "achieve_95" : {
+      "achieveReward" : {
+         "achievement" : 600,
+         "bindedGold" : 40,
+         "gold" : 20000
+      },
+      "property" : {
+         "achieveDescribe" : "获得5阶坐骑",
+         "achieveType" : 4,
+         "completeCondition" : 7,
+         "name" : "获得5阶坐骑",
+         "nextAchieve" : "achieve_96",
+         "targetID" : "ride_17",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_95"
+   },
+   "achieve_96" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得6阶坐骑",
+         "achieveType" : 4,
+         "completeCondition" : 7,
+         "name" : "获得6阶坐骑",
+         "nextAchieve" : "achieve_97",
+         "targetID" : "ride_21",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_96"
+   },
+   "achieve_97" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得7阶坐骑",
+         "achieveType" : 4,
+         "completeCondition" : 7,
+         "name" : "获得7阶坐骑",
+         "nextAchieve" : "achieve_98",
+         "targetID" : "ride_25",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_97"
+   },
+   "achieve_98" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得8阶坐骑",
+         "achieveType" : 4,
+         "completeCondition" : 7,
+         "name" : "获得8阶坐骑",
+         "nextAchieve" : "achieve_99",
+         "targetID" : "ride_29",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_98"
+   },
+   "achieve_99" : {
+      "achieveReward" : {
+         "achievement" : 1000,
+         "bindedGold" : 60,
+         "gold" : 30000
+      },
+      "property" : {
+         "achieveDescribe" : "获得9阶坐骑",
+         "achieveType" : 4,
+         "completeCondition" : 7,
+         "name" : "获得9阶坐骑",
+         "nextAchieve" : "achieve_100",
+         "targetID" : "ride_33",
+         "targetNum" : 0,
+         "typeName" : "升级坐骑"
+      },
+      "refId" : "achieve_99"
+   }
+}
+

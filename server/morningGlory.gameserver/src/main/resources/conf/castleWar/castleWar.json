@@ -1,0 +1,51 @@
+{
+   "castleWar" : {
+      "activityData" : {
+         "castleWar_1" : {
+            "castleData" : {
+               "applyTimeData" : {
+                  "endTime" : "6|23:59:59",
+                  "startTime" : "1|00:00:00"
+               },
+               "giftRefID" : "item_gift_king",
+               "transfer" : {
+                  "instance" : {
+                     "name" : "王城副本",
+                     "targetScene" : "S216",
+                     "tranferInId" : 316
+                  },
+                  "kickOut" : {
+                     "name" : "沙巴克",
+                     "targetScene" : "S009",
+                     "tranferInId" : 15
+                  },
+                  "warMap" : {
+                     "name" : "皇宫",
+                     "targetScene" : "S012",
+                     "tranferInId" : 42
+                  }
+               }
+            },
+            "firstIntervalDays" : 2,
+            "openAndEndTime" : "20:30:00|21:00:00",
+            "property" : {
+               "gold" : 100000,
+               "itemId" : "item_gongcheng",
+               "maxStackNumber" : 100,
+               "monsterRefId" : "monster_8001",
+               "timesADay" : 1
+            },
+            "rangeIntervalDays" : 3,
+            "refId" : "castleWar_1"
+         }
+      },
+      "refId" : "castleWar",
+      "sceneRefId" : "S012",
+      "time" : {
+         "duration" : "2014-07-01 20:30:00|2014-07-01 21:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   }
+}
+

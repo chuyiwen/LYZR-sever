@@ -1,0 +1,138 @@
+{
+   "skill_ds_1" : {
+      "property" : {
+         "buffRefId" : "buff_skill_4",
+         "priority" : 12,
+         "professionId" : 3,
+         "targetNum" : 2
+      },
+      "refId" : "skill_ds_1"
+   },
+   "skill_ds_11" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 16,
+         "professionId" : 3,
+         "targetNum" : 2
+      },
+      "refId" : "skill_ds_11"
+   },
+   "skill_ds_3" : {
+      "property" : {
+         "buffRefId" : "buff_skill_5",
+         "priority" : 13,
+         "professionId" : 3,
+         "targetNum" : 2
+      },
+      "refId" : "skill_ds_3"
+   },
+   "skill_ds_4" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 14,
+         "professionId" : 3,
+         "targetNum" : 0
+      },
+      "refId" : "skill_ds_4"
+   },
+   "skill_ds_5" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 15,
+         "professionId" : 3,
+         "targetNum" : 2
+      },
+      "refId" : "skill_ds_5"
+   },
+   "skill_fs_1" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 4,
+         "professionId" : 2,
+         "targetNum" : 0
+      },
+      "refId" : "skill_fs_1"
+   },
+   "skill_fs_10" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 8,
+         "professionId" : 2,
+         "targetNum" : 1
+      },
+      "refId" : "skill_fs_10"
+   },
+   "skill_fs_11" : {
+      "property" : {
+         "buffRefId" : "buff_skill_3",
+         "priority" : 11,
+         "professionId" : 2,
+         "targetNum" : 2
+      },
+      "refId" : "skill_fs_11"
+   },
+   "skill_fs_12" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 10,
+         "professionId" : 2,
+         "targetNum" : 1
+      },
+      "refId" : "skill_fs_12"
+   },
+   "skill_fs_4" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 5,
+         "professionId" : 2,
+         "targetNum" : 0
+      },
+      "refId" : "skill_fs_4"
+   },
+   "skill_fs_6" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 6,
+         "professionId" : 2,
+         "targetNum" : 0
+      },
+      "refId" : "skill_fs_6"
+   },
+   "skill_fs_7" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 7,
+         "professionId" : 2,
+         "targetNum" : 1
+      },
+      "refId" : "skill_fs_7"
+   },
+   "skill_zs_3" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 1,
+         "professionId" : 1,
+         "targetNum" : 2
+      },
+      "refId" : "skill_zs_3"
+   },
+   "skill_zs_4" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 2,
+         "professionId" : 1,
+         "targetNum" : 2
+      },
+      "refId" : "skill_zs_4"
+   },
+   "skill_zs_6" : {
+      "property" : {
+         "buffRefId" : "0",
+         "priority" : 3,
+         "professionId" : 1,
+         "targetNum" : 2
+      },
+      "refId" : "skill_zs_6"
+   }
+}
+

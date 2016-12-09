@@ -1,0 +1,107 @@
+{
+   "tuijian_activity_1" : {
+      "property" : {
+         "bigRNumber" : 2,
+         "commonNumber" : 1,
+         "description" : "每日签到有奖励活动",
+         "iconId" : "main_activityAssign",
+         "littleRNumber" : 2,
+         "mediumRNumber" : 2,
+         "name" : "签到",
+         "openActivityNumber" : 2
+      },
+      "refId" : "tuijian_activity_1"
+   },
+   "tuijian_activity_2" : {
+      "property" : {
+         "bigRNumber" : 5,
+         "commonNumber" : 2,
+         "description" : "只针对开服前7天的奖励活动",
+         "iconId" : "main_activitySevenLogin",
+         "littleRNumber" : 5,
+         "mediumRNumber" : 5,
+         "name" : "新服7日签到礼包",
+         "openActivityNumber" : 5
+      },
+      "refId" : "tuijian_activity_2"
+   },
+   "tuijian_activity_3" : {
+      "property" : {
+         "bigRNumber" : 4,
+         "commonNumber" : 3,
+         "description" : "每日累积的在线时长可兑换成奖励活动",
+         "iconId" : "main_activityOnlineTimer",
+         "littleRNumber" : 4,
+         "mediumRNumber" : 4,
+         "name" : "在线时长礼包",
+         "openActivityNumber" : 4
+      },
+      "refId" : "tuijian_activity_3"
+   },
+   "tuijian_activity_4" : {
+      "property" : {
+         "bigRNumber" : 1,
+         "commonNumber" : 4,
+         "description" : "刺激玩家升级的奖励活动",
+         "iconId" : "main_activityLevelUpAward",
+         "littleRNumber" : 1,
+         "mediumRNumber" : 1,
+         "name" : "等级礼包",
+         "openActivityNumber" : 1
+      },
+      "refId" : "tuijian_activity_4"
+   },
+   "tuijian_activity_5" : {
+      "property" : {
+         "bigRNumber" : 5,
+         "commonNumber" : 5,
+         "description" : "针对VIP玩家的转盘玩法活动，用于刺激玩家充值VIP",
+         "iconId" : "main_activityVIPLottery",
+         "littleRNumber" : 5,
+         "mediumRNumber" : 5,
+         "name" : "VIP抽奖",
+         "openActivityNumber" : 5
+      },
+      "refId" : "tuijian_activity_5"
+   },
+   "tuijian_activity_6" : {
+      "property" : {
+         "bigRNumber" : 6,
+         "commonNumber" : 6,
+         "description" : "当升到特定的阶数/级数时对玩家投放奖励以防止流失的活动",
+         "iconId" : "main_activityUpGradeAward",
+         "littleRNumber" : 6,
+         "mediumRNumber" : 6,
+         "name" : "坐骑、法宝、翅膀进阶奖励",
+         "openActivityNumber" : 6
+      },
+      "refId" : "tuijian_activity_6"
+   },
+   "tuijian_activity_7" : {
+      "property" : {
+         "bigRNumber" : 7,
+         "commonNumber" : 7,
+         "description" : "针对战力、等级、坐骑阶数、翅膀级数等排行榜的限时冲榜奖励活动",
+         "iconId" : "main_activityLimitTimeRank",
+         "littleRNumber" : 7,
+         "mediumRNumber" : 7,
+         "name" : "限时速冲",
+         "openActivityNumber" : 7
+      },
+      "refId" : "tuijian_activity_7"
+   },
+   "tuijian_activity_8" : {
+      "property" : {
+         "bigRNumber" : 8,
+         "commonNumber" : 8,
+         "description" : "首次充值可领取大额奖励的活动",
+         "iconId" : "main_activityFirstPay",
+         "littleRNumber" : 8,
+         "mediumRNumber" : 8,
+         "name" : "首充礼包",
+         "openActivityNumber" : 8
+      },
+      "refId" : "tuijian_activity_8"
+   }
+}
+

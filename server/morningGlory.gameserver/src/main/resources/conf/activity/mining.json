@@ -1,0 +1,18 @@
+{
+   "sa_1" : {
+      "activityData" : [
+         {
+            "limitCount" : 20,
+            "limitLevel" : 40
+         }
+      ],
+      "refId" : "sa_1",
+      "sceneRefId" : "S217",
+      "time" : {
+         "duration" : "11:00:00|11:30:00&15:30:00|16:00:00",
+         "preEndTime" : 300,
+         "preStartTime" : 600
+      }
+   }
+}
+

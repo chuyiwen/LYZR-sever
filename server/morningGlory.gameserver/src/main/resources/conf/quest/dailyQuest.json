@@ -1,0 +1,678 @@
+{
+   "quest_daily_1" : {
+      "dailyQuestSubType" : {
+         "dailyQuestSubType" : 1
+      },
+      "description" : [
+         "击败{number}只{monster}",
+         "抢{number}个{item}",
+         "去{scene}找{NPC}",
+         "采集{number}个{item}"
+      ],
+      "property" : {
+         "dailyProposeRing" : 8,
+         "dailyQuestType" : 2,
+         "name" : "怪物猎人",
+         "questType" : 2
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "acceptLevel" : 50,
+               "conditionType" : 1
+            }
+         ],
+         "lastRewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 20,
+                     "itemRefId" : "item_chibangExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 300000
+            }
+         },
+         "lastRewardFieldShow" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "itemCount" : 20,
+                     "itemRefId" : "item_chibangExp"
+                  }
+               ],
+               "relatedType" : 0
+            }
+         },
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "动乱之年，必多妖邪！眼下各地英雄都在应对地底的魔物，反倒是给了地面上的妖邪以可乘之机，所以各地急需一批狩猎好手来应对这些妖邪的侵袭，少侠若有兴趣也可前往一试。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_21",
+               "sceneRefId" : "S008",
+               "talkContent" : "少侠果然不负众望啊！不过各地妖邪颇多，短时间内难以清除，少侠往后如果还愿意帮忙，那就再好不过了！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_17",
+               "orderType" : 1,
+               "sceneRefId" : "S031"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_18",
+               "orderType" : 1,
+               "sceneRefId" : "S031"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_19",
+               "orderType" : 1,
+               "sceneRefId" : "S031"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_21",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_22",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_23",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_25",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_26",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_27",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_42",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_44",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_46",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_47",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_48",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_49",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_50",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_9",
+               "orderType" : 1,
+               "sceneRefId" : "S007"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_12",
+               "orderType" : 1,
+               "sceneRefId" : "S007"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_22",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_42",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_44",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_46",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_47",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_48",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_49",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_50",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            }
+         ],
+         "overOrderField" : [
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_17",
+               "orderType" : 1,
+               "sceneRefId" : "S031"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_18",
+               "orderType" : 1,
+               "sceneRefId" : "S031"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_19",
+               "orderType" : 1,
+               "sceneRefId" : "S031"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_21",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_22",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_23",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_25",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_26",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_27",
+               "orderType" : 1,
+               "sceneRefId" : "S035"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_42",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_44",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_46",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_47",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_48",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_49",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_50",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_9",
+               "orderType" : 1,
+               "sceneRefId" : "S007"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_12",
+               "orderType" : 1,
+               "sceneRefId" : "S007"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_22",
+               "orderType" : 1,
+               "sceneRefId" : "S033"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_42",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_44",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_46",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_47",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_48",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_49",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 200,
+               "monsterRefId" : "monster_50",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            }
+         ],
+         "overOrderRewarField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 1,
+                     "itemRefId" : "item_chibangExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 150000
+            }
+         },
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 2,
+                     "itemRefId" : "item_chibangExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 300000
+            }
+         }
+      },
+      "refId" : "quest_daily_1"
+   },
+   "quest_daily_2" : {
+      "dailyQuestSubType" : {
+         "dailyQuestSubType" : 3
+      },
+      "description" : [
+         "击败{number}只{monster}",
+         "抢{number}个{item}",
+         "去{scene}找{NPC}",
+         "采集{number}个{item}"
+      ],
+      "property" : {
+         "dailyProposeRing" : 5,
+         "dailyQuestType" : 1,
+         "name" : "古城的荣光",
+         "questType" : 2
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "acceptLevel" : 40,
+               "conditionType" : 1
+            }
+         ],
+         "lastRewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 1,
+                     "itemRefId" : "item_lingpai_1"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "exp" : 200000,
+               "merit" : 50
+            }
+         },
+         "lastRewardFieldShow" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "itemCount" : 1,
+                     "itemRefId" : "item_lingpai_1"
+                  }
+               ],
+               "relatedType" : 0
+            }
+         },
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_13",
+               "sceneRefId" : "S008",
+               "talkContent" : "想我蜃楼和天机城都是屹立千年的雄城，但是如今却颇有日薄西山，荣光不再的态势。作为新一代的少年英豪，我希望你能肩负起恢复这一份责任，用自己的英勇去捍卫两座古城的光荣。"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_13",
+               "sceneRefId" : "S008",
+               "talkContent" : "想要恢复古城的荣光，任重而道远，如果你有心要肩负起这一份使命，就请不要懈怠，再接再厉吧！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_28",
+               "orderType" : 1,
+               "sceneRefId" : "S036"
+            },
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_2028",
+               "orderType" : 1,
+               "sceneRefId" : "S067"
+            },
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_29",
+               "orderType" : 1,
+               "sceneRefId" : "S036"
+            },
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_2029",
+               "orderType" : 1,
+               "sceneRefId" : "S067"
+            },
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_40",
+               "orderType" : 1,
+               "sceneRefId" : "S037"
+            },
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_2040",
+               "orderType" : 1,
+               "sceneRefId" : "S067"
+            },
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_43",
+               "orderType" : 1,
+               "sceneRefId" : "S039"
+            },
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_52",
+               "orderType" : 1,
+               "sceneRefId" : "S041"
+            },
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_55",
+               "orderType" : 1,
+               "sceneRefId" : "S043"
+            },
+            {
+               "killCount" : 1,
+               "monsterRefId" : "monster_33",
+               "orderType" : 1,
+               "sceneRefId" : "S045"
+            }
+         ],
+         "rewardField" : {
+            "propertyReward" : {
+               "exp" : 200000,
+               "merit" : 50
+            }
+         }
+      },
+      "refId" : "quest_daily_2"
+   },
+   "quest_daily_3" : {
+      "dailyQuestSubType" : {
+         "dailyQuestSubType" : 2
+      },
+      "description" : [
+         "击败{number}只{monster}",
+         "抢{number}个{item}",
+         "去{scene}找{NPC}",
+         "采集{number}个{item}"
+      ],
+      "property" : {
+         "dailyProposeRing" : 5,
+         "dailyQuestType" : 1,
+         "name" : "以战养战",
+         "questType" : 2
+      },
+      "questData" : {
+         "conditionField" : [
+            {
+               "acceptLevel" : 45,
+               "conditionType" : 1
+            }
+         ],
+         "lastRewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 1,
+                     "itemRefId" : "item_suipian_2"
+                  },
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 20,
+                     "itemRefId" : "item_zuoqiExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "gold" : 500000
+            }
+         },
+         "lastRewardFieldShow" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "itemCount" : 1,
+                     "itemRefId" : "item_suipian_2"
+                  },
+                  {
+                     "itemCount" : 20,
+                     "itemRefId" : "item_zuoqiExp"
+                  }
+               ],
+               "relatedType" : 0
+            }
+         },
+         "npcField" : {
+            "acceptNpc" : {
+               "npcRefId" : "npc_22",
+               "sceneRefId" : "S008",
+               "talkContent" : "战乱当前，资源是很紧缺的，而很多资源可以从怪物身上获得，将获得的资源上交，可是可以换取丰厚的报酬的，快去试试吧！"
+            },
+            "submitNpc" : {
+               "npcRefId" : "npc_22",
+               "sceneRefId" : "S008",
+               "talkContent" : "驱逐怪物、获取资源、换取报酬，真可谓一件三雕，这种好事可千万不能错过哦！"
+            }
+         },
+         "orderField" : [
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_7",
+               "orderType" : 1,
+               "sceneRefId" : "S002"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_8",
+               "orderType" : 1,
+               "sceneRefId" : "S002"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_9",
+               "orderType" : 1,
+               "sceneRefId" : "S007"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_10",
+               "orderType" : 1,
+               "sceneRefId" : "S007"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_12",
+               "orderType" : 1,
+               "sceneRefId" : "S007"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_13",
+               "orderType" : 1,
+               "sceneRefId" : "S008"
+            },
+            {
+               "killCount" : 30,
+               "monsterRefId" : "monster_11",
+               "orderType" : 1,
+               "sceneRefId" : "S003"
+            }
+         ],
+         "rewardField" : {
+            "itemReward" : {
+               "itemList" : [
+                  {
+                     "bindStatus" : 1,
+                     "itemCount" : 2,
+                     "itemRefId" : "item_zuoqiExp"
+                  }
+               ],
+               "relatedType" : 0
+            },
+            "propertyReward" : {
+               "gold" : 500000
+            }
+         }
+      },
+      "refId" : "quest_daily_3"
+   }
+}
+

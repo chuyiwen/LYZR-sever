@@ -1,0 +1,1059 @@
+{
+   "teamBoss_111" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S053"
+               },
+               {
+                  "targetScene" : "S054"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S035",
+                  "tranferInId" : 26
+               },
+               "transferOut" : {
+                  "targetScene" : "S036",
+                  "tranferOutId" : 69
+               }
+            },
+            "type" : 1
+         }
+      ],
+      "refId" : "teamBoss_111",
+      "sceneRefId" : "S035",
+      "time" : {
+         "duration" : "13:00:00|14:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_112" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S053"
+               },
+               {
+                  "targetScene" : "S054"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S036",
+                  "tranferInId" : 28
+               },
+               "transferOut" : {
+                  "targetScene" : "S036",
+                  "tranferOutId" : 69
+               }
+            },
+            "type" : 1
+         }
+      ],
+      "refId" : "teamBoss_112",
+      "sceneRefId" : "S036",
+      "time" : {
+         "duration" : "13:00:00|14:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_113" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_6030",
+            "contentScene" : [
+               {
+                  "targetScene" : "S053"
+               },
+               {
+                  "targetScene" : "S054"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S053",
+                  "tranferInId" : 70
+               },
+               "transferOut" : {
+                  "targetScene" : "S036",
+                  "tranferOutId" : 69
+               }
+            },
+            "type" : 1
+         }
+      ],
+      "refId" : "teamBoss_113",
+      "sceneRefId" : "S053",
+      "time" : {
+         "duration" : "13:00:00|14:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_114" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_7030",
+            "contentScene" : [
+               {
+                  "targetScene" : "S053"
+               },
+               {
+                  "targetScene" : "S054"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S054",
+                  "tranferInId" : 72
+               },
+               "transferOut" : {
+                  "targetScene" : "S036",
+                  "tranferOutId" : 69
+               }
+            },
+            "type" : 1
+         }
+      ],
+      "refId" : "teamBoss_114",
+      "sceneRefId" : "S054",
+      "time" : {
+         "duration" : "13:00:00|14:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_121" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S063"
+               },
+               {
+                  "targetScene" : "S064"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S045",
+                  "tranferInId" : 44
+               },
+               "transferOut" : {
+                  "targetScene" : "S046",
+                  "tranferOutId" : 89
+               }
+            },
+            "type" : 1
+         }
+      ],
+      "refId" : "teamBoss_121",
+      "sceneRefId" : "S045",
+      "time" : {
+         "duration" : "13:00:00|14:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_122" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S063"
+               },
+               {
+                  "targetScene" : "S064"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S046",
+                  "tranferInId" : 46
+               },
+               "transferOut" : {
+                  "targetScene" : "S046",
+                  "tranferOutId" : 89
+               }
+            },
+            "type" : 1
+         }
+      ],
+      "refId" : "teamBoss_122",
+      "sceneRefId" : "S046",
+      "time" : {
+         "duration" : "13:00:00|14:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_123" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_6034",
+            "contentScene" : [
+               {
+                  "targetScene" : "S063"
+               },
+               {
+                  "targetScene" : "S064"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S063",
+                  "tranferInId" : 90
+               },
+               "transferOut" : {
+                  "targetScene" : "S046",
+                  "tranferOutId" : 89
+               }
+            },
+            "type" : 1
+         }
+      ],
+      "refId" : "teamBoss_123",
+      "sceneRefId" : "S063",
+      "time" : {
+         "duration" : "13:00:00|14:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_124" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_7034",
+            "contentScene" : [
+               {
+                  "targetScene" : "S063"
+               },
+               {
+                  "targetScene" : "S064"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S064",
+                  "tranferInId" : 92
+               },
+               "transferOut" : {
+                  "targetScene" : "S046",
+                  "tranferOutId" : 89
+               }
+            },
+            "type" : 1
+         }
+      ],
+      "refId" : "teamBoss_124",
+      "sceneRefId" : "S064",
+      "time" : {
+         "duration" : "13:00:00|14:30:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_211" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S049"
+               },
+               {
+                  "targetScene" : "S050"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S031",
+                  "tranferInId" : 18
+               },
+               "transferOut" : {
+                  "targetScene" : "S032",
+                  "tranferOutId" : 61
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_211",
+      "sceneRefId" : "S031",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_212" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S049"
+               },
+               {
+                  "targetScene" : "S050"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S032",
+                  "tranferInId" : 20
+               },
+               "transferOut" : {
+                  "targetScene" : "S032",
+                  "tranferOutId" : 61
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_212",
+      "sceneRefId" : "S032",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_213" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_6020",
+            "contentScene" : [
+               {
+                  "targetScene" : "S049"
+               },
+               {
+                  "targetScene" : "S050"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S049",
+                  "tranferInId" : 62
+               },
+               "transferOut" : {
+                  "targetScene" : "S032",
+                  "tranferOutId" : 61
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_213",
+      "sceneRefId" : "S049",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_214" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_7020",
+            "contentScene" : [
+               {
+                  "targetScene" : "S049"
+               },
+               {
+                  "targetScene" : "S050"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S050",
+                  "tranferInId" : 64
+               },
+               "transferOut" : {
+                  "targetScene" : "S032",
+                  "tranferOutId" : 61
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_214",
+      "sceneRefId" : "S050",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_221" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S059"
+               },
+               {
+                  "targetScene" : "S060"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S041",
+                  "tranferInId" : 38
+               },
+               "transferOut" : {
+                  "targetScene" : "S042",
+                  "tranferOutId" : 81
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_221",
+      "sceneRefId" : "S041",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_222" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S059"
+               },
+               {
+                  "targetScene" : "S060"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S042",
+                  "tranferInId" : 40
+               },
+               "transferOut" : {
+                  "targetScene" : "S042",
+                  "tranferOutId" : 81
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_222",
+      "sceneRefId" : "S042",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_223" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_6053",
+            "contentScene" : [
+               {
+                  "targetScene" : "S059"
+               },
+               {
+                  "targetScene" : "S060"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S059",
+                  "tranferInId" : 82
+               },
+               "transferOut" : {
+                  "targetScene" : "S042",
+                  "tranferOutId" : 81
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_223",
+      "sceneRefId" : "S059",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_224" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_7053",
+            "contentScene" : [
+               {
+                  "targetScene" : "S059"
+               },
+               {
+                  "targetScene" : "S060"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S060",
+                  "tranferInId" : 84
+               },
+               "transferOut" : {
+                  "targetScene" : "S042",
+                  "tranferOutId" : 81
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_224",
+      "sceneRefId" : "S060",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_231" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S057"
+               },
+               {
+                  "targetScene" : "S058"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S039",
+                  "tranferInId" : 34
+               },
+               "transferOut" : {
+                  "targetScene" : "S040",
+                  "tranferOutId" : 77
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_231",
+      "sceneRefId" : "S039",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_232" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S057"
+               },
+               {
+                  "targetScene" : "S058"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S040",
+                  "tranferInId" : 36
+               },
+               "transferOut" : {
+                  "targetScene" : "S040",
+                  "tranferOutId" : 77
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_232",
+      "sceneRefId" : "S040",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_233" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_6045",
+            "contentScene" : [
+               {
+                  "targetScene" : "S057"
+               },
+               {
+                  "targetScene" : "S058"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S057",
+                  "tranferInId" : 78
+               },
+               "transferOut" : {
+                  "targetScene" : "S040",
+                  "tranferOutId" : 77
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_233",
+      "sceneRefId" : "S057",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_234" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_7045",
+            "contentScene" : [
+               {
+                  "targetScene" : "S057"
+               },
+               {
+                  "targetScene" : "S058"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S058",
+                  "tranferInId" : 80
+               },
+               "transferOut" : {
+                  "targetScene" : "S040",
+                  "tranferOutId" : 77
+               }
+            },
+            "type" : 2
+         }
+      ],
+      "refId" : "teamBoss_234",
+      "sceneRefId" : "S058",
+      "time" : {
+         "duration" : "17:00:00|18:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_311" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S051"
+               },
+               {
+                  "targetScene" : "S052"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S033",
+                  "tranferInId" : 22
+               },
+               "transferOut" : {
+                  "targetScene" : "S034",
+                  "tranferOutId" : 65
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_311",
+      "sceneRefId" : "S033",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_312" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S051"
+               },
+               {
+                  "targetScene" : "S052"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S034",
+                  "tranferInId" : 24
+               },
+               "transferOut" : {
+                  "targetScene" : "S034",
+                  "tranferOutId" : 65
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_312",
+      "sceneRefId" : "S034",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_313" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_6024",
+            "contentScene" : [
+               {
+                  "targetScene" : "S051"
+               },
+               {
+                  "targetScene" : "S052"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S051",
+                  "tranferInId" : 66
+               },
+               "transferOut" : {
+                  "targetScene" : "S034",
+                  "tranferOutId" : 65
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_313",
+      "sceneRefId" : "S051",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_314" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_7024",
+            "contentScene" : [
+               {
+                  "targetScene" : "S051"
+               },
+               {
+                  "targetScene" : "S052"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S052",
+                  "tranferInId" : 68
+               },
+               "transferOut" : {
+                  "targetScene" : "S034",
+                  "tranferOutId" : 65
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_314",
+      "sceneRefId" : "S052",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_321" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S055"
+               },
+               {
+                  "targetScene" : "S056"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S037",
+                  "tranferInId" : 30
+               },
+               "transferOut" : {
+                  "targetScene" : "S038",
+                  "tranferOutId" : 73
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_321",
+      "sceneRefId" : "S037",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_322" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S055"
+               },
+               {
+                  "targetScene" : "S056"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S038",
+                  "tranferInId" : 32
+               },
+               "transferOut" : {
+                  "targetScene" : "S038",
+                  "tranferOutId" : 73
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_322",
+      "sceneRefId" : "S038",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_323" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_6041",
+            "contentScene" : [
+               {
+                  "targetScene" : "S055"
+               },
+               {
+                  "targetScene" : "S056"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S055",
+                  "tranferInId" : 74
+               },
+               "transferOut" : {
+                  "targetScene" : "S038",
+                  "tranferOutId" : 73
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_323",
+      "sceneRefId" : "S055",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_324" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_7041",
+            "contentScene" : [
+               {
+                  "targetScene" : "S055"
+               },
+               {
+                  "targetScene" : "S056"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S056",
+                  "tranferInId" : 76
+               },
+               "transferOut" : {
+                  "targetScene" : "S038",
+                  "tranferOutId" : 73
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_324",
+      "sceneRefId" : "S056",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_331" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S061"
+               },
+               {
+                  "targetScene" : "S062"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S043",
+                  "tranferInId" : 52
+               },
+               "transferOut" : {
+                  "targetScene" : "S044",
+                  "tranferOutId" : 85
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_331",
+      "sceneRefId" : "S043",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_332" : {
+      "activityData" : [
+         {
+            "BossRefId" : "",
+            "contentScene" : [
+               {
+                  "targetScene" : "S061"
+               },
+               {
+                  "targetScene" : "S062"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S044",
+                  "tranferInId" : 54
+               },
+               "transferOut" : {
+                  "targetScene" : "S044",
+                  "tranferOutId" : 85
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_332",
+      "sceneRefId" : "S044",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_333" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_6056",
+            "contentScene" : [
+               {
+                  "targetScene" : "S061"
+               },
+               {
+                  "targetScene" : "S062"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S061",
+                  "tranferInId" : 86
+               },
+               "transferOut" : {
+                  "targetScene" : "S044",
+                  "tranferOutId" : 85
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_333",
+      "sceneRefId" : "S061",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   },
+   "teamBoss_334" : {
+      "activityData" : [
+         {
+            "BossRefId" : "monster_7056",
+            "contentScene" : [
+               {
+                  "targetScene" : "S061"
+               },
+               {
+                  "targetScene" : "S062"
+               }
+            ],
+            "transfer" : {
+               "transferIn" : {
+                  "targetScene" : "S062",
+                  "tranferInId" : 88
+               },
+               "transferOut" : {
+                  "targetScene" : "S044",
+                  "tranferOutId" : 85
+               }
+            },
+            "type" : 3
+         }
+      ],
+      "refId" : "teamBoss_334",
+      "sceneRefId" : "S062",
+      "time" : {
+         "duration" : "19:00:00|20:00:00",
+         "preEndTime" : 0,
+         "preStartTime" : 600
+      }
+   }
+}
+
